@@ -1,0 +1,1 @@
+term="walls" && for M in $(grep -nwril . -ie "${term}");do MF=$(basename $M ".srt"); echo "==================================================== \t🎤🎤🎤🎤🎤🎤 ~/Downloads/threedom/podcast-audio/2022.12.23/mp3s/${MF}.mp3 ";cat $M|grep -C5 -i "${term}";echo "\r\n";done

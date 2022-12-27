@@ -1,0 +1,625 @@
+//classes:
+//premise - the wondering aloud if this is repetition; typically then passed over
+//retelling - pisspig forgets they've told this story already
+//questionedRetelling - pisspig wonders aloud if they're retelling but does so anyway
+//certainRetelling - pisspig knows they're retelling but does so anyway
+//pimpedRetelling - other pisspig solicits a retelling
+
+// cosby|jackson|ck|et al?
+
+[
+	{
+		"handle": "2007-boston-mooninite-panic",
+		"title": "2007 Boston Mooninite Panic",
+		"elucidation": "pft still fields requests for the release of an abandoned aqua teen hunger force episode",
+		"nb": ["https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic"],
+		"tellings": [
+			{
+				"ep": "s1e1",
+				"epHandle": "This Was a Mistake",
+				"startMinute": 9,
+				"class": "inaugural",
+				"tags": ["Aqua Teen Hunger Force"]
+			}
+		]
+	},
+	{
+		"handle": "heavyburtation",
+		"title": "Heavy Burtation",
+		"elucidation": "heavy burtation",
+		"nb": ["https://knowyourmeme.com/memes/heavy-burtation"],
+		"tellings": [
+			{
+				"ep": "s1e1",
+				"epHandle": "This Was a Mistake",
+				"startMinute": 13,
+				"class": "inaugural",
+				"tags": ["Burtation", "Serene Branson"]
+			}
+		]
+	},
+	{
+		"handle": "kissmakeup",
+		"title": "KISS Makeup",
+		"elucidation": "scott dresses as ace frehley for halloween; lauren goes as a dead prom queen",
+		"nb": ["https://en.wikipedia.org/wiki/Ace_Frehley"],
+		"tellings": [
+			{
+				"ep": "s1e1",
+				"epHandle": "This Was a Mistake",
+				"startMinute": 15,
+				"class": "inaugural",
+				"tags": ["KISS", "Ace Frehley"]
+			}
+		]
+	},
+	{
+		"handle": "thepaceofoldercontent",
+		"title": "The Pace of Alf",
+		"elucidation": "the cast discuss the pace of older content",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e1",
+				"epHandle": "This Was a Mistake",
+				"startMinute": 26,
+				"class": "inaugural",
+				"tags": ["Alf (TV)"]
+			}
+		]
+	},
+	{
+		"handle": "scottdiscoverssandwiches",
+		"title": "Scott Discovers Sandwiches",
+		"elucidation": "scott details how he learned that delis make especially good sanwiches",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e1",
+				"epHandle": "This Was a Mistake",
+				"startMinute": 33,
+				"class": "inaugural",
+				"tags": []
+			}
+		]
+	},
+	{
+		"handle": "pftproposesmarriage",
+		"title": "PFT Proposes to JHT",
+		"elucidation": "pft recounts his proposal to jht and/or the winter revisit",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e1",
+				"epHandle": "This Was a Mistake",
+				"startMinute": 44,
+				"class": "inaugural",
+				"tags": []
+			}
+		]
+	},
+	{
+		"handle": "ournames",
+		"title": "Our Names",
+		"elucidation": "the cast discuss their names (as they are or what they should be)",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e1",
+				"epHandle": "This Was a Mistake",
+				"startMinute": 47,
+				"class": "inaugural",
+				"tags": []
+			}
+		]
+	},
+	{
+		"handle": "scottsarmylunches",
+		"title": "Scott's Tenure in the Army",
+		"elucidation": "scott strings along an army recruiter for free lunches",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 10,
+				"class": "inaugural",
+				"tags": ["United States Army"]
+			}
+		]
+	},
+	{
+		"handle": "scottsbadatsports",
+		"title": "Scott's Sports Career",
+		"elucidation": "scott details his struggles as an athlete - chalk talk and so forth",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 15,
+				"class": "inaugural",
+				"tags": ["baseball", "gym class"]
+			}
+		]
+	},
+	{
+		"handle": "glassesinourheads_lauren",
+		"title": "Glasses in Our Heads - Lauren",
+		"elucidation": "lauren's glasses are broken into her own face",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 21,
+				"class": "inaugural",
+				"tags": ["gym class", "head injuries"]
+			}
+		]
+	},
+	{
+		"handle": "glassesinourheads_scott",
+		"title": "Glasses in Our Heads - Scott",
+		"elucidation": "scott rides a bike with his eyes closed",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 23,
+				"class": "inaugural",
+				"tags": ["gym class", "bicycles", "head injuries"]
+			}
+		]
+	},
+	{
+		"handle": "lauren-s-blind-man-s-bluff-concussion",
+		"title": "Lauren's Blind Man's Bluff Concussion",
+		"elucidation": "lauren recalls her first concussion",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 31,
+				"class": "inaugural",
+				"tags": [
+					"Blind Man's Bluff",
+					"nannies",
+					"Fran Drescher",
+					"head injuries"
+				]
+			}
+		]
+	},
+	{
+		"handle": "lauren-s-ladybugs-concussion",
+		"title": "Lauren's Ladybugs Concussion",
+		"elucidation": "lauren recalls her second concussion (in the bathroom of a ladybugs screening)",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 31,
+				"class": "inaugural",
+				"tags": ["Ladybugs (film)", "head injuries"]
+			}
+		]
+	},
+	{
+		"handle": "lauren-s-radiator-concussion",
+		"title": "Lauren's Radiator Concussion",
+		"elucidation": "lauren recalls her third concussion (on a radiator)",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 34,
+				"class": "inaugural",
+				"tags": ["head injuries"]
+			}
+		]
+	},
+	{
+		"handle": "lauren-s-cop-friend",
+		"title": "Lauren's Cop Friend",
+		"elucidation": "lauren recalls her befriending a police officer after a 4th-of-july traffic accident",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 34,
+				"class": "inaugural",
+				"tags": [
+					"police",
+					"cars",
+					"Independence Day",
+					"4th of July",
+					"fruit salad"
+				]
+			}
+		]
+	},
+	{
+		"handle": "pft-s-sole-childhood-head-injury",
+		"title": "PFT's Sole Childhood Head Injury",
+		"elucidation": "paul recalls his only head injury - oliver!",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 36,
+				"class": "inaugural",
+				"tags": ["theatre", "Oliver! (stageplay)", "head injuries"]
+			}
+		]
+	},
+	{
+		"handle": "scott-s-downtown-l-a-head-injury",
+		"title": "Scott's Downtown L.A. Head Injury",
+		"elucidation": "scott recalls his downtown l.a. wrought-iron, rubber-band head injury",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 38,
+				"class": "inaugural",
+				"tags": ["Los Angeles", "head injuries"]
+			}
+		]
+	},
+	{
+		"handle": "scott-s-hometown-police-incident",
+		"title": "Scott's Hometown Police Incident",
+		"elucidation": "scott recalls a run-in with his hometown police force",
+		"nb": ["scott also owned a steamer trunk w/ stickers on it"],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 38,
+				"class": "inaugural",
+				"tags": ["police", "stickers"]
+			}
+		]
+	},
+	{
+		"handle": "scott-s-deep-dark-measles-secret",
+		"title": "Scott's Deep Dark Measles Secret",
+		"elucidation": "scott recalls the time he drew fake measles on his face but let his brother take the fall",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 49,
+				"class": "inaugural",
+				"tags": ["illness", "siblings"]
+			}
+		]
+	},
+	{
+		"handle": "pft-s-krazy-kumbersome-kabinet",
+		"title": "PFT's Krazy Kumbersome Kabinet",
+		"elucidation": "pft recalls the time his older brother's finger got clipped",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e2",
+				"epHandle": "Chalk Talk",
+				"startMinute": 55,
+				"class": "inaugural",
+				"tags": ["fingers", "injuries"]
+			}
+		]
+	},
+	{
+		"handle": "have-we-talked-about-this",
+		"title": "Have We Talked About This?",
+		"elucidation": "the cast wonders aloud if they've already covered a given topic or story",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e149",
+				"epHandle": "Little Miss Butt Blaster",
+				"startMinute": 0,
+				"class": "premise",
+				"tags": ["goose flesh"]
+			},
+			{
+				"ep": "s5e149",
+				"epHandle": "Little Miss Butt Blaster",
+				"startMinute": 2,
+				"class": "premise",
+				"tags": ["smear the queer (old-timey childhood game)"]
+			}
+		]
+	},
+	{
+		"handle": "no-baby-gonna-change-my-life",
+		"title": "No Baby Gonna Change *My* Life",
+		"elucidation": "scott recounts how stupidly wrong one friend of his was about becoming a parent",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e149",
+				"epHandle": "Little Miss Butt Blaster",
+				"startMinute": 29,
+				"class": "retelling",
+				"tags": ["parenthood"]
+			}
+		]
+	},
+	{
+		"handle": "craft-services-on-kelsey-grammer-resents-the-sketch-show",
+		"title": "Craft Services on 'Kelsey Grammer P/Resents The Sketch Show'",
+		"elucidation": "pft tells tales about craft services on that kelsey grammer show from the 90s",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e147",
+				"epHandle": "Is the Nibbler Here?",
+				"startMinute": 19,
+				"class": "questionedRetelling",
+				"tags": ["craft services", "kelsey grammer"]
+			}
+		]
+	},
+	{
+		"handle": "house-hunters-verisimilutude",
+		"title": "House Hunters Verisimilutude",
+		"elucidation": "the cast discusses the veracity of the house hunters tv show",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e147",
+				"epHandle": "Is the Nibbler Here?",
+				"startMinute": 23,
+				"class": "questionedRetelling",
+				"tags": ["house hunters (tv)"]
+			}
+		]
+	},
+	{
+		"handle": "the-food-you-ve-eaten-most",
+		"title": "The Food You've Eaten Most",
+		"elucidation": "lauren's topics presents: what is the food you've eaten most in your life?",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e147",
+				"epHandle": "Is the Nibbler Here?",
+				"startMinute": 29,
+				"class": "questionedRetelling",
+				"tags": ["the nibbler", "marie callender's"]
+			}
+		]
+	},
+	{
+		"title": "Scott Screams at Strangers on an Airplane",
+		"handle": "scott-screams-at-strangers-on-an-airplane",
+		"elucidation": "scott wakes from sleep on a flight and berates strangers",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e147",
+				"epHandle": "Is the Nibbler Here?",
+				"startMinute": 43,
+				"class": "questionedRetelling",
+				"tags": ["air travel", "dreams", "embarrassment"]
+			}
+		]
+	},
+	{
+		"title": "Proper Holiday Order",
+		"handle": "proper-holiday-order",
+		"elucidation": "the cast reorders american holidays",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e81",
+				"epHandle": "True Clomance",
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": ["holidays"]
+			},
+			{
+				"ep": "s5e146",
+				"epHandle": "I Hope Everyone's a Mummy",
+				"startMinute": 9,
+				"class": "certainRetelling",
+				"tags": ["holidays"]
+			}
+		]
+	},
+	{
+		"title": "Paul's Sister Lives in Germany",
+		"handle": "paul-s-sister-lives-in-germany",
+		"elucidation": "pft tells us with varying degrees of detail that his sister lives in germany",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e142",
+				"epHandle": "Balling My Eyes Out",
+				"startMinute": 35,
+				"class": "inaugural",
+				"tags": ["siblings"]
+			},
+			{
+				"ep": "s5e18",
+				"epHandle": "I Hope Everyone's a Mummy",
+				"startMinute": 16,
+				"class": "pimpedRetelling",
+				"tags": ["siblings"]
+			}
+		]
+	},
+	{
+		"title": "My Bra Collection?",
+		"handle": "my-bra-collection",
+		"elucidation": "the cast debate granting each other money or property",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e18",
+				"epHandle": "I Hope Everyone's a Mummy",
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["money", "wills"]
+			},
+			{
+				"ep": "s2e34",
+				"epHandle": "Old Vegas",
+				"startMinute": 20,
+				"class": "certainRetelling",
+				"tags": ["money", "wills"]
+			},
+			{
+				"ep": "s2e32",
+				"epHandle": "Do You Even Know Gyms?",
+				"startMinute": 3,
+				"class": "inaugural",
+				"tags": ["money", "wills"]
+			}
+		]
+	},
+	{
+		"title": "I Feel Like I'm Going to be in a Grave",
+		"handle": "i-feel-like-i-m-going-to-be-in-a-grave",
+		"elucidation": "the cast wonder aloud about cremation or burial or other",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e1",
+				"epHandle": "This Was a Mistake",
+				"startMinute": 35,
+				"class": "inaugural",
+				"tags": ["death", "burial", "cremation"]
+			},
+			{
+				"ep": "s2e53",
+				"epHandle": "Live from Just for Laughs: Perabo",
+				"startMinute": 40,
+				"class": "retelling",
+				"tags": ["death", "burial", "cremation"]
+			},
+			{
+				"ep": "s5e146",
+				"epHandle": "I Hope Everyone's a Mummy",
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["death", "burial", "cremation", "wills"]
+			}
+		]
+	},
+	{
+		"title": "Why is it Always the Good Ones!?",
+		"handle": "why-is-it-always-the-good-ones",
+		"elucidation": "paul recounts what happened at ye rustic inn when princess diana died",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e150",
+				"epHandle": "OH I HAD A POINT!",
+				"startMinute": 15,
+				"class": "retelling",
+				"tags": ["celebrity deaths"]
+			},
+			{
+				"ep": "s2e147",
+				"epHandle": "Baby Lock Them Doors",
+				"startMinute": 28,
+				"class": "inaugural",
+				"tags": ["celebrity deaths"]
+			}
+		]
+	},
+	{
+		"title": "They Were Made to Replace Her (Beanie Babies)",
+		"handle": "they-were-made-to-replace-her-beanie-babies",
+		"elucidation": "lauren's history with beanie babies is visited",
+		"nb": ["doesn't feel inaugural"],
+		"tellings": [
+			{
+				"ep": "s3e74",
+				"epHandle": "Dog Key Party",
+				"startMinute": 46,
+				"class": "inaugural",
+				"tags": ["beanie babies", "diana, princess of wales"]
+			},
+			{
+				"ep": "s5e150",
+				"epHandle": "OH I HAD A POINT!",
+				"startMinute": 19,
+				"class": "retelling",
+				"tags": ["beanie babies", "diana, princess of wales"]
+			}
+		]
+	},
+	{
+		"title": "Did You Have Posters on Your Walls?",
+		"handle": "did-you-have-posters-on-your-walls",
+		"elucidation": "the cast recount their bedroom decor as youths",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e144",
+				"epHandle": "Matrix is My Doo-Dah Bones",
+				"startMinute": 17,
+				"class": "pimpedRetelling",
+				"tags": ["bedrooms", "decor", "posters"]
+			}
+		]
+	},
+	{
+		"title": "There Was a Big Bug in Your House",
+		"handle": "there-was-a-big-bug-in-your-house",
+		"elucidation": "lauren had a bug in her house once",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e139",
+				"epHandle": "Good Couch, Bad Couch",
+				"startMinute": 37,
+				"class": "inaugural",
+				"tags": ["rats", "bugs"]
+			}
+		]
+	},
+	{
+		"title": "You Wore Sharkies!",
+		"handle": "you-wore-sharkies",
+		"elucidation": "scott's sharkies",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e62",
+				"epHandle": "Slap Machines",
+				"startMinute": 11,
+				"class": "premise",
+				"tags": ["shoes"]
+			}
+		]
+	},
+	{
+		"title": "Instant Skill",
+		"handle": "instant-skill",
+		"elucidation": "the cast debate what skills they wish they had but do not",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e144",
+				"epHandle": "Matrix is My Doo-Dah Bones",
+				"startMinute": 41,
+				"class": "certainRetelling",
+				"tags": ["skills"]
+			}
+		]
+	}
+]
