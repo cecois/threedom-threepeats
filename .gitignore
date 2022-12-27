@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+config.json
+.DS_Store
+vosk-model-en-us-0.42-gigaspeech
