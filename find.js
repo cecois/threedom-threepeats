@@ -43,10 +43,16 @@ const transcriptSets = transcripts
 	// .map((fn) => fn.split(".")[0])
 	.map((fn) => fn.replace(/\.[^/.]+$/, ""))
 	.map((T) => {
+		let ep = authority.find(
+			(ep) => ep.itTitle.replace(new RegExp(" ", "ig"), "_") == T
+		);
 		return {
 			transcript: `${dirs.transcripts}${T}.srt`,
 			wav: `${T}.wav`,
 			mp3: `${dirs.mp3s}${T}.mp3`,
+			episodeString: ep
+				? `s${parseInt(ep.itSeason)}e${ep.itEpisode}`
+				: `...ep not found for ${T}`,
 		};
 	});
 
@@ -93,6 +99,7 @@ matchSets
 			console.log(
 				`${m.timestamp} - ${COLORETTE.yellow(m.match.toUpperCase())}`
 			);
+			console.log(COLORETTE.white(ms.episodeString));
 			console.log(
 				`\t\t\t\t${COLORETTE.gray(m.contexts.post.join("; "))}`
 			);
