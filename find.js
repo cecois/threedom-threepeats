@@ -56,7 +56,7 @@ const transcriptSets = transcripts
 		};
 	});
 
-const matchSets = transcriptSets.map((TO) => {
+const matchSets = __.sortBy(transcriptSets, "episodeString").map((TO) => {
 	TO.matches = [];
 	let regEx = new RegExp(Q, "i");
 	let transcriptLines = FS.readFileSync(TO.transcript, "utf8")
@@ -95,10 +95,10 @@ matchSets
 	.forEach((ms) => {
 		console.log(ms.mp3);
 		ms.matches.forEach((m) => {
-			console.log(`\t\t\t\t${COLORETTE.gray(m.contexts.pre.join("; "))}`);
 			console.log(
 				`${m.timestamp} - ${COLORETTE.yellow(m.match.toUpperCase())}`
 			);
+			console.log(`\t\t\t\t${COLORETTE.gray(m.contexts.pre.join("; "))}`);
 			console.log(COLORETTE.white(ms.episodeString));
 			console.log(
 				`\t\t\t\t${COLORETTE.gray(m.contexts.post.join("; "))}`

@@ -574,6 +574,13 @@
 				"startMinute": 17,
 				"class": "pimpedRetelling",
 				"tags": ["bedrooms", "decor", "posters"]
+			},
+			{
+				"ep": "s3e73",
+				"epHandle": "You're a Ghost, I'm a Ten",
+				"startMinute": 16,
+				"class": "inaugural",
+				"tags": ["bedrooms", "decor", "posters"]
 			}
 		]
 	},
