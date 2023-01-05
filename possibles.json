@@ -1,0 +1,62 @@
+[
+	{ "ep": "s1e1", "possibles": [] },
+	{ "ep": "s1e12", "possibles": [] },
+	{ "ep": "s1e15", "possibles": [] },
+	{ "ep": "s1e2", "possibles": [] },
+	{ "ep": "s2e147", "possibles": [] },
+	{ "ep": "s2e32", "possibles": [] },
+	{ "ep": "s2e34", "possibles": [] },
+	{ "ep": "s2e53", "possibles": [] },
+	{
+		"ep": "s4e135 - The Threedom Framily Plan",
+		"possibles": [
+			"1 - pandemic affairs",
+			"42 - matt walsh butt-dials scott",
+			"47 - scott has trouble with email, gmail"
+		]
+	},
+	{
+		"ep": "s4e136 - Titanic 3",
+		"possibles": ["46 - how crazy that disneyland is some guy's name"]
+	},
+	{
+		"ep": "s4e136",
+		"possibles": ["11 - burt's bees beards (lauren) at venice beach"]
+	},
+	{ "ep": "s4e137", "possibles": ["55 - sam neil at tower video"] },
+	{ "ep": "s3e68", "possibles": ["1:07 - scott rode horses in costa rica"] },
+	{
+		"ep": "s4e139",
+		"possibles": [
+			"29 - lauren got stung by a bee (but in s4e139 just states that it happened)",
+			"35 - pft hallucinates a rat"
+		]
+	},
+	{ "ep": "s4e140", "possibles": ["21 - WELL-DONE PAINTINGS OF ZEBRAS"] },
+	{
+		"ep": "s4e142",
+		"possibles": [
+			"11 - clinging to life, quality of life, lived enough life, dying"
+		]
+	},
+	{
+		"ep": "s4e143",
+		"possibles": [
+			"16 - scott plaigiarizes pyromania",
+			"41 - paul used to see boogie board near cher's house",
+			"42 - we were gonna do some other fuckin' thing when janie and i went [to hawaii] years ago...(helicopter?)"
+		]
+	},
+	{ "ep": "s4e144", "possibles": ["6 - andrew sean greer's book 'less'"] },
+	{ "ep": "s5e146", "possibles": [] },
+	{ "ep": "s5e147", "possibles": [] },
+	{ "ep": "s5e149", "possibles": [] },
+	{ "ep": "s5e150", "possibles": [] },
+	{ "ep": "s5e151", "possibles": [] },
+	{
+		"ep": "s4e137",
+		"possibles": [
+			"26 - lauren's childhood piano teacher changes his name to her brother's name"
+		]
+	}
+]

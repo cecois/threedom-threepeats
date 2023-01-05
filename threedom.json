@@ -2,7 +2,7 @@
 //premise - the wondering aloud if this is repetition; typically then passed over
 //retelling - pisspig forgets they've told this story already
 //questionedRetelling - pisspig wonders aloud if they're retelling but does so anyway
-//certainRetelling - pisspig knows they're retelling but does so anyway
+//acknowledgedRetelling - pisspig knows they're retelling but does so anyway
 //pimpedRetelling - other pisspig solicits a retelling
 
 // cosby|jackson|ck|et al?
@@ -20,6 +20,35 @@
 				"startMinute": 9,
 				"class": "inaugural",
 				"tags": ["Aqua Teen Hunger Force"]
+			}
+		]
+	},
+	{
+		"handle": "smelling-salts",
+		"title": "Smelling Salts",
+		"elucidation": "the cast share stories about their experience with smelling salts",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e142",
+				"epHandle": "Balling My Eyes Out",
+				"startMinute": 0,
+				"class": "pimpedRetelling",
+				"tags": []
+			},
+			{
+				"ep": "s3e65",
+				"epHandle": "Moneybucks",
+				"startMinute": 39,
+				"class": "inaugural",
+				"tags": []
+			},
+			{
+				"ep": "s5e145",
+				"epHandle": "Lauren's Topics Presents Scott's Topics",
+				"startMinute": 39,
+				"class": "retelling",
+				"tags": []
 			}
 		]
 	},
@@ -320,9 +349,55 @@
 		]
 	},
 	{
-		"handle": "have-we-talked-about-this",
-		"title": "Have We Talked About This?",
-		"elucidation": "the cast wonders aloud if they've already covered a given topic or story",
+		"handle": "they-came-over-here-in-lumber",
+		"title": "They Came Over Here in Lumber",
+		"elucidation": "the cast tries to sort out a surge in mosquitos",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e139",
+				"epHandle": "Good Couch, Bad Couch",
+				"startMinute": 43,
+				"class": "inaugural",
+				"tags": ["mosquitos", "bugs"],
+				"nb": "they came over here in lumber"
+			},
+			{
+				"ep": "s4e143",
+				"epHandle": "I Want Cold Cuts!",
+				"startMinute": 21,
+				"class": "questionedRetelling",
+				"tags": ["mosquitos", "bugs"],
+				"nb": "that bunch of lumber from china"
+			}
+		]
+	},
+	{
+		"handle": "pft-watched-soapdish",
+		"title": "PFT Watched Soapdish",
+		"elucidation": "pft announces he watched soapdish",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e135",
+				"epHandle": "The Threedom Framily Plan",
+				"startMinute": 2,
+				"class": "inaugural",
+				"tags": ["soapdish (film)"]
+			},
+			{
+				"ep": "s4e143",
+				"epHandle": "I Want Cold Cuts!",
+				"startMinute": 18,
+				"class": "retelling",
+				"tags": ["soapdish (film)"]
+			}
+		]
+	},
+	{
+		"handle": "have-we-talked-about-everything",
+		"title": "Have We Talked About Everything?",
+		"elucidation": "(meta) the cast acknowledges that they often repeat stories",
 		"nb": [],
 		"tellings": [
 			{
@@ -338,6 +413,30 @@
 				"startMinute": 2,
 				"class": "premise",
 				"tags": ["smear the queer (old-timey childhood game)"]
+			},
+			{
+				"ep": "s4e144",
+				"epHandle": "Matrix is My Doo-Dah Bones",
+				"startMinute": 60,
+				"class": "premise",
+				"tags": [],
+				"nb": "my goal is to repeat zero stories"
+			},
+			{
+				"ep": "s4e143",
+				"epHandle": "I Want Cold Cuts!",
+				"startMinute": 14,
+				"class": "premise",
+				"tags": [],
+				"nb": "there's no chance that you haven't"
+			},
+			{
+				"ep": "s4e143",
+				"epHandle": "I Want Cold Cuts!",
+				"startMinute": 22,
+				"class": "premise",
+				"tags": [],
+				"nb": "and yet we still brought the same topics"
 			}
 		]
 	},
@@ -433,7 +532,7 @@
 				"ep": "s5e146",
 				"epHandle": "I Hope Everyone's a Mummy",
 				"startMinute": 9,
-				"class": "certainRetelling",
+				"class": "acknowledgedRetelling",
 				"tags": ["holidays"]
 			}
 		]
@@ -477,7 +576,7 @@
 				"ep": "s2e34",
 				"epHandle": "Old Vegas",
 				"startMinute": 20,
-				"class": "certainRetelling",
+				"class": "acknowledgedRetelling",
 				"tags": ["money", "wills"]
 			},
 			{
@@ -624,8 +723,402 @@
 				"ep": "s4e144",
 				"epHandle": "Matrix is My Doo-Dah Bones",
 				"startMinute": 41,
-				"class": "certainRetelling",
+				"class": "acknowledgedRetelling",
 				"tags": ["skills"]
+			}
+		]
+	},
+	{
+		"title": "Cover Band Parties",
+		"handle": "cover-band-parties",
+		"elucidation": "scott recounts the halo of parties around cafe cordiale",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e151",
+				"epHandle": "Kind of a Mess Down There",
+				"startMinute": 3,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"The Beatles (musical combination)",
+					"Chicago (musical combination)"
+				]
+			},
+			{
+				"ep": "s1e15",
+				"epHandle": "Church Cool Man",
+				"startMinute": 12,
+				"class": "inaugural",
+				"tags": [
+					"The Beatles (musical combination)",
+					"Chicago (musical combination)"
+				]
+			}
+		]
+	},
+	{
+		"handle": "stripper-on-kelsey-grammer-p-resents-the-sketch-show-set",
+		"title": "Stripper on 'Kelsey Grammer P/Resents The Sketch Show' Set",
+		"elucidation": "pft recounts a bts strip show at kelsey grammer show from the 90s",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e151",
+				"epHandle": "Kind of a Mess Down There",
+				"startMinute": 6,
+				"class": "inaugural",
+				"tags": ["craft services", "kelsey grammer"]
+			}
+		]
+	},
+	{
+		"handle": "big-2",
+		"title": "'Big 2'",
+		"elucidation": "the cast writes the big sequel movie",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e151",
+				"epHandle": "Kind of a Mess Down There",
+				"startMinute": 47,
+				"class": "retelling",
+				"tags": ["big (film)"]
+			},
+			{
+				"ep": "s4e125",
+				"epHandle": "Boff",
+				"startMinute": 33,
+				"class": "acknowledgedRetelling",
+				"tags": ["big (film)"]
+			},
+			{
+				"ep": "s1e12",
+				"epHandle": "I Wanna Be Phoneboof",
+				"startMinute": 13,
+				"class": "inaugural",
+				"tags": ["big (film)"]
+			}
+		]
+	},
+	{
+		"title": "Casey Wilson's 'The Wreckage of My Presence'",
+		"handle": "casey-wilson-s-the-wreckage-of-my-presence",
+		"elucidation": "scott notes that he didn't read casey wilson's book right in her face",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e144",
+				"epHandle": "Matrix is My Doo-Dah Bones",
+				"startMinute": 6,
+				"class": "retelling",
+				"tags": [
+					"books",
+					"reading",
+					"the wreckage of my presence (book)"
+				]
+			}
+		]
+	},
+	{
+		"title": "Precious: Based on the Novel 'Push' by Sapphire",
+		"handle": "precious-based-on-the-novel-push-by-sapphire",
+		"elucidation": "lauren recalls seeing precious with her sister-in-law",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e144",
+				"epHandle": "Matrix is My Doo-Dah Bones",
+				"startMinute": 9,
+				"class": "acknowledgedRetelling",
+				"tags": ["precious: based on the novel 'push' by sapphire"]
+			},
+			{
+				"ep": "s3e66",
+				"epHandle": "He Talks About Homies",
+				"startMinute": 48,
+				"class": "acknowledgedRetelling",
+				"tags": ["precious: based on the novel 'push' by sapphire"]
+			}
+		]
+	},
+	{
+		"title": "Have You Ever Thought About Whether You Could Have a Baby Out There?",
+		"handle": "have-you-ever-thought-about-whether-you-could-have-a-baby-out-there",
+		"elucidation": "scott wonders aloud if he could have a baby out there he didn't know about",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e141",
+				"epHandle": "Topher McGrace",
+				"startMinute": 4,
+				"class": "retelling",
+				"tags": ["babies", "exes"]
+			}
+		]
+	},
+	{
+		"handle": "scott-s-brother-runs-over-his-foot",
+		"title": "Scott's Brother Runs Over His Foot",
+		"elucidation": "scott recounts how his brother once ran over scott's foot with a car",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e141",
+				"epHandle": "Topher McGrace",
+				"startMinute": 11,
+				"class": "acknowledgedRetelling",
+				"tags": ["broken bones", "injuries"]
+			}
+		]
+	},
+	{
+		"handle": "chisanbop",
+		"title": "Chisanbop",
+		"elucidation": "pft describes chisanbop and history with the method",
+		"nb": ["https://en.wikipedia.org/wiki/Chisanbop"],
+		"tellings": [
+			{
+				"ep": "s4e140",
+				"epHandle": "Honey Bee Same as Bumble Me",
+				"startMinute": 19,
+				"class": "questionedRetelling",
+				"tags": ["commercials", "education", "math"]
+			}
+		]
+	},
+	{
+		"handle": "scott-saw-some-bugs-and-lizards",
+		"title": "Scott Saw Some Bugs and Lizards",
+		"elucidation": "scott recounts his experiences with bugs and lizards in costa rica",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e139",
+				"epHandle": "Good Couch, Bad Couch",
+				"startMinute": 33,
+				"class": "retelling",
+				"tags": ["lizards", "bugs"]
+			},
+			{
+				"ep": "s4e102",
+				"epHandle": "Mark Mothersday",
+				"startMinute": 39,
+				"class": "retelling",
+				"tags": ["lizards", "bugs"]
+			},
+			{
+				"ep": "s3e87",
+				"epHandle": "Julie Bowfinger",
+				"startMinute": 28,
+				"class": "retelling",
+				"tags": ["lizards", "bugs"]
+			},
+			{
+				"ep": "s3e68",
+				"epHandle": "The Normal Kingdom",
+				"startMinute": 71,
+				"class": "inaugural",
+				"tags": ["lizards", "bugs"]
+			}
+		]
+	},
+	{
+		"handle": "a-rat-would-have-stayed",
+		"title": "A Rat Would Have Stayed",
+		"elucidation": "scott tells the story of his battle with a rat",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e139",
+				"epHandle": "Good Couch, Bad Couch",
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["rats", "vermin"]
+			},
+			{
+				"ep": "s1e21",
+				"epHandle": "Vampire O Face",
+				"startMinute": 11,
+				"class": "inaugural",
+				"tags": ["rats", "vermin"]
+			}
+		]
+	},
+	{
+		"handle": "a-rat-would-have-stayed",
+		"title": "Handfuls of Rats by the Tail",
+		"elucidation": "lauren recounts that time an exterminator presented mike a bouquet of rats",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e139",
+				"epHandle": "Good Couch, Bad Couch",
+				"startMinute": 36,
+				"class": "retelling",
+				"tags": ["rats", "vermin"]
+			},
+			{
+				"ep": "s1e21",
+				"epHandle": "Vampire O Face",
+				"startMinute": 15,
+				"class": "inaugural",
+				"tags": ["rats", "vermin"]
+			}
+		]
+	},
+	{
+		"handle": "your-dad-turns-into-the-bug",
+		"title": "Your Dad Turns Into the Bug",
+		"elucidation": "lauren recounts that time her dad buried the lede about a big bug in her house",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e139",
+				"epHandle": "Good Couch, Bad Couch",
+				"startMinute": 37,
+				"class": "retelling",
+				"tags": ["bugs"]
+			},
+			{
+				"ep": "s3e87",
+				"epHandle": "Julie Bowfinger",
+				"startMinute": 26,
+				"class": "inaugural",
+				"tags": ["bugs"]
+			}
+		]
+	},
+	{
+		"handle": "paul-janie-rent-a-boat",
+		"title": "Paul & Janie Rent a Boat",
+		"elucidation": "pft talks about renting a boat in south carolina",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e138",
+				"epHandle": "Boats Come Into Your Life",
+				"startMinute": 10,
+				"class": "retelling",
+				"tags": ["boats", "roller coasters"]
+			},
+			{
+				"ep": "s5e146",
+				"epHandle": "I Hope Everyone's A Mummy",
+				"startMinute": 51,
+				"class": "retelling",
+				"tags": ["boats"]
+			},
+			{
+				"ep": "s2e38",
+				"epHandle": "Kiss My Grits!",
+				"startMinute": 5,
+				"class": "inaugural",
+				"tags": ["boats"]
+			}
+		]
+	},
+	{
+		"handle": "it-s-threedom-legend",
+		"title": "It's Threedom Legend",
+		"elucidation": "pft on some aspect of his trip to redondo beach in 1984",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e138",
+				"epHandle": "Boats Come Into Your Life",
+				"startMinute": 17,
+				"class": "acknowledgedRetelling",
+				"tags": ["siblings"]
+			},
+			{
+				"ep": "s4e131",
+				"epHandle": "Hub-Lublacist",
+				"startMinute": 15,
+				"class": "retelling",
+				"tags": [
+					"siblings",
+					"billy vera & the beaters (musical combination)"
+				]
+			},
+			{
+				"ep": "s3e64",
+				"epHandle": "Circles On A Stick",
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": ["siblings", "drugs", "stand up comedians"]
+			}
+		]
+	},
+	{
+		"handle": "scott-s-brother-s-bong",
+		"title": "Scott's Brother's Bong",
+		"elucidation": "scott narcs his brother",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e64",
+				"epHandle": "Circles On A Stick",
+				"startMinute": 13,
+				"class": "retelling",
+				"tags": ["siblings", "drugs"]
+			},
+			{
+				"ep": "s3e61",
+				"epHandle": "I Renounce Tiger King",
+				"startMinute": 54,
+				"class": "inaugural",
+				"tags": ["siblings", "drugs"]
+			}
+		]
+	},
+	{
+		"handle": "george-wendt-gets-free-beer",
+		"title": "George Wendt Gets Free Beer",
+		"elucidation": "scott (typically) marvels at how george wendt still gets beers slid to him in bars",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e67",
+				"epHandle": "Hale Bopp Sneakers",
+				"startMinute": 12,
+				"class": "retelling",
+				"tags": ["beer", "george wendt", "cheers (tv)"]
+			},
+			{
+				"ep": "s1e21",
+				"epHandle": "Vampire O Face",
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": ["beer", "george wendt", "cheers (tv)"]
+			},
+			{
+				"ep": "s4e137",
+				"epHandle": "et tu (E.T. 2)",
+				"startMinute": 64,
+				"class": "retelling",
+				"tags": ["beer", "george wendt", "cheers (tv)"]
+			}
+		]
+	},
+	{
+		"handle": "back-to-school",
+		"title": "Back to School",
+		"elucidation": "scott (typically) mulls a return to college of some kind",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e18",
+				"epHandle": "What are You, a 3 Amigo!",
+				"startMinute": 26,
+				"class": "inaugural",
+				"tags": ["school", "higher education"]
+			},
+			{
+				"ep": "s1e06",
+				"epHandle": "This Episode Is Not Titled Dilly Dilly",
+				"startMinute": 47,
+				"class": "retelling",
+				"tags": ["school", "higher education"]
 			}
 		]
 	}

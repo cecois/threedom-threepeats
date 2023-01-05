@@ -10,8 +10,8 @@ const Q = ARG.q ? ARG.q : null;
 
 const dirs = {
 		transcripts: "/Users/ccmiller/git/threedom-threepeats/transcripts/",
-		wavs: "/Users/ccmiller/Downloads/threedom/podcast-audio/2022.12.23/wavs/",
-		mp3s: "/Users/ccmiller/Downloads/threedom/podcast-audio/2022.12.23/mp3s/",
+		wavs: "/Users/ccmiller/Downloads/threedom/podcast-audio/wavs/",
+		mp3s: "/Users/ccmiller/Downloads/threedom/podcast-audio/mp3s/",
 	},
 	authority = require("/Users/ccmiller/git/threedom-threepeats/threedom-episode-authority.json");
 
@@ -53,6 +53,7 @@ const transcriptSets = transcripts
 			episodeString: ep
 				? `s${parseInt(ep.itSeason)}e${ep.itEpisode}`
 				: `...ep not found for ${T}`,
+			episodeName: ep ? ep.itTitle : null,
 		};
 	});
 
@@ -99,7 +100,9 @@ matchSets
 				`${m.timestamp} - ${COLORETTE.yellow(m.match.toUpperCase())}`
 			);
 			console.log(`\t\t\t\t${COLORETTE.gray(m.contexts.pre.join("; "))}`);
-			console.log(COLORETTE.white(ms.episodeString));
+			console.log(
+				COLORETTE.white(`${ms.episodeString} - ${ms.episodeName}`)
+			);
 			console.log(
 				`\t\t\t\t${COLORETTE.gray(m.contexts.post.join("; "))}`
 			);

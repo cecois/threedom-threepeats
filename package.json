@@ -4,5 +4,8 @@
     "minimist": "^1.2.7",
     "slugify": "^1.6.5",
     "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "corpus_tools": "^1.0.0"
   }
 }

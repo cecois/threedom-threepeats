@@ -1,6 +1,6 @@
 #!/bin/bash
 
-audiodir="/Users/ccmiller/Downloads/threedom/podcast-audio/2022.12.23/wavs"
+audiodir="/Users/ccmiller/Downloads/threedom/podcast-audio/wavs"
 
 # for audio in $(ls $audiodir/*.wav); do
 #   T="$(basename "$audio" '.wav')";
@@ -10,7 +10,7 @@ audiodir="/Users/ccmiller/Downloads/threedom/podcast-audio/2022.12.23/wavs"
 
 # declare -a wavs=("Ch_d_Your_D.wav" "Frank_Caliendo_s_Hot_Dog_Emporium.wav" "I_Get_It,_I_m_Doctor_Strange.wav" "I_Hope_Everyone_s_A_Mummy.wav" "It_s_MY_Birthday_Suit!.wav" "Let_s_All_Meet_Beef.wav" "Light_Bulb_s_Good.wav" "Now_They_re_Doing_Karate.wav" "Ryan_O_Needle.wav" "What_s_Morning.wav" "You_re_So_Plane.wav" "You_re_A_Ghost,_I_m_Ten.wav")
 # declare -a wavs=("You_re_A_Ghost,_I_m_Ten.wav")
-declare -a wavs=("Lauren_s_Topics_Presents_Scott_s_Topics.wav")
+declare -a wavs=("Kind_of_a_Mess_Down_There.wav")
 
 for audio in "${wavs[@]}";do 
   ffp="${audiodir}/${audio}";
