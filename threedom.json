@@ -1121,5 +1121,27 @@
 				"tags": ["school", "higher education"]
 			}
 		]
+	},
+	{
+		"handle": "you-prolly-should-shit",
+		"title": "You Prolly Should Shit",
+		"elucidation": "lauren cites ryan stanger's gross thing",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e04",
+				"epHandle": "Slouchy Slurps-a-Ton",
+				"startMinute": 35,
+				"class": "inaugural",
+				"tags": ["euphemisms", "farts"]
+			},
+			{
+				"ep": "s4e134",
+				"epHandle": "Simp Lee Marvelous",
+				"startMinute": 20,
+				"class": "acknowledgedRetelling",
+				"tags": ["euphemisms", "farts"]
+			}
+		]
 	}
 ]
