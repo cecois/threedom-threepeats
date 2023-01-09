@@ -1,9 +1,9 @@
 //classes:
 //premise - the wondering aloud if this is repetition; typically then passed over
-//retelling - pisspig forgets they've told this story already
-//questionedRetelling - pisspig wonders aloud if they're retelling but does so anyway
-//acknowledgedRetelling - pisspig knows they're retelling but does so anyway
-//pimpedRetelling - other pisspig solicits a retelling
+//retelling - cast forgets they've told this story already
+//questionedRetelling - cast wonders aloud if they're retelling but does so anyway
+//acknowledgedRetelling - cast knows they're retelling but does so anyway
+//pimpedRetelling - other cast solicits a retelling
 
 // cosby|jackson|ck|et al?
 
@@ -867,7 +867,14 @@
 				"epHandle": "Topher McGrace",
 				"startMinute": 11,
 				"class": "acknowledgedRetelling",
-				"tags": ["broken bones", "injuries"]
+				"tags": ["broken bones", "injuries", "siblings"]
+			},
+			{
+				"ep": "s4e131",
+				"epHandle": "Hub-Lublacist",
+				"startMinute": 53,
+				"class": "inaugural",
+				"tags": ["broken bones", "injuries", "siblings"]
 			}
 		]
 	},
@@ -1141,6 +1148,211 @@
 				"startMinute": 20,
 				"class": "acknowledgedRetelling",
 				"tags": ["euphemisms", "farts"]
+			}
+		]
+	},
+	{
+		"handle": "how-s-robert-doing",
+		"title": "How's Robert Doing?",
+		"elucidation": "scott and pft used to share a dentist upon bob odenkirk's recommendation",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e134",
+				"epHandle": "Simp Lee Marvelous",
+				"startMinute": 44,
+				"class": "retelling",
+				"tags": ["dentists", "teeth"]
+			},
+			{
+				"ep": "s1e10",
+				"epHandle": "32 Toothless Vegetables",
+				"startMinute": 39,
+				"class": "inaugural",
+				"tags": ["dentists", "teeth"]
+			}
+		]
+	},
+	{
+		"handle": "the-mommies",
+		"title": "The Mommies",
+		"elucidation": "someone leads the rest of the cast through what the mommies were",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e01",
+				"epHandle": "This Was A Mistake",
+				"startMinute": 6,
+				"class": "inaugural",
+				"tags": ["caryl & marilyn: real friends (tv)"]
+			},
+			{
+				"ep": "s5e152",
+				"epHandle": "Eye Bad Laser Good",
+				"startMinute": 23,
+				"class": "retelling",
+				"tags": ["caryl & marilyn: real friends (tv)"]
+			}
+		]
+	},
+	{
+		"handle": "aw-my-bad-back",
+		"title": "Aw My Bad Back",
+		"elucidation": "the cast reminisce about the bags and lockers of their school days",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e132",
+				"epHandle": "The Bootleg Bug Man",
+				"startMinute": 6,
+				"class": "questionedRetelling",
+				"tags": ["school", "lockers", "book bags"]
+			},
+			{
+				"ep": "s1e03",
+				"epHandle": "Jack Bauer He 24 Big Hit",
+				"startMinute": 33,
+				"class": "inaugural",
+				"tags": ["school", "lockers", "book bags"]
+			}
+		]
+	},
+	{
+		"handle": "i-jump-straight-into-pants-that-are-held-up-by-a-contraption-that-i-made",
+		"title": "I Jump Straight Into Pants that are Held Up by a Contraption that I Made",
+		"elucidation": "the cast discuss the different ways they put on pants",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e130",
+				"epHandle": "The Flintstones Are Extinct",
+				"startMinute": 46,
+				"class": "inaugural",
+				"tags": ["pants", "getting dressed"]
+			},
+			{
+				"ep": "s4e132",
+				"epHandle": "The Bootleg Bug Man",
+				"startMinute": 7,
+				"class": "inaugural",
+				"tags": ["pants", "getting dressed"]
+			}
+		]
+	},
+	{
+		"handle": "gerbil-looks-a-lot-like-the-word-gere",
+		"title": "'gerbil' looks a lot like the word 'Gere'",
+		"elucidation": "the cast argue about the richard gere/rod stewart/jerry penecoli/gerbil story",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e132",
+				"epHandle": "The Bootleg Bug Man",
+				"startMinute": 14,
+				"class": "acknowledgedRetelling",
+				"tags": ["rumors", "richard gere", "rod stewart"]
+			},
+			{
+				"ep": "s4e125",
+				"epHandle": "Boff",
+				"startMinute": 9,
+				"class": "inaugural",
+				"tags": ["rumors", "richard gere", "rod stewart"]
+			}
+		]
+	},
+	{
+		"handle": "there-s-this-married-teacher-who-is-kissing-a-high-school-student",
+		"title": "There's this Married Teacher Who is Kissing a High School Student",
+		"elucidation": "pft tells about a creepy teacher-actor",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e132",
+				"epHandle": "The Bootleg Bug Man",
+				"startMinute": 28,
+				"class": "acknowledgedRetelling",
+				"tags": ["stage kissing", "acting"]
+			},
+			{
+				"ep": "s1e04",
+				"epHandle": "Slouchy Slurps-a-Ton",
+				"startMinute": 24,
+				"class": "inaugural",
+				"tags": ["stage kissing", "acting"]
+			}
+		]
+	},
+	{
+		"handle": "me-waking-up-screaming-on-an-airplane",
+		"title": "Me Waking Up Screaming on an Airplane",
+		"elucidation": "scott wakes up on a plane and screams at strangers",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e131",
+				"epHandle": "Hub-Lublacist",
+				"startMinute": 9,
+				"class": "inaugural",
+				"tags": ["nightmares", "dreams", "sleep", "embarrassment"]
+			},
+			{
+				"ep": "s5e147",
+				"epHandle": "Is the Nibbler Here",
+				"startMinute": 43,
+				"class": "acknowledgedRetelling",
+				"tags": ["stage kissing", "acting"]
+			}
+		]
+	},
+	{
+		"handle": "you-wore-sharkies",
+		"title": "You Wore Sharkies",
+		"elucidation": "scott's humiliating buster brown shoes",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e131",
+				"epHandle": "Hub-Lublacist",
+				"startMinute": 22,
+				"class": "pimpedRetelling",
+				"tags": ["shoes", "embarrassment"]
+			},
+			{
+				"ep": "s1e03",
+				"epHandle": "Jack Bauer He 24 Big Hit",
+				"startMinute": 28,
+				"class": "inaugural",
+				"tags": ["shoes", "embarrassment"]
+			}
+		]
+	},
+	{
+		"handle": "the-brady-bunch-house",
+		"title": "The Brady Bunch House",
+		"elucidation": "the cast talk about the fate of the brady bunch house",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e131",
+				"epHandle": "Hub-Lublacist",
+				"startMinute": 24,
+				"class": "acknowledgedRetelling",
+				"tags": ["famous houses"]
+			},
+			{
+				"ep": "s3e88",
+				"epHandle": "Three Shots To The Dome",
+				"startMinute": 21,
+				"class": "retelling",
+				"tags": ["famous houses"]
+			},
+			{
+				"ep": "s3e75",
+				"epHandle": "You're So Plane",
+				"startMinute": 4,
+				"class": "inaugural",
+				"tags": ["famous houses", "lance bass"]
 			}
 		]
 	}

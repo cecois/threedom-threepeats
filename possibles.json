@@ -3,10 +3,26 @@
 	{ "ep": "s1e12", "possibles": [] },
 	{ "ep": "s1e15", "possibles": [] },
 	{ "ep": "s1e2", "possibles": [] },
-	{ "ep": "s2e147", "possibles": [] },
-	{ "ep": "s2e32", "possibles": [] },
-	{ "ep": "s2e34", "possibles": [] },
-	{ "ep": "s2e53", "possibles": [] },
+	{
+		"ep": "s1e03 - Jack Bauer He 24 Big Hit",
+		"possibles": ["26 - scott disses the carl's jr french fries"]
+	},
+	{
+		"ep": "s4e131 - Hub-Lublacist",
+		"possibles": [
+			"10 - lauren knows exactly where her fingers need to be on an iphone (vs ipod haptics)"
+		]
+	},
+	{
+		"ep": "s4e132 - The Bootleg Bug Man",
+		"possibles": ["33 - scott's creepy drama teacher making kids kiss"]
+	},
+	{
+		"ep": "s4e133 - It's MY Birthday Suit",
+		"possibles": [
+			"29 - hide and seek (or sardines) injury from lauren's childhood"
+		]
+	},
 	{
 		"ep": "s4e135 - The Threedom Framily Plan",
 		"possibles": [
