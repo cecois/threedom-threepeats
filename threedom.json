@@ -1355,5 +1355,377 @@
 				"tags": ["famous houses", "lance bass"]
 			}
 		]
+	},
+	{
+		"handle": "my-bones-were-like-diamonds",
+		"title": "My Bones Were Like Diamonds",
+		"elucidation": "young pft downs an entire bottle of flintstones vitamins",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e19",
+				"epHandle": "My Secret Visitors...",
+				"startMinute": 18,
+				"class": "inaugural",
+				"tags": ["vitamins", "overdoses"]
+			},
+			{
+				"ep": "s4e130",
+				"epHandle": "The Flintstones Are Extinct",
+				"startMinute": 7,
+				"class": "inaugural",
+				"tags": ["vitamins", "overdoses"]
+			}
+		]
+	},
+	{
+		"handle": "high-school-reunions",
+		"title": "High School Reunions",
+		"elucidation": "the cast tell the tales of their high school reunions",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e130",
+				"epHandle": "The Flintstones Are Extinct",
+				"startMinute": 43,
+				"class": "acknowledgedRetelling",
+				"tags": ["high school"]
+			},
+			{
+				"ep": "s3e67",
+				"epHandle": "Hale Bopp Sneakers",
+				"startMinute": 13,
+				"class": "retelling",
+				"tags": ["high school"]
+			},
+			{
+				"ep": "s1e18",
+				"epHandle": "What are You, a 3 Amigo!",
+				"startMinute": 6,
+				"class": "inaugural",
+				"tags": ["high school"]
+			}
+		]
+	},
+	{
+		"handle": "man-i-feel-like-a-grandma",
+		"title": "Man! I Feel Like a Grandma!",
+		"elucidation": "pft on that shania twain track",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e129",
+				"epHandle": "Man! I Feel Like a Grandma",
+				"startMinute": 14,
+				"class": "acknowledgedRetelling",
+				"tags": ["shania twain", "man! i feel like a woman!"]
+			},
+			{
+				"ep": "s4e126",
+				"epHandle": "I Get It, I'm Doctor Strange",
+				"startMinute": 1,
+				"class": "inaugural",
+				"tags": ["shania twain", "man! i feel like a woman!"]
+			}
+		]
+	},
+	{
+		"handle": "you-don-t-want-to-slit-a-dog-s-throat",
+		"title": "You Don't Want to Slit a Dog's Throat?",
+		"elucidation": "the cast discusses whether they would be different people if they grew up on a farm",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e129",
+				"epHandle": "Man! I Feel Like a Grandma",
+				"startMinute": 12,
+				"class": "retelling",
+				"tags": ["farms"]
+			},
+			{
+				"ep": "s1e13",
+				"epHandle": "Brocus before Hocus",
+				"startMinute": 8,
+				"class": "inaugural",
+				"tags": ["farms"]
+			}
+		]
+	},
+	{
+		"handle": "uh-oh-i-cut-my-finger",
+		"title": "Uh-oh I Cut My Finger",
+		"elucidation": "pft's ikea injury",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s2e53",
+				"epHandle": "Live from Just for Laughs Perabo",
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": ["ikea", "injuries"]
+			},
+			{
+				"ep": "s5e153",
+				"epHandle": "Bubble Disease",
+				"startMinute": 9,
+				"class": "retelling",
+				"tags": ["ikea", "injuries"]
+			}
+		]
+	},
+	{
+		"handle": "i-did-not-inhale",
+		"title": "I Did Not Inhale",
+		"elucidation": "the cast discuss their collective history with smoking cigarettes",
+		"nb": ["distinct from pft's tale about alan carr et al"],
+		"tellings": [
+			{
+				"ep": "s5e153",
+				"epHandle": "Bubble Disease",
+				"startMinute": 40,
+				"class": "retelling",
+				"tags": ["smoking"]
+			},
+			{
+				"ep": "s1e23",
+				"epHandle": "Hamilton was Bae",
+				"startMinute": 4,
+				"class": "inaugural",
+				"tags": ["smoking"]
+			}
+		]
+	},
+	{
+		"handle": "samantha-parkington",
+		"title": "Samantha Parkington",
+		"elucidation": "lauren's american girl doll story",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e03",
+				"epHandle": "Jack Bauer He 24 Big Hit",
+				"startMinute": 11,
+				"class": "inaugural",
+				"tags": ["american girl doll"]
+			},
+			{
+				"ep": "s3e63",
+				"epHandle": "Risk It For The Biscuit",
+				"startMinute": 64,
+				"class": "pimpedRetelling",
+				"tags": ["american girl doll"]
+			},
+			{
+				"ep": "s5e153",
+				"epHandle": "Bubble Disease",
+				"startMinute": 41,
+				"class": "retelling",
+				"tags": ["american girl doll"]
+			}
+		]
+	},
+	{
+		"handle": "worst-fear-bathroom",
+		"title": "Worst Fear Bathroom",
+		"elucidation": "the cast laments the earwolf facilities",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e125",
+				"epHandle": "Boff",
+				"startMinute": 2,
+				"class": "inaugural",
+				"tags": ["toilets", "bathrooms"]
+			},
+			{
+				"ep": "s4e129",
+				"epHandle": "Man! I Feel Like a Grandma",
+				"startMinute": 32,
+				"class": "acknowledgedRetelling",
+				"tags": ["toilets", "bathrooms"]
+			}
+		]
+	},
+	{
+		"handle": "you-ve-all-spun-the-wheel",
+		"title": "You've All Spun the Wheel",
+		"elucidation": "the cast take stock of who has spun the price is right wheel",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e133",
+				"epHandle": "It's MY Birthday Suit!",
+				"startMinute": 11,
+				"class": "inaugural",
+				"tags": ["the price is right (tv)", "game shows"]
+			},
+			{
+				"ep": "s4e128",
+				"epHandle": "SSN 123-45-6789",
+				"startMinute": 5,
+				"class": "acknowledgedRetelling",
+				"tags": ["the price is right (tv)", "game shows"]
+			}
+		]
+	},
+	{
+		"handle": "are-you-paul-f-tompkins",
+		"title": "Are You Paul F. Tompkins?",
+		"elucidation": "pft yells at a fan",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e126",
+				"epHandle": "I Get It, I'm Doctor Strange",
+				"startMinute": 24,
+				"class": "pimpedRetelling",
+				"tags": ["bicycles", "embarrassment"]
+			},
+			{
+				"ep": "s3e83",
+				"epHandle": "One Haha",
+				"startMinute": 18,
+				"class": "inaugural",
+				"tags": ["bicycles", "embarrassment"]
+			}
+		]
+	},
+	{
+		"handle": "it-s-in-my-twitter-bio",
+		"title": "It's In My Twitter Bio",
+		"elucidation": "lauren dissociates during an ad read",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e124",
+				"epHandle": "Fleetwood Mask",
+				"startMinute": 30,
+				"class": "retelling",
+				"tags": []
+			},
+			{
+				"ep": "s1e06",
+				"epHandle": "This Episode Is Not Titled Dilly Dilly",
+				"startMinute": 43,
+				"class": "inaugural",
+				"tags": []
+			}
+		]
+	},
+	{
+		"handle": "there-s-stuff-inside",
+		"title": "There's Stuff Inside",
+		"elucidation": "lauren detailsl her history with macha",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e114",
+				"epHandle": "Ms. Small",
+				"startMinute": 43,
+				"class": "inaugural",
+				"tags": ["macha", "doughnuts"]
+			},
+			{
+				"ep": "s4e121",
+				"epHandle": "What Movie is Good Morning, Vietnam Set In",
+				"startMinute": 13,
+				"class": "pimpedRetelling",
+				"tags": ["macha", "doughnuts"]
+			}
+		]
+	},
+	{
+		"handle": "gotta-be-the-best-pizza-imaginable",
+		"title": "Gotta Be the Best Pizza Imaginable",
+		"elucidation": "lauren's relationship w/ pizza machines",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e94",
+				"epHandle": "Hey Man",
+				"startMinute": 0,
+				"class": "inaugural",
+				"tags": ["pizza", "vending machines"]
+			},
+			{
+				"ep": "s4e121",
+				"epHandle": "What Movie is Good Morning, Vietnam Set In",
+				"startMinute": 29,
+				"class": "acknowledgedRetelling",
+				"tags": ["pizza", "vending machines"]
+			}
+		]
+	},
+	{
+		"handle": "i-don-t-have-any-guesses-just-tell-me",
+		"title": "I Don't Have Any Guesses - Just Tell Me",
+		"elucidation": "scott does some abbott and costello shit",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e56",
+				"epHandle": "Round Is Part Of Science",
+				"startMinute": 46,
+				"class": "inaugural",
+				"tags": [
+					"the guess who (musical combination)",
+					"american woman (song)"
+				]
+			},
+			{
+				"ep": "s4e121",
+				"epHandle": "What Movie is Good Morning, Vietnam Set In",
+				"startMinute": 53,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"the guess who (musical combination)",
+					"american woman (song)"
+				]
+			}
+		]
+	},
+	{
+		"handle": "yes-we-all-know-the-thought-of-this-disgusts-us",
+		"title": "Yes, We All Know the Thought of This Disgusts Us",
+		"elucidation": "scott's parents' sex ed book",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s2e46",
+				"epHandle": "And That Was Your Week",
+				"startMinute": 49,
+				"class": "inaugural",
+				"tags": ["oral sex", "literature"]
+			},
+			{
+				"ep": "s4e120",
+				"epHandle": "Minnie Is a Size Queen",
+				"startMinute": 18,
+				"class": "acknowledgedRetelling",
+				"tags": ["oral sex", "literature"]
+			}
+		]
+	},
+	{
+		"handle": "it-was-a-collection-of-lists",
+		"title": "It Was a Collection of Lists",
+		"elucidation": "pft and the book of lists",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s2e53",
+				"epHandle": "Live from Just for Laughs Perabo",
+				"startMinute": 33,
+				"class": "inaugural",
+				"tags": ["literature"]
+			},
+			{
+				"ep": "s4e120",
+				"epHandle": "Minnie Is a Size Queen",
+				"startMinute": 20,
+				"class": "acknowledgedRetelling",
+				"tags": ["literature"]
+			}
+		]
 	}
 ]

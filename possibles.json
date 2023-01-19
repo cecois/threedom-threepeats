@@ -1,8 +1,34 @@
 [
-	{ "ep": "s1e1", "possibles": [] },
-	{ "ep": "s1e12", "possibles": [] },
-	{ "ep": "s1e15", "possibles": [] },
-	{ "ep": "s1e2", "possibles": [] },
+	{
+		"ep": "s4e125 - Boff",
+		"possibles": [
+			"3 - lauren's classmate who kept used pads in a drawer"
+			,"4 - lauren's classmate bled after sex and put bandaids on her vagina"
+			,"6 - scott dated a girl but a rumor about a blowjob at church tanked it"
+			,"16 - joanie poses nude"
+			,"24 - diet coke forehead wedding"
+			,"28 - scott almost sells his dad's ladder"
+		]
+	},
+	{
+		"ep": "s4e127",
+		"possibles": [
+			"21 - scott's mom thinks he should just take the daily show gig"
+			"23 - scott's perm to be curly in oklahoma"
+		]
+	},
+	{
+		"ep": "s4e128",
+		"possibles": [
+			"13 - pft roller skates to a friend's house",
+			"28 - lauren hits back at a phone spammer"
+		]
+	},
+	{ "ep": "s1e19", "possibles": ["18 - scott's lsd dealer friend ODs"] },
+	{
+		"ep": "s4e130 - The Flintstones Are Extinct",
+		"possibles": ["3 - lauren's vote on the m&m color"]
+	},
 	{
 		"ep": "s1e03 - Jack Bauer He 24 Big Hit",
 		"possibles": ["26 - scott disses the carl's jr french fries"]
@@ -64,9 +90,22 @@
 		]
 	},
 	{ "ep": "s4e144", "possibles": ["6 - andrew sean greer's book 'less'"] },
-	{ "ep": "s5e146", "possibles": [] },
-	{ "ep": "s5e147", "possibles": [] },
-	{ "ep": "s5e149", "possibles": [] },
+	{
+		"ep": "s5e153 - Bubble Disease",
+		"possibles": [
+			"13 - the accidental mass emailing at JASH a while back",
+			"17 - philadelphia tv personality captain noah and his magical arc",
+			"27 - the rules of christmas"
+		]
+	},
+	{
+		"ep": "s5e153 - Bubble Disease",
+		"possibles": [
+			"11 - homemade metal stools at the theatre tech's house (scott)",
+			"27 - rules of christmas"
+		]
+	},
+	{ "ep": "s4e120 - Minnie Is a Size Queen", "possibles": ["18 - lauren's puberty book","21 - lauren's covid squishie/stuffed seal purchase","27 - susan boyle","44 - lauren gives out her details online (to a pen pal?)","49 - lauren witnesses crispin glover deal w/ a money issue"] },
 	{ "ep": "s5e150", "possibles": [] },
 	{ "ep": "s5e151", "possibles": [] },
 	{
