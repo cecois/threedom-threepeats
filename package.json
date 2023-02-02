@@ -2,10 +2,12 @@
   "dependencies": {
     "colorette": "^2.0.19",
     "minimist": "^1.2.7",
-    "slugify": "^1.6.5",
-    "underscore": "^1.13.6"
+    "slugify": "^1.6.5"
   },
   "devDependencies": {
-    "corpus_tools": "^1.0.0"
+    "corpus_tools": "^1.0.0",
+    "elasticsearch": "^16.7.3",
+    "fs-ndjson": "^1.1.0",
+    "underscore": "^1.13.6"
   }
 }

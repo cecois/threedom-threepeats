@@ -11,11 +11,74 @@
 		]
 	},
 	{
+		"ep": "s4e107 - Yelp Paleontologist",
+		"possibles": ["7 - guy sweeping up elephant cage gets his head stuck in the elephant's butthole","14 - lauren's career as clickbait (DJ Qualls)","26 - choosing to forget something","38 - scott's dream about strange houses","40 - pft's recurring dream about a monster"]
+	},
+	{
+		"ep": "s3e99 - Secret Santa Pizza",
+		"possibles": ["1 - peter the intern","4 - twins restaurant in new york city nyc"]
+	},
+	{
+		"ep": "s5e155 - I Wanna Go Turtle Turtle",
+		"possibles": ["14 - pft despises the m&m characters"]
+	},
+	{
+		"ep": "s4e108 - To And Fro",
+		"possibles": ["32 - coasters","37 - who gave lauren the money at that strip club?"]
+	},
+	{
+		"ep": "s5e154 - Oh Bother, Where Art Thou?",
+		"possibles": ["1 - lauren's missing $25 birthday card from her grandma","28 - lauren's been cleaning her closet"]
+	},
+	{
+		"ep": "s4e109 - Vampire Of Jokes",
+		"possibles": ["11 - scott's mr show breakfast of doughnuts and creamer and coffee","15 - scott does baby got back at a karaoke party","26 - last meals"]
+	},
+	{
+		"ep": "s4e110 - Glasses Say What",
+		"possibles": ["27 - lauren has a tick on her leg","39 - dog chases scott on his paper route","41 - scott's dad in king kong","52 - scott discovers deli sandwiches"]
+	},
+	{
+		"ep": "s1e17 - Ch'd Your D",
+		"possibles": ["17 - scott's cds are stolen"]
+	},
+	{
+		"ep": "s3e97 - Free Willy Nilly",
+		"possibles": ["40 - allowances"]
+	},
+	{
+		"ep": "s4e113 - Boink Boink Whee",
+		"possibles": ["32 - lauren buys go ask alice at age 9","40 - snl's what up with that sketch"]
+	},
+	{
+		"ep": "s4e112 - Covered In Bugs",
+		"possibles": ["40 - pelaton","45 - halloween (or holiday?) tv shows","46 - lauren's fitbit and/or apple watch"]
+	},
+	{
+		"ep": "s4e114 - Ms. Small",
+		"possibles": [
+			"12 - bologna facial masks","50 - scott and lauren do intersticials at weird al's show"
+		]
+	},
+	{
+		"ep": "s4e106 - Shoe Mop Tops",
+		"possibles": [
+			"22 - lauren's house was sprayed by a skunk when she was in 6th grade"
+		]
+	},
+	{
 		"ep": "s4e127",
 		"possibles": [
 			"21 - scott's mom thinks he should just take the daily show gig"
 			"23 - scott's perm to be curly in oklahoma"
 		]
+	},{
+		"ep": "s4e115",
+		"possibles": ["19 - scott & the old man + grandson on the flume ride at the jurassic ride at universal"]
+	},
+	{
+		"ep": "s3e93 - Sprinkle and Tinkle",
+		"possibles": []
 	},
 	{
 		"ep": "s4e128",
@@ -66,7 +129,6 @@
 		"possibles": ["11 - burt's bees beards (lauren) at venice beach"]
 	},
 	{ "ep": "s4e137", "possibles": ["55 - sam neil at tower video"] },
-	{ "ep": "s3e68", "possibles": ["1:07 - scott rode horses in costa rica"] },
 	{
 		"ep": "s4e139",
 		"possibles": [
@@ -99,15 +161,23 @@
 		]
 	},
 	{
+		"ep": "s2e42 - Look at My Snaps Go",
+		"possibles": [
+			"7 - scott's hair color blindness"
+		]
+	},
+	{
 		"ep": "s5e153 - Bubble Disease",
 		"possibles": [
 			"11 - homemade metal stools at the theatre tech's house (scott)",
 			"27 - rules of christmas"
 		]
 	},
+	{ "ep": "s2e31 - Frank Caliendo's Hot Dog Emporium", "possibles": ["21 - scott's just shoot me audition"] },
+	{ "ep": "s1e14 - This from Bat Boy", "possibles": ["19 - scott's cartwheel contest"] },
 	{ "ep": "s4e120 - Minnie Is a Size Queen", "possibles": ["18 - lauren's puberty book","21 - lauren's covid squishie/stuffed seal purchase","27 - susan boyle","44 - lauren gives out her details online (to a pen pal?)","49 - lauren witnesses crispin glover deal w/ a money issue"] },
-	{ "ep": "s5e150", "possibles": [] },
-	{ "ep": "s5e151", "possibles": [] },
+	{ "ep": "s4e119", "possibles": ["23 - pft was in jack frost"] },
+	{ "ep": "s4e117 - Murder on the Moon", "possibles": ["2 - scott's script like dumb & dumber that didn't impress his girlfriend"] },
 	{
 		"ep": "s4e137",
 		"possibles": [

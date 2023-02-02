@@ -1,12 +1,3 @@
-//classes:
-//premise - the wondering aloud if this is repetition; typically then passed over
-//retelling - cast forgets they've told this story already
-//questionedRetelling - cast wonders aloud if they're retelling but does so anyway
-//acknowledgedRetelling - cast knows they're retelling but does so anyway
-//pimpedRetelling - other cast solicits a retelling
-
-// cosby|jackson|ck|et al?
-
 [
 	{
 		"handle": "2007-boston-mooninite-panic",
@@ -457,7 +448,7 @@
 	},
 	{
 		"handle": "craft-services-on-kelsey-grammer-resents-the-sketch-show",
-		"title": "Craft Services on 'Kelsey Grammer P/Resents The Sketch Show'",
+		"title": "Craft Services on 'Kelsey Grammer P/Resents The Sketch Show' Set",
 		"elucidation": "pft tells tales about craft services on that kelsey grammer show from the 90s",
 		"nb": [],
 		"tellings": [
@@ -766,8 +757,15 @@
 				"ep": "s5e151",
 				"epHandle": "Kind of a Mess Down There",
 				"startMinute": 6,
+				"class": "retelling",
+				"tags": ["kelsey grammer"]
+			},
+			{
+				"ep": "s4e108",
+				"epHandle": "To And Fro",
+				"startMinute": 43,
 				"class": "inaugural",
-				"tags": ["craft services", "kelsey grammer"]
+				"tags": ["kelsey grammer"]
 			}
 		]
 	},
@@ -1110,7 +1108,7 @@
 	{
 		"handle": "back-to-school",
 		"title": "Back to School",
-		"elucidation": "scott (typically) mulls a return to college of some kind",
+		"elucidation": "somebody mulls a return to college of some kind (or recounts being asked to do so)",
 		"nb": [],
 		"tellings": [
 			{
@@ -1124,6 +1122,13 @@
 				"ep": "s1e06",
 				"epHandle": "This Episode Is Not Titled Dilly Dilly",
 				"startMinute": 47,
+				"class": "retelling",
+				"tags": ["school", "higher education"]
+			},
+			{
+				"ep": "s4e115",
+				"epHandle": "Jumble Cruise",
+				"startMinute": 40,
 				"class": "retelling",
 				"tags": ["school", "higher education"]
 			}
@@ -1615,7 +1620,7 @@
 	{
 		"handle": "there-s-stuff-inside",
 		"title": "There's Stuff Inside",
-		"elucidation": "lauren detailsl her history with macha",
+		"elucidation": "lauren detailsl her history with matcha",
 		"nb": [],
 		"tellings": [
 			{
@@ -1623,14 +1628,14 @@
 				"epHandle": "Ms. Small",
 				"startMinute": 43,
 				"class": "inaugural",
-				"tags": ["macha", "doughnuts"]
+				"tags": ["matcha", "doughnuts"]
 			},
 			{
 				"ep": "s4e121",
 				"epHandle": "What Movie is Good Morning, Vietnam Set In",
 				"startMinute": 13,
 				"class": "pimpedRetelling",
-				"tags": ["macha", "doughnuts"]
+				"tags": ["matcha", "doughnuts"]
 			}
 		]
 	},
@@ -1725,6 +1730,734 @@
 				"startMinute": 20,
 				"class": "acknowledgedRetelling",
 				"tags": ["literature"]
+			}
+		]
+	},
+	{
+		"handle": "was-he-a-stilf",
+		"title": "Was He a STILF?",
+		"elucidation": "lauren's funny 7th grade science teacher",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s2e27",
+				"epHandle": "Missappearing",
+				"startMinute": 36,
+				"class": "inaugural",
+				"tags": ["teachers", "literature"]
+			},
+			{
+				"ep": "s4e117",
+				"epHandle": "Murder on the Moon",
+				"startMinute": 12,
+				"class": "questionedRetelling",
+				"tags": ["teachers", "literature"]
+			}
+		]
+	},
+	{
+		"handle": "meleva-it-s-jo-anne",
+		"title": "Meleva, It's Jo Anne",
+		"elucidation": "scott misses the era of entertainment when an unusual voice got you through",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e117",
+				"epHandle": "Murder on the Moon",
+				"startMinute": 15,
+				"class": "retelling",
+				"tags": [
+					"entertainment",
+					"comedic voices",
+					"pat buttram",
+					"jo anne worley"
+				]
+			},
+			{
+				"ep": "s2e44",
+				"epHandle": "Mommy Oh No Please Queen",
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": [
+					"entertainment",
+					"comedic voices",
+					"pat buttram",
+					"jo anne worley",
+					"pauly shore",
+					"awkwafina",
+					"gilbert gottfried",
+					"wolfman jack",
+					"jack nicholson"
+				]
+			}
+		]
+	},
+	{
+		"handle": "any-new-lawn-mowers-in",
+		"title": "Any New Lawn Mowers In?",
+		"elucidation": "scott's legendary turn as an l.a. dodgers bat boy",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e14",
+				"epHandle": "This From Bat Boy",
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": ["baseball"]
+			},
+			{
+				"ep": "s4e116",
+				"epHandle": "Mr. Golly’s Whiz Bang",
+				"startMinute": 39,
+				"class": "pimpedRetelling",
+				"tags": ["baseball"]
+			}
+		]
+	},
+	{
+		"handle": "thirty-minutes-on-the-lake-sixty-minutes-on-the-river",
+		"title": "Thirty Minutes on The Lake - Sixty Minutes on the River",
+		"elucidation": "lauren's chicago pier gig",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e93",
+				"epHandle": "Sprinkle and Tinkle",
+				"startMinute": 47,
+				"class": "inaugural",
+				"tags": ["architecture", "chicago", "jobs"]
+			},
+			{
+				"ep": "s4e116",
+				"epHandle": "Mr. Golly’s Whiz Bang",
+				"startMinute": 41,
+				"class": "pimpedRetelling",
+				"tags": ["architecture", "chicago", "jobs"]
+			}
+		]
+	},
+	{
+		"handle": "have-you-ever-wished-you-had-a-penis-even-once",
+		"title": "Have You Ever Wished You Had a Penis - Even Once?",
+		"elucidation": "the cast discuss freaky friday scenarios - specifically relative to dongs and pusses and such",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e116",
+				"epHandle": "Mr. Golly’s Whiz Bang",
+				"startMinute": 41,
+				"class": "acknowledgedRetelling",
+				"tags": ["genetalia"]
+			},
+			{
+				"ep": "s3e89",
+				"epHandle": "One Less Egg To Fry",
+				"startMinute": 5,
+				"class": "inaugural",
+				"tags": ["genetalia"]
+			}
+		]
+	},
+	{
+		"handle": "they-rode-a-dolphin",
+		"title": "They Rode a Dolphin",
+		"elucidation": "the cast share stories about cruises and whalewatching and seasickness",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e115",
+				"epHandle": "Jumble Cruise",
+				"startMinute": 25,
+				"class": "questionedRetelling",
+				"tags": ["maritime", "whales", "seasickness"]
+			},
+			{
+				"ep": "s1e12",
+				"epHandle": "I Wanna Be Phoneboof",
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": ["maritime", "whales", "seasickness"]
+			}
+		]
+	},
+	{
+		"handle": "the-coffee-enemas-and-the-cat-hair",
+		"title": "The Coffee Enemas and the Cat Hair",
+		"elucidation": "the cast roll through strange addictions",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e06",
+				"epHandle": "This Episode Is Not Titled Dilly Dilly",
+				"startMinute": 3,
+				"class": "inaugural",
+				"tags": ["my strange addiction (tv)", "pica disorder"]
+			},
+			{
+				"ep": "s4e115",
+				"epHandle": "Jumble Cruise",
+				"startMinute": 28,
+				"class": "acknowledgedRetelling",
+				"tags": ["my strange addiction (tv)", "pica disorder"]
+			}
+		]
+	},
+	{
+		"handle": "i-have-noticed-a-correlation-between-loving-something-and-not-throwing-up",
+		"title": "I Have Noticed a Correlation Between Loving Something and Not Throwing Up",
+		"elucidation": "scott loves his dogs' shits",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s2e27",
+				"epHandle": "Missappearing",
+				"startMinute": 30,
+				"class": "inaugural",
+				"tags": ["pets"]
+			},
+			{
+				"ep": "s4e115",
+				"epHandle": "Jumble Cruise",
+				"startMinute": 42,
+				"class": "acknowledgedRetelling",
+				"tags": ["pets"]
+			}
+		]
+	},
+	{
+		"handle": "we-held-hands-during-the-scary-parts",
+		"title": "We Held Hands During the Scary Parts",
+		"elucidation": "paul and scott watched jackass forever together",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e114",
+				"epHandle": "Ms. Small",
+				"startMinute": 13,
+				"class": "acknowledgedRetelling",
+				"tags": ["jackass forever (film)"]
+			}
+		]
+	},
+	{
+		"handle": "spikes-with-other-coyotes-heads-on-them",
+		"title": "Spikes with Other Coyotes' Heads on Them",
+		"elucidation": "kulap chases coyotes",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e115",
+				"epHandle": "Jumble Cruise",
+				"startMinute": 13,
+				"class": "retelling",
+				"tags": ["nature", "wild animals"]
+			},
+			{
+				"ep": "s4e113",
+				"epHandle": "Boink Boink Whee",
+				"startMinute": 21,
+				"class": "inaugural",
+				"tags": ["nature", "wild animals"]
+			}
+		]
+	},
+	{
+		"handle": "does-anyone-want-a-helmet",
+		"title": "Does Anyone Want a Helmet?",
+		"elucidation": "scott rode a horse",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e68",
+				"epHandle": "The Normal Kingdom",
+				"startMinute": 1,
+				"class": "inaugural",
+				"tags": ["horses", "vacations"]
+			},
+			{
+				"ep": "s4e114",
+				"epHandle": "Ms. Small",
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["horses", "vacations"]
+			}
+		]
+	},
+	{
+		"handle": "grapefruit-spoon",
+		"title": "Grapefruit Spoon",
+		"elucidation": "pft's mrsa infections",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e114",
+				"epHandle": "Ms. Small",
+				"startMinute": 41,
+				"class": "retelling",
+				"tags": ["medical", "vacations"]
+			},
+			{
+				"ep": "s3e93",
+				"epHandle": "Sprinkle and Tinkle",
+				"startMinute": 36,
+				"class": "retelling",
+				"tags": ["medical", "vacations"]
+			},
+			{
+				"ep": "s3e71",
+				"epHandle": "Belly Washer",
+				"startMinute": 71,
+				"class": "acknowledgedRetelling",
+				"tags": ["medical", "vacations"]
+			},
+			{
+				"ep": "s2e42",
+				"epHandle": "Look at My Snaps Go",
+				"startMinute": 51,
+				"class": "acknowledgedRetelling",
+				"tags": ["medical"]
+			},
+			{
+				"ep": "s2e37",
+				"epHandle": "The Threedom Boys",
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["medical"]
+			},
+			{
+				"ep": "s1e14",
+				"epHandle": "This From Bat Boy",
+				"startMinute": 7,
+				"class": "inaugural",
+				"tags": ["medical"]
+			}
+		]
+	},
+	{
+		"handle": "the-egg-that-never-cracks",
+		"title": "The Egg that Never Cracks",
+		"elucidation": "lauren's evanston 4th of july story",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e112",
+				"epHandle": "Covered In Bugs",
+				"startMinute": 55,
+				"class": "retelling",
+				"tags": ["holidays", "parades", "independence day (us holiday)"]
+			},
+			{
+				"ep": "s1e17",
+				"epHandle": "Ch'd Your D",
+				"startMinute": 15,
+				"class": "inaugural",
+				"tags": ["holidays", "parades", "independence day (us holiday)"]
+			}
+		]
+	},
+	{
+		"handle": "i-think-there-s-some-sort-of-weird-right-wing-cabal",
+		"title": "I Think There's Some Sort of Weird, Right-Wing Cabal",
+		"elucidation": "scott's take on the hollywood christmas parade",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e112",
+				"epHandle": "Covered In Bugs",
+				"startMinute": 56,
+				"class": "retelling",
+				"tags": ["holidays", "parades", "dean cain", "erik estrada"]
+			},
+			{
+				"ep": "s5e146",
+				"epHandle": "I Hope Everyone's A Mummy",
+				"startMinute": 4,
+				"class": "inaugural",
+				"tags": ["holidays", "parades", "dean cain", "erik estrada"]
+			}
+		]
+	},
+	{
+		"handle": "guys-what-if-we-get-part-time-jobs",
+		"title": "Guys, What if We Get Part-Time Jobs?",
+		"elucidation": "the cast debate whether they should get part-time jobs",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e97",
+				"epHandle": "Free Willy Nilly",
+				"startMinute": 46,
+				"class": "inaugural",
+				"tags": []
+			},
+			{
+				"ep": "s4e111",
+				"epHandle": "Skinny As A Needle",
+				"startMinute": 6,
+				"class": "retelling",
+				"tags": []
+			}
+		]
+	},
+	{
+		"handle": "abogado",
+		"title": "Abogado",
+		"elucidation": "pft knows a strange dog",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e86",
+				"epHandle": "Benji Butts",
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": []
+			},
+			{
+				"ep": "s4e110",
+				"epHandle": "Glasses Say What",
+				"startMinute": 37,
+				"class": "retelling",
+				"tags": []
+			}
+		]
+	},
+	{
+		"handle": "it-s-just-a-dog",
+		"title": "It's Just a Dog",
+		"elucidation": "pft knew a scary dog",
+		"nb": ["big scary dog in a garage in his philly neighb"],
+		"tellings": [
+			{
+				"ep": "s3e91",
+				"epHandle": "Random Ways And Means",
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": []
+			},
+			{
+				"ep": "s4e110",
+				"epHandle": "Glasses Say What",
+				"startMinute": 39,
+				"class": "retelling",
+				"tags": []
+			}
+		]
+	},
+	{
+		"handle": "i-could-draw-him-right-now",
+		"title": "I Could Draw Him Right Now",
+		"elucidation": "scott's original character, irving",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e109",
+				"epHandle": "Vampire Of Jokes",
+				"startMinute": 22,
+				"class": "retelling",
+				"tags": []
+			},
+			{
+				"ep": "s3e69",
+				"epHandle": "Works At TBS",
+				"startMinute": 27,
+				"class": "inaugural",
+				"tags": []
+			}
+		]
+	},
+	{
+		"handle": "this-fucking-looks-like-zorro",
+		"title": "This Fucking Looks like Zorro",
+		"elucidation": "the cast discuss their history with drawing",
+		"nb": ["scott's irving character is its own tell"],
+		"tellings": [
+			{
+				"ep": "s4e109",
+				"epHandle": "Vampire Of Jokes",
+				"startMinute": 21,
+				"class": "retelling",
+				"tags": ["drawing", "art", "zorro"]
+			},
+			{
+				"ep": "s3e69",
+				"epHandle": "Works At TBS",
+				"startMinute": 26,
+				"class": "inaugural",
+				"tags": ["drawing", "art"]
+			}
+		]
+	},
+	{
+		"handle": "i-hate-to-bring-it-back-to-currency",
+		"title": "I Hate to Bring it Back to Currency",
+		"elucidation": "the cast discuss strange currencies (two dollar bills, primarily)",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e123",
+				"epHandle": "Threedom Much",
+				"startMinute": 39,
+				"class": "inaugural",
+				"tags": ["two dollar bills", "currency", "obsolescence"]
+			},
+			{
+				"ep": "s5e154",
+				"epHandle": "Oh Bother, Where Art Thou?",
+				"startMinute": 39,
+				"class": "acknowledgedRetelling",
+				"tags": ["two dollar bills", "currency", "obsolescence"]
+			}
+		]
+	},
+	{
+		"handle": "oh-this-is-sinful",
+		"title": "Oh, This is Sinful",
+		"elucidation": "the cast discuss especially sinful desserts",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e108",
+				"epHandle": "To And Fro",
+				"startMinute": 39,
+				"class": "inaugural",
+				"tags": ["dessert"]
+			},
+			{
+				"ep": "s4e144",
+				"epHandle": "Matrix is My Doo-Dah Bones",
+				"startMinute": 28,
+				"class": "retelling",
+				"tags": ["dessert"]
+			}
+		]
+	},
+	{
+		"handle": "really-clean-the-glass-windows",
+		"title": "Really? Clean the Glass Windows?",
+		"elucidation": "scott hates cleaning windows",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e71",
+				"epHandle": "Belly Washer",
+				"startMinute": 61,
+				"class": "inaugural",
+				"tags": ["jobs"]
+			},
+			{
+				"ep": "s4e108",
+				"epHandle": "To And Fro",
+				"startMinute": 29,
+				"class": "acknowledgedRetelling",
+				"tags": ["jobs"]
+			}
+		]
+	},
+	{
+		"handle": "he-died-of-blood",
+		"title": "He Died of Blood",
+		"elucidation": "pft & andy daly both had trouble with clocks & watches",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e19",
+				"epHandle": "My Secret Visitors…",
+				"startMinute": 11,
+				"class": "inaugural",
+				"tags": ["time", "watches"]
+			},
+			{
+				"ep": "s4e108",
+				"epHandle": "To And Fro",
+				"startMinute": 52,
+				"class": "pimpedRetelling",
+				"tags": ["time", "watches"]
+			}
+		]
+	},
+	{
+		"handle": "he-s-a-good-man",
+		"title": "He's a Good Man",
+		"elucidation": "the cast discuss the morality of m&m voice gigs",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e155",
+				"epHandle": "I Wanna Go Turtle Turtle",
+				"startMinute": 15,
+				"class": "retelling",
+				"tags": [
+					"voice acting",
+					"john goodman",
+					"jon lovitz",
+					"j.k. simmons"
+				]
+			},
+			{
+				"ep": "s1e19",
+				"epHandle": "My Secret Visitors…",
+				"startMinute": 33,
+				"class": "inaugural",
+				"tags": [
+					"voice acting",
+					"john goodman",
+					"jon lovitz",
+					"j.k. simmons"
+				]
+			}
+		]
+	},
+	{
+		"handle": "i-don-t-wanna-watch-a-car",
+		"title": "I Don't Wanna Watch a Car",
+		"elucidation": "the cast complain about the conceit of pixar's 'cars'",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e155",
+				"epHandle": "I Wanna Go Turtle Turtle",
+				"startMinute": 19,
+				"class": "retelling",
+				"tags": ["cars (film)"]
+			},
+			{
+				"ep": "s3e60",
+				"epHandle": "Sologamy",
+				"startMinute": 12,
+				"class": "inaugural",
+				"tags": ["cars (film)"]
+			}
+		]
+	},
+	{
+		"handle": "what-am-i-holding-onto",
+		"title": "What am I Holding Onto?",
+		"elucidation": "the cast lament the commercial branding of stadiums and other landmarks",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s1e14",
+				"epHandle": "This From Bat Boy",
+				"startMinute": 29,
+				"class": "inaugural",
+				"tags": ["branding", "sears tower"]
+			},
+			{
+				"ep": "s5e155",
+				"epHandle": "I Wanna Go Turtle Turtle",
+				"startMinute": 30,
+				"class": "retelling",
+				"tags": ["branding", "staples center"]
+			}
+		]
+	},
+	{
+		"handle": "were-you-diagnosed-adidac",
+		"title": "Were You Diagnosed ADIDAC?",
+		"elucidation": "scott went to hershey, pa he loved candy so much",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s2e39",
+				"epHandle": "The Threedom Challenge",
+				"startMinute": 12,
+				"class": "inaugural",
+				"tags": ["candy", "hershey factory"]
+			},
+			{
+				"ep": "s5e155",
+				"epHandle": "I Wanna Go Turtle Turtle",
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["candy", "hershey factory"]
+			}
+		]
+	},
+	{
+		"handle": "he-would-take-off-his-mask-to-show-that-he-was-handsome",
+		"title": "He Would Take Off His Mask to Show that He was Handsome",
+		"elucidation": "scott's handsome colleague at knotts berry farm",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e85",
+				"epHandle": "Mrs. Pachinko",
+				"startMinute": 48,
+				"class": "inaugural",
+				"tags": ["knott's berry farm"]
+			},
+			{
+				"ep": "s5e155",
+				"epHandle": "I Wanna Go Turtle Turtle",
+				"startMinute": 45,
+				"class": "acknowledgedRetelling",
+				"tags": ["knott's berry farm"]
+			}
+		]
+	},
+	{
+		"handle": "in-their-place-half-a-brain",
+		"title": "In Their Place: Half a Brain",
+		"elucidation": "scott tells the story of the crazy neighbor who likely stole his dvds",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e155",
+				"epHandle": "I Wanna Go Turtle Turtle",
+				"startMinute": 55,
+				"class": "retelling",
+				"tags": ["neighbors", "mental illness", "dvds"]
+			},
+			{
+				"ep": "s3e83",
+				"epHandle": "One Haha",
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": ["neighbors", "mental illness", "dvds", "cuckoo clocks"]
+			}
+		]
+	},
+	{
+		"handle": "it-s-a-new-year-and-we-re-still-us",
+		"title": "It's a New Year and We're Still Us",
+		"elucidation": "the cast talk about their resolutions - old or new",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e107",
+				"epHandle": "Yelp Paleontologist",
+				"startMinute": 1,
+				"class": "retelling",
+				"tags": ["resolutions"]
+			},
+			{
+				"ep": "s2e30",
+				"epHandle": "This Is It",
+				"startMinute": 37,
+				"class": "inaugural",
+				"tags": ["resolutions"]
+			}
+		]
+	},
+	{
+		"handle": "it-the-clown",
+		"title": "It the Clown",
+		"elucidation": "pft saw pennywise referred to as 'it the clown' on twitter and never forgot it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e59",
+				"epHandle": "Chocolate Taste Cheap",
+				"startMinute": 76,
+				"class": "inaugural",
+				"tags": ["pennywise"]
+			},
+			{
+				"ep": "s4e106",
+				"epHandle": "Shoe Mop Tops",
+				"startMinute": 20,
+				"class": "retelling",
+				"tags": ["pennywise"]
 			}
 		]
 	}
