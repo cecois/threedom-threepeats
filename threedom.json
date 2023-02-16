@@ -387,10 +387,30 @@
 	},
 	{
 		"handle": "have-we-talked-about-everything",
-		"title": "Have We Talked About Everything?",
-		"elucidation": "(meta) the cast acknowledges that they often repeat stories",
+		"title": "(meta) Have We Talked About Everything?",
+		"elucidation": "the cast acknowledges that they often repeat stories",
 		"nb": [],
 		"tellings": [
+			{
+				"ep": "s3e99",
+				"epHandle": "Secret Santa Pizza",
+				"startMinute": 25,
+				"class": "premise",
+				"tags": ["threedom (podcast)"]
+			},{
+				"ep": "s4e100",
+				"epHandle": "The Bed is Lego",
+				"startMinute": 51,
+				"class": "premise",
+				"tags": ["celebrities", "christina applegate"]
+			},
+			{
+				"ep": "s4e100",
+				"epHandle": "The Bed is Lego",
+				"startMinute": 2,
+				"class": "premise",
+				"tags": ["aging"]
+			},
 			{
 				"ep": "s5e149",
 				"epHandle": "Little Miss Butt Blaster",
@@ -428,6 +448,14 @@
 				"class": "premise",
 				"tags": [],
 				"nb": "and yet we still brought the same topics"
+			},
+			{
+				"ep": "s5e156",
+				"epHandle": "No More Witches No More Goblins",
+				"startMinute": 46,
+				"class": "premise",
+				"tags": [],
+				"nb": "this is why it's ok that we repeat them"
 			}
 		]
 	},
@@ -840,8 +868,8 @@
 		]
 	},
 	{
-		"title": "Have You Ever Thought About Whether You Could Have a Baby Out There?",
-		"handle": "have-you-ever-thought-about-whether-you-could-have-a-baby-out-there",
+		"title": "They'd Come for You",
+		"handle": "they-d-come-for-you",
 		"elucidation": "scott wonders aloud if he could have a baby out there he didn't know about",
 		"nb": [],
 		"tellings": [
@@ -850,6 +878,13 @@
 				"epHandle": "Topher McGrace",
 				"startMinute": 4,
 				"class": "retelling",
+				"tags": ["babies", "exes"]
+			},
+			{
+				"ep": "s4e105",
+				"epHandle": "Crumbelievable",
+				"startMinute": 28,
+				"class": "inaugural",
 				"tags": ["babies", "exes"]
 			}
 		]
@@ -2458,6 +2493,625 @@
 				"startMinute": 20,
 				"class": "retelling",
 				"tags": ["pennywise"]
+			}
+		]
+	},
+	{
+		"handle": "i-was-the-shit-bitch",
+		"title": "I Was the Shit, Bitch",
+		"elucidation": "the cast roll through their histories with phones",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e106",
+				"epHandle": "Shoe Mop Tops",
+				"startMinute": 48,
+				"class": "retelling",
+				"tags": ["phones"]
+			},
+			{
+				"ep": "s1e10",
+				"epHandle": "32 Toothless Vegetables",
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": ["phones"]
+			}
+		]
+	},
+	{
+		"handle": "i-have-parties",
+		"title": "I Have Parties",
+		"elucidation": "scott's former roommate's thing",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e106",
+				"epHandle": "Shoe Mop Tops",
+				"startMinute": 57,
+				"class": "pimpedRetelling",
+				"tags": ["roommates", "parties"]
+			},
+			{
+				"ep": "s1e10",
+				"epHandle": "32 Toothless Vegetables",
+				"startMinute": 1,
+				"class": "inaugural",
+				"tags": ["roommates", "parties"]
+			}
+		]
+	},
+	{
+		"handle": "i-m-just-gonna-stay-here-in-the-trash-where-i-belong",
+		"title": "I'm Just Gonna Stay Here in the Trash Where I Belong",
+		"elucidation": "scott's former roommate, bagel's thing",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e106",
+				"epHandle": "Shoe Mop Tops",
+				"startMinute": 57,
+				"class": "pimpedRetelling",
+				"tags": ["roommates", "parties"]
+			},
+			{
+				"ep": "s1e10",
+				"epHandle": "32 Toothless Vegetables",
+				"startMinute": 4,
+				"class": "inaugural",
+				"tags": ["roommates", "parties"]
+			}
+		]
+	},
+	{
+		"handle": "deep-cut",
+		"title": "Deep Cut!",
+		"elucidation": "scott likes 'back to the future' but pretends to prefer 'godfather'",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e156",
+				"epHandle": "No More Witches No More Goblins",
+				"startMinute": 38,
+				"class": "retlling",
+				"tags": [
+					"favorites",
+					"the godfather (film)",
+					"back to the future (film)",
+					"girlfriends"
+				]
+			}
+		]
+	},
+	{
+		"handle": "this-crazy-wide-intersection",
+		"title": "This Crazy-Wide Intersection",
+		"elucidation": "pft totals janie's car",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e156",
+				"epHandle": "No More Witches No More Goblins",
+				"startMinute": 21,
+				"class": "retelling",
+				"tags": ["car accidents", "janie"]
+			},
+			{
+				"ep": "s3e82",
+				"epHandle": "Computer Says What",
+				"startMinute": 46,
+				"class": "inaugural",
+				"tags": ["car accidents", "janie"]
+			}
+		]
+	},
+	{
+		"handle": "that-can-be-how-it-appears-in-parking-lots",
+		"title": "That Can be How it Appears in Parking Lots",
+		"elucidation": "scott hit the open car door of a british lady",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e156",
+				"epHandle": "No More Witches No More Goblins",
+				"startMinute": 10,
+				"class": "retelling",
+				"tags": ["car accidents", "kulap"]
+			},
+			{
+				"ep": "s4e112",
+				"epHandle": "Covered In Bugs",
+				"startMinute": 27,
+				"class": "inaugural",
+				"tags": ["car accidents", "kulap"]
+			}
+		]
+	},
+	{
+		"handle": "did-he-smell-like-fruit",
+		"title": "Did He Smell Like Fruit?",
+		"elucidation": "lauren crashes into an older couple and spills their fruit salad and it's witnessed by a teacher at a barbecue and his lawyer father and she meets a cop for life",
+		"nb": ["there was a big bush blocking the other stop sign"],
+		"tellings": [
+			{
+				"ep": "s5e156",
+				"epHandle": "No More Witches No More Goblins",
+				"startMinute": 10,
+				"class": "retelling",
+				"tags": ["car accidents", "the elderly", "fruit salad"]
+			},
+			{
+				"ep": "s3e82",
+				"epHandle": "Computer Says What",
+				"startMinute": 44,
+				"class": "pimpedRetelling",
+				"tags": [
+					"car accidents",
+					"the elderly",
+					"cops",
+					"trading cards",
+					"fruit salad"
+				]
+			},
+			{
+				"ep": "s1e02",
+				"epHandle": "Chalk Talk",
+				"startMinute": 43,
+				"class": "inaugural",
+				"tags": [
+					"car accidents",
+					"the elderly",
+					"cops",
+					"trading cards",
+					"fruit salad"
+				]
+			}
+		]
+	},
+	{
+		"handle": "scott-s-lonely-christmas",
+		"title": "Scott's Lonely Christmas",
+		"elucidation": "scott wasn't allowed to live with a woman so he bought a christmas tree",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e106",
+				"epHandle": "Shoe Mop Tops",
+				"startMinute": 60,
+				"class": "retelling",
+				"tags": ["roommates", "apartments", "christmas trees"]
+			},
+			{
+				"ep": "s2e36",
+				"epHandle": "Zig Zig Says Bro Bro",
+				"startMinute": 52,
+				"class": "inaugural",
+				"tags": ["roommates", "apartments", "christmas trees"]
+			}
+		]
+	},
+	{
+		"handle": "it-s-like-with-bathrooms",
+		"title": "It's Like with Bathrooms",
+		"elucidation": "the cast go off on self-driving cars (scott's mom wants it; pft thinks it needs to happen all at once; lauren is skeptical)",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s5e156",
+				"epHandle": "No More Witches No More Goblins",
+				"startMinute": 13,
+				"class": "questionedRetelling",
+				"tags": ["self-driving cars", "automation", "tesla"]
+			},
+			{
+				"ep": "s3e92",
+				"epHandle": "Flasier Clane",
+				"startMinute": 48,
+				"class": "retelling",
+				"tags": ["self-driving cars", "automation", "tesla"]
+			},
+			{
+				"ep": "s2e39",
+				"epHandle": "The Threedom Challenge",
+				"startMinute": 29,
+				"class": "inaugural",
+				"tags": ["self-driving cars", "automation", "tesla"]
+			},
+			{
+				"ep": "s2e51",
+				"epHandle": "If Dogurt",
+				"startMinute": 13,
+				"class": "retelling",
+				"tags": ["self-driving cars", "automation", "tesla"]
+			}
+		]
+	},
+	{
+		"handle": "a-song-cannot-be-a-rock-n-roll-song-unless-it-has-saxaphone",
+		"title": "A Song Cannot be a Rock n' Roll Song Unless it Has Saxaphone",
+		"elucidation": "odd hot take from pft's music teacher",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e105",
+				"epHandle": "Crumbelievable",
+				"startMinute": 19,
+				"class": "questionedRetelling",
+				"tags": ["saxaphones", "rock n' roll music", "teachers"]
+			}
+		]
+	},
+	{
+		"handle": "i-need-to-clean-my-front",
+		"title": "I Need to Clean My Front",
+		"elucidation": "lauren's neighbor thinks she called animal control on her",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e116",
+				"epHandle": "Mr. Golly’s Whiz Bang",
+				"startMinute": 2,
+				"class": "retelling",
+				"tags": ["neighbors", "pets", "animal control"]
+			},
+			{
+				"ep": "s4e116",
+				"epHandle": "Crumbelievable",
+				"startMinute": 32,
+				"class": "retelling",
+				"tags": ["neighbors", "pets", "animal control"]
+			},
+			{
+				"ep": "s3e95",
+				"epHandle": "Toothpaste Conundrum",
+				"startMinute": 41,
+				"class": "retelling",
+				"tags": ["neighbors", "pets", "animal control"]
+			},
+			{
+				"ep": "s3e85",
+				"epHandle": "Mrs. Pachinko",
+				"startMinute": 55,
+				"class": "inaugural",
+				"tags": ["neighbors", "pets", "animal control"]
+			}
+		]
+	},
+	{
+		"handle": "i-don-t-have-friends-that-aren-t-on-tv",
+		"title": "I Don't Have Friends that Aren't on TV",
+		"elucidation": "the cast discuss ellen's game of games bts",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e104",
+				"epHandle": "Boop",
+				"startMinute": 2,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"ellen's game of games (tv)",
+					"ellen degeneres",
+					"sfx",
+					"gullability",
+					"trust falls"
+				]
+			},
+			{
+				"ep": "s3e55",
+				"epHandle": "She Just Want Beets",
+				"startMinute": 7,
+				"class": "inaugural",
+				"tags": [
+					"ellen's game of games (tv)",
+					"ellen degeneres",
+					"sfx",
+					"gullability",
+					"trust falls"
+				]
+			}
+		]
+	},
+	{
+		"handle": "okay-don-t-get-into-it",
+		"title": "Okay, Don't Get into It",
+		"elucidation": "scott cried once and now won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e103",
+				"epHandle": "Missing Mr. Magoo Memento",
+				"startMinute": 33,
+				"class": "pimpedRetelling",
+				"tags": [
+					"he didn't have to be (song)",
+					"brad paisley",
+					"crying"
+				]
+			},
+			{
+				"ep": "s1e07",
+				"epHandle": "Stop Making It Plural",
+				"startMinute": 30,
+				"class": "retelling",
+				"tags": [
+					"he didn't have to be (song)",
+					"brad paisley",
+					"crying"
+				]
+			}
+		]
+	},
+	{
+		"handle": "what-was-the-last-time-you-ever-went-to-an-applebee-s",
+		"title": "What was the Last Time You Ever Went to an Applebee's?",
+		"elucidation": "lauren walked really far to an applebees once and now won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e103",
+				"epHandle": "Missing Mr. Magoo Memento",
+				"startMinute": 35,
+				"class": "pimpedRetelling",
+				"tags": ["applebee's", "gift cards"]
+			},
+			{
+				"ep": "s3e71",
+				"epHandle": "Belly Washer",
+				"startMinute": 27,
+				"class": "inaugural",
+				"tags": ["applebee's", "gift cards"]
+			}
+		]
+	},
+	{
+		"handle": "it-had-freckles",
+		"title": "It Had Freckles",
+		"elucidation": "scott received a ventriloquist dummy as a gift in the 70s and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e102",
+				"epHandle": "Mark Mothersday",
+				"startMinute": 22,
+				"class": "acknowledgedRetelling",
+				"tags": ["gifts", "ventriloquism"]
+			},
+			{
+				"ep": "s3e63",
+				"epHandle": "Risk It For The Biscuit",
+				"startMinute": 62,
+				"class": "inaugural",
+				"tags": ["gifts", "ventriloquism"]
+			}
+		]
+	},
+	{
+		"handle": "i-like-to-blast-stuff-really-loud",
+		"title": "I Like to Blast Stuff Really Loud",
+		"elucidation": "scott had an elderly neighbor with a loud television and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e83",
+				"epHandle": "One Haha",
+				"startMinute": 9,
+				"class": "inaugural",
+				"tags": ["neighbors", "the elderly"]
+			},
+			{
+				"ep": "s4e101",
+				"epHandle": "Let's All Meet Beef",
+				"startMinute": 8,
+				"class": "retelling",
+				"tags": ["neighbors", "the elderly"]
+			}
+		]
+	},
+	{
+		"handle": "drove-off-a-cliff-right",
+		"title": "Drove Off a Cliff, Right?",
+		"elucidation": "scott's dog, rocky, passed away once and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s2e31",
+				"epHandle": "Frank Caliendo's Hot Dog Emporium",
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": ["pets"]
+			},
+			{
+				"ep": "s4e101",
+				"epHandle": "Let's All Meet Beef",
+				"startMinute": 12,
+				"class": "pimpedRetelling",
+				"tags": ["pets"]
+			}
+		]
+	},
+	{
+		"handle": "she-was-just-a-trash-dog",
+		"title": "She was Just a Trash Dog",
+		"elucidation": "scott got a dog (molly) from mexico and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e86",
+				"epHandle": "Benji Butts",
+				"startMinute": 31,
+				"class": "inaugural",
+				"tags": ["pets"]
+			},
+			{
+				"ep": "s4e101",
+				"epHandle": "Let's All Meet Beef",
+				"startMinute": 17,
+				"class": "retelling",
+				"tags": ["pets"]
+			}
+		]
+	},
+	{
+		"handle": "i-do-two-steps-a-day",
+		"title": "I Do Two Steps a Day",
+		"elucidation": "the cast all have step-tracking devices and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e100",
+				"epHandle": "The Bed is Lego",
+				"startMinute": 12,
+				"class": "retelling",
+				"tags": [
+					"pets",
+					"steps",
+					"exercise",
+					"apple watch",
+					"fitbit",
+					"pelaton"
+				]
+			},
+			{
+				"ep": "s3e95",
+				"epHandle": "Toothpaste Conundrum",
+				"startMinute": 29,
+				"class": "inaugural",
+				"tags": ["pets", "steps", "exercise", "apple watch", "fitbit"]
+			}
+		]
+	},
+	{
+		"handle": "our-youngest-one-is-six",
+		"title": "Our Youngest One is Six",
+		"elucidation": "the cast learns about their youngest listener and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e97",
+				"epHandle": "Free Willy Nilly",
+				"startMinute": 4,
+				"class": "inaugural",
+				"tags": ["age", "listenership"]
+			},
+			{
+				"ep": "s4e100",
+				"epHandle": "The Bed is Lego",
+				"startMinute": 15,
+				"class": "retelling",
+				"tags": ["age", "listenership"]
+			},
+			{
+				"ep": "s4e105",
+				"epHandle": "Crumbelievable",
+				"startMinute": 5,
+				"class": "retelling",
+				"tags": ["age", "listenership"]
+			}
+		]
+	},
+	{
+		"handle": "i-m-her-dad",
+		"title": "I'm Her Dad",
+		"elucidation": "scott possibly met christina applegate's dad at chin chin in the valley and how he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s4e100",
+				"epHandle": "The Bed is Lego",
+				"startMinute": 49,
+				"class": "retelling",
+				"tags": [
+					"christina applegate",
+					"restaurant roundup",
+					"celebrities"
+				]
+			},
+			{
+				"ep": "s3e58",
+				"epHandle": "Nasty Mound",
+				"startMinute": 48,
+				"class": "inaugural",
+				"tags": [
+					"christina applegate",
+					"restaurant roundup",
+					"celebrities"
+				]
+			}
+		]
+	},
+	{
+		"handle": "how-do-you-like-standing-in-the-grove",
+		"title": "How Do You Like Standing in The Grove?",
+		"elucidation": "lauren overheard crispin glover on the phone and now she won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e99",
+				"epHandle": "Secret Santa Pizza",
+				"startMinute": 18,
+				"class": "retelling",
+				"tags": [
+					"crispin glover","willard (film)","rats","mario lopez"
+					"celebrities","finances"
+				]
+			},{
+				"ep": "s4e120",
+				"epHandle": "Minnie Is a Size Queen",
+				"startMinute": 48,
+				"class": "inaugural",
+				"tags": [
+					"crispin glover","willard (film)","rats","mario lopez"
+					"celebrities","finances"
+				]
+			}
+		]
+	},
+	{
+		"handle": "you-re-sleep-scrolling",
+		"title": "You're Sleep-Scrolling",
+		"elucidation": "scott's phone alerted him to too much screen time once and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e99",
+				"epHandle": "Secret Santa Pizza",
+				"startMinute": 40,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"exercise"
+				]
+			},{
+				"ep": "s3e66",
+				"epHandle": "He Talks About Homies",
+				"startMinute": 39,
+				"class": "inaugural",
+				"tags": [
+					"exercise"
+				]
+			}
+		]
+	},
+	{
+		"handle": "he-did-post-nudes-in-the-story",
+		"title": "He Did Post Nudes in the Story",
+		"elucidation": "the cast hired — and then quickly fired — an intern and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"ep": "s3e99",
+				"epHandle": "Secret Santa Pizza",
+				"startMinute": 1,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"interns","peter the intern"
+				]
+			},{
+				"ep": "s3e99",
+				"epHandle": "Secret Santa Pizza",
+				"startMinute": 62,
+				"class": "inaugural",
+				"tags": [
+					"interns","peter the intern"
+				]
 			}
 		]
 	}
