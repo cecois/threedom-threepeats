@@ -6,8 +6,10 @@
 		"nb": ["https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic"],
 		"tellings": [
 			{
-				"ep": "s1e1",
-				"epHandle": "This Was a Mistake",
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
 				"startMinute": 9,
 				"class": "inaugural",
 				"tags": ["Aqua Teen Hunger Force"]
@@ -17,26 +19,32 @@
 	{
 		"handle": "smelling-salts",
 		"title": "Smelling Salts",
-		"elucidation": "the cast share stories about their experience with smelling salts",
+		"elucidation": "the cast experienced smelling salts once and now they won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e142",
-				"epHandle": "Balling My Eyes Out",
+				"episode": {
+					"key": "s4e142",
+					"title": "Balling My Eyes Out"
+				},
 				"startMinute": 0,
 				"class": "pimpedRetelling",
 				"tags": []
 			},
 			{
-				"ep": "s3e65",
-				"epHandle": "Moneybucks",
+				"episode": {
+					"key": "s3e65",
+					"title": "Moneybucks"
+				},
 				"startMinute": 39,
 				"class": "inaugural",
 				"tags": []
 			},
 			{
-				"ep": "s5e145",
-				"epHandle": "Lauren's Topics Presents Scott's Topics",
+				"episode": {
+					"key": "s5e145",
+					"title": "Lauren's Topics Presents Scott's Topics"
+				},
 				"startMinute": 39,
 				"class": "retelling",
 				"tags": []
@@ -46,12 +54,14 @@
 	{
 		"handle": "heavyburtation",
 		"title": "Heavy Burtation",
-		"elucidation": "heavy burtation",
+		"elucidation": "the cast watched that heavy burtation clip and now they won't shut the fuk up about it",
 		"nb": ["https://knowyourmeme.com/memes/heavy-burtation"],
 		"tellings": [
 			{
-				"ep": "s1e1",
-				"epHandle": "This Was a Mistake",
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
 				"startMinute": 13,
 				"class": "inaugural",
 				"tags": ["Burtation", "Serene Branson"]
@@ -61,12 +71,14 @@
 	{
 		"handle": "kissmakeup",
 		"title": "KISS Makeup",
-		"elucidation": "scott dresses as ace frehley for halloween; lauren goes as a dead prom queen",
+		"elucidation": "scott dressed as ace frehley for halloween, lauren as a dead prom queen and now neither of them will shut the fuk up about it",
 		"nb": ["https://en.wikipedia.org/wiki/Ace_Frehley"],
 		"tellings": [
 			{
-				"ep": "s1e1",
-				"epHandle": "This Was a Mistake",
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
 				"startMinute": 15,
 				"class": "inaugural",
 				"tags": ["KISS", "Ace Frehley"]
@@ -76,12 +88,14 @@
 	{
 		"handle": "thepaceofoldercontent",
 		"title": "The Pace of Alf",
-		"elucidation": "the cast discuss the pace of older content",
+		"elucidation": "the cast noticed the pace of older content and now they won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e1",
-				"epHandle": "This Was a Mistake",
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
 				"startMinute": 26,
 				"class": "inaugural",
 				"tags": ["Alf (TV)"]
@@ -91,12 +105,14 @@
 	{
 		"handle": "scottdiscoverssandwiches",
 		"title": "Scott Discovers Sandwiches",
-		"elucidation": "scott details how he learned that delis make especially good sanwiches",
+		"elucidation": "scott learned that delis make especially good sanwiches and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e1",
-				"epHandle": "This Was a Mistake",
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
 				"startMinute": 33,
 				"class": "inaugural",
 				"tags": []
@@ -106,12 +122,14 @@
 	{
 		"handle": "pftproposesmarriage",
 		"title": "PFT Proposes to JHT",
-		"elucidation": "pft recounts his proposal to jht and/or the winter revisit",
+		"elucidation": "pft proposed to jht once and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e1",
-				"epHandle": "This Was a Mistake",
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
 				"startMinute": 44,
 				"class": "inaugural",
 				"tags": []
@@ -121,27 +139,37 @@
 	{
 		"handle": "ournames",
 		"title": "Our Names",
-		"elucidation": "the cast discuss their names (as they are or what they should be)",
+		"elucidation": "the cast won't shut the fuk up about their own names",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e1",
-				"epHandle": "This Was a Mistake",
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 1,
+				"class": "retelling",
+				"tags": ["dick butkus"]
+			},
+			{
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
 				"startMinute": 47,
 				"class": "inaugural",
-				"tags": []
+				"tags": ["names"]
 			}
 		]
 	},
 	{
 		"handle": "scottsarmylunches",
 		"title": "Scott's Tenure in the Army",
-		"elucidation": "scott strings along an army recruiter for free lunches",
+		"elucidation": "scott strung along an army recruiter for free lunches back in the day and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 10,
 				"class": "inaugural",
 				"tags": ["United States Army"]
@@ -151,12 +179,14 @@
 	{
 		"handle": "scottsbadatsports",
 		"title": "Scott's Sports Career",
-		"elucidation": "scott details his struggles as an athlete - chalk talk and so forth",
+		"elucidation": "scott struggled with sports as a youth and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 15,
 				"class": "inaugural",
 				"tags": ["baseball", "gym class"]
@@ -166,12 +196,14 @@
 	{
 		"handle": "glassesinourheads_lauren",
 		"title": "Glasses in Our Heads - Lauren",
-		"elucidation": "lauren's glasses are broken into her own face",
+		"elucidation": "lauren had her glasses broken on her own face as a youth and now she won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 21,
 				"class": "inaugural",
 				"tags": ["gym class", "head injuries"]
@@ -181,12 +213,14 @@
 	{
 		"handle": "glassesinourheads_scott",
 		"title": "Glasses in Our Heads - Scott",
-		"elucidation": "scott rides a bike with his eyes closed",
+		"elucidation": "scott rode a bike with his eyes closed once and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 23,
 				"class": "inaugural",
 				"tags": ["gym class", "bicycles", "head injuries"]
@@ -196,19 +230,22 @@
 	{
 		"handle": "lauren-s-blind-man-s-bluff-concussion",
 		"title": "Lauren's Blind Man's Bluff Concussion",
-		"elucidation": "lauren recalls her first concussion",
+		"elucidation": "lauren was concussed during blind man's bluff as a youth and now she won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 31,
 				"class": "inaugural",
 				"tags": [
-					"Blind Man's Bluff",
+					"blind man's bluff",
 					"nannies",
-					"Fran Drescher",
-					"head injuries"
+					"fran drescher",
+					"head injuries",
+					"concussions"
 				]
 			}
 		]
@@ -216,49 +253,55 @@
 	{
 		"handle": "lauren-s-ladybugs-concussion",
 		"title": "Lauren's Ladybugs Concussion",
-		"elucidation": "lauren recalls her second concussion (in the bathroom of a ladybugs screening)",
+		"elucidation": "lauren was concussed in the bathroom of a ladybugs screening and now she won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 31,
 				"class": "inaugural",
-				"tags": ["Ladybugs (film)", "head injuries"]
+				"tags": ["ladybugs (film)", "head injuries", "concussions"]
 			}
 		]
 	},
 	{
 		"handle": "lauren-s-radiator-concussion",
 		"title": "Lauren's Radiator Concussion",
-		"elucidation": "lauren recalls her third concussion (on a radiator)",
+		"elucidation": "lauren was concussed on a residential radiator and now she won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 34,
 				"class": "inaugural",
-				"tags": ["head injuries"]
+				"tags": ["head injuries", "concussions"]
 			}
 		]
 	},
 	{
 		"handle": "lauren-s-cop-friend",
 		"title": "Lauren's Cop Friend",
-		"elucidation": "lauren recalls her befriending a police officer after a 4th-of-july traffic accident",
+		"elucidation": "lauren befriended a police officer after a 4th-of-july traffic accident and now she won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 34,
 				"class": "inaugural",
 				"tags": [
 					"police",
-					"cars",
-					"Independence Day",
-					"4th of July",
+					"car accidents",
+					"independence day",
+					"4th of july",
 					"fruit salad"
 				]
 			}
@@ -267,12 +310,14 @@
 	{
 		"handle": "pft-s-sole-childhood-head-injury",
 		"title": "PFT's Sole Childhood Head Injury",
-		"elucidation": "paul recalls his only head injury - oliver!",
+		"elucidation": "paul injured his head during an oliver! rehearsal and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 36,
 				"class": "inaugural",
 				"tags": ["theatre", "Oliver! (stageplay)", "head injuries"]
@@ -282,12 +327,14 @@
 	{
 		"handle": "scott-s-downtown-l-a-head-injury",
 		"title": "Scott's Downtown L.A. Head Injury",
-		"elucidation": "scott recalls his downtown l.a. wrought-iron, rubber-band head injury",
-		"nb": [],
+		"elucidation": "scott injured his head in downtown l.a. as a youth and now he won't shut the fuk up about it",
+		"nb": ["wrought-iron, rubber-band"],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 38,
 				"class": "inaugural",
 				"tags": ["Los Angeles", "head injuries"]
@@ -297,12 +344,14 @@
 	{
 		"handle": "scott-s-hometown-police-incident",
 		"title": "Scott's Hometown Police Incident",
-		"elucidation": "scott recalls a run-in with his hometown police force",
+		"elucidation": "scott had a run-in with his hometown police force and now he won't shut the fuk up about it",
 		"nb": ["scott also owned a steamer trunk w/ stickers on it"],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 38,
 				"class": "inaugural",
 				"tags": ["police", "stickers"]
@@ -312,12 +361,14 @@
 	{
 		"handle": "scott-s-deep-dark-measles-secret",
 		"title": "Scott's Deep Dark Measles Secret",
-		"elucidation": "scott recalls the time he drew fake measles on his face but let his brother take the fall",
+		"elucidation": "scott drew fake measles on his face but let his brother take the fall and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 49,
 				"class": "inaugural",
 				"tags": ["illness", "siblings"]
@@ -327,12 +378,14 @@
 	{
 		"handle": "pft-s-krazy-kumbersome-kabinet",
 		"title": "PFT's Krazy Kumbersome Kabinet",
-		"elucidation": "pft recalls the time his older brother's finger got clipped",
+		"elucidation": "pft's brother's finger got clipped and now pft won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e2",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e2",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 55,
 				"class": "inaugural",
 				"tags": ["fingers", "injuries"]
@@ -342,20 +395,24 @@
 	{
 		"handle": "they-came-over-here-in-lumber",
 		"title": "They Came Over Here in Lumber",
-		"elucidation": "the cast tries to sort out a surge in mosquitos",
+		"elucidation": "the cast noticed a surge in the mosquito presence in california and now they won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e139",
-				"epHandle": "Good Couch, Bad Couch",
+				"episode": {
+					"key": "s4e139",
+					"title": "Good Couch, Bad Couch"
+				},
 				"startMinute": 43,
 				"class": "inaugural",
 				"tags": ["mosquitos", "bugs"],
 				"nb": "they came over here in lumber"
 			},
 			{
-				"ep": "s4e143",
-				"epHandle": "I Want Cold Cuts!",
+				"episode": {
+					"key": "s4e143",
+					"title": "I Want Cold Cuts!"
+				},
 				"startMinute": 21,
 				"class": "questionedRetelling",
 				"tags": ["mosquitos", "bugs"],
@@ -366,19 +423,23 @@
 	{
 		"handle": "pft-watched-soapdish",
 		"title": "PFT Watched Soapdish",
-		"elucidation": "pft announces he watched soapdish",
+		"elucidation": "pft watched soapdish and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e135",
-				"epHandle": "The Threedom Framily Plan",
+				"episode": {
+					"key": "s4e135",
+					"title": "The Threedom Framily Plan"
+				},
 				"startMinute": 2,
 				"class": "inaugural",
 				"tags": ["soapdish (film)"]
 			},
 			{
-				"ep": "s4e143",
-				"epHandle": "I Want Cold Cuts!",
+				"episode": {
+					"key": "s4e143",
+					"title": "I Want Cold Cuts!"
+				},
 				"startMinute": 18,
 				"class": "retelling",
 				"tags": ["soapdish (film)"]
@@ -386,88 +447,351 @@
 		]
 	},
 	{
-		"handle": "have-we-talked-about-everything",
-		"title": "(meta) Have We Talked About Everything?",
-		"elucidation": "the cast acknowledges that they often repeat stories",
+		"handle": "meta-have-we-talked-about-this-no",
+		"title": "(inverted meta) Have We Talked About This?",
+		"elucidation": "often during the run of threedom, the cast will worry they've already discussed something but they actually haven't",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e99",
-				"epHandle": "Secret Santa Pizza",
-				"startMinute": 25,
-				"class": "premise",
-				"tags": ["threedom (podcast)"]
-			},{
-				"ep": "s4e100",
-				"epHandle": "The Bed is Lego",
-				"startMinute": 51,
-				"class": "premise",
-				"tags": ["celebrities", "christina applegate"]
+				"episode": { "key": "s3e83", "title": "One Haha" },
+				"startMinute": 16,
+				"class": "invertedPremise",
+				"tags": ["helmets"],
+				"nb": [
+					"pft only started wearing helmets when he began to care about jht"
+				]
 			},
 			{
-				"ep": "s4e100",
-				"epHandle": "The Bed is Lego",
+				"episode": { "key": "s3e84", "title": "Hot Dog Chart" },
 				"startMinute": 2,
-				"class": "premise",
-				"tags": ["aging"]
+				"class": "invertedPremise",
+				"tags": ["the electric slide", "the hustle"]
 			},
 			{
-				"ep": "s5e149",
-				"epHandle": "Little Miss Butt Blaster",
+				"episode": { "key": "s3e86", "title": "Benji Butts" },
+				"startMinute": 35,
+				"class": "invertedPremise",
+				"tags": ["michael douglas"],
+				"nb": [
+					"lauren posits that michael douglas used to be a standard-bearer of male beauty"
+				]
+			},
+			{
+				"episode": { "key": "s3e86", "title": "Benji Butts" },
+				"startMinute": 14,
+				"class": "invertedPremise",
+				"tags": ["manhattan (film)", "woody allen"],
+				"nb": ["pft watched manhattan recently"]
+			},
+			{
+				"episode": { "key": "s3e86", "title": "Benji Butts" },
+				"startMinute": 26,
+				"class": "invertedPremise",
+				"tags": ["raya (app)"],
+				"nb": ["lauren saw celebrities on her friend's raya account"]
+			},
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 53,
+				"class": "invertedPremise",
+				"tags": ["rockwell"]
+			},
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 43,
+				"class": "invertedPremise",
+				"tags": ["movie snacks"]
+			},
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 37,
+				"class": "invertedPremise",
+				"tags": [
+					"george clooney",
+					"embarrassment",
+					"dental procedures",
+					"wisdom teeth"
+				]
+			},
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 25,
+				"class": "invertedPremise",
+				"tags": ["opossums"],
+				"nb": ["opossum with or without rabies on lauren's porch"]
+			},
+			{
+				"episode": { "key": "s3e89", "title": "One Less Egg To Fry" },
+				"startMinute": 37,
+				"class": "invertedPremise",
+				"tags": ["kelsey grammer"],
+				"nb": [
+					"much talk about pft's kelsey grammer experience, but none quite as general as this"
+				]
+			},
+			{
+				"episode": { "key": "s3e89", "title": "One Less Egg To Fry" },
+				"startMinute": 36,
+				"class": "invertedPremise",
+				"tags": ["seth meyers", "mars"],
+				"nb": ["it helps to forget that you've told this story before"]
+			},
+			{
+				"episode": { "key": "s3e89", "title": "One Less Egg To Fry" },
+				"startMinute": 23,
+				"class": "invertedPremise",
+				"tags": ["liv tyler", "lord of the rings"],
+				"nb": ["lauren's admiration of liv tyler"]
+			},
+			{
+				"episode": { "key": "s3e89", "title": "One Less Egg To Fry" },
+				"startMinute": 1,
+				"class": "invertedPremise",
+				"tags": ["shoplifting", "tower records", "classical music"]
+			},
+			{
+				"episode": { "key": "s3e90", "title": "Light Bulb's Good" },
+				"startMinute": 30,
+				"class": "invertedPremise",
+				"tags": ["cooking", "parents"],
+				"nb": [
+					"scott's mom, when young, favd a handful of betty crocker recipes and made them continuously forever and ever"
+				]
+			},
+			{
+				"episode": { "key": "s3e90", "title": "Light Bulb's Good" },
+				"startMinute": 3,
+				"class": "invertedPremise",
+				"tags": ["sean diston", "moving"]
+			},
+			{
+				"episode": { "key": "s3e91", "title": "Random Ways And Means" },
+				"startMinute": 49,
+				"class": "invertedPremise",
+				"tags": ["benson (tv)", "becker (tv)"],
+				"nb": ["lauren mistakes benson for becker"]
+			},
+			{
+				"episode": { "key": "s3e91", "title": "Random Ways And Means" },
+				"startMinute": 23,
+				"class": "invertedPremise",
+				"nb": [
+					"scott frequented a 7-11, was lent a dvd of some dude's indie film"
+				],
+				"tags": ["7-11 (store)", "police"]
+			},
+			{
+				"episode": {
+					"key": "s3e93",
+					"title": "Sprinkle and Tinkle"
+				},
+				"startMinute": 27,
+				"class": "invertedPremise",
+				"nb": [
+					"lauren and mike (on a tip from nicole byer) attempt an hobbit-themed airb&b"
+				],
+				"tags": ["shipping containers"]
+			},
+			{
+				"episode": { "key": "s3e95", "title": "Toothpaste Conundrum" },
+				"startMinute": 13,
+				"class": "invertedPremise",
+				"tags": [
+					"barbra streisand",
+					"personal shopping malls",
+					"marie antoinette"
+				]
+			},
+			{
+				"episode": { "key": "s3e94", "title": "Hey Man" },
+				"startMinute": 45,
+				"class": "invertedPremise",
+				"nb": [
+					"this boys life has been referenced but never talked about"
+				],
+				"tags": ["this boy's life (book)", "tobias wolff"]
+			},
+			{
+				"episode": { "key": "s3e94", "title": "Hey Man" },
+				"startMinute": 45,
+				"class": "invertedPremise",
+				"nb": [
+					"it was not an apartment complex that had frogs all the time"
+				],
+				"tags": ["frogs"]
+			},
+			{
+				"episode": { "key": "s3e91", "title": "Random Ways And Means" },
+				"startMinute": 9,
+				"class": "invertedPremise",
+				"tags": ["neighbors", "christmas cards"]
+			}
+		]
+	},
+	{
+		"handle": "have-we-talked-about-everything",
+		"title": "(meta) Have We Talked About Everything?",
+		"elucidation": "early in the run of threedom, the cast noticed that they often repeat stories and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e85", "title": "Mrs. Pachinko" },
 				"startMinute": 0,
 				"class": "premise",
-				"tags": ["goose flesh"]
+				"tags": ["restaurant roundup"]
 			},
 			{
-				"ep": "s5e149",
-				"epHandle": "Little Miss Butt Blaster",
+				"episode": {
+					"key": "s5e159",
+					"title": "Hi I'm a Creepypasta"
+				},
+				"startMinute": 53,
+				"class": "premise",
+				"tags": ["jury duty"]
+			},
+			{
+				"episode": { "key": "s5e158", "title": "Scam Sham or Ham" },
+				"startMinute": 36,
+				"class": "premise",
+				"tags": ["intoxication", "drunk history (web show)"],
+				"nb": "should we do drunk threedom?"
+			},
+			{
+				"episode": { "key": "s5e158", "title": "Scam Sham or Ham" },
+				"startMinute": 44,
+				"class": "premise",
+				"tags": ["thief in the night"],
+				"nb": "this is just life"
+			},
+			{
+				"episode": {
+					"key": "s5e156",
+					"title": "No More Witches No More Goblins"
+				},
+				"startMinute": 43,
+				"class": "premise",
+				"tags": ["spankings", "sharpies", "threedom (podcast)"],
+				"nb": "so three conversations - no problem"
+			},
+			{
+				"episode": {
+					"key": "s3e99",
+					"title": "Secret Santa Pizza"
+				},
+				"startMinute": 25,
+				"class": "premise",
+				"tags": ["spankings", "sharpies", "threedom (podcast)"]
+			},
+			{
+				"episode": {
+					"key": "s4e100",
+					"title": "The Bed is Lego"
+				},
+				"startMinute": 51,
+				"class": "premise",
+				"tags": [
+					"spankings",
+					"sharpies",
+					"celebrities",
+					"christina applegate"
+				]
+			},
+			{
+				"episode": {
+					"key": "s4e100",
+					"title": "The Bed is Lego"
+				},
 				"startMinute": 2,
 				"class": "premise",
-				"tags": ["smear the queer (old-timey childhood game)"]
+				"tags": ["spankings", "sharpies", "aging"]
 			},
 			{
-				"ep": "s4e144",
-				"epHandle": "Matrix is My Doo-Dah Bones",
+				"episode": {
+					"key": "s5e149",
+					"title": "Little Miss Butt Blaster"
+				},
+				"startMinute": 0,
+				"class": "premise",
+				"tags": ["spankings", "sharpies", "goose flesh"]
+			},
+			{
+				"episode": {
+					"key": "s5e149",
+					"title": "Little Miss Butt Blaster"
+				},
+				"startMinute": 2,
+				"class": "premise",
+				"tags": [
+					"spankings",
+					"sharpies",
+					"smear the queer (old-timey childhood game)"
+				]
+			},
+			{
+				"episode": {
+					"key": "s4e144",
+					"title": "Matrix is My Doo-Dah Bones"
+				},
 				"startMinute": 60,
 				"class": "premise",
-				"tags": [],
+				"tags": ["spankings", "sharpies"],
 				"nb": "my goal is to repeat zero stories"
 			},
 			{
-				"ep": "s4e143",
-				"epHandle": "I Want Cold Cuts!",
+				"episode": {
+					"key": "s4e143",
+					"title": "I Want Cold Cuts!"
+				},
 				"startMinute": 14,
 				"class": "premise",
-				"tags": [],
+				"tags": ["spankings", "sharpies"],
 				"nb": "there's no chance that you haven't"
 			},
 			{
-				"ep": "s4e143",
-				"epHandle": "I Want Cold Cuts!",
+				"episode": {
+					"key": "s4e143",
+					"title": "I Want Cold Cuts!"
+				},
 				"startMinute": 22,
 				"class": "premise",
-				"tags": [],
+				"tags": ["spankings", "sharpies"],
 				"nb": "and yet we still brought the same topics"
 			},
 			{
-				"ep": "s5e156",
-				"epHandle": "No More Witches No More Goblins",
+				"episode": {
+					"key": "s5e156",
+					"title": "No More Witches No More Goblins"
+				},
 				"startMinute": 46,
 				"class": "premise",
-				"tags": [],
+				"tags": ["spankings", "sharpies"],
 				"nb": "this is why it's ok that we repeat them"
+			},
+			{
+				"episode": { "key": "s3e94", "title": "Hey Man" },
+				"startMinute": 39,
+				"class": "premise",
+				"tags": ["combs"]
 			}
 		]
 	},
 	{
 		"handle": "no-baby-gonna-change-my-life",
 		"title": "No Baby Gonna Change *My* Life",
-		"elucidation": "scott recounts how stupidly wrong one friend of his was about becoming a parent",
+		"elucidation": "scott's friend thought becoming a parent wouldn't change much and now scott won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e149",
-				"epHandle": "Little Miss Butt Blaster",
+				"episode": { "key": "s3e84", "title": "Hot Dog Chart" },
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": ["parenthood"]
+			},
+			{
+				"episode": {
+					"key": "s5e149",
+					"title": "Little Miss Butt Blaster"
+				},
 				"startMinute": 29,
 				"class": "retelling",
 				"tags": ["parenthood"]
@@ -477,27 +801,37 @@
 	{
 		"handle": "craft-services-on-kelsey-grammer-resents-the-sketch-show",
 		"title": "Craft Services on 'Kelsey Grammer P/Resents The Sketch Show' Set",
-		"elucidation": "pft tells tales about craft services on that kelsey grammer show from the 90s",
+		"elucidation": "pft ate craft services on that kelsey grammer show from the 90s and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e147",
-				"epHandle": "Is the Nibbler Here?",
+				"episode": {
+					"key": "s5e147",
+					"title": "Is the Nibbler Here?"
+				},
 				"startMinute": 19,
 				"class": "questionedRetelling",
 				"tags": ["craft services", "kelsey grammer"]
+			},
+			{
+				"episode": { "key": "s3e89", "title": "One Less Egg To Fry" },
+				"startMinute": 40,
+				"class": "retelling",
+				"tags": ["kelsey grammer"]
 			}
 		]
 	},
 	{
 		"handle": "house-hunters-verisimilutude",
 		"title": "House Hunters Verisimilutude",
-		"elucidation": "the cast discusses the veracity of the house hunters tv show",
+		"elucidation": "the cast heard some house hunters tv show gossip and now they won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e147",
-				"epHandle": "Is the Nibbler Here?",
+				"episode": {
+					"key": "s5e147",
+					"title": "Is the Nibbler Here?"
+				},
 				"startMinute": 23,
 				"class": "questionedRetelling",
 				"tags": ["house hunters (tv)"]
@@ -507,12 +841,14 @@
 	{
 		"handle": "the-food-you-ve-eaten-most",
 		"title": "The Food You've Eaten Most",
-		"elucidation": "lauren's topics presents: what is the food you've eaten most in your life?",
+		"elucidation": "lauren ate a lot of fries and now she won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e147",
-				"epHandle": "Is the Nibbler Here?",
+				"episode": {
+					"key": "s5e147",
+					"title": "Is the Nibbler Here?"
+				},
 				"startMinute": 29,
 				"class": "questionedRetelling",
 				"tags": ["the nibbler", "marie callender's"]
@@ -522,34 +858,46 @@
 	{
 		"title": "Scott Screams at Strangers on an Airplane",
 		"handle": "scott-screams-at-strangers-on-an-airplane",
-		"elucidation": "scott wakes from sleep on a flight and berates strangers",
+		"elucidation": "scott fell asleep on a flight once and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e147",
-				"epHandle": "Is the Nibbler Here?",
+				"episode": {
+					"key": "s5e147",
+					"title": "Is the Nibbler Here?"
+				},
 				"startMinute": 43,
 				"class": "questionedRetelling",
 				"tags": ["air travel", "dreams", "embarrassment"]
+			},
+			{
+				"episode": { "key": "s4e131", "title": "Hub-Lublacist" },
+				"startMinute": 9,
+				"class": "inaugural",
+				"tags": ["ipods", "air travel", "embarrassment", "dreams"]
 			}
 		]
 	},
 	{
 		"title": "Proper Holiday Order",
 		"handle": "proper-holiday-order",
-		"elucidation": "the cast reorders american holidays",
+		"elucidation": "the cast disagree with the order of american holidays and now they won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e81",
-				"epHandle": "True Clomance",
+				"episode": {
+					"key": "s3e81",
+					"title": "True Clomance"
+				},
 				"startMinute": 32,
 				"class": "inaugural",
 				"tags": ["holidays"]
 			},
 			{
-				"ep": "s5e146",
-				"epHandle": "I Hope Everyone's a Mummy",
+				"episode": {
+					"key": "s5e146",
+					"title": "I Hope Everyone's a Mummy"
+				},
 				"startMinute": 9,
 				"class": "acknowledgedRetelling",
 				"tags": ["holidays"]
@@ -559,19 +907,23 @@
 	{
 		"title": "Paul's Sister Lives in Germany",
 		"handle": "paul-s-sister-lives-in-germany",
-		"elucidation": "pft tells us with varying degrees of detail that his sister lives in germany",
+		"elucidation": "pft's sister lived in germany and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e142",
-				"epHandle": "Balling My Eyes Out",
+				"episode": {
+					"key": "s4e142",
+					"title": "Balling My Eyes Out"
+				},
 				"startMinute": 35,
 				"class": "inaugural",
 				"tags": ["siblings"]
 			},
 			{
-				"ep": "s5e18",
-				"epHandle": "I Hope Everyone's a Mummy",
+				"episode": {
+					"key": "s5e18",
+					"title": "I Hope Everyone's a Mummy"
+				},
 				"startMinute": 16,
 				"class": "pimpedRetelling",
 				"tags": ["siblings"]
@@ -581,26 +933,32 @@
 	{
 		"title": "My Bra Collection?",
 		"handle": "my-bra-collection",
-		"elucidation": "the cast debate granting each other money or property",
+		"elucidation": "the cast has a problem granting each other money or property and they won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e18",
-				"epHandle": "I Hope Everyone's a Mummy",
+				"episode": {
+					"key": "s5e18",
+					"title": "I Hope Everyone's a Mummy"
+				},
 				"startMinute": 34,
 				"class": "retelling",
 				"tags": ["money", "wills"]
 			},
 			{
-				"ep": "s2e34",
-				"epHandle": "Old Vegas",
+				"episode": {
+					"key": "s2e34",
+					"title": "Old Vegas"
+				},
 				"startMinute": 20,
 				"class": "acknowledgedRetelling",
 				"tags": ["money", "wills"]
 			},
 			{
-				"ep": "s2e32",
-				"epHandle": "Do You Even Know Gyms?",
+				"episode": {
+					"key": "s2e32",
+					"title": "Do You Even Know Gyms?"
+				},
 				"startMinute": 3,
 				"class": "inaugural",
 				"tags": ["money", "wills"]
@@ -610,26 +968,32 @@
 	{
 		"title": "I Feel Like I'm Going to be in a Grave",
 		"handle": "i-feel-like-i-m-going-to-be-in-a-grave",
-		"elucidation": "the cast wonder aloud about cremation or burial or other",
+		"elucidation": "the cast worry about cremation or burial or other and they won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e1",
-				"epHandle": "This Was a Mistake",
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
 				"startMinute": 35,
 				"class": "inaugural",
 				"tags": ["death", "burial", "cremation"]
 			},
 			{
-				"ep": "s2e53",
-				"epHandle": "Live from Just for Laughs: Perabo",
+				"episode": {
+					"key": "s2e53",
+					"title": "Live from Just for Laughs: Perabo"
+				},
 				"startMinute": 40,
 				"class": "retelling",
 				"tags": ["death", "burial", "cremation"]
 			},
 			{
-				"ep": "s5e146",
-				"epHandle": "I Hope Everyone's a Mummy",
+				"episode": {
+					"key": "s5e146",
+					"title": "I Hope Everyone's a Mummy"
+				},
 				"startMinute": 34,
 				"class": "retelling",
 				"tags": ["death", "burial", "cremation", "wills"]
@@ -639,19 +1003,23 @@
 	{
 		"title": "Why is it Always the Good Ones!?",
 		"handle": "why-is-it-always-the-good-ones",
-		"elucidation": "paul recounts what happened at ye rustic inn when princess diana died",
+		"elucidation": "pft was at ye rustic inn when princess diana died and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e150",
-				"epHandle": "OH I HAD A POINT!",
+				"episode": {
+					"key": "s5e150",
+					"title": "OH I HAD A POINT!"
+				},
 				"startMinute": 15,
 				"class": "retelling",
 				"tags": ["celebrity deaths"]
 			},
 			{
-				"ep": "s2e147",
-				"epHandle": "Baby Lock Them Doors",
+				"episode": {
+					"key": "s2e147",
+					"title": "Baby Lock Them Doors"
+				},
 				"startMinute": 28,
 				"class": "inaugural",
 				"tags": ["celebrity deaths"]
@@ -661,19 +1029,23 @@
 	{
 		"title": "They Were Made to Replace Her (Beanie Babies)",
 		"handle": "they-were-made-to-replace-her-beanie-babies",
-		"elucidation": "lauren's history with beanie babies is visited",
+		"elucidation": "lauren collected beanie babies as a youth and now she won't shut the fuk up about it",
 		"nb": ["doesn't feel inaugural"],
 		"tellings": [
 			{
-				"ep": "s3e74",
-				"epHandle": "Dog Key Party",
+				"episode": {
+					"key": "s3e74",
+					"title": "Dog Key Party"
+				},
 				"startMinute": 46,
 				"class": "inaugural",
 				"tags": ["beanie babies", "diana, princess of wales"]
 			},
 			{
-				"ep": "s5e150",
-				"epHandle": "OH I HAD A POINT!",
+				"episode": {
+					"key": "s5e150",
+					"title": "OH I HAD A POINT!"
+				},
 				"startMinute": 19,
 				"class": "retelling",
 				"tags": ["beanie babies", "diana, princess of wales"]
@@ -687,15 +1059,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e144",
-				"epHandle": "Matrix is My Doo-Dah Bones",
+				"episode": {
+					"key": "s4e144",
+					"title": "Matrix is My Doo-Dah Bones"
+				},
 				"startMinute": 17,
 				"class": "pimpedRetelling",
 				"tags": ["bedrooms", "decor", "posters"]
 			},
 			{
-				"ep": "s3e73",
-				"epHandle": "You're a Ghost, I'm a Ten",
+				"episode": {
+					"key": "s3e73",
+					"title": "You're a Ghost, I'm a Ten"
+				},
 				"startMinute": 16,
 				"class": "inaugural",
 				"tags": ["bedrooms", "decor", "posters"]
@@ -709,9 +1085,17 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e139",
-				"epHandle": "Good Couch, Bad Couch",
+				"episode": {
+					"key": "s4e139",
+					"title": "Good Couch, Bad Couch"
+				},
 				"startMinute": 37,
+				"class": "retelling",
+				"tags": ["rats", "bugs"]
+			},
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 25,
 				"class": "inaugural",
 				"tags": ["rats", "bugs"]
 			}
@@ -724,8 +1108,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e62",
-				"epHandle": "Slap Machines",
+				"episode": {
+					"key": "s3e62",
+					"title": "Slap Machines"
+				},
 				"startMinute": 11,
 				"class": "premise",
 				"tags": ["shoes"]
@@ -739,8 +1125,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e144",
-				"epHandle": "Matrix is My Doo-Dah Bones",
+				"episode": {
+					"key": "s4e144",
+					"title": "Matrix is My Doo-Dah Bones"
+				},
 				"startMinute": 41,
 				"class": "acknowledgedRetelling",
 				"tags": ["skills"]
@@ -754,8 +1142,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e151",
-				"epHandle": "Kind of a Mess Down There",
+				"episode": {
+					"key": "s5e151",
+					"title": "Kind of a Mess Down There"
+				},
 				"startMinute": 3,
 				"class": "acknowledgedRetelling",
 				"tags": [
@@ -764,8 +1154,10 @@
 				]
 			},
 			{
-				"ep": "s1e15",
-				"epHandle": "Church Cool Man",
+				"episode": {
+					"key": "s1e15",
+					"title": "Church Cool Man"
+				},
 				"startMinute": 12,
 				"class": "inaugural",
 				"tags": [
@@ -782,15 +1174,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e151",
-				"epHandle": "Kind of a Mess Down There",
+				"episode": {
+					"key": "s5e151",
+					"title": "Kind of a Mess Down There"
+				},
 				"startMinute": 6,
 				"class": "retelling",
 				"tags": ["kelsey grammer"]
 			},
 			{
-				"ep": "s4e108",
-				"epHandle": "To And Fro",
+				"episode": {
+					"key": "s4e108",
+					"title": "To And Fro"
+				},
 				"startMinute": 43,
 				"class": "inaugural",
 				"tags": ["kelsey grammer"]
@@ -804,22 +1200,28 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e151",
-				"epHandle": "Kind of a Mess Down There",
+				"episode": {
+					"key": "s5e151",
+					"title": "Kind of a Mess Down There"
+				},
 				"startMinute": 47,
 				"class": "retelling",
 				"tags": ["big (film)"]
 			},
 			{
-				"ep": "s4e125",
-				"epHandle": "Boff",
+				"episode": {
+					"key": "s4e125",
+					"title": "Boff"
+				},
 				"startMinute": 33,
 				"class": "acknowledgedRetelling",
 				"tags": ["big (film)"]
 			},
 			{
-				"ep": "s1e12",
-				"epHandle": "I Wanna Be Phoneboof",
+				"episode": {
+					"key": "s1e12",
+					"title": "I Wanna Be Phoneboof"
+				},
 				"startMinute": 13,
 				"class": "inaugural",
 				"tags": ["big (film)"]
@@ -833,8 +1235,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e144",
-				"epHandle": "Matrix is My Doo-Dah Bones",
+				"episode": {
+					"key": "s4e144",
+					"title": "Matrix is My Doo-Dah Bones"
+				},
 				"startMinute": 6,
 				"class": "retelling",
 				"tags": [
@@ -852,15 +1256,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e144",
-				"epHandle": "Matrix is My Doo-Dah Bones",
+				"episode": {
+					"key": "s4e144",
+					"title": "Matrix is My Doo-Dah Bones"
+				},
 				"startMinute": 9,
 				"class": "acknowledgedRetelling",
 				"tags": ["precious: based on the novel 'push' by sapphire"]
 			},
 			{
-				"ep": "s3e66",
-				"epHandle": "He Talks About Homies",
+				"episode": {
+					"key": "s3e66",
+					"title": "He Talks About Homies"
+				},
 				"startMinute": 48,
 				"class": "acknowledgedRetelling",
 				"tags": ["precious: based on the novel 'push' by sapphire"]
@@ -874,15 +1282,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e141",
-				"epHandle": "Topher McGrace",
+				"episode": {
+					"key": "s4e141",
+					"title": "Topher McGrace"
+				},
 				"startMinute": 4,
 				"class": "retelling",
 				"tags": ["babies", "exes"]
 			},
 			{
-				"ep": "s4e105",
-				"epHandle": "Crumbelievable",
+				"episode": {
+					"key": "s4e105",
+					"title": "Crumbelievable"
+				},
 				"startMinute": 28,
 				"class": "inaugural",
 				"tags": ["babies", "exes"]
@@ -896,15 +1308,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e141",
-				"epHandle": "Topher McGrace",
+				"episode": {
+					"key": "s4e141",
+					"title": "Topher McGrace"
+				},
 				"startMinute": 11,
 				"class": "acknowledgedRetelling",
 				"tags": ["broken bones", "injuries", "siblings"]
 			},
 			{
-				"ep": "s4e131",
-				"epHandle": "Hub-Lublacist",
+				"episode": {
+					"key": "s4e131",
+					"title": "Hub-Lublacist"
+				},
 				"startMinute": 53,
 				"class": "inaugural",
 				"tags": ["broken bones", "injuries", "siblings"]
@@ -918,8 +1334,10 @@
 		"nb": ["https://en.wikipedia.org/wiki/Chisanbop"],
 		"tellings": [
 			{
-				"ep": "s4e140",
-				"epHandle": "Honey Bee Same as Bumble Me",
+				"episode": {
+					"key": "s4e140",
+					"title": "Honey Bee Same as Bumble Me"
+				},
 				"startMinute": 19,
 				"class": "questionedRetelling",
 				"tags": ["commercials", "education", "math"]
@@ -933,29 +1351,37 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e139",
-				"epHandle": "Good Couch, Bad Couch",
+				"episode": {
+					"key": "s4e139",
+					"title": "Good Couch, Bad Couch"
+				},
 				"startMinute": 33,
 				"class": "retelling",
 				"tags": ["lizards", "bugs"]
 			},
 			{
-				"ep": "s4e102",
-				"epHandle": "Mark Mothersday",
+				"episode": {
+					"key": "s4e102",
+					"title": "Mark Mothersday"
+				},
 				"startMinute": 39,
 				"class": "retelling",
 				"tags": ["lizards", "bugs"]
 			},
 			{
-				"ep": "s3e87",
-				"epHandle": "Julie Bowfinger",
+				"episode": {
+					"key": "s3e87",
+					"title": "Julie Bowfinger"
+				},
 				"startMinute": 28,
 				"class": "retelling",
 				"tags": ["lizards", "bugs"]
 			},
 			{
-				"ep": "s3e68",
-				"epHandle": "The Normal Kingdom",
+				"episode": {
+					"key": "s3e68",
+					"title": "The Normal Kingdom"
+				},
 				"startMinute": 71,
 				"class": "inaugural",
 				"tags": ["lizards", "bugs"]
@@ -969,15 +1395,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e139",
-				"epHandle": "Good Couch, Bad Couch",
+				"episode": {
+					"key": "s4e139",
+					"title": "Good Couch, Bad Couch"
+				},
 				"startMinute": 34,
 				"class": "retelling",
 				"tags": ["rats", "vermin"]
 			},
 			{
-				"ep": "s1e21",
-				"epHandle": "Vampire O Face",
+				"episode": {
+					"key": "s1e21",
+					"title": "Vampire O Face"
+				},
 				"startMinute": 11,
 				"class": "inaugural",
 				"tags": ["rats", "vermin"]
@@ -991,15 +1421,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e139",
-				"epHandle": "Good Couch, Bad Couch",
+				"episode": {
+					"key": "s4e139",
+					"title": "Good Couch, Bad Couch"
+				},
 				"startMinute": 36,
 				"class": "retelling",
 				"tags": ["rats", "vermin"]
 			},
 			{
-				"ep": "s1e21",
-				"epHandle": "Vampire O Face",
+				"episode": {
+					"key": "s1e21",
+					"title": "Vampire O Face"
+				},
 				"startMinute": 15,
 				"class": "inaugural",
 				"tags": ["rats", "vermin"]
@@ -1013,15 +1447,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e139",
-				"epHandle": "Good Couch, Bad Couch",
+				"episode": {
+					"key": "s4e139",
+					"title": "Good Couch, Bad Couch"
+				},
 				"startMinute": 37,
 				"class": "retelling",
 				"tags": ["bugs"]
 			},
 			{
-				"ep": "s3e87",
-				"epHandle": "Julie Bowfinger",
+				"episode": {
+					"key": "s3e87",
+					"title": "Julie Bowfinger"
+				},
 				"startMinute": 26,
 				"class": "inaugural",
 				"tags": ["bugs"]
@@ -1035,22 +1473,28 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e138",
-				"epHandle": "Boats Come Into Your Life",
+				"episode": {
+					"key": "s4e138",
+					"title": "Boats Come Into Your Life"
+				},
 				"startMinute": 10,
 				"class": "retelling",
 				"tags": ["boats", "roller coasters"]
 			},
 			{
-				"ep": "s5e146",
-				"epHandle": "I Hope Everyone's A Mummy",
+				"episode": {
+					"key": "s5e146",
+					"title": "I Hope Everyone's A Mummy"
+				},
 				"startMinute": 51,
 				"class": "retelling",
 				"tags": ["boats"]
 			},
 			{
-				"ep": "s2e38",
-				"epHandle": "Kiss My Grits!",
+				"episode": {
+					"key": "s2e38",
+					"title": "Kiss My Grits!"
+				},
 				"startMinute": 5,
 				"class": "inaugural",
 				"tags": ["boats"]
@@ -1064,15 +1508,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e138",
-				"epHandle": "Boats Come Into Your Life",
+				"episode": {
+					"key": "s4e138",
+					"title": "Boats Come Into Your Life"
+				},
 				"startMinute": 17,
 				"class": "acknowledgedRetelling",
 				"tags": ["siblings"]
 			},
 			{
-				"ep": "s4e131",
-				"epHandle": "Hub-Lublacist",
+				"episode": {
+					"key": "s4e131",
+					"title": "Hub-Lublacist"
+				},
 				"startMinute": 15,
 				"class": "retelling",
 				"tags": [
@@ -1081,8 +1529,10 @@
 				]
 			},
 			{
-				"ep": "s3e64",
-				"epHandle": "Circles On A Stick",
+				"episode": {
+					"key": "s3e64",
+					"title": "Circles On A Stick"
+				},
 				"startMinute": 14,
 				"class": "inaugural",
 				"tags": ["siblings", "drugs", "stand up comedians"]
@@ -1096,15 +1546,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e64",
-				"epHandle": "Circles On A Stick",
+				"episode": {
+					"key": "s3e64",
+					"title": "Circles On A Stick"
+				},
 				"startMinute": 13,
 				"class": "retelling",
 				"tags": ["siblings", "drugs"]
 			},
 			{
-				"ep": "s3e61",
-				"epHandle": "I Renounce Tiger King",
+				"episode": {
+					"key": "s3e61",
+					"title": "I Renounce Tiger King"
+				},
 				"startMinute": 54,
 				"class": "inaugural",
 				"tags": ["siblings", "drugs"]
@@ -1118,22 +1572,28 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e67",
-				"epHandle": "Hale Bopp Sneakers",
+				"episode": {
+					"key": "s3e67",
+					"title": "Hale Bopp Sneakers"
+				},
 				"startMinute": 12,
 				"class": "retelling",
 				"tags": ["beer", "george wendt", "cheers (tv)"]
 			},
 			{
-				"ep": "s1e21",
-				"epHandle": "Vampire O Face",
+				"episode": {
+					"key": "s1e21",
+					"title": "Vampire O Face"
+				},
 				"startMinute": 32,
 				"class": "inaugural",
 				"tags": ["beer", "george wendt", "cheers (tv)"]
 			},
 			{
-				"ep": "s4e137",
-				"epHandle": "et tu (E.T. 2)",
+				"episode": {
+					"key": "s4e137",
+					"title": "et tu (E.T. 2)"
+				},
 				"startMinute": 64,
 				"class": "retelling",
 				"tags": ["beer", "george wendt", "cheers (tv)"]
@@ -1147,22 +1607,28 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e18",
-				"epHandle": "What are You, a 3 Amigo!",
+				"episode": {
+					"key": "s1e18",
+					"title": "What are You, a 3 Amigo!"
+				},
 				"startMinute": 26,
 				"class": "inaugural",
 				"tags": ["school", "higher education"]
 			},
 			{
-				"ep": "s1e06",
-				"epHandle": "This Episode Is Not Titled Dilly Dilly",
+				"episode": {
+					"key": "s1e06",
+					"title": "This Episode Is Not Titled Dilly Dilly"
+				},
 				"startMinute": 47,
 				"class": "retelling",
 				"tags": ["school", "higher education"]
 			},
 			{
-				"ep": "s4e115",
-				"epHandle": "Jumble Cruise",
+				"episode": {
+					"key": "s4e115",
+					"title": "Jumble Cruise"
+				},
 				"startMinute": 40,
 				"class": "retelling",
 				"tags": ["school", "higher education"]
@@ -1176,15 +1642,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e04",
-				"epHandle": "Slouchy Slurps-a-Ton",
+				"episode": {
+					"key": "s1e04",
+					"title": "Slouchy Slurps-a-Ton"
+				},
 				"startMinute": 35,
 				"class": "inaugural",
 				"tags": ["euphemisms", "farts"]
 			},
 			{
-				"ep": "s4e134",
-				"epHandle": "Simp Lee Marvelous",
+				"episode": {
+					"key": "s4e134",
+					"title": "Simp Lee Marvelous"
+				},
 				"startMinute": 20,
 				"class": "acknowledgedRetelling",
 				"tags": ["euphemisms", "farts"]
@@ -1198,15 +1668,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e134",
-				"epHandle": "Simp Lee Marvelous",
+				"episode": {
+					"key": "s4e134",
+					"title": "Simp Lee Marvelous"
+				},
 				"startMinute": 44,
 				"class": "retelling",
 				"tags": ["dentists", "teeth"]
 			},
 			{
-				"ep": "s1e10",
-				"epHandle": "32 Toothless Vegetables",
+				"episode": {
+					"key": "s1e10",
+					"title": "32 Toothless Vegetables"
+				},
 				"startMinute": 39,
 				"class": "inaugural",
 				"tags": ["dentists", "teeth"]
@@ -1220,15 +1694,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e01",
-				"epHandle": "This Was A Mistake",
+				"episode": {
+					"key": "s1e01",
+					"title": "This Was A Mistake"
+				},
 				"startMinute": 6,
 				"class": "inaugural",
 				"tags": ["caryl & marilyn: real friends (tv)"]
 			},
 			{
-				"ep": "s5e152",
-				"epHandle": "Eye Bad Laser Good",
+				"episode": {
+					"key": "s5e152",
+					"title": "Eye Bad Laser Good"
+				},
 				"startMinute": 23,
 				"class": "retelling",
 				"tags": ["caryl & marilyn: real friends (tv)"]
@@ -1242,15 +1720,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e132",
-				"epHandle": "The Bootleg Bug Man",
+				"episode": {
+					"key": "s4e132",
+					"title": "The Bootleg Bug Man"
+				},
 				"startMinute": 6,
 				"class": "questionedRetelling",
 				"tags": ["school", "lockers", "book bags"]
 			},
 			{
-				"ep": "s1e03",
-				"epHandle": "Jack Bauer He 24 Big Hit",
+				"episode": {
+					"key": "s1e03",
+					"title": "Jack Bauer He 24 Big Hit"
+				},
 				"startMinute": 33,
 				"class": "inaugural",
 				"tags": ["school", "lockers", "book bags"]
@@ -1264,15 +1746,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e130",
-				"epHandle": "The Flintstones Are Extinct",
+				"episode": {
+					"key": "s4e130",
+					"title": "The Flintstones Are Extinct"
+				},
 				"startMinute": 46,
 				"class": "inaugural",
 				"tags": ["pants", "getting dressed"]
 			},
 			{
-				"ep": "s4e132",
-				"epHandle": "The Bootleg Bug Man",
+				"episode": {
+					"key": "s4e132",
+					"title": "The Bootleg Bug Man"
+				},
 				"startMinute": 7,
 				"class": "inaugural",
 				"tags": ["pants", "getting dressed"]
@@ -1286,15 +1772,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e132",
-				"epHandle": "The Bootleg Bug Man",
+				"episode": {
+					"key": "s4e132",
+					"title": "The Bootleg Bug Man"
+				},
 				"startMinute": 14,
 				"class": "acknowledgedRetelling",
 				"tags": ["rumors", "richard gere", "rod stewart"]
 			},
 			{
-				"ep": "s4e125",
-				"epHandle": "Boff",
+				"episode": {
+					"key": "s4e125",
+					"title": "Boff"
+				},
 				"startMinute": 9,
 				"class": "inaugural",
 				"tags": ["rumors", "richard gere", "rod stewart"]
@@ -1308,15 +1798,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e132",
-				"epHandle": "The Bootleg Bug Man",
+				"episode": {
+					"key": "s4e132",
+					"title": "The Bootleg Bug Man"
+				},
 				"startMinute": 28,
 				"class": "acknowledgedRetelling",
 				"tags": ["stage kissing", "acting"]
 			},
 			{
-				"ep": "s1e04",
-				"epHandle": "Slouchy Slurps-a-Ton",
+				"episode": {
+					"key": "s1e04",
+					"title": "Slouchy Slurps-a-Ton"
+				},
 				"startMinute": 24,
 				"class": "inaugural",
 				"tags": ["stage kissing", "acting"]
@@ -1330,15 +1824,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e131",
-				"epHandle": "Hub-Lublacist",
+				"episode": {
+					"key": "s4e131",
+					"title": "Hub-Lublacist"
+				},
 				"startMinute": 9,
 				"class": "inaugural",
 				"tags": ["nightmares", "dreams", "sleep", "embarrassment"]
 			},
 			{
-				"ep": "s5e147",
-				"epHandle": "Is the Nibbler Here",
+				"episode": {
+					"key": "s5e147",
+					"title": "Is the Nibbler Here"
+				},
 				"startMinute": 43,
 				"class": "acknowledgedRetelling",
 				"tags": ["stage kissing", "acting"]
@@ -1352,15 +1850,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e131",
-				"epHandle": "Hub-Lublacist",
+				"episode": {
+					"key": "s4e131",
+					"title": "Hub-Lublacist"
+				},
 				"startMinute": 22,
 				"class": "pimpedRetelling",
 				"tags": ["shoes", "embarrassment"]
 			},
 			{
-				"ep": "s1e03",
-				"epHandle": "Jack Bauer He 24 Big Hit",
+				"episode": {
+					"key": "s1e03",
+					"title": "Jack Bauer He 24 Big Hit"
+				},
 				"startMinute": 28,
 				"class": "inaugural",
 				"tags": ["shoes", "embarrassment"]
@@ -1374,22 +1876,28 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e131",
-				"epHandle": "Hub-Lublacist",
+				"episode": {
+					"key": "s4e131",
+					"title": "Hub-Lublacist"
+				},
 				"startMinute": 24,
 				"class": "acknowledgedRetelling",
 				"tags": ["famous houses"]
 			},
 			{
-				"ep": "s3e88",
-				"epHandle": "Three Shots To The Dome",
+				"episode": {
+					"key": "s3e88",
+					"title": "Three Shots To The Dome"
+				},
 				"startMinute": 21,
 				"class": "retelling",
 				"tags": ["famous houses"]
 			},
 			{
-				"ep": "s3e75",
-				"epHandle": "You're So Plane",
+				"episode": {
+					"key": "s3e75",
+					"title": "You're So Plane"
+				},
 				"startMinute": 4,
 				"class": "inaugural",
 				"tags": ["famous houses", "lance bass"]
@@ -1403,15 +1911,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e19",
-				"epHandle": "My Secret Visitors...",
+				"episode": {
+					"key": "s1e19",
+					"title": "My Secret Visitors..."
+				},
 				"startMinute": 18,
 				"class": "inaugural",
 				"tags": ["vitamins", "overdoses"]
 			},
 			{
-				"ep": "s4e130",
-				"epHandle": "The Flintstones Are Extinct",
+				"episode": {
+					"key": "s4e130",
+					"title": "The Flintstones Are Extinct"
+				},
 				"startMinute": 7,
 				"class": "inaugural",
 				"tags": ["vitamins", "overdoses"]
@@ -1425,22 +1937,28 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e130",
-				"epHandle": "The Flintstones Are Extinct",
+				"episode": {
+					"key": "s4e130",
+					"title": "The Flintstones Are Extinct"
+				},
 				"startMinute": 43,
 				"class": "acknowledgedRetelling",
 				"tags": ["high school"]
 			},
 			{
-				"ep": "s3e67",
-				"epHandle": "Hale Bopp Sneakers",
+				"episode": {
+					"key": "s3e67",
+					"title": "Hale Bopp Sneakers"
+				},
 				"startMinute": 13,
 				"class": "retelling",
 				"tags": ["high school"]
 			},
 			{
-				"ep": "s1e18",
-				"epHandle": "What are You, a 3 Amigo!",
+				"episode": {
+					"key": "s1e18",
+					"title": "What are You, a 3 Amigo!"
+				},
 				"startMinute": 6,
 				"class": "inaugural",
 				"tags": ["high school"]
@@ -1454,15 +1972,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e129",
-				"epHandle": "Man! I Feel Like a Grandma",
+				"episode": {
+					"key": "s4e129",
+					"title": "Man! I Feel Like a Grandma"
+				},
 				"startMinute": 14,
 				"class": "acknowledgedRetelling",
 				"tags": ["shania twain", "man! i feel like a woman!"]
 			},
 			{
-				"ep": "s4e126",
-				"epHandle": "I Get It, I'm Doctor Strange",
+				"episode": {
+					"key": "s4e126",
+					"title": "I Get It, I'm Doctor Strange"
+				},
 				"startMinute": 1,
 				"class": "inaugural",
 				"tags": ["shania twain", "man! i feel like a woman!"]
@@ -1476,15 +1998,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e129",
-				"epHandle": "Man! I Feel Like a Grandma",
+				"episode": {
+					"key": "s4e129",
+					"title": "Man! I Feel Like a Grandma"
+				},
 				"startMinute": 12,
 				"class": "retelling",
 				"tags": ["farms"]
 			},
 			{
-				"ep": "s1e13",
-				"epHandle": "Brocus before Hocus",
+				"episode": {
+					"key": "s1e13",
+					"title": "Brocus before Hocus"
+				},
 				"startMinute": 8,
 				"class": "inaugural",
 				"tags": ["farms"]
@@ -1498,15 +2024,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s2e53",
-				"epHandle": "Live from Just for Laughs Perabo",
+				"episode": {
+					"key": "s2e53",
+					"title": "Live from Just for Laughs Perabo"
+				},
 				"startMinute": 14,
 				"class": "inaugural",
 				"tags": ["ikea", "injuries"]
 			},
 			{
-				"ep": "s5e153",
-				"epHandle": "Bubble Disease",
+				"episode": {
+					"key": "s5e153",
+					"title": "Bubble Disease"
+				},
 				"startMinute": 9,
 				"class": "retelling",
 				"tags": ["ikea", "injuries"]
@@ -1520,15 +2050,19 @@
 		"nb": ["distinct from pft's tale about alan carr et al"],
 		"tellings": [
 			{
-				"ep": "s5e153",
-				"epHandle": "Bubble Disease",
+				"episode": {
+					"key": "s5e153",
+					"title": "Bubble Disease"
+				},
 				"startMinute": 40,
 				"class": "retelling",
 				"tags": ["smoking"]
 			},
 			{
-				"ep": "s1e23",
-				"epHandle": "Hamilton was Bae",
+				"episode": {
+					"key": "s1e23",
+					"title": "Hamilton was Bae"
+				},
 				"startMinute": 4,
 				"class": "inaugural",
 				"tags": ["smoking"]
@@ -1542,22 +2076,28 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e03",
-				"epHandle": "Jack Bauer He 24 Big Hit",
+				"episode": {
+					"key": "s1e03",
+					"title": "Jack Bauer He 24 Big Hit"
+				},
 				"startMinute": 11,
 				"class": "inaugural",
 				"tags": ["american girl doll"]
 			},
 			{
-				"ep": "s3e63",
-				"epHandle": "Risk It For The Biscuit",
+				"episode": {
+					"key": "s3e63",
+					"title": "Risk It For The Biscuit"
+				},
 				"startMinute": 64,
 				"class": "pimpedRetelling",
 				"tags": ["american girl doll"]
 			},
 			{
-				"ep": "s5e153",
-				"epHandle": "Bubble Disease",
+				"episode": {
+					"key": "s5e153",
+					"title": "Bubble Disease"
+				},
 				"startMinute": 41,
 				"class": "retelling",
 				"tags": ["american girl doll"]
@@ -1571,15 +2111,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e125",
-				"epHandle": "Boff",
+				"episode": {
+					"key": "s4e125",
+					"title": "Boff"
+				},
 				"startMinute": 2,
 				"class": "inaugural",
 				"tags": ["toilets", "bathrooms"]
 			},
 			{
-				"ep": "s4e129",
-				"epHandle": "Man! I Feel Like a Grandma",
+				"episode": {
+					"key": "s4e129",
+					"title": "Man! I Feel Like a Grandma"
+				},
 				"startMinute": 32,
 				"class": "acknowledgedRetelling",
 				"tags": ["toilets", "bathrooms"]
@@ -1593,15 +2137,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e133",
-				"epHandle": "It's MY Birthday Suit!",
+				"episode": {
+					"key": "s4e133",
+					"title": "It's MY Birthday Suit!"
+				},
 				"startMinute": 11,
 				"class": "inaugural",
 				"tags": ["the price is right (tv)", "game shows"]
 			},
 			{
-				"ep": "s4e128",
-				"epHandle": "SSN 123-45-6789",
+				"episode": {
+					"key": "s4e128",
+					"title": "SSN 123-45-6789"
+				},
 				"startMinute": 5,
 				"class": "acknowledgedRetelling",
 				"tags": ["the price is right (tv)", "game shows"]
@@ -1615,15 +2163,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e126",
-				"epHandle": "I Get It, I'm Doctor Strange",
+				"episode": {
+					"key": "s4e126",
+					"title": "I Get It, I'm Doctor Strange"
+				},
 				"startMinute": 24,
 				"class": "pimpedRetelling",
 				"tags": ["bicycles", "embarrassment"]
 			},
 			{
-				"ep": "s3e83",
-				"epHandle": "One Haha",
+				"episode": {
+					"key": "s3e83",
+					"title": "One Haha"
+				},
 				"startMinute": 18,
 				"class": "inaugural",
 				"tags": ["bicycles", "embarrassment"]
@@ -1637,15 +2189,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e124",
-				"epHandle": "Fleetwood Mask",
+				"episode": {
+					"key": "s4e124",
+					"title": "Fleetwood Mask"
+				},
 				"startMinute": 30,
 				"class": "retelling",
 				"tags": []
 			},
 			{
-				"ep": "s1e06",
-				"epHandle": "This Episode Is Not Titled Dilly Dilly",
+				"episode": {
+					"key": "s1e06",
+					"title": "This Episode Is Not Titled Dilly Dilly"
+				},
 				"startMinute": 43,
 				"class": "inaugural",
 				"tags": []
@@ -1659,15 +2215,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e114",
-				"epHandle": "Ms. Small",
+				"episode": {
+					"key": "s4e114",
+					"title": "Ms. Small"
+				},
 				"startMinute": 43,
 				"class": "inaugural",
 				"tags": ["matcha", "doughnuts"]
 			},
 			{
-				"ep": "s4e121",
-				"epHandle": "What Movie is Good Morning, Vietnam Set In",
+				"episode": {
+					"key": "s4e121",
+					"title": "What Movie is Good Morning, Vietnam Set In"
+				},
 				"startMinute": 13,
 				"class": "pimpedRetelling",
 				"tags": ["matcha", "doughnuts"]
@@ -1681,15 +2241,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e94",
-				"epHandle": "Hey Man",
+				"episode": {
+					"key": "s3e94",
+					"title": "Hey Man"
+				},
 				"startMinute": 0,
 				"class": "inaugural",
 				"tags": ["pizza", "vending machines"]
 			},
 			{
-				"ep": "s4e121",
-				"epHandle": "What Movie is Good Morning, Vietnam Set In",
+				"episode": {
+					"key": "s4e121",
+					"title": "What Movie is Good Morning, Vietnam Set In"
+				},
 				"startMinute": 29,
 				"class": "acknowledgedRetelling",
 				"tags": ["pizza", "vending machines"]
@@ -1703,8 +2267,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e56",
-				"epHandle": "Round Is Part Of Science",
+				"episode": {
+					"key": "s3e56",
+					"title": "Round Is Part Of Science"
+				},
 				"startMinute": 46,
 				"class": "inaugural",
 				"tags": [
@@ -1713,8 +2279,10 @@
 				]
 			},
 			{
-				"ep": "s4e121",
-				"epHandle": "What Movie is Good Morning, Vietnam Set In",
+				"episode": {
+					"key": "s4e121",
+					"title": "What Movie is Good Morning, Vietnam Set In"
+				},
 				"startMinute": 53,
 				"class": "acknowledgedRetelling",
 				"tags": [
@@ -1731,15 +2299,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s2e46",
-				"epHandle": "And That Was Your Week",
+				"episode": {
+					"key": "s2e46",
+					"title": "And That Was Your Week"
+				},
 				"startMinute": 49,
 				"class": "inaugural",
 				"tags": ["oral sex", "literature"]
 			},
 			{
-				"ep": "s4e120",
-				"epHandle": "Minnie Is a Size Queen",
+				"episode": {
+					"key": "s4e120",
+					"title": "Minnie Is a Size Queen"
+				},
 				"startMinute": 18,
 				"class": "acknowledgedRetelling",
 				"tags": ["oral sex", "literature"]
@@ -1753,15 +2325,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s2e53",
-				"epHandle": "Live from Just for Laughs Perabo",
+				"episode": {
+					"key": "s2e53",
+					"title": "Live from Just for Laughs Perabo"
+				},
 				"startMinute": 33,
 				"class": "inaugural",
 				"tags": ["literature"]
 			},
 			{
-				"ep": "s4e120",
-				"epHandle": "Minnie Is a Size Queen",
+				"episode": {
+					"key": "s4e120",
+					"title": "Minnie Is a Size Queen"
+				},
 				"startMinute": 20,
 				"class": "acknowledgedRetelling",
 				"tags": ["literature"]
@@ -1775,15 +2351,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s2e27",
-				"epHandle": "Missappearing",
+				"episode": {
+					"key": "s2e27",
+					"title": "Missappearing"
+				},
 				"startMinute": 36,
 				"class": "inaugural",
 				"tags": ["teachers", "literature"]
 			},
 			{
-				"ep": "s4e117",
-				"epHandle": "Murder on the Moon",
+				"episode": {
+					"key": "s4e117",
+					"title": "Murder on the Moon"
+				},
 				"startMinute": 12,
 				"class": "questionedRetelling",
 				"tags": ["teachers", "literature"]
@@ -1797,8 +2377,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e117",
-				"epHandle": "Murder on the Moon",
+				"episode": {
+					"key": "s4e117",
+					"title": "Murder on the Moon"
+				},
 				"startMinute": 15,
 				"class": "retelling",
 				"tags": [
@@ -1809,8 +2391,10 @@
 				]
 			},
 			{
-				"ep": "s2e44",
-				"epHandle": "Mommy Oh No Please Queen",
+				"episode": {
+					"key": "s2e44",
+					"title": "Mommy Oh No Please Queen"
+				},
 				"startMinute": 14,
 				"class": "inaugural",
 				"tags": [
@@ -1834,15 +2418,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e14",
-				"epHandle": "This From Bat Boy",
+				"episode": {
+					"key": "s1e14",
+					"title": "This From Bat Boy"
+				},
 				"startMinute": 14,
 				"class": "inaugural",
 				"tags": ["baseball"]
 			},
 			{
-				"ep": "s4e116",
-				"epHandle": "Mr. Golly’s Whiz Bang",
+				"episode": {
+					"key": "s4e116",
+					"title": "Mr. Golly’s Whiz Bang"
+				},
 				"startMinute": 39,
 				"class": "pimpedRetelling",
 				"tags": ["baseball"]
@@ -1856,15 +2444,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e93",
-				"epHandle": "Sprinkle and Tinkle",
+				"episode": {
+					"key": "s3e93",
+					"title": "Sprinkle and Tinkle"
+				},
 				"startMinute": 47,
 				"class": "inaugural",
 				"tags": ["architecture", "chicago", "jobs"]
 			},
 			{
-				"ep": "s4e116",
-				"epHandle": "Mr. Golly’s Whiz Bang",
+				"episode": {
+					"key": "s4e116",
+					"title": "Mr. Golly’s Whiz Bang"
+				},
 				"startMinute": 41,
 				"class": "pimpedRetelling",
 				"tags": ["architecture", "chicago", "jobs"]
@@ -1874,22 +2466,26 @@
 	{
 		"handle": "have-you-ever-wished-you-had-a-penis-even-once",
 		"title": "Have You Ever Wished You Had a Penis - Even Once?",
-		"elucidation": "the cast discuss freaky friday scenarios - specifically relative to dongs and pusses and such",
+		"elucidation": "the cast won't shut the fuk up about freaky friday scenarios",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e116",
-				"epHandle": "Mr. Golly’s Whiz Bang",
+				"episode": {
+					"key": "s4e116",
+					"title": "Mr. Golly’s Whiz Bang"
+				},
 				"startMinute": 41,
 				"class": "acknowledgedRetelling",
-				"tags": ["genetalia"]
+				"tags": ["genitalia"]
 			},
 			{
-				"ep": "s3e89",
-				"epHandle": "One Less Egg To Fry",
+				"episode": {
+					"key": "s3e89",
+					"title": "One Less Egg To Fry"
+				},
 				"startMinute": 5,
 				"class": "inaugural",
-				"tags": ["genetalia"]
+				"tags": ["genitalia"]
 			}
 		]
 	},
@@ -1900,15 +2496,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e115",
-				"epHandle": "Jumble Cruise",
+				"episode": {
+					"key": "s4e115",
+					"title": "Jumble Cruise"
+				},
 				"startMinute": 25,
 				"class": "questionedRetelling",
 				"tags": ["maritime", "whales", "seasickness"]
 			},
 			{
-				"ep": "s1e12",
-				"epHandle": "I Wanna Be Phoneboof",
+				"episode": {
+					"key": "s1e12",
+					"title": "I Wanna Be Phoneboof"
+				},
 				"startMinute": 32,
 				"class": "inaugural",
 				"tags": ["maritime", "whales", "seasickness"]
@@ -1922,15 +2522,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e06",
-				"epHandle": "This Episode Is Not Titled Dilly Dilly",
+				"episode": {
+					"key": "s1e06",
+					"title": "This Episode Is Not Titled Dilly Dilly"
+				},
 				"startMinute": 3,
 				"class": "inaugural",
 				"tags": ["my strange addiction (tv)", "pica disorder"]
 			},
 			{
-				"ep": "s4e115",
-				"epHandle": "Jumble Cruise",
+				"episode": {
+					"key": "s4e115",
+					"title": "Jumble Cruise"
+				},
 				"startMinute": 28,
 				"class": "acknowledgedRetelling",
 				"tags": ["my strange addiction (tv)", "pica disorder"]
@@ -1944,15 +2548,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s2e27",
-				"epHandle": "Missappearing",
+				"episode": {
+					"key": "s2e27",
+					"title": "Missappearing"
+				},
 				"startMinute": 30,
 				"class": "inaugural",
 				"tags": ["pets"]
 			},
 			{
-				"ep": "s4e115",
-				"epHandle": "Jumble Cruise",
+				"episode": {
+					"key": "s4e115",
+					"title": "Jumble Cruise"
+				},
 				"startMinute": 42,
 				"class": "acknowledgedRetelling",
 				"tags": ["pets"]
@@ -1966,8 +2574,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e114",
-				"epHandle": "Ms. Small",
+				"episode": {
+					"key": "s4e114",
+					"title": "Ms. Small"
+				},
 				"startMinute": 13,
 				"class": "acknowledgedRetelling",
 				"tags": ["jackass forever (film)"]
@@ -1981,15 +2591,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e115",
-				"epHandle": "Jumble Cruise",
+				"episode": {
+					"key": "s4e115",
+					"title": "Jumble Cruise"
+				},
 				"startMinute": 13,
 				"class": "retelling",
 				"tags": ["nature", "wild animals"]
 			},
 			{
-				"ep": "s4e113",
-				"epHandle": "Boink Boink Whee",
+				"episode": {
+					"key": "s4e113",
+					"title": "Boink Boink Whee"
+				},
 				"startMinute": 21,
 				"class": "inaugural",
 				"tags": ["nature", "wild animals"]
@@ -2003,15 +2617,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e68",
-				"epHandle": "The Normal Kingdom",
+				"episode": {
+					"key": "s3e68",
+					"title": "The Normal Kingdom"
+				},
 				"startMinute": 1,
 				"class": "inaugural",
 				"tags": ["horses", "vacations"]
 			},
 			{
-				"ep": "s4e114",
-				"epHandle": "Ms. Small",
+				"episode": {
+					"key": "s4e114",
+					"title": "Ms. Small"
+				},
 				"startMinute": 34,
 				"class": "retelling",
 				"tags": ["horses", "vacations"]
@@ -2025,43 +2643,55 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e114",
-				"epHandle": "Ms. Small",
+				"episode": {
+					"key": "s4e114",
+					"title": "Ms. Small"
+				},
 				"startMinute": 41,
 				"class": "retelling",
 				"tags": ["medical", "vacations"]
 			},
 			{
-				"ep": "s3e93",
-				"epHandle": "Sprinkle and Tinkle",
+				"episode": {
+					"key": "s3e93",
+					"title": "Sprinkle and Tinkle"
+				},
 				"startMinute": 36,
 				"class": "retelling",
 				"tags": ["medical", "vacations"]
 			},
 			{
-				"ep": "s3e71",
-				"epHandle": "Belly Washer",
+				"episode": {
+					"key": "s3e71",
+					"title": "Belly Washer"
+				},
 				"startMinute": 71,
 				"class": "acknowledgedRetelling",
 				"tags": ["medical", "vacations"]
 			},
 			{
-				"ep": "s2e42",
-				"epHandle": "Look at My Snaps Go",
+				"episode": {
+					"key": "s2e42",
+					"title": "Look at My Snaps Go"
+				},
 				"startMinute": 51,
 				"class": "acknowledgedRetelling",
 				"tags": ["medical"]
 			},
 			{
-				"ep": "s2e37",
-				"epHandle": "The Threedom Boys",
+				"episode": {
+					"key": "s2e37",
+					"title": "The Threedom Boys"
+				},
 				"startMinute": 34,
 				"class": "retelling",
 				"tags": ["medical"]
 			},
 			{
-				"ep": "s1e14",
-				"epHandle": "This From Bat Boy",
+				"episode": {
+					"key": "s1e14",
+					"title": "This From Bat Boy"
+				},
 				"startMinute": 7,
 				"class": "inaugural",
 				"tags": ["medical"]
@@ -2075,15 +2705,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e112",
-				"epHandle": "Covered In Bugs",
+				"episode": {
+					"key": "s4e112",
+					"title": "Covered In Bugs"
+				},
 				"startMinute": 55,
 				"class": "retelling",
 				"tags": ["holidays", "parades", "independence day (us holiday)"]
 			},
 			{
-				"ep": "s1e17",
-				"epHandle": "Ch'd Your D",
+				"episode": {
+					"key": "s1e17",
+					"title": "Ch'd Your D"
+				},
 				"startMinute": 15,
 				"class": "inaugural",
 				"tags": ["holidays", "parades", "independence day (us holiday)"]
@@ -2097,15 +2731,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e112",
-				"epHandle": "Covered In Bugs",
+				"episode": {
+					"key": "s4e112",
+					"title": "Covered In Bugs"
+				},
 				"startMinute": 56,
 				"class": "retelling",
 				"tags": ["holidays", "parades", "dean cain", "erik estrada"]
 			},
 			{
-				"ep": "s5e146",
-				"epHandle": "I Hope Everyone's A Mummy",
+				"episode": {
+					"key": "s5e146",
+					"title": "I Hope Everyone's A Mummy"
+				},
 				"startMinute": 4,
 				"class": "inaugural",
 				"tags": ["holidays", "parades", "dean cain", "erik estrada"]
@@ -2115,19 +2753,23 @@
 	{
 		"handle": "guys-what-if-we-get-part-time-jobs",
 		"title": "Guys, What if We Get Part-Time Jobs?",
-		"elucidation": "the cast debate whether they should get part-time jobs",
+		"elucidation": "the consider getting part-time jobs and won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e97",
-				"epHandle": "Free Willy Nilly",
+				"episode": {
+					"key": "s3e97",
+					"title": "Free Willy Nilly"
+				},
 				"startMinute": 46,
 				"class": "inaugural",
-				"tags": []
+				"tags": ["record stores"]
 			},
 			{
-				"ep": "s4e111",
-				"epHandle": "Skinny As A Needle",
+				"episode": {
+					"key": "s4e111",
+					"title": "Skinny As A Needle"
+				},
 				"startMinute": 6,
 				"class": "retelling",
 				"tags": []
@@ -2141,15 +2783,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e86",
-				"epHandle": "Benji Butts",
+				"episode": {
+					"key": "s3e86",
+					"title": "Benji Butts"
+				},
 				"startMinute": 32,
 				"class": "inaugural",
 				"tags": []
 			},
 			{
-				"ep": "s4e110",
-				"epHandle": "Glasses Say What",
+				"episode": {
+					"key": "s4e110",
+					"title": "Glasses Say What"
+				},
 				"startMinute": 37,
 				"class": "retelling",
 				"tags": []
@@ -2160,21 +2806,27 @@
 		"handle": "it-s-just-a-dog",
 		"title": "It's Just a Dog",
 		"elucidation": "pft knew a scary dog",
-		"nb": ["big scary dog in a garage in his philly neighb"],
+		"nb": [
+			"big scary dog in a garage in his philly neighborhood - rob's hill or hippie's hill"
+		],
 		"tellings": [
 			{
-				"ep": "s3e91",
-				"epHandle": "Random Ways And Means",
+				"episode": {
+					"key": "s3e91",
+					"title": "Random Ways And Means"
+				},
 				"startMinute": 14,
 				"class": "inaugural",
-				"tags": []
+				"tags": ["pets", "neighbors"]
 			},
 			{
-				"ep": "s4e110",
-				"epHandle": "Glasses Say What",
+				"episode": {
+					"key": "s4e110",
+					"title": "Glasses Say What"
+				},
 				"startMinute": 39,
 				"class": "retelling",
-				"tags": []
+				"tags": ["pets", "neighbors"]
 			}
 		]
 	},
@@ -2185,15 +2837,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e109",
-				"epHandle": "Vampire Of Jokes",
+				"episode": {
+					"key": "s4e109",
+					"title": "Vampire Of Jokes"
+				},
 				"startMinute": 22,
 				"class": "retelling",
 				"tags": []
 			},
 			{
-				"ep": "s3e69",
-				"epHandle": "Works At TBS",
+				"episode": {
+					"key": "s3e69",
+					"title": "Works At TBS"
+				},
 				"startMinute": 27,
 				"class": "inaugural",
 				"tags": []
@@ -2207,15 +2863,19 @@
 		"nb": ["scott's irving character is its own tell"],
 		"tellings": [
 			{
-				"ep": "s4e109",
-				"epHandle": "Vampire Of Jokes",
+				"episode": {
+					"key": "s4e109",
+					"title": "Vampire Of Jokes"
+				},
 				"startMinute": 21,
 				"class": "retelling",
 				"tags": ["drawing", "art", "zorro"]
 			},
 			{
-				"ep": "s3e69",
-				"epHandle": "Works At TBS",
+				"episode": {
+					"key": "s3e69",
+					"title": "Works At TBS"
+				},
 				"startMinute": 26,
 				"class": "inaugural",
 				"tags": ["drawing", "art"]
@@ -2229,15 +2889,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e123",
-				"epHandle": "Threedom Much",
+				"episode": {
+					"key": "s4e123",
+					"title": "Threedom Much"
+				},
 				"startMinute": 39,
 				"class": "inaugural",
 				"tags": ["two dollar bills", "currency", "obsolescence"]
 			},
 			{
-				"ep": "s5e154",
-				"epHandle": "Oh Bother, Where Art Thou?",
+				"episode": {
+					"key": "s5e154",
+					"title": "Oh Bother, Where Art Thou?"
+				},
 				"startMinute": 39,
 				"class": "acknowledgedRetelling",
 				"tags": ["two dollar bills", "currency", "obsolescence"]
@@ -2251,15 +2915,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e108",
-				"epHandle": "To And Fro",
+				"episode": {
+					"key": "s4e108",
+					"title": "To And Fro"
+				},
 				"startMinute": 39,
 				"class": "inaugural",
 				"tags": ["dessert"]
 			},
 			{
-				"ep": "s4e144",
-				"epHandle": "Matrix is My Doo-Dah Bones",
+				"episode": {
+					"key": "s4e144",
+					"title": "Matrix is My Doo-Dah Bones"
+				},
 				"startMinute": 28,
 				"class": "retelling",
 				"tags": ["dessert"]
@@ -2269,22 +2937,32 @@
 	{
 		"handle": "really-clean-the-glass-windows",
 		"title": "Really? Clean the Glass Windows?",
-		"elucidation": "scott hates cleaning windows",
+		"elucidation": "the cast had to clean windows and they still won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e71",
-				"epHandle": "Belly Washer",
+				"episode": {
+					"key": "s3e71",
+					"title": "Belly Washer"
+				},
 				"startMinute": 61,
 				"class": "inaugural",
-				"tags": ["jobs"]
+				"tags": ["jobs", "chores", "windows"]
 			},
 			{
-				"ep": "s4e108",
-				"epHandle": "To And Fro",
+				"episode": {
+					"key": "s4e108",
+					"title": "To And Fro"
+				},
 				"startMinute": 29,
 				"class": "acknowledgedRetelling",
-				"tags": ["jobs"]
+				"tags": ["jobs", "chores", "windows"]
+			},
+			{
+				"episode": { "key": "s3e97", "title": "Free Willy Nilly" },
+				"startMinute": 45,
+				"class": null,
+				"tags": ["jobs", "chores", "windows"]
 			}
 		]
 	},
@@ -2295,15 +2973,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e19",
-				"epHandle": "My Secret Visitors…",
+				"episode": {
+					"key": "s1e19",
+					"title": "My Secret Visitors…"
+				},
 				"startMinute": 11,
 				"class": "inaugural",
 				"tags": ["time", "watches"]
 			},
 			{
-				"ep": "s4e108",
-				"epHandle": "To And Fro",
+				"episode": {
+					"key": "s4e108",
+					"title": "To And Fro"
+				},
 				"startMinute": 52,
 				"class": "pimpedRetelling",
 				"tags": ["time", "watches"]
@@ -2317,8 +2999,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e155",
-				"epHandle": "I Wanna Go Turtle Turtle",
+				"episode": {
+					"key": "s5e155",
+					"title": "I Wanna Go Turtle Turtle"
+				},
 				"startMinute": 15,
 				"class": "retelling",
 				"tags": [
@@ -2329,8 +3013,10 @@
 				]
 			},
 			{
-				"ep": "s1e19",
-				"epHandle": "My Secret Visitors…",
+				"episode": {
+					"key": "s1e19",
+					"title": "My Secret Visitors…"
+				},
 				"startMinute": 33,
 				"class": "inaugural",
 				"tags": [
@@ -2349,15 +3035,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e155",
-				"epHandle": "I Wanna Go Turtle Turtle",
+				"episode": {
+					"key": "s5e155",
+					"title": "I Wanna Go Turtle Turtle"
+				},
 				"startMinute": 19,
 				"class": "retelling",
 				"tags": ["cars (film)"]
 			},
 			{
-				"ep": "s3e60",
-				"epHandle": "Sologamy",
+				"episode": {
+					"key": "s3e60",
+					"title": "Sologamy"
+				},
 				"startMinute": 12,
 				"class": "inaugural",
 				"tags": ["cars (film)"]
@@ -2371,15 +3061,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s1e14",
-				"epHandle": "This From Bat Boy",
+				"episode": {
+					"key": "s1e14",
+					"title": "This From Bat Boy"
+				},
 				"startMinute": 29,
 				"class": "inaugural",
 				"tags": ["branding", "sears tower"]
 			},
 			{
-				"ep": "s5e155",
-				"epHandle": "I Wanna Go Turtle Turtle",
+				"episode": {
+					"key": "s5e155",
+					"title": "I Wanna Go Turtle Turtle"
+				},
 				"startMinute": 30,
 				"class": "retelling",
 				"tags": ["branding", "staples center"]
@@ -2393,15 +3087,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s2e39",
-				"epHandle": "The Threedom Challenge",
+				"episode": {
+					"key": "s2e39",
+					"title": "The Threedom Challenge"
+				},
 				"startMinute": 12,
 				"class": "inaugural",
 				"tags": ["candy", "hershey factory"]
 			},
 			{
-				"ep": "s5e155",
-				"epHandle": "I Wanna Go Turtle Turtle",
+				"episode": {
+					"key": "s5e155",
+					"title": "I Wanna Go Turtle Turtle"
+				},
 				"startMinute": 34,
 				"class": "retelling",
 				"tags": ["candy", "hershey factory"]
@@ -2415,15 +3113,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e85",
-				"epHandle": "Mrs. Pachinko",
+				"episode": {
+					"key": "s3e85",
+					"title": "Mrs. Pachinko"
+				},
 				"startMinute": 48,
 				"class": "inaugural",
 				"tags": ["knott's berry farm"]
 			},
 			{
-				"ep": "s5e155",
-				"epHandle": "I Wanna Go Turtle Turtle",
+				"episode": {
+					"key": "s5e155",
+					"title": "I Wanna Go Turtle Turtle"
+				},
 				"startMinute": 45,
 				"class": "acknowledgedRetelling",
 				"tags": ["knott's berry farm"]
@@ -2437,16 +3139,20 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e155",
-				"epHandle": "I Wanna Go Turtle Turtle",
+				"episode": {
+					"key": "s5e155",
+					"title": "I Wanna Go Turtle Turtle"
+				},
 				"startMinute": 55,
 				"class": "retelling",
 				"tags": ["neighbors", "mental illness", "dvds"]
 			},
 			{
-				"ep": "s3e83",
-				"epHandle": "One Haha",
-				"startMinute": 14,
+				"episode": {
+					"key": "s3e83",
+					"title": "One Haha"
+				},
+				"startMinute": 12,
 				"class": "inaugural",
 				"tags": ["neighbors", "mental illness", "dvds", "cuckoo clocks"]
 			}
@@ -2459,15 +3165,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e107",
-				"epHandle": "Yelp Paleontologist",
+				"episode": {
+					"key": "s4e107",
+					"title": "Yelp Paleontologist"
+				},
 				"startMinute": 1,
 				"class": "retelling",
 				"tags": ["resolutions"]
 			},
 			{
-				"ep": "s2e30",
-				"epHandle": "This Is It",
+				"episode": {
+					"key": "s2e30",
+					"title": "This Is It"
+				},
 				"startMinute": 37,
 				"class": "inaugural",
 				"tags": ["resolutions"]
@@ -2481,15 +3191,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e59",
-				"epHandle": "Chocolate Taste Cheap",
+				"episode": {
+					"key": "s3e59",
+					"title": "Chocolate Taste Cheap"
+				},
 				"startMinute": 76,
 				"class": "inaugural",
 				"tags": ["pennywise"]
 			},
 			{
-				"ep": "s4e106",
-				"epHandle": "Shoe Mop Tops",
+				"episode": {
+					"key": "s4e106",
+					"title": "Shoe Mop Tops"
+				},
 				"startMinute": 20,
 				"class": "retelling",
 				"tags": ["pennywise"]
@@ -2503,15 +3217,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e106",
-				"epHandle": "Shoe Mop Tops",
+				"episode": {
+					"key": "s4e106",
+					"title": "Shoe Mop Tops"
+				},
 				"startMinute": 48,
 				"class": "retelling",
 				"tags": ["phones"]
 			},
 			{
-				"ep": "s1e10",
-				"epHandle": "32 Toothless Vegetables",
+				"episode": {
+					"key": "s1e10",
+					"title": "32 Toothless Vegetables"
+				},
 				"startMinute": 32,
 				"class": "inaugural",
 				"tags": ["phones"]
@@ -2525,15 +3243,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e106",
-				"epHandle": "Shoe Mop Tops",
+				"episode": {
+					"key": "s4e106",
+					"title": "Shoe Mop Tops"
+				},
 				"startMinute": 57,
 				"class": "pimpedRetelling",
 				"tags": ["roommates", "parties"]
 			},
 			{
-				"ep": "s1e10",
-				"epHandle": "32 Toothless Vegetables",
+				"episode": {
+					"key": "s1e10",
+					"title": "32 Toothless Vegetables"
+				},
 				"startMinute": 1,
 				"class": "inaugural",
 				"tags": ["roommates", "parties"]
@@ -2547,15 +3269,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e106",
-				"epHandle": "Shoe Mop Tops",
+				"episode": {
+					"key": "s4e106",
+					"title": "Shoe Mop Tops"
+				},
 				"startMinute": 57,
 				"class": "pimpedRetelling",
 				"tags": ["roommates", "parties"]
 			},
 			{
-				"ep": "s1e10",
-				"epHandle": "32 Toothless Vegetables",
+				"episode": {
+					"key": "s1e10",
+					"title": "32 Toothless Vegetables"
+				},
 				"startMinute": 4,
 				"class": "inaugural",
 				"tags": ["roommates", "parties"]
@@ -2569,8 +3295,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e156",
-				"epHandle": "No More Witches No More Goblins",
+				"episode": {
+					"key": "s5e156",
+					"title": "No More Witches No More Goblins"
+				},
 				"startMinute": 38,
 				"class": "retlling",
 				"tags": [
@@ -2589,18 +3317,31 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e156",
-				"epHandle": "No More Witches No More Goblins",
+				"episode": {
+					"key": "s5e156",
+					"title": "No More Witches No More Goblins"
+				},
 				"startMinute": 21,
 				"class": "retelling",
 				"tags": ["car accidents", "janie"]
 			},
 			{
-				"ep": "s3e82",
-				"epHandle": "Computer Says What",
+				"episode": {
+					"key": "s3e82",
+					"title": "Computer Says What"
+				},
 				"startMinute": 46,
 				"class": "inaugural",
 				"tags": ["car accidents", "janie"]
+			},
+			{
+				"episode": {
+					"key": "s5e157",
+					"title": "Only Yuck Yucks and Only Yum Yums"
+				},
+				"startMinute": 24,
+				"class": "retelling",
+				"tags": ["embarrassment"]
 			}
 		]
 	},
@@ -2611,15 +3352,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e156",
-				"epHandle": "No More Witches No More Goblins",
+				"episode": {
+					"key": "s5e156",
+					"title": "No More Witches No More Goblins"
+				},
 				"startMinute": 10,
 				"class": "retelling",
 				"tags": ["car accidents", "kulap"]
 			},
 			{
-				"ep": "s4e112",
-				"epHandle": "Covered In Bugs",
+				"episode": {
+					"key": "s4e112",
+					"title": "Covered In Bugs"
+				},
 				"startMinute": 27,
 				"class": "inaugural",
 				"tags": ["car accidents", "kulap"]
@@ -2633,15 +3378,19 @@
 		"nb": ["there was a big bush blocking the other stop sign"],
 		"tellings": [
 			{
-				"ep": "s5e156",
-				"epHandle": "No More Witches No More Goblins",
+				"episode": {
+					"key": "s5e156",
+					"title": "No More Witches No More Goblins"
+				},
 				"startMinute": 10,
 				"class": "retelling",
 				"tags": ["car accidents", "the elderly", "fruit salad"]
 			},
 			{
-				"ep": "s3e82",
-				"epHandle": "Computer Says What",
+				"episode": {
+					"key": "s3e82",
+					"title": "Computer Says What"
+				},
 				"startMinute": 44,
 				"class": "pimpedRetelling",
 				"tags": [
@@ -2653,8 +3402,10 @@
 				]
 			},
 			{
-				"ep": "s1e02",
-				"epHandle": "Chalk Talk",
+				"episode": {
+					"key": "s1e02",
+					"title": "Chalk Talk"
+				},
 				"startMinute": 43,
 				"class": "inaugural",
 				"tags": [
@@ -2674,15 +3425,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e106",
-				"epHandle": "Shoe Mop Tops",
+				"episode": {
+					"key": "s4e106",
+					"title": "Shoe Mop Tops"
+				},
 				"startMinute": 60,
 				"class": "retelling",
 				"tags": ["roommates", "apartments", "christmas trees"]
 			},
 			{
-				"ep": "s2e36",
-				"epHandle": "Zig Zig Says Bro Bro",
+				"episode": {
+					"key": "s2e36",
+					"title": "Zig Zig Says Bro Bro"
+				},
 				"startMinute": 52,
 				"class": "inaugural",
 				"tags": ["roommates", "apartments", "christmas trees"]
@@ -2696,29 +3451,37 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s5e156",
-				"epHandle": "No More Witches No More Goblins",
+				"episode": {
+					"key": "s5e156",
+					"title": "No More Witches No More Goblins"
+				},
 				"startMinute": 13,
 				"class": "questionedRetelling",
 				"tags": ["self-driving cars", "automation", "tesla"]
 			},
 			{
-				"ep": "s3e92",
-				"epHandle": "Flasier Clane",
+				"episode": {
+					"key": "s3e92",
+					"title": "Flasier Clane"
+				},
 				"startMinute": 48,
 				"class": "retelling",
 				"tags": ["self-driving cars", "automation", "tesla"]
 			},
 			{
-				"ep": "s2e39",
-				"epHandle": "The Threedom Challenge",
+				"episode": {
+					"key": "s2e39",
+					"title": "The Threedom Challenge"
+				},
 				"startMinute": 29,
 				"class": "inaugural",
 				"tags": ["self-driving cars", "automation", "tesla"]
 			},
 			{
-				"ep": "s2e51",
-				"epHandle": "If Dogurt",
+				"episode": {
+					"key": "s2e51",
+					"title": "If Dogurt"
+				},
 				"startMinute": 13,
 				"class": "retelling",
 				"tags": ["self-driving cars", "automation", "tesla"]
@@ -2732,8 +3495,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e105",
-				"epHandle": "Crumbelievable",
+				"episode": {
+					"key": "s4e105",
+					"title": "Crumbelievable"
+				},
 				"startMinute": 19,
 				"class": "questionedRetelling",
 				"tags": ["saxaphones", "rock n' roll music", "teachers"]
@@ -2747,29 +3512,37 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e116",
-				"epHandle": "Mr. Golly’s Whiz Bang",
+				"episode": {
+					"key": "s4e116",
+					"title": "Mr. Golly’s Whiz Bang"
+				},
 				"startMinute": 2,
 				"class": "retelling",
 				"tags": ["neighbors", "pets", "animal control"]
 			},
 			{
-				"ep": "s4e116",
-				"epHandle": "Crumbelievable",
+				"episode": {
+					"key": "s4e116",
+					"title": "Crumbelievable"
+				},
 				"startMinute": 32,
 				"class": "retelling",
 				"tags": ["neighbors", "pets", "animal control"]
 			},
 			{
-				"ep": "s3e95",
-				"epHandle": "Toothpaste Conundrum",
+				"episode": {
+					"key": "s3e95",
+					"title": "Toothpaste Conundrum"
+				},
 				"startMinute": 41,
 				"class": "retelling",
 				"tags": ["neighbors", "pets", "animal control"]
 			},
 			{
-				"ep": "s3e85",
-				"epHandle": "Mrs. Pachinko",
+				"episode": {
+					"key": "s3e85",
+					"title": "Mrs. Pachinko"
+				},
 				"startMinute": 55,
 				"class": "inaugural",
 				"tags": ["neighbors", "pets", "animal control"]
@@ -2783,8 +3556,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e104",
-				"epHandle": "Boop",
+				"episode": {
+					"key": "s4e104",
+					"title": "Boop"
+				},
 				"startMinute": 2,
 				"class": "acknowledgedRetelling",
 				"tags": [
@@ -2796,8 +3571,10 @@
 				]
 			},
 			{
-				"ep": "s3e55",
-				"epHandle": "She Just Want Beets",
+				"episode": {
+					"key": "s3e55",
+					"title": "She Just Want Beets"
+				},
 				"startMinute": 7,
 				"class": "inaugural",
 				"tags": [
@@ -2817,8 +3594,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e103",
-				"epHandle": "Missing Mr. Magoo Memento",
+				"episode": {
+					"key": "s4e103",
+					"title": "Missing Mr. Magoo Memento"
+				},
 				"startMinute": 33,
 				"class": "pimpedRetelling",
 				"tags": [
@@ -2828,8 +3607,10 @@
 				]
 			},
 			{
-				"ep": "s1e07",
-				"epHandle": "Stop Making It Plural",
+				"episode": {
+					"key": "s1e07",
+					"title": "Stop Making It Plural"
+				},
 				"startMinute": 30,
 				"class": "retelling",
 				"tags": [
@@ -2847,15 +3628,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e103",
-				"epHandle": "Missing Mr. Magoo Memento",
+				"episode": {
+					"key": "s4e103",
+					"title": "Missing Mr. Magoo Memento"
+				},
 				"startMinute": 35,
 				"class": "pimpedRetelling",
 				"tags": ["applebee's", "gift cards"]
 			},
 			{
-				"ep": "s3e71",
-				"epHandle": "Belly Washer",
+				"episode": {
+					"key": "s3e71",
+					"title": "Belly Washer"
+				},
 				"startMinute": 27,
 				"class": "inaugural",
 				"tags": ["applebee's", "gift cards"]
@@ -2869,15 +3654,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e102",
-				"epHandle": "Mark Mothersday",
+				"episode": {
+					"key": "s4e102",
+					"title": "Mark Mothersday"
+				},
 				"startMinute": 22,
 				"class": "acknowledgedRetelling",
 				"tags": ["gifts", "ventriloquism"]
 			},
 			{
-				"ep": "s3e63",
-				"epHandle": "Risk It For The Biscuit",
+				"episode": {
+					"key": "s3e63",
+					"title": "Risk It For The Biscuit"
+				},
 				"startMinute": 62,
 				"class": "inaugural",
 				"tags": ["gifts", "ventriloquism"]
@@ -2891,15 +3680,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e83",
-				"epHandle": "One Haha",
+				"episode": {
+					"key": "s3e83",
+					"title": "One Haha"
+				},
 				"startMinute": 9,
 				"class": "inaugural",
 				"tags": ["neighbors", "the elderly"]
 			},
 			{
-				"ep": "s4e101",
-				"epHandle": "Let's All Meet Beef",
+				"episode": {
+					"key": "s4e101",
+					"title": "Let's All Meet Beef"
+				},
 				"startMinute": 8,
 				"class": "retelling",
 				"tags": ["neighbors", "the elderly"]
@@ -2913,15 +3706,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s2e31",
-				"epHandle": "Frank Caliendo's Hot Dog Emporium",
+				"episode": {
+					"key": "s2e31",
+					"title": "Frank Caliendo's Hot Dog Emporium"
+				},
 				"startMinute": 32,
 				"class": "inaugural",
 				"tags": ["pets"]
 			},
 			{
-				"ep": "s4e101",
-				"epHandle": "Let's All Meet Beef",
+				"episode": {
+					"key": "s4e101",
+					"title": "Let's All Meet Beef"
+				},
 				"startMinute": 12,
 				"class": "pimpedRetelling",
 				"tags": ["pets"]
@@ -2935,15 +3732,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e86",
-				"epHandle": "Benji Butts",
+				"episode": {
+					"key": "s3e86",
+					"title": "Benji Butts"
+				},
 				"startMinute": 31,
 				"class": "inaugural",
 				"tags": ["pets"]
 			},
 			{
-				"ep": "s4e101",
-				"epHandle": "Let's All Meet Beef",
+				"episode": {
+					"key": "s4e101",
+					"title": "Let's All Meet Beef"
+				},
 				"startMinute": 17,
 				"class": "retelling",
 				"tags": ["pets"]
@@ -2957,8 +3758,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e100",
-				"epHandle": "The Bed is Lego",
+				"episode": {
+					"key": "s4e100",
+					"title": "The Bed is Lego"
+				},
 				"startMinute": 12,
 				"class": "retelling",
 				"tags": [
@@ -2971,8 +3774,10 @@
 				]
 			},
 			{
-				"ep": "s3e95",
-				"epHandle": "Toothpaste Conundrum",
+				"episode": {
+					"key": "s3e95",
+					"title": "Toothpaste Conundrum"
+				},
 				"startMinute": 29,
 				"class": "inaugural",
 				"tags": ["pets", "steps", "exercise", "apple watch", "fitbit"]
@@ -2986,22 +3791,28 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e97",
-				"epHandle": "Free Willy Nilly",
+				"episode": {
+					"key": "s3e97",
+					"title": "Free Willy Nilly"
+				},
 				"startMinute": 4,
 				"class": "inaugural",
 				"tags": ["age", "listenership"]
 			},
 			{
-				"ep": "s4e100",
-				"epHandle": "The Bed is Lego",
+				"episode": {
+					"key": "s4e100",
+					"title": "The Bed is Lego"
+				},
 				"startMinute": 15,
 				"class": "retelling",
 				"tags": ["age", "listenership"]
 			},
 			{
-				"ep": "s4e105",
-				"epHandle": "Crumbelievable",
+				"episode": {
+					"key": "s4e105",
+					"title": "Crumbelievable"
+				},
 				"startMinute": 5,
 				"class": "retelling",
 				"tags": ["age", "listenership"]
@@ -3015,8 +3826,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s4e100",
-				"epHandle": "The Bed is Lego",
+				"episode": {
+					"key": "s4e100",
+					"title": "The Bed is Lego"
+				},
 				"startMinute": 49,
 				"class": "retelling",
 				"tags": [
@@ -3026,8 +3839,10 @@
 				]
 			},
 			{
-				"ep": "s3e58",
-				"epHandle": "Nasty Mound",
+				"episode": {
+					"key": "s3e58",
+					"title": "Nasty Mound"
+				},
 				"startMinute": 48,
 				"class": "inaugural",
 				"tags": [
@@ -3045,22 +3860,35 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e99",
-				"epHandle": "Secret Santa Pizza",
+				"episode": {
+					"key": "s3e99",
+					"title": "Secret Santa Pizza"
+				},
 				"startMinute": 18,
 				"class": "retelling",
 				"tags": [
-					"crispin glover","willard (film)","rats","mario lopez"
-					"celebrities","finances"
+					"crispin glover",
+					"willard (film)",
+					"rats",
+					"mario lopez",
+					"celebrities",
+					"finances"
 				]
-			},{
-				"ep": "s4e120",
-				"epHandle": "Minnie Is a Size Queen",
+			},
+			{
+				"episode": {
+					"key": "s4e120",
+					"title": "Minnie Is a Size Queen"
+				},
 				"startMinute": 48,
 				"class": "inaugural",
 				"tags": [
-					"crispin glover","willard (film)","rats","mario lopez"
-					"celebrities","finances"
+					"crispin glover",
+					"willard (film)",
+					"rats",
+					"mario lopez",
+					"celebrities",
+					"finances"
 				]
 			}
 		]
@@ -3072,21 +3900,28 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e99",
-				"epHandle": "Secret Santa Pizza",
+				"episode": { "key": "s3e98", "title": "Tendrils Are Hair" },
+				"startMinute": 49,
+				"class": "retelling",
+				"tags": ["smartphones"]
+			},
+			{
+				"episode": {
+					"key": "s3e99",
+					"title": "Secret Santa Pizza"
+				},
 				"startMinute": 40,
 				"class": "acknowledgedRetelling",
-				"tags": [
-					"exercise"
-				]
-			},{
-				"ep": "s3e66",
-				"epHandle": "He Talks About Homies",
+				"tags": ["exercise"]
+			},
+			{
+				"episode": {
+					"key": "s3e66",
+					"title": "He Talks About Homies"
+				},
 				"startMinute": 39,
 				"class": "inaugural",
-				"tags": [
-					"exercise"
-				]
+				"tags": ["exercise"]
 			}
 		]
 	},
@@ -3097,21 +3932,1179 @@
 		"nb": [],
 		"tellings": [
 			{
-				"ep": "s3e99",
-				"epHandle": "Secret Santa Pizza",
+				"episode": {
+					"key": "s3e99",
+					"title": "Secret Santa Pizza"
+				},
 				"startMinute": 1,
 				"class": "acknowledgedRetelling",
-				"tags": [
-					"interns","peter the intern"
-				]
-			},{
-				"ep": "s3e99",
-				"epHandle": "Secret Santa Pizza",
+				"tags": ["interns", "peter the intern"]
+			},
+			{
+				"episode": {
+					"key": "s3e99",
+					"title": "Secret Santa Pizza"
+				},
 				"startMinute": 62,
 				"class": "inaugural",
+				"tags": ["interns", "peter the intern"]
+			}
+		]
+	},
+	{
+		"handle": "a-pig-is-very-fucked-up",
+		"title": "A Pig is Very Fucked Up",
+		"elucidation": "the cast all dissected animals in their respective youths and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e157",
+					"title": "Only Yuck Yucks and Only Yum Yums"
+				},
+				"startMinute": 16,
+				"class": "retelling",
+				"tags": ["dissection", "science"]
+			},
+			{
+				"episode": {
+					"key": "s3e94",
+					"title": "Hey Man"
+				},
+				"startMinute": 50,
+				"class": "inaugural",
+				"tags": ["dissection", "science"]
+			},
+			{
+				"episode": {
+					"key": "s3e97",
+					"title": "Free Willy Nilly"
+				},
+				"startMinute": 20,
+				"class": "retelling",
+				"tags": ["dissection", "science"]
+			},
+			{
+				"episode": {
+					"key": "s4e132",
+					"title": "The Bootleg Bug Man"
+				},
+				"startMinute": 8,
+				"class": "retelling",
+				"tags": ["dissection", "science"]
+			}
+		]
+	},
+	{
+		"handle": "is-honey-bee-same-as-bumble-knee",
+		"title": "Is Honey Bee Same as Bumble Knee?",
+		"elucidation": "Lauren was stung by a bee and now she won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e157",
+					"title": "Only Yuck Yucks and Only Yum Yums"
+				},
+				"startMinute": 18,
+				"class": "retelling",
+				"tags": ["bees"]
+			},
+			{
+				"episode": {
+					"key": "s4e140",
+					"title": "Honey Bee Same as Bumble Me"
+				},
+				"startMinute": 6,
+				"class": "retelling",
+				"tags": ["bees"]
+			},
+			{
+				"episode": {
+					"key": "s4e139",
+					"title": "Good Couch, Bad Couch"
+				},
+				"startMinute": 20,
+				"class": "inaugural",
+				"tags": ["bees"]
+			}
+		]
+	},
+	{
+		"handle": "now-you-re-an-asshole-for-a-different-reason",
+		"title": "Now You're an Asshole for a Different Reason",
+		"elucidation": "scott misunderstood an offer of leftover fries at carl's jr once and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e03",
+					"title": "Jack Bauer He 24 Big Hit"
+				},
+				"startMinute": 24,
+				"class": "inaugural",
+				"tags": ["french fries", "embarrassment"]
+			},
+			{
+				"episode": {
+					"key": "s5e157",
+					"title": "Only Yuck Yucks and Only Yum Yums"
+				},
+				"startMinute": 24,
+				"class": "retelling",
+				"tags": ["french fries", "embarrassment"]
+			},
+			{
+				"episode": {
+					"key": "s2e28",
+					"title": "This Sucks"
+				},
+				"startMinute": 3,
+				"class": "retelling",
+				"tags": ["french fries", "embarrassment"]
+			},
+			{
+				"episode": {
+					"key": "s1e15",
+					"title": "Church Cool Man"
+				},
+				"startMinute": 32,
+				"class": "retelling",
+				"tags": ["french fries", "embarrassment"]
+			},
+			{
+				"episode": {
+					"key": "s5e159",
+					"title": "Hi I'm a Creepypasta"
+				},
+				"startMinute": 41,
+				"class": "secondaryTelling",
+				"tags": ["french fries", "embarrassment"]
+			}
+		]
+	},
+	{
+		"handle": "it-s-vegas-baby",
+		"title": "It's Vegas, Baby",
+		"elucidation": "lauren saw penn & teller in las vegas and now she won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e70",
+					"title": "Now They're Doing Karate"
+				},
+				"startMinute": 30,
+				"class": "acknowledgedRetelling",
+				"tags": ["las vegas", "penn & teller"]
+			},
+			{
+				"episode": {
+					"key": "s5e157",
+					"title": "Only Yuck Yucks and Only Yum Yums"
+				},
+				"startMinute": 42,
+				"class": "acknowledgedRetelling",
+				"tags": ["las vegas", "penn & teller"]
+			}
+		]
+	},
+	{
+		"handle": "is-toys-for-tots-a-weirdo-right-wing-christian-organization",
+		"title": "Is Toys for Tots a Weirdo Right-Wing Christian Organization?",
+		"elucidation": "scott noticed a right-wing bent in toys for tots events and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e18",
+					"title": "I Hope Everyone's a Mummy"
+				},
+				"startMinute": 4,
+				"class": "retelling",
 				"tags": [
-					"interns","peter the intern"
+					"erik estrada",
+					"parades",
+					"right wing cabals",
+					"toys for tots",
+					"dean cain"
 				]
+			},
+			{
+				"episode": {
+					"key": "s4e112",
+					"title": "s4e112 - Covered In Bugs"
+				},
+				"startMinute": 57,
+				"class": "inaugural",
+				"tags": [
+					"erik estrada",
+					"parades",
+					"right wing cabals",
+					"toys for tots",
+					"dean cain"
+				]
+			}
+		]
+	},
+	{
+		"handle": "it-s-so-fucking-weird-you-need-to-go-get-help",
+		"title": "It's So Fucking Weird - You Need to Go Get Help",
+		"elucidation": "scott has recurring dreams about a few strange houses and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e158",
+					"title": "Scam Sham or Ham"
+				},
+				"startMinute": 20,
+				"class": "retelling",
+				"tags": ["dreams"]
+			},
+			{
+				"episode": {
+					"key": "s3e71",
+					"title": "Belly Washer"
+				},
+				"startMinute": 31,
+				"class": "retelling",
+				"tags": ["dreams"]
+			},
+			{
+				"episode": {
+					"key": "s4e107",
+					"title": "Yelp Paleontologist"
+				},
+				"startMinute": 38,
+				"class": "retelling",
+				"tags": ["dreams"]
+			}
+		]
+	},
+	{
+		"handle": "to-shut-the-fuck-up",
+		"title": "To Shut the Fuck Up?",
+		"elucidation": "scott tried to get hypnotized at a knotts berrry farm show once and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s5e153", "title": "Bubble Disease" },
+				"startMinute": 19,
+				"class": "inaugural",
+				"tags": ["hypnosis"]
+			},
+			{
+				"episode": { "key": "s5e158", "title": "Scam Sham or Ham" },
+				"startMinute": 29,
+				"class": "retelling",
+				"tags": ["hypnosis"]
+			}
+		]
+	},
+	{
+		"handle": "he-had-em-all-ready-to-go",
+		"title": "He Had 'em All - Ready to Go",
+		"elucidation": "scott once faked an entomology project and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s5e158", "title": "Scam Sham or Ham" },
+				"startMinute": 32,
+				"class": "retelling",
+				"tags": ["bug man of cypress", "entomology"]
+			},
+			{
+				"episode": { "key": "s4e132", "title": "The Bootleg Bug Man" },
+				"startMinute": 18,
+				"class": "inaugural",
+				"tags": ["bug man of cypress", "entomology"]
+			}
+		]
+	},
+	{
+		"handle": "but-my-mom-hasn-t-died-again",
+		"title": "But My Mom Hasn't Died Again",
+		"elucidation": "paul got super drunk when his mom died and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e60", "title": "Sologamy" },
+				"startMinute": 27,
+				"class": "retelling",
+				"tags": ["intoxication"]
+			},
+			{
+				"episode": { "key": "s1e21", "title": "Vampire O Face" },
+				"startMinute": 38,
+				"class": "inaugural",
+				"tags": ["intoxication", "family size"]
+			}
+		]
+	},
+	{
+		"handle": "never-show-a-woman-throwing-up",
+		"title": "Never Show a Woman Throwing Up",
+		"elucidation": "some members of the cast appeared on drunk history and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e60", "title": "Sologamy" },
+				"startMinute": 27,
+				"class": "inaugural",
+				"tags": ["intoxication", "drunk history (web show)"]
+			},
+			{
+				"episode": { "key": "s5e158", "title": "Scam Sham or Ham" },
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["intoxication", "drunk history (web show)"]
+			}
+		]
+	},
+	{
+		"handle": "i-got-drunk-at-brian-posehn-s-new-years-party",
+		"title": "I Got Drunk at Brian Posehn's New Years Party",
+		"elucidation": "scott passed out in a denny's once in the 90s and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s5e158", "title": "Scam Sham or Ham" },
+				"startMinute": 38,
+				"class": "retelling",
+				"tags": ["denny's (restaurant)", "intoxication", "brian posehn"]
+			},
+			{
+				"episode": { "key": "s1e21", "title": "Vampire O Face" },
+				"startMinute": 37,
+				"class": "inaugural",
+				"tags": ["denny's (restaurant)", "intoxication", "brian posehn"]
+			}
+		]
+	},
+	{
+		"handle": "eddie-pepitone-as-a-knight-came-in",
+		"title": "Eddie Pepitone, as a Knight, Came In",
+		"elucidation": "scott got high at a bachelor party once in the early 2000s and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s4e117", "title": "Murder on the Moon" },
+				"startMinute": 40,
+				"class": "inaugural",
+				"tags": [
+					"intoxication",
+					"david cross",
+					"patton oswalt",
+					"eddie pepitone"
+				]
+			},
+			{
+				"episode": { "key": "s5e158", "title": "Scam Sham or Ham" },
+				"startMinute": 39,
+				"class": "retelling",
+				"tags": [
+					"intoxication",
+					"david cross",
+					"patton oswalt",
+					"eddie pepitone"
+				]
+			}
+		]
+	},
+	{
+		"handle": "i-brush-my-hair",
+		"title": "I Brush My Hair",
+		"elucidation": "paul did ecstasy once and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e23", "title": "Hamilton was Bae" },
+				"startMinute": 13,
+				"class": "inaugural",
+				"tags": ["ecstasy", "drugs", "mary lynn rajskub"]
+			},
+			{
+				"episode": { "key": "s5e158", "title": "Scam Sham or Ham" },
+				"startMinute": 40,
+				"class": "retelling",
+				"tags": ["ecstasy", "drugs", "mary lynn rajskub"]
+			},
+			{
+				"episode": {
+					"key": "s3e73",
+					"title": "You're A Ghost, I'm Ten"
+				},
+				"startMinute": 38,
+				"class": "retelling",
+				"tags": [
+					"ecstasy",
+					"drugs",
+					"mary lynn rajskub",
+					"grant-lee phillips"
+				]
+			}
+		]
+	},
+	{
+		"handle": "i-don-t-think-i-could-do-that",
+		"title": "I Don't Think I Could Do That",
+		"elucidation": "scott watched an episode of the dating game back in the day and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e98", "title": "Tendrils Are Hair" },
+				"startMinute": 12,
+				"class": "retelling",
+				"tags": ["dating game (tv show)"]
+			},
+			{
+				"episode": { "key": "s1e05", "title": "Pop Eyedol" },
+				"startMinute": 30,
+				"class": "inaugural",
+				"tags": ["dating game (tv show)"]
+			}
+		]
+	},
+	{
+		"handle": "they-can-get-rid-of-that-fucking-cat",
+		"title": "They Can Get Rid of that Fucking Cat",
+		"elucidation": "scott was underpaid for a babysitting gig back in the day and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e68", "title": "The Normal Kingdom" },
+				"startMinute": 45,
+				"class": "inaugural",
+				"tags": ["babysitting"]
+			},
+			{
+				"episode": { "key": "s3e98", "title": "Tendrils Are Hair" },
+				"startMinute": 38,
+				"class": "retelling",
+				"tags": ["babysitting"]
+			}
+		]
+	},
+	{
+		"handle": "he-s-gonna-go-take-the-girl-into-the-bushes",
+		"title": "He's Gonna Go Take the Girl into the Bushes",
+		"elucidation": "scott learns what 'bush' means and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e09",
+					"title": "Christmas Find Out Who Game"
+				},
+				"startMinute": 5,
+				"class": null,
+				"tags": ["sex"]
+			},
+			{
+				"episode": { "key": "s3e97", "title": "Free Willy Nilly" },
+				"startMinute": 20,
+				"class": null,
+				"tags": ["sex"]
+			}
+		]
+	},
+	{
+		"handle": "couldn-t-afford-that-b",
+		"title": "Couldn't Afford that B",
+		"elucidation": "pft got arrested on the subway when he was 19 and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e08", "title": "Out With It!" },
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": [
+					"court appearances",
+					"arrest warrants",
+					"smoking",
+					"subways"
+				]
+			},
+			{
+				"episode": {
+					"key": "s5e159",
+					"title": "Hi I'm a Creepypasta"
+				},
+				"startMinute": 56,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"court appearances",
+					"arrest warrants",
+					"smoking",
+					"subways"
+				]
+			}
+		]
+	},
+	{
+		"handle": "i-once-went-with-andy-dick-to-vancouver",
+		"title": "I Once Went with Andy Dick to Vancouver",
+		"elucidation": "scott used to get warrants issued for his arrest and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e08", "title": "Out With It!" },
+				"startMinute": 26,
+				"class": "inaugural",
+				"tags": ["arrest warrants"]
+			},
+			{
+				"episode": {
+					"key": "s5e159",
+					"title": "Hi I'm a Creepypasta"
+				},
+				"startMinute": 58,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"court appearances",
+					"arrest warrants",
+					"smoking",
+					"subways"
+				]
+			}
+		]
+	},
+	{
+		"handle": "and-you-were-a-comedian-on-that",
+		"title": "And You Were a Comedian on That?",
+		"elucidation": "pft and scott both did some make me laugh gigs and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e15", "title": "Church Cool Man" },
+				"startMinute": 56,
+				"class": "inaugural",
+				"tags": ["make me laugh (tv)", "game shows"]
+			},
+			{
+				"episode": { "key": "s3e96", "title": "Pudding Every Night" },
+				"startMinute": 24,
+				"class": "retelling",
+				"tags": ["make me laugh (tv)", "game shows"]
+			}
+		]
+	},
+	{
+		"handle": "i-did-not-get-a-dollar",
+		"title": "I Did Not Get a Dollar",
+		"elucidation": "pft and scott visited the price is right set back in the day and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e96", "title": "Pudding Every Night" },
+				"startMinute": 43,
+				"class": "inaugural",
+				"tags": ["the price is right (tv)", "tv sets"]
+			},
+			{
+				"episode": { "key": "s4e128", "title": "SSN: 123-45-6789" },
+				"startMinute": 5,
+				"class": "retelling",
+				"tags": ["the price is right (tv)", "tv sets"]
+			}
+		]
+	},
+	{
+		"handle": "i-wanted-the-spotlight-to-be-on-the-missing-dog",
+		"title": "I Wanted the Spotlight to be On the Missing Dog",
+		"elucidation": "scott was stung by a bee while searching for a friend's dog but remained vigilant and heroic and ever since he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e95",
+					"title": "Toothpaste Conundrum"
+				},
+				"startMinute": 29,
+				"class": "inaugural",
+				"tags": ["pets", "steps", "bee stings", "heroism"]
+			},
+			{
+				"episode": {
+					"key": "s5e157",
+					"title": "Only Yuck Yucks and Only Yum Yums"
+				},
+				"startMinute": 19,
+				"class": "retelling",
+				"tags": ["pets", "steps", "bee stings", "heroism"]
+			}
+		]
+	},
+	{
+		"handle": "boat-tours-are-great",
+		"title": "Boat Tours Are Great!",
+		"elucidation": "lauren worked on the navy pier in chicago as a youth and now she won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e93", "title": "Sprinkle and Tinkle" },
+				"startMinute": 47,
+				"class": "pimpedRetelling",
+				"tags": ["chicago navy pier", "jobs"]
+			},
+			{
+				"episode": { "key": "s3e71", "title": "Belly Washer" },
+				"startMinute": 35,
+				"class": "inaugural",
+				"tags": ["chicago navy pier", "jobs"]
+			}
+		]
+	},
+	{
+		"handle": "i-m-liking-the-mornings-again",
+		"title": "I'm Liking the Mornings Again",
+		"elucidation": "pft likes a certain morning routine and he won't shut the fuk up about it",
+		"nb": [
+			"includes both his penchent for a breakfast sandwich and a pause over coffee and how he does it with hotel room service"
+		],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e93",
+					"title": "Sprinkle and Tinkle"
+				},
+				"startMinute": 12,
+				"class": "pimpedRetelling",
+				"tags": ["breakfast"]
+			},
+			{
+				"episode": { "key": "s3e97", "title": "Free Willy Nilly" },
+				"startMinute": 26,
+				"class": "retelling",
+				"tags": ["breakfast", "covid19"]
+			},
+			{
+				"episode": { "key": "s2e51", "title": "If Dogurt" },
+				"startMinute": 39,
+				"class": "inaugural",
+				"tags": ["breakfast"]
+			},
+			{
+				"episode": { "key": "s2e28", "title": "This Sucks" },
+				"startMinute": 9,
+				"class": null,
+				"tags": ["breakfast"]
+			}
+		]
+	},
+	{
+		"handle": "you-probably-got-beat-up-at-that-one",
+		"title": "You Probably Got Beat Up at That One",
+		"elucidation": "at 17 scott felt he was too mature for a halloween party and he still won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e91", "title": "Random Ways And Means" },
+				"startMinute": 23,
+				"class": null,
+				"tags": ["halloween"]
+			}
+		]
+	},
+	{
+		"handle": "what-show-was-ted-danson-on",
+		"title": "What Show was Ted Danson On?",
+		"elucidation": "the cast agree the becker theme song was nuts but still they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e61", "title": "I Renounce Tiger King" },
+				"startMinute": 27,
+				"class": "inaugural",
+				"tags": ["becker (tv)"]
+			},
+			{
+				"episode": { "key": "s3e91", "title": "Random Ways And Means" },
+				"startMinute": 49,
+				"class": null,
+				"tags": ["becker (tv)", "benson (tv)", "the sklar brothers"]
+			}
+		]
+	},
+	{
+		"handle": "i-m-gonna-do-a-sleep-study-on-the-neighborhood-kids",
+		"title": "I'm Gonna Do a Sleep Study on the Neighborhood Kids",
+		"elucidation": "pft signed up for a sleep study and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e90", "title": "Light Bulb's Good" },
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": ["sleep"]
+			},
+			{
+				"episode": {
+					"key": "s4e126",
+					"title": "I Get It, I'm Doctor Strange"
+				},
+				"startMinute": 3,
+				"class": null,
+				"tags": ["sleep", "weight loss"]
+			}
+		]
+	},
+	{
+		"handle": "what-is-she-supposed-to-look-like",
+		"title": "What is She Supposed to Look Like?",
+		"elucidation": "lauren gave franny (dog) a haircut and now she (lauren) won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e90", "title": "Light Bulb's Good" },
+				"startMinute": 19,
+				"class": "acknowledgedRetelling",
+				"tags": ["pets", "haircuts"]
+			},
+			{
+				"episode": { "key": "s3e83", "title": "One Haha" },
+				"startMinute": 47,
+				"class": "inaugural",
+				"tags": ["pets", "haircuts"]
+			}
+		]
+	},
+	{
+		"handle": "she-did-do-a-darth-vader-cake",
+		"title": "She Did Do a Darth Vader Cake!",
+		"elucidation": "linda aukerman made a darth vader cake for scott when he was a boy and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s2e41", "title": "Cozy Done Right" },
+				"startMinute": 2,
+				"class": "inaugural",
+				"tags": ["birthdays", "linda aukerman", "darth vader"]
+			},
+			{
+				"episode": { "key": "s3e90", "title": "Light Bulb's Good" },
+				"startMinute": 30,
+				"class": "retelling",
+				"tags": ["birthdays", "linda aukerman", "darth vader"]
+			}
+		]
+	},
+	{
+		"handle": "ding-dong-who-is-it",
+		"title": "Ding Dong, Who Is It?",
+		"elucidation": "the cast sort out some detail in c+c music factory's 'things that make you go hm' and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e57", "title": "Ice Cream Please" },
+				"startMinute": 7,
+				"class": "inaugural",
+				"tags": [
+					"things that make you go hmmm... (song)",
+					"c+c music factory (musical combination)"
+				]
+			},
+			{
+				"episode": { "key": "s3e90", "title": "Light Bulb's Good" },
+				"startMinute": 31,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"things that make you go hmmm... (song)",
+					"c+c music factory (musical combination)"
+				]
+			}
+		]
+	},
+	{
+		"handle": "i-need-pictures-of-spider-man",
+		"title": "I Need Pictures of Spider-Man",
+		"elucidation": "the cast all got cell phones and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e58", "title": "Nasty Mound" },
+				"startMinute": 40,
+				"class": "inaugural",
+				"tags": ["auditions", "cell phones"]
+			},
+			{
+				"episode": { "key": "s3e90", "title": "Light Bulb's Good" },
+				"startMinute": 40,
+				"class": "retelling",
+				"tags": []
+			},
+			{
+				"episode": { "key": "s4e106", "title": "Shoe Mop Tops" },
+				"startMinute": 50,
+				"class": "retelling",
+				"tags": []
+			}
+		]
+	},
+	{
+		"handle": "how-long-does-it-take-to-go-to-the-moon",
+		"title": "How Long Does it Take to Go to the Moon?",
+		"elucidation": "the cast crafted their opinions on space travel and now they won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e12", "title": "I Wanna Be Phoneboof" },
+				"startMinute": 30,
+				"class": "inaugural",
+				"tags": ["mars", "buzz aldrin", "earth moon"]
+			},
+			{
+				"episode": { "key": "s2e41", "title": "Cozy Done Right" },
+				"startMinute": 66,
+				"class": "retelling",
+				"tags": ["earth moon", "would you rather?", "show business"]
+			},
+			{
+				"episode": {
+					"key": "s2e44",
+					"title": "Mommy Oh No Please Queen"
+				},
+				"startMinute": 33,
+				"class": "acknowledgedRetelling",
+				"tags": ["roller coasters", "parents"]
+			},
+			{
+				"episode": { "key": "s3e75", "title": "You're So Plane" },
+				"startMinute": 5,
+				"class": "retelling",
+				"tags": ["earth moon", "motion sickness"]
+			},
+			{
+				"episode": { "key": "s3e89", "title": "One Less Egg To Fry" },
+				"startMinute": 17,
+				"class": "acknowledgedRetelling",
+				"tags": ["earth moon"]
+			}
+		]
+	},
+	{
+		"handle": "there-was-no-pretense-about-the-show-being-good",
+		"title": "There Was No Pretense About the Show Being Good",
+		"elucidation": "scott saw a children's production of little shop once and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e05", "title": "Pop Eyedol" },
+				"startMinute": 23,
+				"class": "inaugural",
+				"tags": ["little shop of horrors (musical)"]
+			},
+			{
+				"episode": { "key": "s3e89", "title": "One Less Egg To Fry" },
+				"startMinute": 28,
+				"class": "retelling",
+				"tags": ["little shop of horrors (musical)"]
+			}
+		]
+	},
+	{
+		"handle": "i-wish-i-was-as-funny-as-them",
+		"title": "I Wish I Was as Funny as Them",
+		"elucidation": "the cast independently agreed that text tapbacks are imperfect and now won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s2e43", "title": "Chicken in the Corn!" },
+				"startMinute": 9,
+				"class": "inaugural",
+				"tags": ["texting"]
+			},
+			{
+				"episode": {
+					"key": "s3e88",
+					"title": "Three Shots To The Dome"
+				},
+				"startMinute": 28,
+				"class": "retelling",
+				"tags": ["texting"]
+			}
+		]
+	},
+	{
+		"handle": "i-could-do-one-pull-up",
+		"title": "I Could Do One Pull-Up",
+		"elucidation": "the cast took presidential fitness tests and they still won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e02", "title": "Chalk Talk" },
+				"startMinute": 17,
+				"class": "inaugural",
+				"tags": ["presidential physical fitness test"]
+			},
+			{
+				"episode": { "key": "s2e43", "title": "Chicken in the Corn!" },
+				"startMinute": 17,
+				"class": "acknowledgedRetelling",
+				"tags": ["presidential physical fitness test"]
+			}
+		]
+	},
+	{
+		"handle": "i-know-exactly-where-my-thumb-goes",
+		"title": "I Know Exactly Where My Thumb Goes",
+		"elucidation": "scott won't shut the fuk up about his first-gen ipod",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s4e131", "title": "Hub-Lublacist" },
+				"startMinute": 9,
+				"class": "inaugural",
+				"tags": ["ipods"]
+			},
+			{
+				"episode": {
+					"key": "s3e88",
+					"title": "Three Shots To The Dome"
+				},
+				"startMinute": 37,
+				"class": "acknowledgedRetelling",
+				"tags": ["ipods"]
+			}
+		]
+	},
+	{
+		"handle": "i-d-go-to-ucb-now",
+		"title": "I'd Go to UCB Now",
+		"elucidation": "mike castle escorted garry shandling to the ucb theatre once and now lauren won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e88",
+					"title": "Three Shots To The Dome"
+				},
+				"startMinute": 40,
+				"class": "acknowledgedRetelling",
+				"tags": ["mike castle", "garry shandling", "ucb"]
+			},
+			{
+				"episode": { "key": "s3e77", "title": "A Plum In The Sun" },
+				"startMinute": 33,
+				"class": "inaugural",
+				"tags": ["mike castle", "garry shandling", "ucb"]
+			}
+		]
+	},
+	{
+		"handle": "i-don-t-wanna-hear-about-how-you-want-to-go-to-the-zoo-in-little-taps",
+		"title": "I Don't Wanna Hear About How You Want to Go to the Zoo in Little Taps",
+		"elucidation": "pft designed a hammer-tap code language with his cousin and he still won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e73",
+					"title": "You're A Ghost, I'm Ten"
+				},
+				"startMinute": 13,
+				"class": "retelling",
+				"tags": ["cousins"]
+			},
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 18,
+				"class": "pimpedRetelling",
+				"tags": ["cousins", "morse code"]
+			},
+			{
+				"episode": {
+					"key": "s4e139",
+					"title": "Good Couch, Bad Couch"
+				},
+				"startMinute": 9,
+				"class": "retelling",
+				"tags": ["cousins"]
+			},
+			{
+				"episode": { "key": "s1e16", "title": "Baby, Fat Guy, Dog" },
+				"startMinute": 5,
+				"class": "inaugural",
+				"tags": ["cousins"]
+			}
+		]
+	},
+	{
+		"handle": "we-were-supposed-to-get-some-walkie-talkies-the-other-day",
+		"title": "We Were Supposed to Get Some Walkie Talkies the Other Day",
+		"elucidation": "the cast won't shut the fuk up about walkie talkies",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e66", "title": "He Talks About Homies" },
+				"startMinute": 15,
+				"class": "inaugural",
+				"tags": ["walkie talkies"]
+			},
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 21,
+				"class": "retelling",
+				"tags": ["walkie talkies"]
+			}
+		]
+	},
+	{
+		"handle": "the-crew-would-hate-you",
+		"title": "The Crew Would Hate You",
+		"elucidation": "the cast won't shut the fuk up about joining the cast of real housewives",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 51,
+				"class": "retelling",
+				"tags": ["real housewives"]
+			},
+			{
+				"episode": {
+					"key": "s5e156",
+					"title": "No More Witches No More Goblins"
+				},
+				"startMinute": 29,
+				"class": "retelling",
+				"tags": ["real housewives"]
+			}
+		]
+	},
+	{
+		"handle": "we-re-now-allowing-dorks-to-work-here",
+		"title": "We're Now Allowing Dorks to Work Here",
+		"elucidation": "scott worked as br'er bear at disneyland one summer, got lost, and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e85", "title": "Mrs. Pachinko" },
+				"startMinute": 11,
+				"class": "pimpedRetelling",
+				"tags": ["br'er bear", "disneyland"]
+			}
+		]
+	},
+	{
+		"handle": "they-have-to-get-his-body-out-of-the-park",
+		"title": "They Have to Get His Body Out of the Park",
+		"elucidation": "scott got to see roy orbison one summer and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s2e28", "title": "This Sucks" },
+				"startMinute": 41,
+				"class": "inaugural",
+				"tags": ["roy orbison", "disneyland"]
+			},
+			{
+				"episode": { "key": "s2e47", "title": "Baby Lock Them Doors" },
+				"startMinute": 33,
+				"class": "retelling",
+				"tags": ["roy orbison", "disneyland"]
+			},
+			{
+				"episode": { "key": "s3e85", "title": "Mrs. Pachinko" },
+				"startMinute": 24,
+				"class": "pimpedRetelling",
+				"tags": ["roy orbison", "disneyland"]
+			}
+		]
+	},
+	{
+		"handle": "we-re-from-chicago-we-all-look-dumb",
+		"title": "We're from Chicago - We All Look Dumb",
+		"elucidation": "scott learned how to get a good haircut in the fall of 1988 and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e85", "title": "Mrs. Pachinko" },
+				"startMinute": 35,
+				"class": "inaugural",
+				"tags": ["haircuts"]
+			},
+			{
+				"episode": { "key": "s1e20", "title": "3-D Yum" },
+				"startMinute": 8,
+				"class": null,
+				"tags": ["neil finn", "haircuts"]
+			}
+		]
+	},
+	{
+		"handle": "is-it-illegal-to-have-three-dogs",
+		"title": "Is it Illegal to Have Three Dogs?",
+		"elucidation": "lauren was accused of calling animal control on her neighbor and now she won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e85", "title": "Mrs. Pachinko" },
+				"startMinute": 60,
+				"class": "inaugural",
+				"tags": ["neighbors", "pets"]
+			},
+			{
+				"episode": { "key": "s4e105", "title": "Crumbelievable" },
+				"startMinute": 32,
+				"class": "retelling",
+				"tags": ["neighbors"]
+			},
+			{
+				"episode": { "key": "s4e106", "title": "Shoe Mop Tops" },
+				"startMinute": 22,
+				"class": "retelling",
+				"tags": ["neighbors"]
+			}
+		]
+	},
+	{
+		"handle": "i-had-a-basket-with-a-dog-in-it",
+		"title": "I Had a Basket with a Dog in It",
+		"elucidation": "pft was riding his bike on the sidewalk and stopped to scream at a fan and ever since he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s4e126",
+					"title": "I Get It, I'm Doctor Strange"
+				},
+				"startMinute": 24,
+				"class": "pimpedRetelling",
+				"tags": ["bicycles", "confrontations"]
+			},
+			{
+				"episode": { "key": "s3e83", "title": "One Haha" },
+				"startMinute": 18,
+				"class": "inaugural",
+				"tags": ["bicycles", "confrontations"]
+			}
+		]
+	},
+	{
+		"handle": "who-gives-a-fuck",
+		"title": "Who Gives a Fuck?",
+		"elucidation": "lauren saw trolls world tour and now she won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e83", "title": "One Haha" },
+				"startMinute": 32,
+				"class": "retelling",
+				"tags": ["trolls world tour (film)"]
+			},
+			{
+				"episode": { "key": "s3e80", "title": "Ryan O'Needle" },
+				"startMinute": 40,
+				"class": "acknowledgedRetelling",
+				"tags": ["trolls world tour (film)"]
+			},
+			{
+				"episode": { "key": "s3e55", "title": "She Just Want Beets" },
+				"startMinute": 23,
+				"class": "inaugural",
+				"tags": ["trolls world tour (film)"]
 			}
 		]
 	}
