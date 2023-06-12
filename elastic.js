@@ -16,7 +16,11 @@ const ELASTIC = require("elasticsearch"),
 const _E = async () => {
     // return new Promise(async (RES, REJ) => {
     // gEt CUrREnT UpdAte sEt Out Of coNfIG
-    const tellings = require(`./threedom.json`);
+    // const tellings = require(`./threedom.json`);
+    const tellings = require(`./threedom.json`).map((te) => {
+        te.tellingsLength = te.tellings.length;
+        return te;
+    });
 
     // clear current index
     let del = await client.deleteByQuery({
