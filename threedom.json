@@ -190,9 +190,9 @@
 					"key": "s2e30",
 					"title": "This Is It"
 				},
-				"startMinute": 0,
+				"startMinute": 6,
 				"class": "retelling",
-				"tags": ["names"]
+				"tags": ["names","dennis j. peacock"]
 			},
 			{
 				"episode": {
@@ -581,6 +581,26 @@
 		"elucidation": "often during the run of threedom, the cast will worry they've yet to shut the fuk up about something but they actually haven't talked about it at all",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s4e118",
+					"title": "Topps Chef"
+				},
+				"startMinute": 48,
+				"class": "invertedPremise",
+				"nb": ["ll auditions for a role whose actress had passed away"],
+				"tags": ["auditions"]
+			},
+			{
+				"episode": {
+					"key": "s4e118",
+					"title": "Topps Chef"
+				},
+				"startMinute": 26,
+				"class": "invertedPremise",
+				"nb": ["holding friends as babies"],
+				"tags": ["babies"]
+			},
 			{
 				"episode": {
 					"key": "s5e172",
@@ -1560,12 +1580,30 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s4e118",
+					"title": "Topps Chef"
+				},
+				"startMinute": 15,
+				"class": "premise",
+				"nb": ["this is what happens with friendship"],
+				"tags": []
+			},
+			{
+				"episode": {
+					"key": "s5e174",
+					"title": "Rumpleforeskin"
+				},
+				"startMinute": 19,
+				"class": "premise",
+				"tags": ["the cold war","beanie babies","the space race"]
+			},
+			{
+				"episode": {
 					"key": "s5e173",
 					"title": "Wrong Said Frong"
 				},
 				"startMinute": 3,
 				"class": "premise",
-				"tags": [],
 				"tags": ["let's tell a story we've told before (fast talking)"]
 			},
 			{
@@ -2260,6 +2298,14 @@
 		"nb": [],
 		"tellings": [
 			{
+				"episode": {
+					"key": "s5e175",
+					"title": "3-Chuckies"
+				},
+				"startMinute": 27,
+				"class": "retelling",
+				"tags": ["big (film)"]
+			},{
 				"episode": {
 					"key": "s5e151",
 					"title": "Kind of a Mess Down There"
@@ -5712,6 +5758,15 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s4e118",
+					"title": "Topps Chef"
+				},
+				"startMinute": 41,
+				"class": "retelling",
+				"tags": ["parking tickets"]
+			},
+			{
+				"episode": {
 					"key": "s1e08",
 					"title": "Out With It!"
 				},
@@ -5728,9 +5783,7 @@
 				"class": "acknowledgedRetelling",
 				"tags": [
 					"court appearances",
-					"arrest warrants",
-					"smoking",
-					"subways"
+					"arrest warrants","traffic tickets"
 				]
 			}
 		]
@@ -6598,6 +6651,15 @@
 					"title": "Ryan O'Needle"
 				},
 				"startMinute": 24,
+				"class": "retelling",
+				"tags": ["reality recap [yeah]", "southern charm (tv)"]
+			},
+			{
+				"episode": {
+					"key": "s4e118",
+					"title": "Topps Chef"
+				},
+				"startMinute": 8,
 				"class": "retelling",
 				"tags": ["reality recap [yeah]", "southern charm (tv)"]
 			}
@@ -9893,4 +9955,101 @@
 			}
 		]
 	}
+	,
+	{
+		"key": "i-heard-you-re-very-sensitive-about-your-weight",
+		"isMeta": false,
+		"title": "I Heard You're Very Sensitive About Your Weight",
+		"elucidation": "pft saw this is us (tv) after a super bowl and won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e70",
+					"title": "Now They're Doing Karate"
+				},
+				"startMinute": 1,
+				"class": "acknowledgedRetelling",
+				"tags": ["this is us (tv)"]
+			},{
+				"episode": {
+					"key": "s5e174",
+					"title": "Rumpleforeskin"
+				},
+				"startMinute": 3,
+				"class": "acknowledgedRetelling",
+				"tags": ["this is us (tv)"]
+			}
+		]
+	},
+	{
+		"key": "mine-is-the-birthday",
+		"isMeta": false,
+		"title": "Mine is The Birthday",
+		"elucidation": "ll won't shut the fuk up about how her birthday is the only legit birthday",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e19",
+					"title": "My Secret Visitors..."
+				},
+				"startMinute": 28,
+				"class": "inaugural",
+				"tags": ["birthdays"]
+			},
+			{
+				"episode": {
+					"key": "s5e173",
+					"title": "Wrong Said Frong"
+				},
+				"startMinute": 30,
+				"class": "retelling",
+				"tags": ["birthdays"]
+			}
+		]
+	},
+	{
+		"key": "i-wasn-t-celebrating-that-year",
+		"isMeta": false,
+		"title": "I Wasn't Celebrating that Year",
+		"elucidation": "pf won't shut the fuk up about that time his birthday wz upstaged by the greatest american tragedy in history",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
+				"startMinute": 13,
+				"class": "inaugural",
+				"tags": ["9/11","birthdays"]
+			},
+			{
+				"episode": {
+					"key": "s5e174",
+					"title": "Rumpleforeskin"
+				},
+				"startMinute": 14,
+				"class": "retelling",
+				"tags": ["birthdays","9/11"]
+			}
+		]
+	},{"key":"his-feet-have-to-be-three-inches-long","title":"His Feet Have to Be Three Inches Long","elucidation":"scott lost out on a tall woman and still won't shut the fuk up about it","nb":[],"tellings":[{
+				"episode": {
+					"key": "s5e174",
+					"title": "Rumpleforeskin"
+				},
+				"startMinute": 24,
+				"class": "questionedRetelling",
+				"tags": ["hairy chests"]
+			},{
+				"episode": {
+					"key": "s3e88",
+					"title": "Three Shots To The Dome"
+				},
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": ["hairy chests"]
+			}]}
 ]

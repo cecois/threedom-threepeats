@@ -15,28 +15,28 @@ const dirs = {
 	},
 	authority = require("/Users/ccmiller/git/threedom-threepeats/threedom-episode-authority.json");
 
-const wavs = FS.readdirSync(dirs.wavs).filter((f) => !f.indexOf(".") == 0),
+// const wavs = FS.readdirSync(dirs.wavs).filter((f) => !f.indexOf(".") == 0),
 	transcripts = FS.readdirSync(dirs.transcripts).filter(
 		(f) => !f.indexOf(".") == 0
-	),
-	mp3s = FS.readdirSync(dirs.mp3s).filter((f) => !f.indexOf(".") == 0);
+	)
+// 	,mp3s = FS.readdirSync(dirs.mp3s).filter((f) => !f.indexOf(".") == 0);
 
 // spot missing transcripts
-const missingTranscripts = __.difference(
-	wavs.map((fn) => fn.split(".")[0]),
-	transcripts.map((fn) => fn.split(".")[0])
-);
-missingTranscripts.length > 0 &&
-	console.log("🚨 missing transcripts:", missingTranscripts);
-missingTranscripts.length > 0 && process.exit();
+// const missingTranscripts = __.difference(
+// 	wavs.map((fn) => fn.split(".")[0]),
+// 	transcripts.map((fn) => fn.split(".")[0])
+// );
+// missingTranscripts.length > 0 &&
+// 	console.log("🚨 missing transcripts:", missingTranscripts);
+// missingTranscripts.length > 0 && process.exit();
 
 // spot mismatching mp3 names
-const missingMP3s = __.difference(
-	wavs.map((fn) => fn.split(".")[0]),
-	mp3s.map((fn) => fn.split(".")[0])
-);
-missingMP3s.length > 0 && console.log("🚨 mismatching mp3s:", missingMP3s);
-missingMP3s.length > 0 && process.exit();
+// const missingMP3s = __.difference(
+// 	wavs.map((fn) => fn.split(".")[0]),
+// 	mp3s.map((fn) => fn.split(".")[0])
+// );
+// missingMP3s.length > 0 && console.log("🚨 mismatching mp3s:", missingMP3s);
+// missingMP3s.length > 0 && process.exit();
 
 // takes transcript filenames, shops them against the episode authority
 const transcriptSets = transcripts
