@@ -2543,6 +2543,33 @@
 		]
 	},
 	{
+		"key": "what-s-the-range-up-to",
+		"isMeta": false,
+		"title": "What's The Range Up To?",
+		"elucidation": "pft won't shut the fuk up about bruce hornsby's catalog",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e176",
+					"title": "That's Just The Way It Works"
+				},
+				"startMinute": 1,
+				"class": "retelling",
+				"tags": ["bruce hornsby"]
+			},
+			{
+				"episode": {
+					"key": "s4e115",
+					"title": "Jumble Cruise"
+				},
+				"startMinute": 1,
+				"class": "inaugural",
+				"tags": ["bruce hornsby"]
+			}
+		]
+	},
+	{
 		"key": "you-prolly-should-shit",
 		"isMeta": false,
 		"title": "You Prolly Should Shit",
