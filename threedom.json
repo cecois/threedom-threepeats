@@ -1,23 +1,5 @@
 [
 	{
-		"key": "2007-boston-mooninite-panic",
-		"isMeta": false,
-		"title": "2007 Boston Mooninite Panic",
-		"elucidation": "pft won't shut the fuk up about still fielding requests to release an abandoned aqua teen hunger force episode",
-		"nb": ["https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic"],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e1",
-					"title": "This Was a Mistake"
-				},
-				"startMinute": 9,
-				"class": "inaugural",
-				"tags": ["Aqua Teen Hunger Force"]
-			}
-		]
-	},
-	{
 		"key": "smelling-salts",
 		"isMeta": false,
 		"title": "Smelling Salts",
@@ -54,24 +36,6 @@
 		]
 	},
 	{
-		"key": "heavyburtation",
-		"isMeta": false,
-		"title": "Heavy Burtation",
-		"elucidation": "the cast watched that heavy burtation clip and now they won't shut the fuk up about it",
-		"nb": ["https://knowyourmeme.com/memes/heavy-burtation"],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e1",
-					"title": "This Was a Mistake"
-				},
-				"startMinute": 12,
-				"class": "inaugural",
-				"tags": ["Burtation", "Serene Branson"]
-			}
-		]
-	},
-	{
 		"key": "kissmakeup",
 		"isMeta": false,
 		"title": "KISS Makeup",
@@ -103,24 +67,6 @@
 					"Ace Frehley",
 					"halloween"
 				]
-			}
-		]
-	},
-	{
-		"key": "thepaceofoldercontent",
-		"isMeta": false,
-		"title": "The Pace of 'Alf'",
-		"elucidation": "the cast noticed the pace of older content and now they won't shut the fuk up about it",
-		"nb": [],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e1",
-					"title": "This Was a Mistake"
-				},
-				"startMinute": 26,
-				"class": "inaugural",
-				"tags": ["Alf (TV)"]
 			}
 		]
 	},
@@ -192,7 +138,7 @@
 				},
 				"startMinute": 6,
 				"class": "retelling",
-				"tags": ["names","dennis j. peacock"]
+				"tags": ["names", "dennis j. peacock"]
 			},
 			{
 				"episode": {
@@ -264,24 +210,6 @@
 		]
 	},
 	{
-		"key": "scottsbadatsports",
-		"isMeta": false,
-		"title": "Scott's Sports Career",
-		"elucidation": "scott struggled with sports as a youth and now he won't shut the fuk up about it",
-		"nb": [],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e2",
-					"title": "Chalk Talk"
-				},
-				"startMinute": 15,
-				"class": "inaugural",
-				"tags": ["baseball", "gym class"]
-			}
-		]
-	},
-	{
 		"key": "glassesinourheads_lauren",
 		"isMeta": false,
 		"title": "Glasses in Our Heads - lauren",
@@ -309,30 +237,21 @@
 		]
 	},
 	{
-		"key": "glassesinourheads_scott",
+		"key": "ll-s-blind-man-s-bluff-concussion",
 		"isMeta": false,
-		"title": "Glasses in Our Heads - Scott",
-		"elucidation": "scott rode a bike with his eyes closed once and now he won't shut the fuk up about it",
+		"title": "ll's Blind Man's Bluff Concussion",
+		"elucidation": "ll and her friends were all injured during blind man's bluff as a youth and now she won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e2",
-					"title": "Chalk Talk"
+					"key": "s4e133",
+					"title": "It's MY Birthday Suit!"
 				},
-				"startMinute": 23,
-				"class": "inaugural",
-				"tags": ["gym class", "bicycles", "head injuries"]
-			}
-		]
-	},
-	{
-		"key": "ll-s-blind-man-s-bluff-concussion",
-		"isMeta": false,
-		"title": "ll's Blind Man's Bluff Concussion",
-		"elucidation": "ll was concussed during blind man's bluff as a youth and now she won't shut the fuk up about it",
-		"nb": [],
-		"tellings": [
+				"startMinute": 29,
+				"class": "retelling",
+				"tags": ["blind man's bluff", "head injuries", "concussions"]
+			},
 			{
 				"episode": {
 					"key": "s1e2",
@@ -359,120 +278,21 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s5e161",
+					"title": "Lord Help Me Bullsjit Bugs Bummy"
+				},
+				"startMinute": 56,
+				"class": "pimpedRetelling",
+				"tags": ["ladybugs (film)", "head injuries", "concussions"]
+			},
+			{
+				"episode": {
 					"key": "s1e2",
 					"title": "Chalk Talk"
 				},
 				"startMinute": 31,
 				"class": "inaugural",
 				"tags": ["ladybugs (film)", "head injuries", "concussions"]
-			}
-		]
-	},
-	{
-		"key": "ll-s-radiator-concussion",
-		"isMeta": false,
-		"title": "ll's Radiator Concussion",
-		"elucidation": "ll was concussed on a residential radiator and now she won't shut the fuk up about it",
-		"nb": [],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e2",
-					"title": "Chalk Talk"
-				},
-				"startMinute": 34,
-				"class": "inaugural",
-				"tags": ["head injuries", "concussions"]
-			}
-		]
-	},
-	{
-		"key": "pft-s-sole-childhood-head-injury",
-		"isMeta": false,
-		"title": "PFT's Sole Childhood Head Injury",
-		"elucidation": "paul injured his head during an oliver! rehearsal and now he won't shut the fuk up about it",
-		"nb": [],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e2",
-					"title": "Chalk Talk"
-				},
-				"startMinute": 36,
-				"class": "inaugural",
-				"tags": ["theatre", "Oliver! (musical)", "head injuries"]
-			}
-		]
-	},
-	{
-		"key": "scott-s-downtown-l-a-head-injury",
-		"isMeta": false,
-		"title": "Scott's Downtown L.A. Head Injury",
-		"elucidation": "scott injured his head in downtown l.a. as a youth and now he won't shut the fuk up about it",
-		"nb": ["wrought-iron, rubber-band"],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e2",
-					"title": "Chalk Talk"
-				},
-				"startMinute": 38,
-				"class": "inaugural",
-				"tags": ["Los Angeles", "head injuries"]
-			}
-		]
-	},
-	{
-		"key": "scott-s-hometown-police-incident",
-		"isMeta": false,
-		"title": "Scott's Hometown Police Incident",
-		"elucidation": "scott had a run-in with his hometown police force and now he won't shut the fuk up about it",
-		"nb": ["scott also owned a steamer trunk w/ stickers on it"],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e2",
-					"title": "Chalk Talk"
-				},
-				"startMinute": 38,
-				"class": "inaugural",
-				"tags": ["police", "stickers"]
-			}
-		]
-	},
-	{
-		"key": "scott-s-deep-dark-measles-secret",
-		"isMeta": false,
-		"title": "Scott's Deep Dark Measles Secret",
-		"elucidation": "scott drew fake measles on his face but let his brother take the fall and now he won't shut the fuk up about it",
-		"nb": [],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e2",
-					"title": "Chalk Talk"
-				},
-				"startMinute": 49,
-				"class": "inaugural",
-				"tags": ["illness", "siblings"]
-			}
-		]
-	},
-	{
-		"key": "pft-s-krazy-kumbersome-kabinet",
-		"isMeta": false,
-		"title": "PFT's Krazy Kumbersome Kabinet",
-		"elucidation": "pft's brother's finger got clipped and now pft won't shut the fuk up about it",
-		"nb": ["brother in the front; party in the back"],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s1e2",
-					"title": "Chalk Talk"
-				},
-				"startMinute": 55,
-				"class": "inaugural",
-				"tags": ["fingers", "injuries"]
 			}
 		]
 	},
@@ -590,6 +410,18 @@
 				"class": "invertedPremise",
 				"nb": ["ll auditions for a role whose actress had passed away"],
 				"tags": ["auditions"]
+			},
+			{
+				"episode": {
+					"key": "s1e25",
+					"title": "Cactus Hoose"
+				},
+				"startMinute": 1,
+				"class": "invertedPremise",
+				"tags": [
+					"they claim they talked about it already; hadn't; but did again later; rarity"
+				],
+				"tags": ["restaurant roundup", "cafe cordiale"]
 			},
 			{
 				"episode": {
@@ -1595,7 +1427,7 @@
 				},
 				"startMinute": 19,
 				"class": "premise",
-				"tags": ["the cold war","beanie babies","the space race"]
+				"tags": ["the cold war", "beanie babies", "the space race"]
 			},
 			{
 				"episode": {
@@ -1901,44 +1733,8 @@
 					"title": "One Less Egg To Fry"
 				},
 				"startMinute": 40,
-				"class": "retelling",
+				"class": "inaugural",
 				"tags": ["kelsey grammer"]
-			}
-		]
-	},
-	{
-		"key": "house-hunters-verisimilutude",
-		"isMeta": false,
-		"title": "House Hunters Verisimilutude",
-		"elucidation": "the cast heard some house hunters tv show gossip and now they won't shut the fuk up about it",
-		"nb": [],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s5e147",
-					"title": "Is the Nibbler Here?"
-				},
-				"startMinute": 23,
-				"class": "questionedRetelling",
-				"tags": ["house hunters (tv)"]
-			}
-		]
-	},
-	{
-		"key": "the-food-you-ve-eaten-most",
-		"isMeta": false,
-		"title": "The Food You've Eaten Most",
-		"elucidation": "ll ate a lot of fries and now she won't shut the fuk up about it",
-		"nb": [],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s5e147",
-					"title": "Is the Nibbler Here?"
-				},
-				"startMinute": 29,
-				"class": "questionedRetelling",
-				"tags": ["the nibbler", "marie callender's"]
 			}
 		]
 	},
@@ -2014,7 +1810,7 @@
 			},
 			{
 				"episode": {
-					"key": "s5e18",
+					"key": "s5e146",
 					"title": "I Hope Everyone's a Mummy"
 				},
 				"startMinute": 16,
@@ -2220,6 +2016,18 @@
 		"nb": [],
 		"tellings": [
 			{
+				"episode": { "key": "s3e65", "title": "Moneybucks" },
+				"startMinute": 45,
+				"class": "retelling",
+				"tags": ["piano"]
+			},
+			{
+				"episode": { "key": "s2e46", "title": "The Pretzel Gang" },
+				"startMinute": 40,
+				"class": "inaugural",
+				"tags": ["tap dancing"]
+			},
+			{
 				"episode": {
 					"key": "s4e144",
 					"title": "Matrix is My Doo-Dah Bones"
@@ -2305,7 +2113,8 @@
 				"startMinute": 27,
 				"class": "retelling",
 				"tags": ["big (film)"]
-			},{
+			},
+			{
 				"episode": {
 					"key": "s5e151",
 					"title": "Kind of a Mess Down There"
@@ -2356,7 +2165,7 @@
 					"title": "He Talks About Homies"
 				},
 				"startMinute": 48,
-				"class": "acknowledgedRetelling",
+				"class": "inaugural",
 				"tags": ["precious: based on the novel 'push' by sapphire"]
 			}
 		]
@@ -4160,7 +3969,7 @@
 					"title": "Free Willy Nilly"
 				},
 				"startMinute": 45,
-				"class": null,
+				"class": "retelling",
 				"tags": ["jobs", "chores", "windows"]
 			}
 		]
@@ -4196,7 +4005,7 @@
 		"key": "he-s-a-good-man",
 		"isMeta": false,
 		"title": "He's a Good Man",
-		"elucidation": "the cast discuss the morality of m&m voice gigs",
+		"elucidation": "the cast won't shut the fuk up about the professional morality of m&m voice gigs",
 		"nb": [],
 		"tellings": [
 			{
@@ -4233,7 +4042,7 @@
 		"key": "i-don-t-wanna-watch-a-car",
 		"isMeta": false,
 		"title": "I Don't Wanna Watch a Car",
-		"elucidation": "the cast complain about the conceit of pixar's 'cars'",
+		"elucidation": "the cast won't shut the fuk up about the conceit of pixar's 'cars'",
 		"nb": [],
 		"tellings": [
 			{
@@ -4260,7 +4069,7 @@
 		"key": "what-am-i-holding-onto",
 		"isMeta": false,
 		"title": "What am I Holding Onto?",
-		"elucidation": "the cast lament the commercial branding of stadiums and other landmarks",
+		"elucidation": "the cast won't shut the fuk up about the commercial branding of stadiums and other landmarks",
 		"nb": [],
 		"tellings": [
 			{
@@ -4287,7 +4096,7 @@
 		"key": "were-you-diagnosed-adidac",
 		"isMeta": false,
 		"title": "Were You Diagnosed ADIDAC?",
-		"elucidation": "scott went to hershey, pa he loved candy so much",
+		"elucidation": "scott went to hershey, pa he loved candy so much but now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -4314,7 +4123,7 @@
 		"key": "he-would-take-off-his-mask-to-show-that-he-was-handsome",
 		"isMeta": false,
 		"title": "He Would Take Off His Mask to Show that He was Handsome",
-		"elucidation": "scott's handsome colleague at knotts berry farm",
+		"elucidation": "scott's might never shut the fuk up about his handsome colleague at knotts berry farm",
 		"nb": [],
 		"tellings": [
 			{
@@ -4341,7 +4150,7 @@
 		"key": "in-their-place-half-a-brain",
 		"isMeta": false,
 		"title": "In Their Place: Half a Brain",
-		"elucidation": "scott tells the story of the crazy neighbor who likely stole his dvds",
+		"elucidation": "scott won't shut the fuk up about the crazy neighbor that stole his dvds",
 		"nb": [],
 		"tellings": [
 			{
@@ -4779,7 +4588,7 @@
 		"key": "okay-don-t-get-into-it",
 		"isMeta": false,
 		"title": "Okay, Don't Get into It",
-		"elucidation": "scott cried once and now won't shut the fuk up about it",
+		"elucidation": "scott cried at a country song once and now won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -4801,7 +4610,7 @@
 					"title": "Stop Making It Plural"
 				},
 				"startMinute": 30,
-				"class": "retelling",
+				"class": "inaugural",
 				"tags": [
 					"he didn't have to be (song)",
 					"brad paisley",
@@ -5311,7 +5120,7 @@
 					"title": "Now They're Doing Karate"
 				},
 				"startMinute": 30,
-				"class": "acknowledgedRetelling",
+				"class": "inaugural",
 				"tags": ["las vegas", "penn & teller"]
 			},
 			{
@@ -5377,7 +5186,7 @@
 					"title": "This Is It"
 				},
 				"startMinute": 22,
-				"class": "retelling",
+				"class": "inaugural",
 				"tags": ["dreams"]
 			},
 			{
@@ -5783,7 +5592,8 @@
 				"class": "acknowledgedRetelling",
 				"tags": [
 					"court appearances",
-					"arrest warrants","traffic tickets"
+					"arrest warrants",
+					"traffic tickets"
 				]
 			}
 		]
@@ -6435,7 +6245,7 @@
 					"title": "Julie Bowfinger"
 				},
 				"startMinute": 51,
-				"class": "retelling",
+				"class": "inaugural",
 				"tags": ["real housewives"]
 			},
 			{
@@ -8295,7 +8105,7 @@
 		"key": "i-think-maybe-my-nut-got-twisted",
 		"isMeta": false,
 		"title": "I Think Maybe My Nut Got Twisted",
-		"elucidation": "pft's history of testicular torsion (scott's maybe also - who could say?)",
+		"elucidation": "pft won't shut the fuk up about his history of testicular torsion (or scott's but who could say?)",
 		"nb": [],
 		"tellings": [
 			{
@@ -8574,7 +8384,7 @@
 					"title": "Frank Caliendo's Hot Dog Emporium"
 				},
 				"startMinute": 29,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["farms", "fisher price barn"]
 			},
 			{
@@ -8583,7 +8393,7 @@
 					"title": "SSN: 123-45-6789"
 				},
 				"startMinute": 39,
-				"class": null,
+				"class": "retelling",
 				"tags": ["farms", "fisher price barn"]
 			},
 			{
@@ -8592,7 +8402,7 @@
 					"title": "I Hope Everyone's A Mummy"
 				},
 				"startMinute": 23,
-				"class": null,
+				"class": "retelling",
 				"tags": ["farms", "fisher price barn"]
 			}
 		]
@@ -8619,7 +8429,7 @@
 					"title": "Nasty Mound"
 				},
 				"startMinute": 1,
-				"class": null,
+				"class": "retelling",
 				"tags": ["pets", "barf"]
 			}
 		]
@@ -8673,7 +8483,7 @@
 					"title": "Cactus Hoose"
 				},
 				"startMinute": 1,
-				"class": "acknowledgedRetelling",
+				"class": "inaugural",
 				"tags": ["restaurant roundup", "cafe cordiale"]
 			}
 		]
@@ -8682,7 +8492,7 @@
 		"key": "it-was-actually-really-good-and-left-everyone-in-tears",
 		"isMeta": false,
 		"title": "It Was Actually Really Good and Left Everyone in Tears",
-		"elucidation": "scott appeared in a 30-minute mashup of romeo and juliet & west side story",
+		"elucidation": "scott appeared in a 30-minute mashup of romeo and juliet & west side story and refuses to shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -8721,13 +8531,27 @@
 		"nb": [],
 		"tellings": [
 			{
+				"episode": { "key": "s1e15", "title": "Church Cool Man" },
+				"startMinute": 1,
+				"class": "inaugural",
+				"tags": [
+					"pure moods (album series)",
+					"chevy chase",
+					"jonathan taylor thomas"
+				]
+			},
+			{
 				"episode": {
 					"key": "s1e25",
 					"title": "Cactus Hoose"
 				},
 				"startMinute": 9,
 				"class": "declinedPimping",
-				"tags": ["pure moods iii (album)", "spankings"]
+				"tags": [
+					"pure moods iii (album)",
+					"pure moods (album series)",
+					"spankings"
+				]
 			}
 		]
 	},
@@ -8934,6 +8758,12 @@
 				"startMinute": 32,
 				"class": "acknowledgedRetelling",
 				"tags": ["sandwiches"]
+			},
+			{
+				"episode": { "key": "s1e16", "title": "Baby, Fat Guy, Dog" },
+				"startMinute": 26,
+				"class": "inaugural",
+				"tags": ["carrots", "sandwiches"]
 			}
 		]
 	},
@@ -9023,6 +8853,15 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s5e147",
+					"title": "Is the Nibbler Here?"
+				},
+				"startMinute": 23,
+				"class": "questionedRetelling",
+				"tags": ["reality recap [yeah]", "house hunters (tv)"]
+			},
+			{
+				"episode": {
 					"key": "s1e24",
 					"title": "Look, I am Your Father"
 				},
@@ -9036,7 +8875,7 @@
 					"title": "3-D Yum"
 				},
 				"startMinute": 40,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["reality recap [yeah]", "the bachelor (tv)"]
 			}
 		]
@@ -9146,12 +8985,21 @@
 		]
 	},
 	{
-		"key": "i don't want a spanking",
+		"key": "i-don-t-want-a-spanking",
 		"isMeta": true,
 		"title": "I Don't Want a Spanking",
 		"elucidation": "extremely rarely the cast will acknowledge they've already addressed a topic and in fact move on",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s5e176",
+					"title": "That's Just The Way It Works"
+				},
+				"startMinute": 11,
+				"class": "declinedPimping",
+				"tags": ["police", "fruit salad", "trading cards"]
+			},
 			{
 				"episode": {
 					"key": "s1e15",
@@ -9264,7 +9112,7 @@
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 10,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["plato", "books"]
 			},
 			{
@@ -9273,7 +9121,7 @@
 					"title": "Sologamy"
 				},
 				"startMinute": 44,
-				"class": null,
+				"class": "retelling",
 				"tags": ["plato", "books"]
 			}
 		]
@@ -9316,7 +9164,7 @@
 					"title": "ll's Topics Presents: Scott's Topics"
 				},
 				"startMinute": 13,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["rob delaney"]
 			},
 			{
@@ -9325,7 +9173,7 @@
 					"title": "Do You Hear Doodie or Poodie?"
 				},
 				"startMinute": 13,
-				"class": null,
+				"class": "retelling",
 				"tags": ["rob delaney"]
 			}
 		]
@@ -9333,7 +9181,7 @@
 	{
 		"key": "all-my-kisses-were-comedy-kisses",
 		"title": "All My Kisses Were Comedy Kisses",
-		"elucidation": "",
+		"elucidation": "the cast won't shut the fuk up about all of their stage kissing experiences",
 		"nb": [],
 		"tellings": [
 			{
@@ -9342,7 +9190,7 @@
 					"title": "Do You Hear Doodie or Poodie?"
 				},
 				"startMinute": 27,
-				"class": null,
+				"class": "retelling",
 				"tags": ["stage kissing", "sex scenes"]
 			},
 			{
@@ -9351,7 +9199,7 @@
 					"title": "Look, I am Your Father"
 				},
 				"startMinute": 29,
-				"class": null,
+				"class": "inaugural",
 				"tags": [
 					"stage kissing",
 					"they might be giants (musical combination)",
@@ -9399,7 +9247,7 @@
 					"title": "Cozy Done Right"
 				},
 				"startMinute": 16,
-				"class": "retelling",
+				"class": "inaugural",
 				"tags": ["jobs"]
 			},
 			{
@@ -9434,7 +9282,7 @@
 					"title": "Lauren's Topics Presents: Scott's Topics"
 				},
 				"startMinute": 58,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["Zen and the Art of Motorcycle Maintenance (book)"]
 			}
 		]
@@ -9610,7 +9458,7 @@
 					"title": "Do You Hear Doodie or Poodie?"
 				},
 				"startMinute": 29,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["larry fortensky", "elizabeth taylor"]
 			},
 			{
@@ -9619,7 +9467,7 @@
 					"title": "1 Room 100 Toilets"
 				},
 				"startMinute": 28,
-				"class": null,
+				"class": "retelling",
 				"tags": ["larry fortensky", "elizabeth taylor"]
 			}
 		]
@@ -9854,7 +9702,7 @@
 					"title": "Boop"
 				},
 				"startMinute": 33,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["first dates"]
 			},
 			{
@@ -9954,8 +9802,7 @@
 				"tags": ["jay leno", "the tonight show (tv)"]
 			}
 		]
-	}
-	,
+	},
 	{
 		"key": "i-heard-you-re-very-sensitive-about-your-weight",
 		"isMeta": false,
@@ -9969,9 +9816,10 @@
 					"title": "Now They're Doing Karate"
 				},
 				"startMinute": 1,
-				"class": "acknowledgedRetelling",
+				"class": "inaugural",
 				"tags": ["this is us (tv)"]
-			},{
+			},
+			{
 				"episode": {
 					"key": "s5e174",
 					"title": "Rumpleforeskin"
@@ -10023,7 +9871,7 @@
 				},
 				"startMinute": 13,
 				"class": "inaugural",
-				"tags": ["9/11","birthdays"]
+				"tags": ["9/11", "birthdays"]
 			},
 			{
 				"episode": {
@@ -10032,10 +9880,17 @@
 				},
 				"startMinute": 14,
 				"class": "retelling",
-				"tags": ["birthdays","9/11"]
+				"tags": ["birthdays", "9/11"]
 			}
 		]
-	},{"key":"his-feet-have-to-be-three-inches-long","title":"His Feet Have to Be Three Inches Long","elucidation":"scott lost out on a tall woman and still won't shut the fuk up about it","nb":[],"tellings":[{
+	},
+	{
+		"key": "his-feet-have-to-be-three-inches-long",
+		"title": "His Feet Have to Be Three Inches Long",
+		"elucidation": "scott lost out on a tall woman and still won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
 				"episode": {
 					"key": "s5e174",
 					"title": "Rumpleforeskin"
@@ -10043,7 +9898,8 @@
 				"startMinute": 24,
 				"class": "questionedRetelling",
 				"tags": ["hairy chests"]
-			},{
+			},
+			{
 				"episode": {
 					"key": "s3e88",
 					"title": "Three Shots To The Dome"
@@ -10051,5 +9907,33 @@
 				"startMinute": 14,
 				"class": "inaugural",
 				"tags": ["hairy chests"]
-			}]}
+			}
+		]
+	},
+	{
+		"key": "we-ll-just-beat-the-shit-out-of-you",
+		"title": "We'll Just Beat the Shit Out of You",
+		"elucidation": "scott drove erratically once and still won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e02",
+					"title": "Chalk Talk"
+				},
+				"startMinute": 50,
+				"class": "inaugural",
+				"tags": ["police", "condoms"]
+			},
+			{
+				"episode": {
+					"key": "s5e176",
+					"title": "That's Just The Way It Works"
+				},
+				"startMinute": 11,
+				"class": "questionedRetelling",
+				"tags": ["police", "condoms"]
+			}
+		]
+	}
 ]

@@ -1,140 +1,164 @@
 const COLORETTE = require("colorette"),
 	ARG = require("minimist")(process.argv.slice(2)),
 	__ = require("underscore"),
-	FS = require("fs");
-let m;
-
-const Q = ARG.q ? ARG.q : null;
-!ARG.q && console.log("no -q flag; need that");
-!ARG.q && process.exit();
-
-const dirs = {
-		transcripts: "/Users/ccmiller/git/threedom-threepeats/transcripts/",
-		wavs: "/Users/ccmiller/Downloads/threedom/podcast-audio/wavs/",
-		mp3s: "/Users/ccmiller/Downloads/threedom/podcast-audio/mp3s/",
+	Parser = require("rss-parser"),
+	FS = require("fs"),
+	Fuse = require("fuse.js"),
+	{ distance, closest } = require("fastest-levenshtein"),
+	dirs = {
+		transcripts: "./transcripts/",
 	},
-	authority = require("/Users/ccmiller/git/threedom-threepeats/threedom-episode-authority.json");
+	authorityRSS =
+		"http://cbbworld.memberfulcontent.com/rss/10688?auth=Mkxahs2wDAseAm7HkYpggDiU",
+	authorityLOC = require("./threedom-episode-authority.json");
 
-// const wavs = FS.readdirSync(dirs.wavs).filter((f) => !f.indexOf(".") == 0),
-	transcripts = FS.readdirSync(dirs.transcripts).filter(
-		(f) => !f.indexOf(".") == 0
-	)
-// 	,mp3s = FS.readdirSync(dirs.mp3s).filter((f) => !f.indexOf(".") == 0);
+// authorityRSS = "https://feeds.simplecast.com/XSy42e1F";
+const Q = ARG.q ? ARG.q : null;
+const E = ARG.e ? ARG.e : null;
+// !ARG.q && console.log("no -q flag; need that");
+// !ARG.q && process.exit();
 
-// spot missing transcripts
-// const missingTranscripts = __.difference(
-// 	wavs.map((fn) => fn.split(".")[0]),
-// 	transcripts.map((fn) => fn.split(".")[0])
-// );
-// missingTranscripts.length > 0 &&
-// 	console.log("🚨 missing transcripts:", missingTranscripts);
-// missingTranscripts.length > 0 && process.exit();
+const _I = async () => {
+	const parser = new Parser({
+		headers: { Accept: "application/rss+xml, text/xml; q=0.1" },
+	});
 
-// spot mismatching mp3 names
-// const missingMP3s = __.difference(
-// 	wavs.map((fn) => fn.split(".")[0]),
-// 	mp3s.map((fn) => fn.split(".")[0])
-// );
-// missingMP3s.length > 0 && console.log("🚨 mismatching mp3s:", missingMP3s);
-// missingMP3s.length > 0 && process.exit();
+	// pull the official meta
+	const threedomFeed = await parser.parseURL(authorityRSS);
+	const getepisodeMeta = (transcriptFilename) => {
+		const regExTranscript1 = new RegExp(".srt", "i"),
+			regExTranscript2 = new RegExp("_", "g"),
+			regExTranscript3 = new RegExp("\\t", "g"),
+			regExTranscript4 = new RegExp("\\n", "g");
 
-// takes transcript filenames, shops them against the episode authority
-const transcriptSets = transcripts
-	// .map((fn) => fn.split(".")[0])
-	.map((fn) => fn.replace(/\.[^/.]+$/, ""))
-	.map((T) => {
-		let ep = authority.find(
-			(ep) => ep.itTitle.replace(new RegExp(" ", "ig"), "_") == T
+		let transcriptFileNameClean = transcriptFilename
+			.replace(regExTranscript1, "")
+			.replace(regExTranscript2, " ");
+
+		let allTitles = __.pluck(threedomFeed.items, "title");
+		let authorityMatch = closest(transcriptFileNameClean, allTitles);
+		let aeo = __.findWhere(threedomFeed.items, { title: authorityMatch });
+
+		let authoritySupplement = closest(
+			transcriptFileNameClean,
+			__.pluck(authorityLOC, "itTitle")
 		);
+		let aes = __.findWhere(authorityLOC, { itTitle: authoritySupplement });
+
+		let handle = aeo.itunes.season
+			? `s${aeo.itunes.season}e${aeo.itunes.episode}`
+			: `s${parseInt(aes.itSeason)}e${aes.itEpisode}`;
+
+		let authorityEpisode = aeo
+			? {
+					title: aeo.title
+						.replace(regExTranscript3, "")
+						.replace(regExTranscript4, ""),
+					url: aeo.enclosure.url,
+					handle: handle,
+			  }
+			: null;
+
 		return {
-			transcript: `${dirs.transcripts}${T}.srt`,
-			wav: `${T}.wav`,
-			mp3: `${dirs.mp3s}${T}.mp3`,
-			episodeString: ep
-				? `s${parseInt(ep.itSeason)}e${ep.itEpisode}`
-				: `...ep not found for ${T}`,
-			episodeName: ep ? ep.itTitle : null,
+			transcript: authorityMatch,
+			episode: authorityEpisode,
 		};
-	});
+	}; //getepisodeMeta
 
-const matchSets = __.sortBy(transcriptSets, "episodeString").map((TO) => {
-	TO.matches = [];
-	let regEx = new RegExp(Q, "i");
-	let transcriptLines = FS.readFileSync(TO.transcript, "utf8")
-		.toString() //out to string
-		.split("\n"); //per line
-	transcriptLines.forEach((line, linei) => {
-		let match = line.search(regEx); //find the regex
-		// match > 0 && TO.matches.push(`${transcriptLines[linei - 1]} - ${line}`);
-		match > 0 &&
-			TO.matches.push({
-				timestamp: `${transcriptLines[linei - 1]}`,
-				match: line,
-				contexts: {
-					pre: [
-						`${transcriptLines[linei - 16]}`,
-						`${transcriptLines[linei - 12]}`,
-						`${transcriptLines[linei - 8]}`,
-						`${transcriptLines[linei - 4]}`,
-					],
-					post: [
-						`${transcriptLines[linei + 4]}`,
-						`${transcriptLines[linei + 8]}`,
-						`${transcriptLines[linei + 12]}`,
-						`${transcriptLines[linei + 16]}`,
-					],
-				},
-			});
-	});
-	return TO;
-});
+	if (E) {
+		let t = closest(E, __.pluck(threedomFeed.items, "title"));
+		let thandle = __.findWhere(authorityLOC, { itTitle: t });
 
-// console.log(matchSets.filter((ms) => ms.matches.length > 0));
+		let ep = {
+			title: t,
+			url: threedomFeed.items.find((tfi) => tfi.title == t).enclosure.url,
+			handle: thandle
+				? `s${parseInt(thandle?.itSeason)}e${parseInt(
+						thandle?.itEpisode
+				  )}`
+				: null,
+		};
+		let r = `
+		${ep.title}
+		${ep.url}
+		${ep.handle}
+		`;
+		console.log(r);
+		return;
+	}
 
-matchSets
-	.filter((ms) => ms.matches.length > 0)
-	.forEach((ms) => {
-		console.log(ms.mp3);
-		ms.matches.forEach((m) => {
-			console.log(
-				`${m.timestamp} - ${COLORETTE.yellow(m.match.toUpperCase())}`
-			);
-			console.log(`\t\t\t\t${COLORETTE.gray(m.contexts.pre.join("; "))}`);
-			console.log(
-				COLORETTE.white(`${ms.episodeString} - ${ms.episodeName}`)
-			);
-			console.log(
-				`\t\t\t\t${COLORETTE.gray(m.contexts.post.join("; "))}`
-			);
+	const transcriptFiles = FS.readdirSync(dirs.transcripts),
+		regEx = new RegExp(Q, "i");
+	let transcriptMatches = [];
+
+	// now we go find matches of Q in the transcripts
+	__.each(transcriptFiles, (tf) => {
+		const transcriptLines = FS.readFileSync(
+			`${dirs.transcripts}${tf}`,
+			"utf8"
+		)
+			.toString() //out to string
+			.split("\n"); //per line
+
+		fuse = new Fuse(transcriptLines, {
+			includeScore: true,
+			includeMatches: false,
+			shouldSort: true,
+			threshold: 0.2,
 		});
-		console.log("\r\n");
-		console.log("\r\n");
-	});
 
-// renames the *.srt file to include season+episode
-// builds object with transcript,wav,mp3 references
+		let matches = fuse.search(Q); //find Q
+		let matchMap = matches.map((m) => {
+			m.meta = {
+				time: transcriptLines[m.refIndex - 1],
+				transcript: tf,
+				episode: getepisodeMeta(tf),
+				match: transcriptLines[m.refIndex].toUpperCase(),
+				// prevs: [
+				// 	`4.${transcriptLines[m.refIndex - 4]}`,
+				// 	`8.${transcriptLines[m.refIndex - 8]}`,
+				// 	`12.${transcriptLines[m.refIndex - 12]}`,
+				// 	`16.${transcriptLines[m.refIndex - 16]}`,
+				// ],
+				nexts: [
+					transcriptLines[m.refIndex + 4],
+					transcriptLines[m.refIndex + 8],
+					transcriptLines[m.refIndex + 12],
+					transcriptLines[m.refIndex + 16],
+				],
+			};
+			return m;
+		});
+		transcriptMatches =
+			matches.length > 0
+				? [...transcriptMatches, matchMap[0]]
+				: transcriptMatches;
+	}); //__.eachtranscript
+	// __.each(transcriptMatches, (match) => {
+	console.log(
+		"==============++++++++++++++++++++++====================++++++++++++++++++==+++++++++++==+++++++++++++++\r\n\r\n\r\n\r\n"
+	);
+	__.each(
+		__.sortBy(transcriptMatches, (m) => m.meta.episode.episode.handle),
+		(match) => {
+			let st = new Date(
+				`January 22, 1969 ${match.meta.time.split(",")[0]}`
+			);
+			let startMinute = st.getHours() * 60 + st.getMinutes();
 
-// loops through transcripts w/ a regex
+			let episodePresentation = `{"episode":{"key":"${match.meta.episode.episode.handle}","title":"${match.meta.episode.episode.title}"},"startMinute":${startMinute},"class":null,"tags":[]}`;
 
-// transcripts.forEach((TR) => {
-// 	let transcriptFile = `${transcriptDir}${TR}`;
-// 	const regEx = new RegExp("bedroom", "i");
-// 	let raw = FS.readFileSync(transcriptFile, "utf8");
-// 	let instances = raw
-// 		.toString()
-// 		.split("\n")
-// 		.forEach((line) => {
-// 			let match = line.search(regEx);
-// 			match > 0 && console.log(TR);
-// 			match > 0 && console.log(raw[match - 1]);
-// 			match > 0 && console.log(line);
-// 		});
-// });
+			let matchPresent = `
+🟢
+🟢 ${match.meta.match} ⬅️⬅️ ${match.meta.nexts.join(" ")}
+🟢
+		${match.meta.episode.episode.url}#t=${match.meta.time.split(",")[0]}
+		${episodePresentation}
 
-// console.log("underscores", underscores[5]);
-// m = __.difference(wm, tm);
+`;
+			console.log(matchPresent.trim());
+		}
+	);
+}; //_i
 
-// wm.forEach((T) => {
-// 	console.log(T);
-// 	let fi=`${inDir}${}`
-// });
+_I();
