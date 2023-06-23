@@ -1,6 +1,6 @@
 #!/bin/bash
 
-audiodir="/Users/ccmiller/Downloads/threedom/podcast-audio/wavs"
+audiodir="./podcast-audio/wavs"
 
 # for audio in $(ls $audiodir/*.wav); do
 #   T="$(basename "$audio" '.wav')";
@@ -15,6 +15,6 @@ declare -a wavs=("Kind_of_a_Mess_Down_There.wav")
 for audio in "${wavs[@]}";do 
   ffp="${audiodir}/${audio}";
   tf=$(basename "$audio" '.wav');
-  transcript="/Users/ccmiller/git/threedom-threepeats/transcripts/${tf}.srt"
+  transcript="./transcripts/${tf}.srt"
   vosk-transcriber -i $ffp --tasks 8 --model="./vosk-model-en-us-0.42-gigaspeech" -t "srt" -o "$transcript"
 done
