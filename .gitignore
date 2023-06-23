@@ -105,4 +105,5 @@ dist
 
 config.json
 .DS_Store
-vosk-model-en-us-0.42-gigaspeech
+vosk-model-en-us-0.42-gigaspeech/
+podcast-audio
