@@ -133,6 +133,15 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s5e177",
+					"title": "And You CAN Do It"
+				},
+				"startMinute": 56,
+				"class": "pimpedRetelling",
+				"tags": []
+			},
+			{
+				"episode": {
 					"key": "s2e30",
 					"title": "This Is It"
 				},
@@ -401,6 +410,16 @@
 		"elucidation": "often during the run of threedom, the cast will worry they've yet to shut the fuk up about something but they actually haven't talked about it at all",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s5e177",
+					"title": "And You CAN Do It"
+				},
+				"startMinute": 1,
+				"class": "invertedPremise",
+				"nb": ["pft goes to vegas for nye; no hotel; gets sick"],
+				"tags": ["new year's eve", "las vegas"]
+			},
 			{
 				"episode": {
 					"key": "s4e118",
@@ -1400,6 +1419,15 @@
 				"startMinute": 9,
 				"class": "invertedPremise",
 				"tags": ["haircuts"]
+			},
+			{
+				"episode": {
+					"key": "s5e178",
+					"title": "Adunchables"
+				},
+				"startMinute": 3,
+				"class": "invertedPremise",
+				"tags": ["urkel", "moosehead beer"]
 			}
 		]
 	},
@@ -1410,6 +1438,16 @@
 		"elucidation": "early in the run of threedom, the cast noticed that they often repeat stories and now they won't shut the fuk up about that, too",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s5e178",
+					"title": "Adunchables"
+				},
+				"startMinute": 3,
+				"class": "premise",
+				"nb": ["moosehead beer; threedom catchphrase"],
+				"tags": ["urkel"]
+			},
 			{
 				"episode": {
 					"key": "s4e118",
@@ -9960,6 +9998,30 @@
 				"startMinute": 11,
 				"class": "questionedRetelling",
 				"tags": ["police", "condoms"]
+			}
+		]
+	},
+	{
+		"key": "one-of-us-was-president-and-one-of-us-was-vice",
+		"isMeta": false,
+		"title": "One of Us was President and One of Us was Vice",
+		"elucidation": "the cast won't shut the fuk up about the clubs they managed as children",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s4e105", "title": "Crumbelievable" },
+				"startMinute": 44,
+				"class": "inaugural",
+				"tags": ["childrens clubs"]
+			},
+			{
+				"episode": {
+					"key": "s5e177",
+					"title": "And You CAN Do It"
+				},
+				"startMinute": 51,
+				"class": "retelling",
+				"tags": ["childrens clubs"]
 			}
 		]
 	}
