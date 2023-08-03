@@ -1,10 +1,19 @@
 [
 	{
 		"episode": {
+			"key": "s5e180",
+			"title": "That's The Power of DJs"
+		},
+		"possibles": [
+			"52 - scott did a rerun on crowded house back at uc-san diego"
+		]
+	},
+	{
+		"episode": {
 			"key": "s5e147",
 			"title": "Is the Nibbler Here?"
 		},
-		"possibles": "29 - ll has eaten more french fries than anything else"
+		"possibles": ["29 - ll has eaten more french fries than anything else"]
 	},
 	{
 		"episode": { "key": "s2e52", "title": "What's Morning?" },

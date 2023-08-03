@@ -15,6 +15,7 @@ const COLORETTE = require("colorette"),
 // authorityRSS = "https://feeds.simplecast.com/XSy42e1F";
 const Q = ARG.q ? ARG.q : null;
 const E = ARG.e ? ARG.e : null;
+const H = ARG.h ? ARG.h : null;
 // !ARG.q && console.log("no -q flag; need that");
 // !ARG.q && process.exit();
 
@@ -104,7 +105,7 @@ const _I = async () => {
 			includeScore: true,
 			includeMatches: false,
 			shouldSort: true,
-			threshold: 0.2,
+			threshold: 0.3,
 		});
 
 		let matches = fuse.search(Q); //find Q

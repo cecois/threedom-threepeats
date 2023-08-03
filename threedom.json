@@ -44,7 +44,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e06",
+					"key": "s1e6",
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 17,
@@ -539,7 +539,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e06",
+					"key": "s1e6",
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 34,
@@ -554,7 +554,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e06",
+					"key": "s1e6",
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 12,
@@ -566,7 +566,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e09",
+					"key": "s1e9",
 					"title": "Christmas Find Out Who Game"
 				},
 				"startMinute": 41,
@@ -576,7 +576,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e09",
+					"key": "s1e9",
 					"title": "Christmas Find Out Who Game"
 				},
 				"startMinute": 30,
@@ -1519,7 +1519,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e09",
+					"key": "s1e9",
 					"title": "Christmas Find Out Who Game"
 				},
 				"startMinute": 26,
@@ -2535,7 +2535,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e04",
+					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 6,
@@ -2562,7 +2562,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e06",
+					"key": "s1e6",
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 47,
@@ -2616,7 +2616,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e04",
+					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 35,
@@ -2670,7 +2670,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e01",
+					"key": "s1e1",
 					"title": "This Was A Mistake"
 				},
 				"startMinute": 6,
@@ -2706,7 +2706,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e03",
+					"key": "s1e3",
 					"title": "Jack Bauer He 24 Big Hit"
 				},
 				"startMinute": 33,
@@ -2805,7 +2805,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e06",
+					"key": "s1e6",
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 32,
@@ -2823,7 +2823,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e04",
+					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 24,
@@ -2855,7 +2855,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e03",
+					"key": "s1e3",
 					"title": "Jack Bauer He 24 Big Hit"
 				},
 				"startMinute": 28,
@@ -3089,7 +3089,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e03",
+					"key": "s1e3",
 					"title": "Jack Bauer He 24 Big Hit"
 				},
 				"startMinute": 11,
@@ -3215,7 +3215,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e06",
+					"key": "s1e6",
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 43,
@@ -3560,7 +3560,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e06",
+					"key": "s1e6",
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 3,
@@ -4469,7 +4469,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e02",
+					"key": "s1e2",
 					"title": "Chalk Talk"
 				},
 				"startMinute": 42,
@@ -4671,7 +4671,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e07",
+					"key": "s1e7",
 					"title": "Stop Making It Plural"
 				},
 				"startMinute": 30,
@@ -5127,7 +5127,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e03",
+					"key": "s1e3",
 					"title": "Jack Bauer He 24 Big Hit"
 				},
 				"startMinute": 24,
@@ -5195,6 +5195,12 @@
 				},
 				"startMinute": 42,
 				"class": "acknowledgedRetelling",
+				"tags": ["las vegas", "penn & teller"]
+			},
+			{
+				"episode": { "key": "s5e181", "title": "I See Both" },
+				"startMinute": 29,
+				"class": "pimpedRetelling",
 				"tags": ["las vegas", "penn & teller"]
 			}
 		]
@@ -5514,7 +5520,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e05",
+					"key": "s1e5",
 					"title": "Pop Eyedol"
 				},
 				"startMinute": 30,
@@ -5568,7 +5574,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e09",
+					"key": "s1e9",
 					"title": "Christmas Find Out Who Game"
 				},
 				"startMinute": 5,
@@ -5595,7 +5601,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e08",
+					"key": "s1e8",
 					"title": "Out With It!"
 				},
 				"startMinute": 32,
@@ -5641,7 +5647,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e08",
+					"key": "s1e8",
 					"title": "Out With It!"
 				},
 				"startMinute": 26,
@@ -6040,9 +6046,18 @@
 		"key": "how-long-does-it-take-to-go-to-the-moon",
 		"isMeta": false,
 		"title": "How Long Does it Take to Go to the Moon?",
-		"elucidation": "the cast crafted their opinions on space travel and now they won't shut the fuk up about it",
+		"elucidation": "the cast crystallized their opinions on space travel and now they won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s5e180",
+					"title": "That's The Power of DJs"
+				},
+				"startMinute": 28,
+				"class": "retelling",
+				"tags": ["space travel"]
+			},
 			{
 				"episode": {
 					"key": "s1e12",
@@ -6050,7 +6065,7 @@
 				},
 				"startMinute": 30,
 				"class": "inaugural",
-				"tags": ["mars", "buzz aldrin", "earth moon"]
+				"tags": ["mars", "buzz aldrin", "earth moon", "space travel"]
 			},
 			{
 				"episode": {
@@ -6059,7 +6074,12 @@
 				},
 				"startMinute": 66,
 				"class": "retelling",
-				"tags": ["earth moon", "would you rather?", "show business"]
+				"tags": [
+					"earth moon",
+					"would you rather?",
+					"show business",
+					"space travel"
+				]
 			},
 			{
 				"episode": {
@@ -6068,7 +6088,7 @@
 				},
 				"startMinute": 33,
 				"class": "acknowledgedRetelling",
-				"tags": ["roller coasters", "parents"]
+				"tags": ["roller coasters", "parents", "space travel"]
 			},
 			{
 				"episode": {
@@ -6077,7 +6097,7 @@
 				},
 				"startMinute": 3,
 				"class": "acknowledgedRetelling",
-				"tags": ["earth moon", "motion sickness"]
+				"tags": ["earth moon", "motion sickness", "space travel"]
 			},
 			{
 				"episode": {
@@ -6086,7 +6106,7 @@
 				},
 				"startMinute": 17,
 				"class": "acknowledgedRetelling",
-				"tags": ["earth moon"]
+				"tags": ["earth moon", "space travel"]
 			}
 		]
 	},
@@ -6099,7 +6119,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e05",
+					"key": "s1e5",
 					"title": "Pop Eyedol"
 				},
 				"startMinute": 23,
@@ -6153,7 +6173,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e02",
+					"key": "s1e2",
 					"title": "Chalk Talk"
 				},
 				"startMinute": 17,
@@ -6585,7 +6605,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e04",
+					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 15,
@@ -6594,7 +6614,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e09",
+					"key": "s1e9",
 					"title": "Christmas Find Out Who Game"
 				},
 				"startMinute": 62,
@@ -6993,7 +7013,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e08",
+					"key": "s1e8",
 					"title": "Out With It!"
 				},
 				"startMinute": 49,
@@ -7317,7 +7337,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e04",
+					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 34,
@@ -7920,7 +7940,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e03",
+					"key": "s1e3",
 					"title": "Jack Bauer He 24 Big Hit"
 				},
 				"startMinute": 27,
@@ -8103,7 +8123,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e08",
+					"key": "s1e8",
 					"title": "Out With It!"
 				},
 				"startMinute": 10,
@@ -8364,7 +8384,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e01",
+					"key": "s1e1",
 					"title": "This Was A Mistake"
 				},
 				"startMinute": 41,
@@ -8554,9 +8574,9 @@
 		]
 	},
 	{
-		"key": "it-was-actually-really-good-and-left-everyone-in-tears",
+		"key": "why-would-you-kill",
 		"isMeta": false,
-		"title": "It Was Actually Really Good and Left Everyone in Tears",
+		"title": "Why Would You Kill?",
 		"elucidation": "scott appeared in a 30-minute mashup of romeo and juliet & west side story and refuses to shut the fuk up about it",
 		"nb": [],
 		"tellings": [
@@ -8585,6 +8605,19 @@
 					"west side story (musical)",
 					"ferris bueller's day off (film)"
 				]
+			},
+			{
+				"episode": {
+					"key": "s5e180",
+					"title": "That's The Power of DJs"
+				},
+				"startMinute": 21,
+				"class": "retelling",
+				"tags": [
+					"romeo and juliet (play)",
+					"west side story (musical)",
+					"ferris bueller's day off (film)"
+				]
 			}
 		]
 	},
@@ -8592,7 +8625,7 @@
 		"key": "pure-moods-iii",
 		"isMeta": false,
 		"title": "Pure Moods III",
-		"elucidation": "ll listened to pure moods iii and then never again shut the fuk up about it",
+		"elucidation": "ll listened to pure moods iii and only a couple of times could shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -8629,7 +8662,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e02",
+					"key": "s1e2",
 					"title": "Chalk Talk"
 				},
 				"startMinute": 57,
@@ -8701,7 +8734,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e04",
+					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 40,
@@ -8728,21 +8761,12 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e06",
+					"key": "s1e6",
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 16,
 				"class": "inaugural",
 				"tags": ["the bachelor (tv)", "reality recap [yeah]"]
-			},
-			{
-				"episode": {
-					"key": "s1e24",
-					"title": "Look, I am Your Father"
-				},
-				"startMinute": 23,
-				"class": "declinedPimping",
-				"tags": ["the bachelorette (tv)", "reality recap [yeah]"]
 			},
 			{
 				"episode": {
@@ -8773,7 +8797,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e04",
+					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 27,
@@ -8979,7 +9003,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e02",
+					"key": "s1e2",
 					"title": "Chalk Talk"
 				},
 				"startMinute": 35,
@@ -9005,7 +9029,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e01",
+					"key": "s1e1",
 					"title": "This Was A Mistake"
 				},
 				"startMinute": 41,
@@ -9073,6 +9097,15 @@
 				"startMinute": 60,
 				"class": "declinedPimping",
 				"tags": ["memes"]
+			},
+			{
+				"episode": {
+					"key": "s5e172",
+					"title": "Puddle of Coke"
+				},
+				"startMinute": 14,
+				"class": "declinedPimping",
+				"tags": ["scott's window seat story"]
 			}
 		]
 	},
@@ -9147,7 +9180,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e09",
+					"key": "s1e9",
 					"title": "Christmas Find Out Who Game"
 				},
 				"startMinute": 10,
@@ -9173,7 +9206,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e04",
+					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 10,
@@ -9199,7 +9232,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e07",
+					"key": "s1e7",
 					"title": "Stop Making It Plural"
 				},
 				"startMinute": 10,
@@ -9208,7 +9241,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e04",
+					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
 				"startMinute": 15,
@@ -9423,7 +9456,7 @@
 			},
 			{
 				"episode": {
-					"key": "s1e06",
+					"key": "s1e6",
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 7,
@@ -9850,7 +9883,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e01",
+					"key": "s1e1",
 					"title": "This Was A Mistake"
 				},
 				"startMinute": 40,
@@ -9983,7 +10016,7 @@
 		"tellings": [
 			{
 				"episode": {
-					"key": "s1e02",
+					"key": "s1e2",
 					"title": "Chalk Talk"
 				},
 				"startMinute": 50,
@@ -10022,6 +10055,145 @@
 				"startMinute": 51,
 				"class": "retelling",
 				"tags": ["childrens clubs"]
+			}
+		]
+	},
+	{
+		"key": "sandy-duncan-had-a-glass-eye",
+		"isMeta": false,
+		"title": "Sandy Duncan Had a Glass Eye?",
+		"elucidation": "the cast can't seem to shut the fuk up about the hogan family saga",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e80", "title": "Ryan O'Needle" },
+				"startMinute": 70,
+				"class": "inaugural",
+				"tags": [
+					"The Hogan Family (TV)",
+					"Valerie (TV)",
+					"Valerie's Family: The Hogans (TV)",
+					"Sandy Duncan",
+					"Valerie Harper"
+				]
+			},
+			{
+				"episode": {
+					"key": "s5e178",
+					"title": "Adunchables"
+				},
+				"startMinute": 37,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"The Hogan Family (TV)",
+					"Valerie (TV)",
+					"Valerie's Family: The Hogans (TV)",
+					"Sandy Duncan",
+					"Valerie Harper"
+				]
+			}
+		]
+	},
+	{
+		"key": "lauren-this-is-bad",
+		"isMeta": false,
+		"title": "Lauren, this is Bad!",
+		"elucidation": "ll won't shut the fuk up about how politicians breathlessly text her",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 61,
+				"class": "inaugural",
+				"tags": ["gavin newsom", "politicians"]
+			},
+			{
+				"episode": {
+					"key": "s5e178",
+					"title": "Adunchables"
+				},
+				"startMinute": 46,
+				"class": "invertedPremise",
+				"tags": ["politicians"]
+			}
+		]
+	},
+	{
+		"key": "i-was-a-nasty-little-fellow",
+		"isMeta": false,
+		"title": "I Was a Nasty Little Fellow",
+		"elucidation": "pft won't shut the fuk up about how charming mary steenburgen is",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e180",
+					"title": "That's The Power of DJs"
+				},
+				"startMinute": 24,
+				"class": "retelling",
+				"tags": ["mary steenburgen", "celebrity crushes", "summer glau"]
+			},
+			{
+				"episode": {
+					"key": "s1e9",
+					"title": "Christmas Find Out Who Game"
+				},
+				"startMinute": 40,
+				"class": "inaugural",
+				"tags": ["mary steenburgen", "celebrity crushes"]
+			}
+		]
+	},
+	{
+		"key": "what-s-mr-bean-up-to",
+		"isMeta": false,
+		"title": "What's Mr. Bean Up To?",
+		"elucidation": "scott clicked on an italian mr. bean-type once and now he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s5e175", "title": "3-Chuckies" },
+				"startMinute": 41,
+				"class": "inaugrual",
+				"tags": ["mr. bean"]
+			},
+			{
+				"episode": { "key": "s5e181", "title": "I See Both" },
+				"startMinute": 27,
+				"class": "acknowledgedRetelling",
+				"tags": ["mr. bean"]
+			}
+		]
+	},
+	{
+		"key": "it-doesn-t-sound-safe-goofy-s-roller-coaster",
+		"isMeta": false,
+		"title": "It Doesn't Sound Safe - Goofy's Roller Coaster?",
+		"elucidation": "scott terrified his nephew with goofy's roller coaster and prolly neither of them have shut the fuk up about it by now",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e60", "title": "Sologamy" },
+				"startMinute": 17,
+				"class": null,
+				"tags": [
+					"goofy",
+					"roller coasters",
+					"amusement parks",
+					"disneyland"
+				]
+			},
+			{
+				"episode": { "key": "s5e181", "title": "I See Both" },
+				"startMinute": 38,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"goofy",
+					"roller coasters",
+					"amusement parks",
+					"disneyland"
+				]
 			}
 		]
 	}
