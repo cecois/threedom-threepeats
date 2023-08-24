@@ -404,12 +404,85 @@
 		]
 	},
 	{
+		"key": "",
+		"isMeta": false,
+		"title": "And She Had a Flat Face Forever?",
+		"elucidation": "ll won't won't shut the fuk up about a former gym teacher who smashed her face in a cab bulkhead",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e70",
+					"title": "Now They're Doing Karate"
+				},
+				"startMinute": 49,
+				"class": "acknowledgedRetelling",
+				"tags": ["taxi cabs", "injuries"],
+				"nb": ["ll's gym teacher wasn't wearing a seatbelt"]
+			},
+			{
+				"episode": {
+					"key": "s1e06",
+					"title": "This Episode Is Not Titled Dilly Dilly"
+				},
+				"startMinute": 34,
+				"class": null,
+				"tags": []
+			}
+		]
+	},
+	{
 		"key": "meta-have-we-talked-about-this-no",
 		"isMeta": true,
 		"title": "Have We Talked About This? (inverted premise)",
 		"elucidation": "often during the run of threedom, the cast will worry they've yet to shut the fuk up about something but they actually haven't talked about it at all",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": { "key": "s3e72", "title": "Squish Factor" },
+				"startMinute": 43,
+				"class": "invertedPremise",
+				"nb": [
+					"pft's family snuck into the tenacious d movie (to see him) after seeing something else"
+				],
+				"tags": ["tenacious d and the pick of destiny (film)"]
+			},
+			{
+				"episode": { "key": "s5e183", "title": "Rashmi Amadeus" },
+				"startMinute": 11,
+				"class": "invertedPremise",
+				"nb": [
+					"in  ll's school days there wz an embarrassing personal tape circulating"
+				],
+				"tags": ["leaks"]
+			},
+			{
+				"episode": {
+					"key": "s3e71",
+					"title": "Belly Washer"
+				},
+				"startMinute": 43,
+				"class": "invertedPremise",
+				"nb": [
+					"scott hates that 911 calls are made public (i don't thank you're supposed to have a sociopathic thought about how you're supposed to sound)"
+				],
+				"tags": [
+					"personal emergencies",
+					"911 (emergency phone service)"
+				]
+			},
+			{
+				"episode": {
+					"key": "s3e61",
+					"title": "I Renounce Tiger King"
+				},
+				"startMinute": 55,
+				"class": "invertedPremise",
+				"nb": [
+					"ll had a party and disposed of the materials a few houses down, wz ratted out"
+				],
+				"tags": ["alcohol", "parties"]
+			},
 			{
 				"episode": {
 					"key": "s5e177",
@@ -543,7 +616,7 @@
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 34,
-				"class": "retelling",
+				"class": "invertedPremise",
 				"tags": [
 					"teachers",
 					"bikinis",
@@ -711,7 +784,7 @@
 					"title": "Matrix is My Doo-Dah Bones"
 				},
 				"startMinute": 6,
-				"class": "retelling",
+				"class": "invertedPremise",
 				"nb": [
 					"scott notes that he didn't read casey wilson's book right in her face"
 				],
@@ -746,7 +819,7 @@
 					"title": "No More Witches No More Goblins"
 				},
 				"startMinute": 38,
-				"class": "retelling",
+				"class": "invertedPremise",
 				"nb": [
 					"scott likes back to the future but claimed to like the godfather to impress a girl's parents"
 				],
@@ -1089,7 +1162,7 @@
 					"key": "s3e67",
 					"title": "Hale Bopp Sneakers"
 				},
-				"startMinute": 44,
+				"startMinute": 43,
 				"class": "invertedPremise",
 				"tags": ["pilates", "improv"],
 				"nb": ["at pilates ll was complimented"]
@@ -1447,6 +1520,16 @@
 				"class": "premise",
 				"nb": ["moosehead beer; threedom catchphrase"],
 				"tags": ["urkel"]
+			},
+			{
+				"episode": {
+					"key": "s3e67",
+					"title": "Hale Bopp Sneakers"
+				},
+				"startMinute": 61,
+				"class": "premise",
+				"nb": ["playing threedom audio at parties"],
+				"tags": []
 			},
 			{
 				"episode": {
@@ -2535,6 +2618,15 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s3e54",
+					"title": "Tickets to Christmas"
+				},
+				"startMinute": 7,
+				"class": "questionedRetelling",
+				"tags": ["SATs"]
+			},
+			{
+				"episode": {
 					"key": "s1e4",
 					"title": "Slouchy Slurps-a-Ton"
 				},
@@ -3457,6 +3549,12 @@
 				},
 				"startMinute": 39,
 				"class": "pimpedRetelling",
+				"tags": ["baseball"]
+			},
+			{
+				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"startMinute": 54,
+				"class": "acknowledgedRetelling",
 				"tags": ["baseball"]
 			}
 		]
@@ -5184,7 +5282,7 @@
 					"key": "s3e70",
 					"title": "Now They're Doing Karate"
 				},
-				"startMinute": 30,
+				"startMinute": 50,
 				"class": "inaugural",
 				"tags": ["las vegas", "penn & teller"]
 			},
@@ -7179,7 +7277,7 @@
 		"key": "it-was-entrapment-for-sure",
 		"isMeta": false,
 		"title": "It Was Entrapment for Sure",
-		"elucidation": "scott's favorite episode of all television ever is from cheaters and he has never ever and will never shut the fuk up about it",
+		"elucidation": "scott's favorite episode of all television ever is from cheaters and he has never ever and will never ever shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -10113,7 +10211,7 @@
 					"title": "Adunchables"
 				},
 				"startMinute": 46,
-				"class": "invertedPremise",
+				"class": "retelling",
 				"tags": ["politicians"]
 			}
 		]
@@ -10176,7 +10274,7 @@
 			{
 				"episode": { "key": "s3e60", "title": "Sologamy" },
 				"startMinute": 17,
-				"class": null,
+				"class": "inaugural",
 				"tags": [
 					"goofy",
 					"roller coasters",
@@ -10194,6 +10292,286 @@
 					"amusement parks",
 					"disneyland"
 				]
+			}
+		]
+	},
+	{
+		"key": "i-still-want-to-date-her",
+		"isMeta": false,
+		"title": "I Still Want to Date Her",
+		"elucidation": "the cast can't believe (that grown men used to not stfu about) dating underaged girls",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e07", "title": "Stop Making It Plural" },
+				"startMinute": 25,
+				"class": "inaugural",
+				"tags": ["Nick Wiger", "pedophelia"]
+			},
+			{
+				"episode": { "key": "s5e182", "title": "Hanging Like a Chad" },
+				"startMinute": 9,
+				"class": "retelling",
+				"tags": ["pedophelia"]
+			}
+		]
+	},
+	{
+		"key": "if-you-put-something-in-your-will-they-have-to-allow-it",
+		"isMeta": false,
+		"title": "If You Put Something in Your Will They Have to Allow It",
+		"elucidation": "the cast won't won't shut the fuk up about their wills and last wishes",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e22",
+					"title": "Forget it Jake, it’s Chinatown"
+				},
+				"startMinute": 31,
+				"class": "inaugural",
+				"tags": ["harris wittels"]
+			},
+			{
+				"episode": { "key": "s5e182", "title": "Hanging Like a Chad" },
+				"startMinute": 15,
+				"class": "retelling",
+				"tags": []
+			}
+		]
+	},
+	{
+		"key": "kids-kids-valerie-s-family-the-hogans-is-on",
+		"isMeta": false,
+		"title": "Kids, Kids - \"Valerie's Family: The Hogans\" is On",
+		"elucidation": "the cast won't won't shut the fuk up about the lineage of the hogan family",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s5e178", "title": "Adunchables" },
+				"startMinute": 36,
+				"class": "inaugural",
+				"tags": [
+					"valerie",
+					"valerie's family: the hogans",
+					"the hogan family"
+				]
+			},
+			{
+				"episode": { "key": "s5e182", "title": "Hanging Like a Chad" },
+				"startMinute": 49,
+				"class": "retelling",
+				"tags": [
+					"valerie",
+					"valerie's family: the hogans",
+					"the hogan family"
+				]
+			}
+		]
+	},
+	{
+		"key": "just-like-darth-vader",
+		"isMeta": false,
+		"title": "Just Like Darth Vader",
+		"elucidation": "ll won't shut the fuk up about her deviated septum",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e46",
+					"title": "And That Was Your Week"
+				},
+				"startMinute": 45,
+				"class": "inaugural",
+				"tags": ["darth vader", "medical conditions"]
+			},
+			{
+				"episode": { "key": "s5e183", "title": "Rashmi Amadeus" },
+				"startMinute": 2,
+				"class": "retelling",
+				"tags": ["darth vader", "medical conditions"]
+			}
+		]
+	},
+	{
+		"key": "so-a-finger-walks-into-a-butthole",
+		"isMeta": false,
+		"title": "So a Finger Walks Into a Butthole",
+		"elucidation": "scott accepted a finger in his rectum once and never shut the fuk up about it ever again",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e10",
+					"title": "32 Toothless Vegetables"
+				},
+				"startMinute": 43,
+				"class": "inaugural",
+				"tags": ["proctology", "anuses"]
+			},
+			{
+				"episode": { "key": "s5e183", "title": "Rashmi Amadeus" },
+				"startMinute": 3,
+				"class": "retelling",
+				"tags": ["proctology", "anuses"]
+			},
+			{
+				"episode": { "key": "s2e42", "title": "Look at My Snaps Go" },
+				"startMinute": 46,
+				"class": "retelling",
+				"tags": ["proctology", "anuses"]
+			}
+		]
+	},
+	{
+		"key": "orange-county-apple-6",
+		"isMeta": false,
+		"title": "Orange County Apple 6?",
+		"elucidation": "scott and his buddy scammed an usher years ago and he won't shut the fuk up about now",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"startMinute": 44,
+				"class": "inaugural",
+				"tags": ["movie theatres", "scams"]
+			},
+			{
+				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"startMinute": 12,
+				"class": "retelling",
+				"tags": ["movie theatres", "scams"]
+			}
+		]
+	},
+	{
+		"key": "arcadia-cineplex-4",
+		"isMeta": false,
+		"title": "Arcadia Cineplex #4",
+		"elucidation": "pft and a lady friend snuck into a movie theatre and now he (and maybe even she) won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e72", "title": "Squish Factor" },
+				"startMinute": 40,
+				"class": "inaugural",
+				"tags": [
+					"movie theatres",
+					"scams",
+					"great balls of fire (film)"
+				]
+			},
+			{
+				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"startMinute": 12,
+				"class": "retelling",
+				"tags": [
+					"movie theatres",
+					"scams",
+					"great balls of fire (film)"
+				]
+			}
+		]
+	},
+	{
+		"key": "you-didn-t-put-on-fake-mustaches",
+		"isMeta": false,
+		"title": "You Didn't Put On Fake Mustaches?",
+		"elucidation": "ll and her friends snuck into scream and now at least she won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e56",
+					"title": "Round Is Part Of Science"
+				},
+				"startMinute": 20,
+				"class": "inaugural",
+				"tags": [
+					"movie theatres",
+					"bean (film)",
+					"mr. bean",
+					"scams",
+					"scream (film)"
+				]
+			},
+			{
+				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"startMinute": 12,
+				"class": "retelling",
+				"tags": [
+					"movie theatres",
+					"bean (film)",
+					"mr. bean",
+					"scams",
+					"great balls of fire (film)"
+				]
+			}
+		]
+	},
+	{
+		"key": "how-can-you-afford-to-live-here",
+		"isMeta": false,
+		"title": "How Can You Afford to Live Here?",
+		"elucidation": "scott had a hipster roommate with a typewriter and he (scott) won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e154",
+					"title": "O Bother, Where Art Thou?"
+				},
+				"startMinute": 36,
+				"class": "inaugural",
+				"tags": ["hipsters", "typewriters"]
+			},
+			{
+				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"startMinute": 18,
+				"class": "acknowledgedRetelling",
+				"tags": ["hipsters", "typewriters"]
+			}
+		]
+	},
+	{
+		"key": "i-can-t-help-it",
+		"isMeta": false,
+		"title": "I Can't Help It",
+		"elucidation": "pft's brother used to snore and somehow he (pft) cannot shut the fuk up about it to this day",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e55", "title": "She Just Want Beets" },
+				"startMinute": 35,
+				"class": "inaugural",
+				"tags": ["siblings", "snoring"]
+			},
+			{
+				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"startMinute": 33,
+				"class": "retelling",
+				"tags": ["siblings", "snoring"]
+			}
+		]
+	},
+	{
+		"key": "she-got-rid-of-that-boyfriend",
+		"isMeta": false,
+		"title": "She Got Rid of that Boyfriend",
+		"elucidation": "scott got dumped by a girlfriend who snored and he simply won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e11", "title": "Google It, Chef" },
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": ["snoring"]
+			},
+			{
+				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["siblings", "snoring"]
 			}
 		]
 	}

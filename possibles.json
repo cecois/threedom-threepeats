@@ -342,6 +342,15 @@
 		]
 	},
 	{
+		"episode": {
+			"key": "s3e71",
+			"title": "Belly Washer"
+		},
+		"possibles": [
+			"46 - scott remembers calling the operator for the time of day but also shouting personal phone numbers to make dates with girls"
+		]
+	},
+	{
 		"episode": { "key": "s3e99", "title": "Secret Santa Pizza" },
 		"possibles": [
 			"4 - twins restaurant in new york city nyc",
@@ -484,7 +493,8 @@
 	{
 		"episode": { "key": "s3e61", "title": "I Renounce Tiger King" },
 		"possibles": [
-			"10 - scott tape-recorded a phone conversation with kulap's landlord"
+			"10 - scott tape-recorded a phone conversation with kulap's landlord",
+			"52 - scott stashed some wine coolers but got busted for drinking anyway"
 		]
 	},
 	{
@@ -701,5 +711,16 @@
 			"12 - broadcaster's heavy burtation moment (serene branson,stroke,burtation)",
 			"9 - pft's still fielding requests for the release of a shelved aqua ten hunger force episode (boston bombings)"
 		]
+	},
+	{
+		"episode": { "key": "s3e54", "title": "Tickets to Christmas" },
+		"possibles": [
+			"5 - pft's on-set covid scare",
+			"31 - drive-in jaws showing"
+		]
+	},
+	{
+		"episode": { "key": "s5e182", "title": "Hanging Like a Chad" },
+		"possibles": ["46 - the cast are big fans of the aura frame"]
 	}
 ]
