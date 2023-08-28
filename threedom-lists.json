@@ -5766,5 +5766,52 @@
             "luckily i tied a string on him earlier::null::null",
             "are you a teacher here::cool student::null"
         ]
+    },
+    {
+        "episode": {
+					"key": "s4e102",
+					"title": "Mark Mothersday"
+				},
+        "startMinute": 46,
+        "list": "Portmantotally Awesome",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+"washer"
+,"waSherrod Brown"
+,"waSherrod Browning"
+,"waSherrod BrownEngland"
+,"waSherrod BrownEngland Cher screen"
+,"waSherrod BrownEngland Cher screensaver"
+,"waSherrod BrownEngland Cher screensaveryfunny (TBS)"
+,"waSherrod BrownEngland Cher screensaveryfunkneecap"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cob"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestone"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoned (❌)"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snacks"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the stone"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toné!"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basis"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basisters doing it for themselves"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Ton... (❌)"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basisters doing it for themselves on the shelves"
+,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basisters doing it for themselves on the shelves in the sleigh (❌)"
+        ]
+    },
+    {
+        "episode": {
+					"key": "s4e103",
+					"title": "Missing Mr. Magoo Memento"
+				},
+        "startMinute": NULL,
+        "list": "",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+        	
+        ]
     }
 ]

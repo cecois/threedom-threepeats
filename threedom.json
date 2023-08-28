@@ -10496,6 +10496,20 @@
 				]
 			},
 			{
+				"episode": {
+					"key": "s4e103",
+					"title": "Missing Mr. Magoo Memento"
+				},
+				"startMinute": 13,
+				"class": "retelling",
+				"tags": [
+					"movie theatres",
+					"bean (film)",
+					"mr. bean",
+					"friends (tv)"
+				]
+			},
+			{
 				"episode": { "key": "s5e184", "title": "That Implies Toys" },
 				"startMinute": 12,
 				"class": "retelling",
