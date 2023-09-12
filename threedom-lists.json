@@ -1,7 +1,6 @@
 [
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e1",
             "title": "This Was a Mistake"
         },
@@ -17,8 +16,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e1",
             "title": "This Was a Mistake"
         },
@@ -78,8 +76,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e2",
             "title": "Chalk Talk"
         },
@@ -134,8 +131,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e3",
             "title": "Jack Bauer He 24 Big Hit"
         },
@@ -156,9 +152,8 @@
         ]
     },
     {
-        "episode":
-        {
-            "key": "s1e4",
+        "episode": {
+            "key": "s1e5",
             "title": "Slouchy Slurps-a-Ton"
         },
         "startMinute": 43,
@@ -203,8 +198,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e6",
             "title": "This Episode Is Not Titled Dilly Dilly"
         },
@@ -219,8 +213,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e7",
             "title": "Stop Making it Plural"
         },
@@ -285,9 +278,8 @@
         ]
     },
     {
-        "episode":
-        {
-            "key": "s1e7",
+        "episode": {
+            "key": "s1e8",
             "title": "Out With It!"
         },
         "startMinute": 51,
@@ -320,8 +312,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e9",
             "title": "Christmas Find Out Who Game"
         },
@@ -343,8 +334,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e10",
             "title": "32 Toothless Vegetables"
         },
@@ -370,8 +360,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e11",
             "title": "Google It, Chef"
         },
@@ -398,8 +387,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e12",
             "title": "I Wanna Be Phoneboof"
         },
@@ -414,8 +402,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e12",
             "title": "I Wanna Be Phoneboof"
         },
@@ -439,8 +426,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e13",
             "title": "Brocus before Hocus"
         },
@@ -470,8 +456,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e14",
             "title": "This From Bat Boy"
         },
@@ -513,8 +498,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e15",
             "title": "Church Cool Man"
         },
@@ -541,8 +525,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s5e174",
             "title": "Rumpleforeskin"
         },
@@ -560,8 +543,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s5e174",
             "title": "Rumpleforeskin"
         },
@@ -569,11 +551,13 @@
         "list": "Switch It and Pitch It",
         "nb": [],
         "listClass": "threeature",
-        "listItems": ["Quantum Leap —> Short Stand","Buck Rogers in the 25th Century —> Penny Hammerstein on the Fiftieth Anniversay"]
+        "listItems": [
+            "Quantum Leap —> Short Stand",
+            "Buck Rogers in the 25th Century —> Penny Hammerstein on the Fiftieth Anniversay"
+        ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e16",
             "title": "Baby, Fat Guy, Dog"
         },
@@ -621,8 +605,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e17",
             "title": "Ch'd Your D"
         },
@@ -722,8 +705,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e18",
             "title": "What are You, a 3 Amigo!"
         },
@@ -752,8 +734,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e19",
             "title": "My Secret Visitors..."
         },
@@ -785,8 +766,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e19",
             "title": "My Secret Visitors..."
         },
@@ -833,8 +813,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e20",
             "title": "3-D Yum"
         },
@@ -896,8 +875,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e21",
             "title": "Vampire O Face"
         },
@@ -951,8 +929,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e22",
             "title": "Forget it Jake, it’s Chinatown"
         },
@@ -968,8 +945,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e22",
             "title": "Forget it Jake, it’s Chinatown"
         },
@@ -982,8 +958,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e22",
             "title": "Forget it Jake, it’s Chinatown"
         },
@@ -1034,8 +1009,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s5e181",
             "title": "I See Both"
         },
@@ -1065,8 +1039,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e23",
             "title": "Hamilton was Bae"
         },
@@ -1123,8 +1096,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e24",
             "title": "Look, I am Your Father"
         },
@@ -1179,8 +1151,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e25",
             "title": "Cactus Hoose"
         },
@@ -1211,8 +1182,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1228,8 +1198,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1240,8 +1209,7 @@
         "listItems": ["McDonnell"]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1278,8 +1246,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1326,8 +1293,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1352,8 +1318,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1369,8 +1334,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1389,8 +1353,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1414,8 +1377,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1423,11 +1385,17 @@
         "list": "How Do You Doo?",
         "nb": [],
         "listClass": "threeature",
-        "listItems": ["1999","the christmas song","stayin' alive","how do i live without you","happy days theme song","star spangled banner"]
+        "listItems": [
+            "1999",
+            "the christmas song",
+            "stayin' alive",
+            "how do i live without you",
+            "happy days theme song",
+            "star spangled banner"
+        ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1449,8 +1417,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1476,8 +1443,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1505,8 +1471,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1527,8 +1492,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1562,8 +1526,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1592,8 +1555,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1618,8 +1580,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1632,8 +1593,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1641,11 +1601,10 @@
         "list": "One Word Impressions",
         "nb": [],
         "listClass": "threeature",
-        "listItems": ["stella! (✅)","crook (✅)","here's (✅)"]
+        "listItems": ["stella! (✅)", "crook (✅)", "here's (✅)"]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1656,8 +1615,7 @@
         "listItems": ["and you've created a song for this?"]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1670,8 +1628,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s1e26",
             "title": "Eggnogs Is Good"
         },
@@ -1694,8 +1651,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e27",
             "title": "Missappearing"
         },
@@ -1751,8 +1707,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e28",
             "title": "This Sucks"
         },
@@ -1793,8 +1748,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e29",
             "title": "Me So Phony"
         },
@@ -1842,8 +1796,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e30",
             "title": "This Is It"
         },
@@ -1866,8 +1819,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e30",
             "title": "This Is It"
         },
@@ -1900,8 +1852,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e31",
             "title": "Frank Caliendo's Hot Dog Emporium"
         },
@@ -1942,8 +1893,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e32",
             "title": "Do You Even Know Gyms?"
         },
@@ -2026,8 +1976,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e33",
             "title": "1 + 1 = 1"
         },
@@ -2043,8 +1992,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e34",
             "title": "Old Vegas"
         },
@@ -2074,8 +2022,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e35",
             "title": "You Rude Queen"
         },
@@ -2144,8 +2091,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e36",
             "title": "Zig Zig Says Bro Bro"
         },
@@ -2163,8 +2109,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e36",
             "title": "Zig Zig Says Bro Bro"
         },
@@ -2202,8 +2147,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e37",
             "title": "The Threedom Boys"
         },
@@ -2219,8 +2163,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e38",
             "title": "Kiss My Grits!"
         },
@@ -2295,8 +2238,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e39",
             "title": "The Threedom Challenge"
         },
@@ -2310,8 +2252,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e39",
             "title": "The Threedom Challenge"
         },
@@ -2358,8 +2299,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e40",
             "title": "Big Dog Gotta Bark"
         },
@@ -2384,8 +2324,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e41",
             "title": "Cozy Done Right"
         },
@@ -2419,8 +2358,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e41",
             "title": "Cozy Done Right"
         },
@@ -2438,8 +2376,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e42",
             "title": "Look at My Snaps Go"
         },
@@ -2455,8 +2392,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e43",
             "title": "Chicken in the Corn!"
         },
@@ -2464,11 +2400,13 @@
         "list": "Play it Again",
         "nb": [],
         "listClass": "threeture",
-        "listItems": ["pulp fiction —> pulp fact","it's a wonderful life —> it's a different wonderful life"]
+        "listItems": [
+            "pulp fiction —> pulp fact",
+            "it's a wonderful life —> it's a different wonderful life"
+        ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e44",
             "title": "Mommy Oh No Please Queen"
         },
@@ -2484,9 +2422,8 @@
         ]
     },
     {
-        "episode":
-        {
-            "key": "s2e46",
+        "episode": {
+            "key": "s2e45",
             "title": "And That Was Your Week"
         },
         "startMinute": 55,
@@ -2518,8 +2455,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e46",
             "title": "The Pretzel Gang"
         },
@@ -2616,8 +2552,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e47",
             "title": "Baby Lock Them Doors"
         },
@@ -2708,8 +2643,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e48",
             "title": "Nobody Puts Incel in the Friend Zone"
         },
@@ -2724,8 +2658,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e49",
             "title": "Buffalo Bill Cosby"
         },
@@ -2780,8 +2713,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e50",
             "title": "Nude vs. Naked"
         },
@@ -2789,11 +2721,13 @@
         "list": "Actor Switch",
         "nb": [],
         "listClass": "threeture",
-        "listItems": ["winter water park —>","autumn mid-afternoon in a forest —>"]
+        "listItems": [
+            "winter water park —>",
+            "autumn mid-afternoon in a forest —>"
+        ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e51",
             "title": "If Dogurt"
         },
@@ -2825,8 +2759,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e52",
             "title": "What's Morning?"
         },
@@ -2842,8 +2775,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s2e53",
             "title": "Live from Just for Laughs: Perabo"
         },
@@ -2878,8 +2810,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e54",
             "title": "Tickets to Christmas"
         },
@@ -3049,8 +2980,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e55",
             "title": "She Just Want Beets"
         },
@@ -3084,8 +3014,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e56",
             "title": "Round Is Part Of Science"
         },
@@ -3289,8 +3218,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e57",
             "title": "Ice Cream Please"
         },
@@ -3363,8 +3291,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e58",
             "title": "Nasty Mound"
         },
@@ -3389,8 +3316,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e59",
             "title": "Chocolate Taste Cheap"
         },
@@ -3438,8 +3364,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e60",
             "title": "Sologamy"
         },
@@ -3547,8 +3472,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e61",
             "title": "I Renounce Tiger King"
         },
@@ -3587,8 +3511,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e61",
             "title": "I Renounce Tiger King"
         },
@@ -3601,8 +3524,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e62",
             "title": "Slap Machines"
         },
@@ -3618,8 +3540,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e63",
             "title": "Risk It For The Biscuit"
         },
@@ -3641,8 +3562,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e64",
             "title": "Circles On A Stick"
         },
@@ -3712,8 +3632,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e65",
             "title": "Moneybucks"
         },
@@ -3728,8 +3647,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e66",
             "title": "He Talks About Homies"
         },
@@ -3821,8 +3739,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e67",
             "title": "Hale Bopp Sneakers"
         },
@@ -3928,8 +3845,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e68",
             "title": "The Normal Kingdom"
         },
@@ -3953,8 +3869,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e69",
             "title": "Works At TBS"
         },
@@ -3992,8 +3907,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e70",
             "title": "Now They're Doing Karate"
         },
@@ -4030,8 +3944,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e71",
             "title": "Belly Washer"
         },
@@ -4064,8 +3977,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e72",
             "title": "Squish Factor"
         },
@@ -4167,8 +4079,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e73",
             "title": "You're a Ghost, I'm a Ten"
         },
@@ -4212,8 +4123,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e74",
             "title": "Dog Key Party"
         },
@@ -4258,8 +4168,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e75",
             "title": "You're So Plane"
         },
@@ -4292,8 +4201,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e76",
             "title": "It Could Happen To You"
         },
@@ -4394,8 +4302,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e77",
             "title": "A Plum In The Sun"
         },
@@ -4415,8 +4322,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e78",
             "title": "Godzilla Vs. Kong Vs. Tina"
         },
@@ -4467,8 +4373,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e79",
             "title": "Emojourney"
         },
@@ -4533,8 +4438,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e80",
             "title": "Ryan O'Needle"
         },
@@ -4564,8 +4468,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e81",
             "title": "True Clomance"
         },
@@ -4589,8 +4492,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s5e182",
             "title": "Hanging Like a Chad"
         },
@@ -4657,8 +4559,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s5e183",
             "title": "Rashmi Amadeus"
         },
@@ -4717,8 +4618,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e82",
             "title": "Computer Says What"
         },
@@ -4805,8 +4705,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e83",
             "title": "One Haha"
         },
@@ -4844,8 +4743,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e84",
             "title": "Hot Dog Chart"
         },
@@ -4875,8 +4773,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e85",
             "title": "Mrs. Pachinko"
         },
@@ -4896,8 +4793,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e86",
             "title": "Benji Butts"
         },
@@ -4954,8 +4850,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e87",
             "title": "Julie Bowfinger"
         },
@@ -5037,8 +4932,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e88",
             "title": "Three Shots To The Dome"
         },
@@ -5132,8 +5026,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e89",
             "title": "One Less Egg To Fry"
         },
@@ -5173,8 +5066,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e90",
             "title": "Light Bulb's Good"
         },
@@ -5236,8 +5128,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e91",
             "title": "Random Ways And Means"
         },
@@ -5298,8 +5189,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e92",
             "title": "Flasier Clane"
         },
@@ -5325,8 +5215,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e93",
             "title": "Sprinkle and Tinkle"
         },
@@ -5397,8 +5286,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e94",
             "title": "Hey Man"
         },
@@ -5419,8 +5307,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e95",
             "title": "Toothpaste Conundrum"
         },
@@ -5428,11 +5315,13 @@
         "list": "Audiobook",
         "nb": [],
         "listClass": "threeture",
-        "listItems": ["horror/skeletons: a novel by richard abernathion","the burning"]
+        "listItems": [
+            "horror/skeletons: a novel by richard abernathion",
+            "the burning"
+        ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e96",
             "title": "Pudding Every Night"
         },
@@ -5503,8 +5392,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e97",
             "title": "Free Willy Nilly"
         },
@@ -5579,8 +5467,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e98",
             "title": "Tendrils Are Hair"
         },
@@ -5658,8 +5545,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s3e99",
             "title": "Secret Santa Pizza"
         },
@@ -5696,8 +5582,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s4e100",
             "title": "The Bed is Lego"
         },
@@ -5735,8 +5620,7 @@
         ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s4e100",
             "title": "The Bed is Lego"
         },
@@ -5744,11 +5628,12 @@
         "list": "Old Lady's Story",
         "nb": [],
         "listClass": "inline",
-        "listItems": ["oh, say can you see. fire blazing skies and the dastardly red glare."]
+        "listItems": [
+            "oh, say can you see. fire blazing skies and the dastardly red glare."
+        ]
     },
     {
-        "episode":
-        {
+        "episode": {
             "key": "s4e101",
             "title": "Let's All Meet Beef"
         },
@@ -5769,49 +5654,1433 @@
     },
     {
         "episode": {
-					"key": "s4e102",
-					"title": "Mark Mothersday"
-				},
+            "key": "s4e102",
+            "title": "Mark Mothersday"
+        },
         "startMinute": 46,
         "list": "Portmantotally Awesome",
         "nb": [],
         "listClass": "threeture",
         "listItems": [
-"washer"
-,"waSherrod Brown"
-,"waSherrod Browning"
-,"waSherrod BrownEngland"
-,"waSherrod BrownEngland Cher screen"
-,"waSherrod BrownEngland Cher screensaver"
-,"waSherrod BrownEngland Cher screensaveryfunny (TBS)"
-,"waSherrod BrownEngland Cher screensaveryfunkneecap"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cob"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestone"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoned (❌)"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snacks"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the stone"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toné!"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basis"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basisters doing it for themselves"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Ton... (❌)"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basisters doing it for themselves on the shelves"
-,"waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basisters doing it for themselves on the shelves in the sleigh (❌)"
+            "washer",
+            "waSherrod Brown",
+            "waSherrod Browning",
+            "waSherrod BrownEngland",
+            "waSherrod BrownEngland Cher screen",
+            "waSherrod BrownEngland Cher screensaver",
+            "waSherrod BrownEngland Cher screensaveryfunny (TBS)",
+            "waSherrod BrownEngland Cher screensaveryfunkneecap",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cob",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestone",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoned (❌)",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snacks",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the stone",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toné!",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basis",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basisters doing it for themselves",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Ton... (❌)",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basisters doing it for themselves on the shelves",
+            "waSherrod BrownEngland Cher screensaveryfunkneecapricorn on the cobblestoner snaccidents will happen is mightier than the sword and the sTony! Toni! Toneed to know basisters doing it for themselves on the shelves in the sleigh (❌)"
         ]
     },
     {
         "episode": {
-					"key": "s4e103",
-					"title": "Missing Mr. Magoo Memento"
-				},
-        "startMinute": NULL,
-        "list": "",
+            "key": "s4e103",
+            "title": "Missing Mr. Magoo Memento"
+        },
+        "startMinute": 46,
+        "list": "Name That One Word Monotune",
         "nb": [],
         "listClass": "threeture",
         "listItems": [
-        	
+            "piano —> (❌)",
+            "shirt —> that's the way (i like it) (❌)",
+            "butt —> funky town (❌)",
+            "shirt —> mr. roboto (✅)",
+            "please —> jingle bells (❌)",
+            "please —> the gambler (✅)",
+            "barn —> my heart will go on (❌)",
+            "nail —> bodies (❌)",
+            "nail —> my heart will go on (❌)",
+            "nail —> fancy like (✅)",
+            "josh —> YMCA (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e104",
+            "title": "Boop"
+        },
+        "startMinute": 59,
+        "list": "Wedding Planners",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "biblical —>",
+            "nora ephron (hologram) is the officiant",
+            "can [robert kardashian] mention 'peefees'?",
+            "levels of an old boat with troughs of hay on every level and every human eats out of the troughs (some of them have animal poop in them)",
+            "it's up to you - if you want the wedding party to get their own trough they get a feces-free trough that no one will push your face into",
+            "it goes from the wedding to the reception immediately",
+            "this isn't really even a boat - i'm gonna have your family hanging on with handles behind each window to look like they're on the boat",
+            "the cake is gonna be made of styrofoam",
+            "it's a huge, huge styrofoam cake covered in real frosting"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e105",
+            "title": "Crumbelievable"
+        },
+        "startMinute": 45,
+        "list": "Henrietta",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "we're about to go to war —>",
+            "alright, everyone: meow",
+            "listen up, meow",
+            "we're about to do something really bad, meow",
+            "yeah alright everyone meow",
+            "meow is time for everybody to do what you meow expecting",
+            "i'm expecting we're all going to pack up and go home meow",
+            "no we're not, meow",
+            "we are now going to do something very meow serious",
+            "are we supposed to guess, meow?",
+            "grab your ankles, spread your ass open meow, and let someone go to town meow",
+            "you need to all take out the photos of meow your families meow (❌)",
+            "there's a recall on one of your products —>",
+            "good evening, meow",
+            "my name is henry litchfield, meow, and i come to you — meow-meow — with a heavy heart",
+            "meow, five people have unfortunately, meow, perished because of faulty, shoddy, parts meow in our hair dryer",
+            "meow, meow (✅)",
+            "a passionate plea to get back together with your ex —>",
+            "meow",
+            "meow",
+            "meow-meow",
+            "meow—",
+            "meow meow meow meow meow meow — shut up — meow",
+            "shut up, shut up, shut up - meow",
+            "shut up, shut up, shut up - meow",
+            "look, meow, look - i love you, meow (just shut up though, and let me tell you why i love you, meow)",
+            "ever since the day that i saw you rooting through my meow (trash) i knew that there was something about you (meow) that just (meow) swept me off my feet and i said 'meow - i can save this poor girl, meow'",
+            "you have to put down ah the giraffe at the zoo that everyone loves —>",
+            "listen everyone, meow",
+            "listen everyone, meow",
+            "gather around, meow",
+            "obviously — what's up, players, meow — i am ding dong, i am (meow) the head giraffe harnesser (meow) at the zoo",
+            "meow, the harness fits fine, meow, it's just that—",
+            "while i was, meow, climbing his neck it, meow, snapped in half",
+            "meow, and, meow, this is not good, meow, and obviously (meow) we need to bury him, so meow...",
+            "he won't be soon, meow",
+            "can everyone just (meow) quickly hold hands with each other",
+            "meow and then we're gonna step on his neck until it's done",
+            "meow",
+            "there's no one to call, meow - i've been made the head of the zoo, meow, because my father was the head of the zoo (meow) and he's since, meow, passed"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e106",
+            "title": "Shoe Mop Tops"
+        },
+        "startMinute": 70,
+        "list": "Lyrical Synonyms",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "purple rain —>",
+            "one such as i did not intend \\ to bring about feelings of dismay in you \\ and one such as i certainly never thought... \\ one such as i certainly never meant for any feelings of discomfort \\ all that i desired was in, a singular instance, to visualize you, chortling and guffawing \\ all i desired was to visualize you chortling and guffawing inside the...eggplant-colored weather conditions",
+            "everybody wants to rule the world —>",
+            "come into your existence \\ it is a lack of looking in the past \\ including during slumber \\ us will seek you, being the most perfect version of yourself \\ spin your behind on the woman who encompasses earth \\ all people desire to...",
+            "star-spangled banner —>",
+            "pardon, have you observed?",
+            "pardon, are you able to observe — now that the sun has risen — the object of our admiration, allegiance \\ back when the sun had just gone down \\ it's got, like, big fat lines; it's got strong twinkly things",
+            "auld lang syne —>",
+            "should meeting each other briefly - should we not remember that? \\ and should it not pop into our brains, ever? \\ with the AM hours of—"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e107",
+            "title": "Yelp Paleontologist"
+        },
+        "startMinute": 48,
+        "list": "Acrosticapocalypse",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "JAWS —>",
+            "jazzy animal was shark",
+            "Big —>",
+            "boy is grown",
+            "E.T. —>",
+            "extra terrestrial",
+            "Little Mermaid —>",
+            "lovely intelligent teen tries love emotionlly mouth ever remains mum and is done",
+            "the sixth sense —>",
+            "then hailey expects seeing in xylophones then hailey sees expired nobodies, seemingly everywhere",
+            "godfather —>",
+            "goomba of death fares a terrible heart event RIP",
+            "meet the parents —>",
+            "man elicit engagement, though the house experiences problems as recourse exists nevermore thus saying",
+            "knives out —>",
+            "killer never investigates viewing everyone seeing opportunities underneath trains"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e108",
+            "title": "To and Fro"
+        },
+        "startMinute": 51,
+        "list": "Hot Bench",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "are you the famous mr. rogers?",
+            "can u see him, judge?",
+            "you are wearing a sweater, though, instead of a suit jacket?",
+            "you're suing him for not delivering your mail - and your mail, specifically?",
+            "what kind of wreckage upon your life is this?",
+            "what services, what do you mean?",
+            "the judge can object?",
+            "so, mr. rogers, do you have any evidence that you were not receiving mail?",
+            "can you show us how you haven't received [mail]?",
+            "why do you have a magnifying glass as a hat?",
+            "how come i don't get to read it?",
+            "emily in paris?",
+            "did you write this to mr. rogers or to the concept of cheese?",
+            "me?",
+            "doesn't cheese live inside your house?",
+            "how much cheese do you have in your house, mr. rogers?",
+            "is that a lot?",
+            "40 pounds of cheese?",
+            "why do you have so much cheese, mr. rogers?",
+            "when are people coming over?",
+            "how often do you have people coming over to your house?",
+            "each day?",
+            "but like, the mail carrier?",
+            "has he ever come by to one of your parties?",
+            "has he ever left you something — like a gift — at one of these parties?",
+            "have you thought it was a gift?",
+            "why is that, sir?",
+            "can i talk now?",
+            "how did the mouse get next to us?",
+            "what happened?",
+            "who are you?",
+            "what, are you a courtney love superfan - you hear what you wanna hear?",
+            "how am i gonna live through this?",
+            "why don't you sit down?",
+            "you're not still growing?",
+            "if i were to invite you back here in a year, you would not be taller?",
+            "remember a year ago when you won that lawsuit and we rewarded you 800 pieces of mail?"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e109",
+            "title": "Vampire Of Jokes"
+        },
+        "startMinute": 44,
+        "list": "Junk Chump",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "i actually do believe that for that item",
+            "ooh, it should be much less than that",
+            "well, that's heavy",
+            "it's a heavy item",
+            "yours is incredible light",
+            "the material itself is prolly worth way more",
+            "do you box that up?",
+            "where do you think i should put that in my house?",
+            "no, it's very special",
+            "i think i could but it might make people a little uncomfortable",
+            "it's a little stinky for my taste",
+            "you can't really tell what it is",
+            "i can't tell what it is because it's clear",
+            "it could be in a museum, i think",
+            "it could be in a room with [a monét painting]",
+            "it is invisible, but the container's not",
+            "the container is visible",
+            "the original product itself is not ever opaque",
+            "i can see that and it can see me",
+            "maybe the bathroom",
+            "you're close - it's in a container",
+            "not shit",
+            "it's been passed down from generations",
+            "i can't see it in there",
+            "is it a fart? (✅)",
+            "it's not alive",
+            "it would be in a room with a monét",
+            "what do you see in a museum besides paintings?",
+            "but not a whole body",
+            "it's made out of beautiful material",
+            "someone we've talked about recently",
+            "i wanted you to admit that you were selling a jar of farts and i wanted you to admit that you're holding a bust of...?",
+            "she's got her own show",
+            "she's got a job",
+            "her job is part of the show, as you know",
+            "would anyone fight about it in a court of law?",
+            "this bust of judge judy i don't have a receipt for (✅)",
+            "i'm carol kane",
+            "so this is all stuff that would be sold during medieval times?",
+            "i think both of these things are things that you could buy in medieval times",
+            "i feel like i've seen something like this before",
+            "it's definitely not famous - but i used to work at a swap meet (at, like, a flea market)",
+            "your thing, sir, is incredible - that is so large",
+            "what is that odor?",
+            "it feels like your friend did something on that",
+            "he's a cardboard cutout - a lot of people think he's a real guy",
+            "oh, i thought that was a real cat",
+            "you smell the aroma of cat",
+            "a certain part of what a cat does, yes",
+            "poo poo?",
+            "pee pee?",
+            "so it's cat piss?",
+            "it looks like something that would be hanging on a wall in medieval times",
+            "like a beautiful urn (❌)",
+            "like a painting (❌)",
+            "like a banner (❌)",
+            "like a mural (❌)",
+            "a tapestry (❌)",
+            "a tapestry that smells like cat piss (✅)",
+            "the guy who had the next table over sold something very much like this at a place where i used to work",
+            "like a jar of shit? (❌)",
+            "a box of shit? (❌)",
+            "diahrrea? (❌)",
+            "garlicky!",
+            "bad breath in a box? (❌)",
+            "halitosis in a jar? (❌)",
+            "vomit! (❌)",
+            "tongue! (❌)",
+            "vomit! (❌)",
+            "barf in a jar? (❌)",
+            "barf in a box? (❌)",
+            "burp in a clog? (❌)",
+            "burp in a tv? (❌)",
+            "burp in a bag? (❌)",
+            "plastic bag? (❌)",
+            "paper bag? (❌)",
+            "tote bag? (❌)",
+            "cloth reusable bag? (❌)",
+            "a burp in a reusable tote? (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e110",
+            "title": "Glasses Say What?"
+        },
+        "startMinute": 55,
+        "list": "Alphabetical Question Game",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "anyone hear that noise?",
+            "'boo'? did somebody hear 'boo'?",
+            "can't hear it myself, i think (❌)",
+            "can you hear it?",
+            "didn't you hear somebody say 'boo'?",
+            "even if i did, would that help anything?",
+            "friends, should i be the one to open my stupid ears and listen to this?",
+            "go and open the door, won't you?",
+            "how do you open this door?",
+            "i think you just, kind of like, press on it really hard (don't you)?",
+            "just over here, i think?",
+            "knowing what you know about doors, do you think i should turn the knob?",
+            "lapkus, do you think i should try to turn the knob?",
+            "most doors go this way in my experience but i don't know (❌)",
+            "now if i don't open it, are we stuck in here?",
+            "oh my god, i think we might be - but how do you open it?",
+            "pry it with a crowbar, why don't you?",
+            "quiet! i'm trying to pry it with a crowbar, aren't i?",
+            "really? this is [happening to me on?] my birthday?",
+            "silence, won't you (❌)",
+            "anyone wanna go swimming?",
+            "but aren't all the pools drained in this area?",
+            "can you shut up for a second?",
+            "don't you wanna shut up for a second?",
+            "christ, why are you yelling at me? (❌)",
+            "everyone thinks...(❌)",
+            "everyone heard that, right?",
+            "friends, am i hearing what i think i'm hearing?",
+            "hearing what? (❌)",
+            "glasses say what? (❌)",
+            "hear that?",
+            "i wonder if i can (❌)",
+            "if i listen really closely, do you think i can?",
+            "jibbitz on the floor?",
+            "most of these came from somebody's shoe? (❌)",
+            "knights have jibbitz, don't they?",
+            "lots of them, why don't you?",
+            "lots say what?",
+            "lots of them, wouldn't you?",
+            "glasses say what?",
+            "jibbitz on the floor?",
+            "may i please have a drink of water?",
+            "neighbor, may i also have a drink of water?",
+            "oh gosh, i wonder if i'm out of water (❌)",
+            "oh gosh, am i out of water?",
+            "pretty please, may i have a cookie?",
+            "quietly i ask: may i also have a cookie?",
+            "really, why do you want a cookie so badly?",
+            "so we can eat, please (if it pleases the court)?",
+            "trying to fatten up - don't you think i need it?",
+            "under where?",
+            "very thin, haven't you been worried? (❌)",
+            "very worried...(❌)",
+            "why would i be worried?",
+            "xylophones are fun to play, aren't they?",
+            "you're losing your mind, i believe?",
+            "zounds, is there any decent man in this kingdom?"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e111",
+            "title": "Skinny As A Needle"
+        },
+        "startMinute": 40,
+        "list": "Jitterbug",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "monkey paw",
+            "NFT",
+            "farting brain",
+            "make a wish",
+            "dollar store",
+            "99 cent store (❌)",
+            "spic and span",
+            "mr. clean",
+            "roger that",
+            "fred rogers",
+            "myim bialik (❌)",
+            "liquid death",
+            "nike shoe",
+            "little pants",
+            "chlorine pool",
+            "baby doll (❌)",
+            "shock treatment",
+            "homeless man",
+            "bloody nose",
+            "umbrella",
+            "icy bath",
+            "icy hot",
+            "tastee freez",
+            "frozen yo (❌)",
+            "chili dog",
+            "micky d's",
+            "mellencamp",
+            "john cougar",
+            "ed grimley",
+            "billy c",
+            "martin short"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e112",
+            "title": "Covered In Bugs"
+        },
+        "startMinute": 67,
+        "list": "Movie Trailer",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "in a time long after our own on a planet we've never been to",
+            "one alien must collect money from every earthling she sees",
+            "but when a streetwise robot gives her a hard time...",
+            "but are they enemies or frenemies with benefits?",
+            "they've got to team up to save the planet from certain destruction",
+            "and maybe face a fate they've never faced before",
+            "this summer: action. will. never. have. been. any. more. actiony. than. you. have. ever. even. thought. to. think. about. imagining. ever.",
+            "artie fantango",
+            "michelle beebleborp",
+            "terror has an old name",
+            "'Geronimatron 2000' - in theatres this summer",
+            "when the summer hits new york, love is in the air",
+            "two guys meet on the street, not knowing what lies in store",
+            "accidents can't be controlled but they might make your life exactly what you want it to be",
+            "they had the love of their life while they were in a coma the entire time",
+            "but everything took a turn for the worse when that poor woman he loved so much got into the hospital herself",
+            "54 years later, she woke up",
+            "and her husband still wants a taste",
+            "love still finds a way no matter how old its participants may be",
+            "this summer: the ultimate rom-com",
+            "it's coming soon to a theatre near you: 'love in a jar'",
+            "starring marisa tomei",
+            "and paul f. tompkins",
+            "it's 'love in a jar'"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e113",
+            "title": "Boink Boink Whee"
+        },
+        "startMinute": 59,
+        "list": "Thank You For Attending My Ted Talk",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "ohio state university press —>",
+            "it's a university press - so they publish collegiate works, or...?",
+            "the gentleman who is now running the press, when did he become the gentleman that runs the press?",
+            "and his first name is...?",
+            "it's called 'latino something' because it's about everything?",
+            "and you talk to mr. martinez?",
+            "this isn't part of your ted talk, you're just...?",
+            "so ohio is a state?",
+            "why did you do a ted talk about this?",
+            "who did this?",
+            "how tall am i?",
+            "when am i going to die?",
+            "could god make a rock so heavy that he's, like, 'why did i do this'?",
+            "anything?",
+            "can he make a plane take off before it landed?",
+            "The Quaintance Block —>",
+            "it's an entire block or just one store on...?",
+            "like on donkeys or with them?",
+            "what do you mean \"that's as far as i got\"?",
+            "what was his first name, this quantance fellow?",
+            "castle rock - is that any releation to stephen king?",
+            "is it scary there?",
+            "in the burros?",
+            "in the pictures of the burros?",
+            "what are the other buildings that are legally-landmarked buildings?",
+            "why should we care about this?",
+            "why should we care?",
+            "does it lean to the side?",
+            "who names something 'the spudnut shop'?",
+            "1994?",
+            "and who's holding you at gunpoint?",
+            "ted again?",
+            "why didn't they call 'ted 2' 'ted again'?",
+            "why did you get interested in this?",
+            "have you ever been there - have you seen it?",
+            "how were you able to look it up?",
+            "so you're that good of an artist?",
+            "do you know where you are?",
+            "joke (i’m laughing) —>",
+            "you're reading this",
+            "boo hewerdine",
+            "is that a bad review",
+            "how do you spell eddi",
+            "how do you spell teddie",
+            "and is he holding you at gunpoint right now",
+            "so is it teddie - ted-diy - because, like, ted do-it-yourself",
+            "what band did eddi reader sing for before she went solo",
+            "you're doing a whole ted talk about this woman's song that you don't even know that she sang for a different band",
+            "but don't you agree that she had far more success as the singer of this band than she did in her solo career",
+            "hey, sir, should you be up there doing the ted talk",
+            "what do you know about the song \"joke (i'm laughing)\" other than what i've told you",
+            "one can be critical while still giving it a good criticism and a good review, can one not",
+            "listen, dude, do i come to where you talk and tell you about trouser press",
+            "who's \"hugh talk\"",
+            "\"hugh k. talk\"",
+            "madame, is there something you'd like to share with the rest of the ted talk",
+            "what is that",
+            "it's a cartoon of something",
+            "this lady is looking at jibbitz while you're giving a ted talk - how does that make you feel"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e114",
+            "title": "Ms. Small"
+        },
+        "startMinute": 59,
+        "list": "Cursory Rhyme",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "juice —>",
+            "when i thirst at morning time (❌)",
+            "at morning time, i crave my juice",
+            "upon the carton, i turn it loose",
+            "i don't mind if it is puce",
+            "so long as it makes my bowels loose (❌)",
+            "and by the way - i am a moose",
+            "i'll take a rope and fashion a noose",
+            "and kill myself to see my god, zeus",
+            "what's this upon my thigh, a bruise?",
+            "this bruise, i see, it is chartreuse",
+            "i'll wrap it up in my papoose",
+            "and stuff it all in this train's caboose",
+            "and then write it down, which i will peruse",
+            "and send it off to terry crews",
+            "i do admire his fancy shoes",
+            "then i'll sip a little bit of booze",
+            "i'm a detective but i've got no clues",
+            "but brian safdie is my muse",
+            "brown —>",
+            "upon my shorts, a touch of brown",
+            "i didn't notice 'til i looked around",
+            "in this state, can i go to town?",
+            "not sure which way - either up or down",
+            "but if i smell it i'll have a frown",
+            "and to others be a clown",
+            "and then to cover it up i'll wear a gown",
+            "and a hat made of feathers, down",
+            "upon my head, just like a crown",
+            "look at that bird and how it's flown (that's how i pronounce it)",
+            "and look at my grass and how it's mown",
+            "up in the sky - a red ballown? (❌)",
+            "face —>",
+            "i place this mask upon my face",
+            "my face is where a mask is placed",
+            "i hope my zits, it will erase",
+            "and once they do, i'll run my race",
+            "i hope i don't get sprayed with mace",
+            "and then sent off to outer space",
+            "and the detective will crack the case",
+            "and the theme will be: leather and lace",
+            "and we shall continue and continue apace",
+            "and presents are good with all the grace",
+            "whilst lying on this lounge of chaise?",
+            "i am so embarrassed i feel abased",
+            "i wanna disappear without a trace",
+            "i think i'll walk to there, a ways (❌)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e115",
+            "title": "Jumble Cruise"
+        },
+        "startMinute": 55,
+        "list": "French Toast",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "french toast?murder:murder",
+            "murder?bush:bush",
+            "bush?a vacation:a vacation",
+            "vacation?beach:beach",
+            "beach?boat:boat",
+            "boat?an improve show on cruise:boat",
+            "boat?ship:boat",
+            "boat?cruise ship:boat",
+            "boat?shark:shark",
+            "shark?jetski:shark",
+            "shark?gorilla:shark",
+            "shark?whale:shark",
+            "shark?sneaker:sneaker",
+            "sneaker?jaws:sneaker",
+            "sneaker?picnic:sneaker",
+            "sneaker?swimfin:swimfin",
+            "swimfin?snorkel:snorkel",
+            "snorkel?SCUBA:snorkel",
+            "snorkel?straw:snorkel",
+            "snorkel?underwater mask:underwater mask",
+            "underwater mask?halloween mask:underwater mask",
+            "underwater mask?goggles (✅)",
+            "french toast?palm tree:palm tree",
+            "palm tree?sidewalk:sidewalk",
+            "sidewalk?shoe:sidewalk",
+            "sidewalk?house:house",
+            "house?apartment:house",
+            "house?castle:castle",
+            "castle?king:castle",
+            "castle?car:car",
+            "car?scooter:car",
+            "car?superman:car",
+            "car?truck:car",
+            "car?carseat:car",
+            "car?jeep:car",
+            "car?roller coaster:car",
+            "car?hummer:car",
+            "car?blue car:car",
+            "car?prius:prius",
+            "prius?tesla:tesla",
+            "tesla?monorail:tesla",
+            "tesla?wall outlet:tesla",
+            "tesla?private plane:tesla",
+            "tesla?public plane:tesla",
+            "tesla?bmw (✅)",
+            "french toast?rain coat:french toast",
+            "french toast?rock:french toast",
+            "french toast?pancakes:french toast",
+            "french toast?whipped cream:french toast",
+            "french toast?whipped cream:whipped cream",
+            "whipped cream?butter:whipped cream",
+            "whipped cream?chocolate:chocolate",
+            "chocolate?jelly:chocolate",
+            "chocolate?caramel:chocolate",
+            "chocolate?ice cream:chocolate",
+            "chocolate?hot fudge:chocolate",
+            "chocolate?croissant:chocolate",
+            "chocolate?hershey's kiss:chocolate",
+            "chocolate?white chocolate:chocolate",
+            "chocolate?carob:chocolate",
+            "chocolate?lollipop:chocolate",
+            "chocolate?macha:chocolate",
+            "chocolate?doughnut:chocolate",
+            "chocolate?sugar:chocolate",
+            "chocolate?coffee:chocolate",
+            "chocolate?hershey's chocolate bar:hershey's chocolate bar",
+            "hershey's chocolate bar?kitkat:kitkat",
+            "kitkat?twix:kitkat",
+            "kitkat?snickers:snickers",
+            "snickers?three musketeers (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e116",
+            "title": "Mr. Golly’s Whiz Bang"
+        },
+        "startMinute": 51,
+        "list": "Negative 20 Questions",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "place?",
+            "arizona?",
+            "heaven? (❌)",
+            "person?",
+            "thing?",
+            "type of shop?",
+            "shop?",
+            "city?",
+            "type of learning establishment?",
+            "museum?",
+            "outdoor place (like a nature...)?",
+            "sporting event place?",
+            "baseball field?",
+            "basketball court (stadium)?",
+            "tennis location?",
+            "football field?",
+            "stadium in los angeles?",
+            "stadium in new york?",
+            "stadium in chicago?",
+            "stadium in florida?",
+            "stadium in north carolina?",
+            "stadium in california?",
+            "stadium in kansas?",
+            "stadium in minnesota?",
+            "stadium in wisconsin?",
+            "stadium in new jersey?",
+            "stadium in indiana?",
+            "stadium in iowa?",
+            "stadium in wyoming?",
+            "stadium in texas?",
+            "stadium in austin?",
+            "stadium in houston?",
+            "stadium in dallas?",
+            "dallas cowboys stadium (✅)",
+            "person",
+            "male",
+            "someone who's alive",
+            "famous actor",
+            "movie star",
+            "someone over 50",
+            "someone who once starred on e.r.",
+            "someone who's won an oscar",
+            "someone who had a movie out in the last year",
+            "someone over 60",
+            "did he ever play the joker",
+            "is he over 70",
+            "is he known for drama",
+            "did he win [the academy award] for acting",
+            "did he get throat cancer from cunnilingus",
+            "robert redford (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e117",
+            "title": "Murder on the Moon"
+        },
+        "startMinute": 50,
+        "list": "Letter List",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "s —>",
+            "jaws (❌)",
+            "stepford wives",
+            "succession",
+            "silverchair",
+            "strokes",
+            "u2 (❌)",
+            "soup",
+            "smashed potatoes",
+            "hoagie (❌)",
+            "salt lake city",
+            "stratford-upon-avon",
+            "saint petersburg",
+            "snake",
+            "snake",
+            "horse (❌)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e118",
+            "title": "Topps Chef"
+        },
+        "startMinute": 50,
+        "list": "Let's Try That Again",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "i'll never forget you and i'll always be in your heart —>",
+            "more like a man-child",
+            "more of a boston kind of...",
+            "a little more high-pitched",
+            "but sounding like a baby who has a mental problems",
+            "adam sandler (✅)",
+            "oh my god, this earthquake is making the earth shake —>",
+            "older",
+            "more of a woman",
+            "keep your teeth closer together",
+            "get a little shaky with it",
+            "keep your teeth close together",
+            "katherine hepburn (❌)",
+            "a little sillier",
+            "keep those s-h sounds going",
+            "older, older",
+            "older, please",
+            "and give it real confidence",
+            "and really give it to your scene partner",
+            "louder, definitely louder",
+            "you can open your mouth a little bit but keep the teeth wanting to come close together",
+            "cartman (❌)",
+            "try to lisp, just, even more",
+            "more like your tongue and cheek are kinda...",
+            "your dentures are kinda stuck...",
+            "zelda rubinstein (❌)",
+            "i wish i could get this plant to grow —>",
+            "more laid-back",
+            "that level of laid-back, more thoughtful",
+            "no!",
+            "maybe not thoughtful but almost whistful",
+            "but you're not sad",
+            "i wanna give it a little bit of a panhandle flavor - a little texas",
+            "that's a little too southern - more texas, like...",
+            "like george w. bush is texas, you know...",
+            "(but don't do george w. bush)",
+            "but remember - laid-back (you're thinking fondly about this plant)",
+            "think of [tommy lee jones in 'the fugitive'] for the accent, but then again - laid-back",
+            "slow it down",
+            "slow it down",
+            "you're getting a little southern, now (don't do that)",
+            "remember, texas - you have that...",
+            "be younger",
+            "not more energetic, though",
+            "say it like it's the most - like, it's a wild thing that you're thinking about",
+            "but, like, take the energy down",
+            "give it a little wow in your mind",
+            "keep your mouth really tight",
+            "owen wilson (✅)",
+            "who put this cat in the basement - we all know he's an attic cat —>",
+            "a little more hesitant at times",
+            "sort of a deeper voice",
+            "make it sort of like you're realizing the words as you're saying them",
+            "not like christopher walken",
+            "not like drew barrymore, either",
+            "add in a little excitement - random excitement",
+            "not so much excitement as wonder",
+            "don't do it like nicole kidman in that amc ad",
+            "i would say you can be — with your halting — you can be even stammering a little bit",
+            "kristen stewart (❌)",
+            "winona ryder (❌)",
+            "jeff goldblum (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e119",
+            "title": "Star Trek: Tiny Desk"
+        },
+        "startMinute": 39,
+        "list": "Benjamin Button Scene",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "landfill (old) —>",
+            "i look at you and i see a dump",
+            "not your classic dump cake from when you were a baby",
+            "when i will be a baby",
+            "we're being kicked out of the hospital",
+            "where we live?",
+            "we're all on life support and they're kicking us out because we can't pay rent",
+            "i thought we could just stay there because we're old",
+            "we'e been friends for so long",
+            "i just wanted to come in and say a donation has been made in your honor and you're allowed to stay at the hospital and continue to be on life support",
+            "landfill (adult) —>",
+            "who put you in charge - we're all adults, here",
+            "i'm a little bit younger than you",
+            "we're being kicked out of the house we all own",
+            "hey i just wanted to pop in and say, um, actually there was a donation made in your honor and the house is gonna stay in your name",
+            "nursing student carol?",
+            "landfill (teen) —>",
+            "we're being kicked out of high school by our mean teacher",
+            "mr. garanimals?",
+            "but how are we supposed to get our degrees",
+            "yeah, i need to get my high school degree",
+            "i was planning on having an mfa",
+            "hey i just wanted to stop over here and tell you guys that a donation has been made in your name and the teacher is gonna let you stay",
+            "hey, leave her alone - she's just a kid",
+            "i just wanna be a nurse when i grow up",
+            "what's your name, kid?",
+            "wow, we're going to know somebody like that someday",
+            "landfill (child) —>",
+            "hey, little baby, what's your name?",
+            "landfill (baby) —>",
+            "[farting sounds]",
+            "[unnamed] (baby) —>",
+            "[baby sounds]",
+            "[unnamed] (teen) —>",
+            "guess what - that cheerleader over there is giving me the eye",
+            "and how old are we?",
+            "we're teenagers (and it's 1950)",
+            "i'm pretending to be a teenager (i'm doing a 21 jump street situation, only i'm not investigating drug cases, i'm trying to have sex with cheerleaders)",
+            "do you guys wanna go to the sock hop?",
+            "i can't i have the clap"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e120",
+            "title": "Minnie Is a Size Queen"
+        },
+        "startMinute": 47,
+        "list": "Money Pweeze",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "i got laid off at work —>",
+            "do you love me, children?",
+            "the reporters' questions?",
+            "you got laid?",
+            "what happened, daddy?",
+            "at the factory factory?",
+            "how many factories did you make before the layoff, daddy?",
+            "but no one wants to work, daddy?",
+            "what does this mean for us, daddy?",
+            "what about our allowance, daddy?",
+            "hard pretzel subscription?",
+            "how hard?",
+            "so how many pretzels do you receive per month?",
+            "just one pre — and how big?",
+            "like a rold gold pretzel, almost?",
+            "how much is this?",
+            "why do you want broken teeth, child?",
+            "one year for one month?",
+            "is it a technology company - is there an app?",
+            "he's above the line?",
+            "what do you mean - like the kind that says when you are late?",
+            "what would you do with this?",
+            "what do you want to do instead of learn",
+            "you need it for power and you need it to break your teeth",
+            "with interest",
+            "7.9% financing",
+            "what about the vig",
+            "you think the principal will buy the bell from you, child",
+            "what if the principal buys his own bell, child"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e121",
+            "title": "What Movie is Good Morning, Vietnam Set In?"
+        },
+        "startMinute": 54,
+        "list": "Sitcom Heart to Heart",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "wesley's friend —>",
+            "your penis is out - what are you doing?",
+            "they called to tell us",
+            "well they texted first and then it was too many texts",
+            "principal drex",
+            "he told us what the people in charge of the whole thing said",
+            "i don't know the terminology of this hobby of yours",
+            "we think you're way too talented for that",
+            "all they have to say is positive things other than what you did",
+            "the one thing that you did wrong is really wrong",
+            "it's only a disservice to yourself and to us",
+            "it's a disservice to us because we're the ones who trained you",
+            "and we put all the money into this",
+            "it's a lot of money, paul",
+            "it's expensive for you to get your dorky glasses and your stupid outfit",
+            "and the actual, you know - the board ain't cheap",
+            "it seemed like you were trying to help someone less fortunate or less intelligent than you and that's maybe not the right...",
+            "you see this person every single day at school, that's you're...relationship to them",
+            "but a little more than a classmate",
+            "wesley is, you know - he's part of our family",
+            "we might start loving him more than you if you continue to let him excel in this area",
+            "but you're the genius",
+            "he doesn't even know what the horse is called",
+            "but then he talked about david hasselhof and knight rider for, like, four hours",
+            "we pay the money so you can go out there and prove it to schools that you're a genius",
+            "that video of you doing the six flags dance like that old man - that wasn't you?",
+            "if you get noticed by winning these it can open up colleges - you can't just do what you did, and let wesley...",
+            "we're mad at you because you let him win",
+            "you forfeited - you threw the whole thing",
+            "burns down the church —>",
+            "what are you doing - it's not what you did before, is it?",
+            "it's your behavior",
+            "remember what you did on sunday?",
+            "you know what you did on sunday because sunday is why you did it",
+            "and boy-oh-boy did you ever not wanna go to church",
+            "you let everyone know it",
+            "you ruined church for everyone",
+            "your father only did that to one person - you did it to everyone",
+            "now no one will ever be able to go to church again",
+            "you're a mass murderer"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e122",
+            "title": "Cradle the Nose, Work the Ears"
+        },
+        "startMinute": 49,
+        "list": "Anchors Away",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "jeff smith —>",
+            "you know restaurants very well",
+            "well, you know cooking",
+            "you're familiar with what happens in them",
+            "speaking of mouthpiece - you love to eat but you don't love to speak",
+            "when it's important you don't speak",
+            "you hold your tongue but then when you want something, you lap it up",
+            "a lot like some of the bystanders here who are refusing to talk about who set the fire",
+            "i don't know why you would be so concerned bout that, rilf, because aren't you used to just kind of turning your back to that kind of thing?",
+            "now, bitch...what we mean by that is...that rilf is somebody who doesn't really stand up for what's right",
+            "it's not like you care about people taking personal responsibility, so why do you care if they've found a suspect or not?",
+            "this was one of the few restaurants that catered to a poorer clientele - people who were very concerned with how they spent their money",
+            "they were thoughtful about how they spent [their money]",
+            "i think google was named after this word",
+            "it certainly rhymes with it",
+            "because google has a free search engine and the word that rhymes with it is a cheap way to be",
+            "you certainly interacted with [a cheapskate] quite a lot",
+            "very famously frugal and a restauranteur of sorts (and a creepass)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e123",
+            "title": "Threedom Much?"
+        },
+        "startMinute": 50,
+        "list": "French Toast",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "french toast?flower:flower",
+            "flower?car:flower",
+            "flower?umbrella:umbrella",
+            "umbrella?jacket:jacket",
+            "jacket?raincoat:raincoat",
+            "raincoat?peacoat:raincoat",
+            "raincoat?wetsuit:raincoat",
+            "raincoat?trenchcoat:trenchcoat",
+            "trenchcoat?blanket:trenchcoat",
+            "trenchcoat?three-piece suit:trenchcoat",
+            "trenchcoat?sweatshirt:trenchcoat",
+            "trenchcoat?private eye's magnifying glass:trenchcoat",
+            "trenchcoat?boa, feather:trenchcoat",
+            "trenchcoat?bathrobe:trenchcoat",
+            "trenchcoat?briefcase:trenchcoat",
+            "trenchcoat?smoking jacket:trenchcoat",
+            "trenchcoat?blazer:trenchcoat",
+            "trenchcoat?housecoat:trenchcoat",
+            "trenchcoat?tuxedo jacket:trenchcoat",
+            "trenchcoat?blazer:trenchcoat",
+            "trenchcoat?parka:trenchcoat",
+            "trenchcoat?zipper hoodie:trenchcoat",
+            "trenchcoat?table:trenchcoat",
+            "trenchcoat?dress:trenchcoat",
+            "trenchcoat?jean jacket:jean jacket",
+            "jean jacket?monopoly game:jean jacket",
+            "jean jacket?windbreaker:jean jacket",
+            "jean jacket?blue jean pants:jean jacket",
+            "jean jacket?members only jacket:jean jacket",
+            "jean jacket?horse:jean jacket",
+            "jean jacket?fur coat:jean jacket",
+            "jean jacket?six shooter:jean jacket",
+            "jean jacket?chaps:chaps",
+            "chaps?ball gag:chaps",
+            "chaps?suede jacket with fringe:suede jacket with fringe",
+            "suede jacket with fringe?cowboy hat (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e124",
+            "title": "Fleetwood Mask"
+        },
+        "startMinute": 52,
+        "list": "Sale Away",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "my boat's actually a leaf",
+            "she's selling a used leaf, by the way - this is the leaf that moses was born in (it sailed down the river)",
+            "it's strong and durable - sprayed with hairspray",
+            "it is never gonna crack and there is no leaks",
+            "it is so beautiful and green and only brown on the parts where it has been seen by the sun",
+            "it's basically a canoe",
+            "there is a seat - the seat is made out of twigs, the twigs are very sticky and they are very thicky",
+            "and it's got a big, big paddle",
+            "it's not a  paddle to steer the boat with - it's a paddle to spank the passengers",
+            "i got a regular boat right here",
+            "it's got ten holes in the bottom",
+            "they're patched",
+            "they are patched poorly, but then we repatched them over the poor patches",
+            "and, um, gallagher lives on the boat",
+            "the leaf is $8k",
+            "it's liam gallagher",
+            "watermelon liam gallagher, the comedian"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e125",
+            "title": "Boff"
+        },
+        "startMinute": 40,
+        "list": "Celebrity Style",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "rug —> shag rug with maybe like a palm tree design",
+            "robin williams (❌)",
+            "austin powers (❌)",
+            "matthew lillard (❌)",
+            "automobile —> tan oldsmobile",
+            "college sweatshirt —> sarah lawrence",
+            "florence henderson (❌)",
+            "alcohol —> late-night glass of schnapps",
+            "sport —> i wouldn't be a sport",
+            "shoe —> sensible pump with a half-inch heel",
+            "creature in a haunted house maze —> someone who pops out and punches you in the face",
+            "tatiana ali (❌)",
+            "ann dowd (❌)",
+            "crop in a farmer's field —> tall stalk of corn",
+            "type of landline telephone —> 80s phone that's cream-colored with one of those big, rubbery things on the back",
+            "kitchen utensil —> a knife to cut pie",
+            "knife to cut pie, how sharp —> really sharp - the sharpest knife in the drawer",
+            "gwyneth paltrow (❌)",
+            "spice in a spice rack —> chili peppers",
+            "a person who was walking around universal studios and was approached by jay leno to appear on his hilarious segment 'jay walking' what question would he ask you —> something to do with ronald reagan",
+            "nancy reagan (❌)",
+            "jay leno delivering his monologue on 'the tonight show' and he said \"here's something\" - what would that something be? —> it would have to do with a fist bite",
+            "janet reno (❌)",
+            "a character in back to the future —> somebody's grandma",
+            "mary steenburgen (❌)",
+            "penny marshall (❌)",
+            "what color are you —> dark blue",
+            "a section in ikea —> comfortable chair that matches a couch",
+            "a celebrity —> bea arthur (✅)",
+            "kind of hat —> knit wool",
+            "dinosaur —> the one that just eats leaves",
+            "house —> cabin",
+            "nick offerman (❌)",
+            "sport in the olympics —> track and field (running)",
+            "door —> wooden door (oak)",
+            "book in the library —> maybe a book of maps (some sort of atlas) or a nature guide",
+            "charles atlas (❌)",
+            "nature guy (❌)",
+            "what kind of (domesticated) animal —> yellow lab",
+            "robert redford (❌)",
+            "date on which someone went to the zoo —> may 3rd",
+            "attitude —> positive",
+            "abraham lincoln (❌)",
+            "sitcom —> out of the blue",
+            "tom bosworth (❌)",
+            "tom bosley (❌)",
+            "member of the showtime lakers —> ?",
+            "if you had a name —> john denver (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e126",
+            "title": "I Get It, I'm Doctor Strange"
+        },
+        "startMinute": 46,
+        "list": "Conversation: The Game",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "sigh heavily once per turn",
+            "move your head when you talk",
+            "intrusive questions"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e127",
+            "title": "Proud Mother of Two Dumbass Kids"
+        },
+        "startMinute": 39,
+        "list": "Gift Master",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "angela merkel —>",
+            "electric meat slicer",
+            "brush with death",
+            "sleeping bag",
+            "connie chung —>",
+            "tight pony tail",
+            "moisturizing routine that gets results",
+            "singing lessons",
+            "jeremy renner —>",
+            "total kitchen renovation",
+            "hot glue gun",
+            "chips & a medium fountain drink",
+            "avatar official movie soundtrack",
+            "sigourney weaver —>",
+            "casual, yet tasteful, patio furniture",
+            "illegal fireworks",
+            "glass coffin",
+            "david copperfield —>",
+            "mysterious rash",
+            "word-a-day calendar",
+            "printer ink",
+            "timothy chalamet —>",
+            "their face on mount rushmore",
+            "a delicious peach"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e128",
+            "title": "SSN: 123-45-6789"
+        },
+        "startMinute": 37,
+        "list": "Snake Oil",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "harvey jarnes (moon demon) to a first grade teacher —>",
+            "harvey parns (recumbent globe) to a first grade teacher —>",
+            "and what's your name?",
+            "you're not a couple?",
+            "so you have sex every day or just based on whichever day you wanted to have sex?",
+            "and when you have sex with each other - do you ever say 'i love you'?",
+            "and then did you ever leave out the part where you said 'having sex with'?",
+            "i just wondered if you were fuck buddies because your last names rhyme and your first names are the same?",
+            "do i teach [first grade night school]?",
+            "what's a moon demon - (you've piqued my interest)?",
+            "so it's not connected to a demon himself?",
+            "so this smoke or gas comes through the air and makes kids stay awake?",
+            "and now does it get into my nostrils?",
+            "so i won't be getting any of the toxicity but the kids will?",
+            "it's harmful if breathed in but you mustn't touch it?",
+            "i do wonder where i am right now, and how did you find me?",
+            "so what's your product called?",
+            "how much is each one?",
+            "and how often does it work?",
+            "so it's just one penny to have that work for the rest of my life or it's $.99 to have this work for the rest of its life?",
+            "do you think i could fix it??"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e129",
+            "title": "Man! I Feel Like a Grandma"
+        },
+        "startMinute": 45,
+        "list": "Hitting the Post",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "Everybody listen up, it's the big day: prom is tomorrow and we want everyone to grab their best dress and their best tuxedo (or whatever you're goint to wear to feel so amazing so you can dance with your partner). We got two tickets to prom with a limousine and a free hot dog machine (it shoots 'em out, you grab 'em in your mouth - they have to go straight down your throat or it doesn't count). Every listen up, let's do it - call in!",
+            "Just a reminder out there: there is a lot of traffic now but it is not on the highways, it is just on the surface streets, so why don't you get out and walk to work today? We are gonna be having our contest: again, that contest is to have my job. I'm against it, but what can I do?",
+            "Hey, guys, I'm back here at work after my 5th time having COVID. I'm back on the air and I of course had three limbs amputated - I'll let you guess which one I begged them to let me keep. Yeah, that's the right arm - it's the one I use all the time to write my name on checks and —",
+            "I forgot where I was because I was thinking about how my girlfriend just broke up with me. I had a rough night, you know, we made sweet, passionate love but in the morning she told me she was in love with somebody else. Who, you wanna know? My landlord! If anyone has a story worse than this, please call in, because I'm feeling rough today. Let's hear it on the lines: it's 123456789 - that's the number we got today. My social security *and* the number of the station. Let's go! (Alright, people, call. I'm waiting for the lines to light up and they're not lighting up. I see dead air, here. You know, it's all the lines. You know, you're telling me that I had the worst breakup story in the history of all — somebody call in with a worse story than mine!)",
+            "Ok, everybody, we hope you are in love and loving someone right now. We hope you're holding them in your arms and they are holding you and putting their face in your neck.",
+            "Hey, guys, anyone watch tv last night? I know I did. I saw a show about a vampire who made love to a werewolf and, boy, the hair went everywhere and they had a little baby who had the biggest fangs I ever saw. And I've seen some fangs, if you know what I mean. I used to go down to the reptile house down at the zoo and I used to check out all of the boa constrictors and they used to squeeze everyone in my family (all of my family are dead because they went too close into the cage and they all got squeezed by all of the snakes). And then —",
+            "Well I've done it again - yes I did enter into our company's sweepstakes and I won. I know it's illegal but I did win the prize and I'm driving home in a fresh Mazarati. They have to catch me on the streets if they want it back. I love you, America, and the systems we've put into place. This is my favorite country. I know I'm going to be fired so let me say one last thing: i fucking hate my boss (he's a tool, a prick, and doody-doody-doo-doo)",
+            "Hey, everyone, we know that today was a sad, tragic day. But we don't have guinea pigs anymore and that's good, because they, frankly, were cluttering the place up. And by 'the place' I mean planet Earth. Guinea pigs, so long - we won't miss you. Anyway, if you're a kid and you had a pet - you don't, anymore. So time to grow up (and tell your mom I said 'hi').",
+            "Hey, everyone, we all know what this trumpet means: it's time for me to tell you about my tragic, tragic story that happened to me when I was but five years old. That's right: everyone thought I had drowned in a pool but instead it was a big vat of Vaseline. That's right, I was slimy all over - everyone thought I was dead, they pulled me out of there, I was as slippery as anything that you would ever see in your life."
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e130",
+            "title": "The Flintstones Are Extinct"
+        },
+        "startMinute": 40,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": [
+            "ha-ha l.a. input \\ ha-ha l.a. input \\ ha-ha l.a. input \\ threedom \\ goodbye",
+            "keanu reeves impression",
+            "low-slung balls —> class reunion suggestions",
+            "summer camp —> what harry potter spell to teach",
+            "ha-ha la input is wrong"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e131",
+            "title": "Hub-Lublacist"
+        },
+        "startMinute": 57,
+        "list": "Press Junket",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "how long is this interview?",
+            "can you cut it down to 23?",
+            "why did you call me brenda?",
+            "are you in 'men in black'?",
+            "did you say he has to eat four lunches?",
+            "what publication are you with?",
+            "what publicist is she?",
+            "so what, is this seattle?",
+            "it's funny, brenda, that you mention that you have to eat four lunches because i understand you (forgive me if this is impolite) - you are kind of a hungry boy, aren't you?",
+            "new innovations, really (because you seem like a very traditional kind of guy)?",
+            "contraptions?",
+            "electric stirring sticks?",
+            "keep going on this?",
+            "you don't want me to talk about the four lunches?",
+            "glim, did you eat something that you shouldn't have eaten?",
+            "who's doing the interview here?",
+            "who's doing the interview here?",
+            "did you eat something like a tongue or something?",
+            "qvc?",
+            "it triggers, like, a sort of narcoleptic reaction?",
+            "do you have some sort of condition, perhaps?",
+            "is this is something with us talking about, brenda?",
+            "so what people are saying is that you fall asleep watching qvc? (✅)",
+            "and then what i heard is that you ate a guinea pig's butthole (✅)",
+            "every time you throw up you recite the phone book?",
+            "so you ate, like, a cleaning solution?",
+            "you eat menus?",
+            "obviously you want to trust them but you can't always, can you?",
+            "so you have, like, tourette's but it's, like, the phone book?"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e132",
+            "title": "The Bootleg Bug Man"
+        },
+        "startMinute": 35,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": [
+            "mtv's 'the challenge' —> dream reality show",
+            "babies riding dogs that are dressed up like men (as cowboys)",
+            "marriage proposal advice"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e133",
+            "title": "It's MY Birthday Suit!"
+        },
+        "startMinute": 53,
+        "list": "Switch It And Pitch It",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "True Blood —> False Saliva",
+            ,
+            "dylan",
+            "sprouse",
+            "tomato",
+            "krause"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e134",
+            "title": "Simp Lee Marvelous"
+        },
+        "startMinute": 46,
+        "list": "Pitchmanteau",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "crumbeid —>",
+            "messes in your house",
+            "don't kick my wife out of bed for eating crackers",
+            "i sleep on a bed of crumbs",
+            "is this about karate?",
+            "is that a little shrek?",
+            "where'd you think i was gonna sleep?",
+            "for a whole year i'm supposed to be on the couch?",
+            "what do you do on the couch?",
+            "do you have an accent all of a sudden?",
+            "crumbeid",
+            "it's really a small broom that this little shrek could hold",
+            "this shrek will kinda come into your bed and just...sweep up all your crumbs into a little pyramid and then it goes right between the pillows of you and your spouse (or whomever is sharing your bed with you that evening, or nobody)",
+            "what if i have a goomah?",
+            "and then it makes a pyramid and then in the morning you're able to document that for instagram",
+            "so the crumb brush that shrek holds turns the crumbs into a pyramid of crumbs?",
+            "you can instagram it and then show your pyramid (#showyourpyramid)",
+            "and shrek is attached?",
+            "so you haven't invented the pyramid - you've just bought the shrek thing?",
+            "so you haven't invented the brush - you've just bought the shrek?",
+            "so it's a sentient doll that gets sent to your house?",
+            "so he's alive?",
+            "you're an ogre?",
+            "he's doing, like, tibetan [sic] throat singing?",
+            "what? 'moon river'?!",
+            "you're just two lonely simps?",
+            "clear your throat, shrek"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e135",
+            "title": "The Threedom Framily Plan"
+        },
+        "startMinute": 43,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": [
+            "texting the wrong person"
+            ,"very late baby gift"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e135",
+            "title": "The Threedom Framily Plan"
+        },
+        "startMinute": 54,
+        "list": "Dwindling Timeframe",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+"what do you think it's about (because i don't wanna do the whole thing where, like, i then say what it is if you don't know what it is)"
+,"what is is it"
+,"the cook cookie jar"
+,"the one that looks like a cook"
+,"like guy fieri"
+,"so you're really upset because there's cookies missing, is what you're trying to say"
+,"what is this witch hunt"
+,"dillman"
+,"yes, dildo"
+,"how did you hear about the office"
+,"why would you tell her about that, pickleman [sic]"
+how do you know about what happened at work, dildo
+what do you think happened
         ]
     }
 ]
+
+

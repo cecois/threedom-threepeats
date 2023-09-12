@@ -71,12 +71,21 @@
 		]
 	},
 	{
-		"key": "scott-s-journey-with-retail",
+		"key": "scott-s-journey-with-retail-delis",
 		"isMeta": false,
-		"title": "Scott's Journey with Retail",
+		"title": "Scott's Journey with Retail & Delis",
 		"elucidation": "scott learned that delis make especially good sandwiches and now neither he nor pft will shut the fuk up about it",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s4e110",
+					"title": "Glasses Say What?"
+				},
+				"startMinute": 52,
+				"class": "retelling",
+				"tags": ["sandwiches", "delis"]
+			},
 			{
 				"episode": {
 					"key": "s1e16",
@@ -438,6 +447,18 @@
 		"elucidation": "often during the run of threedom, the cast will worry they've yet to shut the fuk up about something but they actually haven't talked about it at all",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s4e103",
+					"title": "Missing Mr. Magoo Memento"
+				},
+				"startMinute": 31,
+				"class": "invertedPremise",
+				"nb": [
+					"ll has a story in her pocket about bryce dallas howard and her (bdh's) ability to cry on command"
+				],
+				"tags": ["bryce dallas howard", "stage crying"]
+			},
 			{
 				"episode": { "key": "s3e72", "title": "Squish Factor" },
 				"startMinute": 43,
@@ -3987,7 +4008,7 @@
 					"key": "s4e110",
 					"title": "Glasses Say What"
 				},
-				"startMinute": 39,
+				"startMinute": 38,
 				"class": "retelling",
 				"tags": ["pets", "neighbors"]
 			}
@@ -4868,7 +4889,7 @@
 				},
 				"startMinute": 8,
 				"class": "retelling",
-				"tags": ["neighbors", "the elderly","violet the neighbor"]
+				"tags": ["neighbors", "the elderly", "violet the neighbor"]
 			}
 		]
 	},
@@ -8874,6 +8895,15 @@
 				"startMinute": 34,
 				"class": "retelling",
 				"tags": ["the proposal (tv)", "reality recap [yeah]"]
+			},
+			{
+				"episode": {
+					"key": "s4e132",
+					"title": "The Bootleg Bug Man"
+				},
+				"startMinute": 39,
+				"class": "retelling",
+				"tags": []
 			}
 		]
 	},
