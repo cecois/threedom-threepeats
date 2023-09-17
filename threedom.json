@@ -449,6 +449,25 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s4e139",
+					"title": "Good Couch, Bad Couch"
+				},
+				"startMinute": 55,
+				"class": "invertedPremise",
+				"nb": [
+					"dave coulier getting a blowjob from alanis morissette - location is questioned, ll suggests she had a mouthful of mashed potatoes"
+				],
+				"tags": ["dave coulier", "alanis morissette"]
+			},
+			{
+				"episode": { "key": "s4e137", "title": "et tu (E.T. 2)" },
+				"startMinute": 55,
+				"class": "invertedPremise",
+				"nb": ["sam neil gets stuck inside pft's tower video"],
+				"tags": ["sam neil"]
+			},
+			{
+				"episode": {
 					"key": "s4e103",
 					"title": "Missing Mr. Magoo Memento"
 				},
@@ -10283,7 +10302,7 @@
 			{
 				"episode": { "key": "s5e175", "title": "3-Chuckies" },
 				"startMinute": 41,
-				"class": "inaugrual",
+				"class": "inaugural",
 				"tags": ["mr. bean"]
 			},
 			{

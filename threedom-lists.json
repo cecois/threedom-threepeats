@@ -7051,10 +7051,7 @@
         "list": "Voicemails",
         "nb": [],
         "listClass": "voicemail",
-        "listItems": [
-            "texting the wrong person"
-            ,"very late baby gift"
-        ]
+        "listItems": ["texting the wrong person", "very late baby gift"]
     },
     {
         "episode": {
@@ -7066,21 +7063,288 @@
         "nb": [],
         "listClass": "threeture",
         "listItems": [
-"what do you think it's about (because i don't wanna do the whole thing where, like, i then say what it is if you don't know what it is)"
-,"what is is it"
-,"the cook cookie jar"
-,"the one that looks like a cook"
-,"like guy fieri"
-,"so you're really upset because there's cookies missing, is what you're trying to say"
-,"what is this witch hunt"
-,"dillman"
-,"yes, dildo"
-,"how did you hear about the office"
-,"why would you tell her about that, pickleman [sic]"
-how do you know about what happened at work, dildo
-what do you think happened
+            "what do you think it's about (because i don't wanna do the whole thing where, like, i then say what it is if you don't know what it is)",
+            "what is is it",
+            "the cook cookie jar",
+            "the one that looks like a cook",
+            "like guy fieri",
+            "so you're really upset because there's cookies missing, is what you're trying to say",
+            "what is this witch hunt",
+            "dillman",
+            "yes, dildo",
+            "how did you hear about the office",
+            "you fell head/face-down into the dumpster, you peed straight up and your hair got caught to the gum at the bottom",
+            "pee-pee sky-sky",
+            "why would you tell her about that, pickleman [sic]"
         ]
+    },
+    {
+        "episode": {
+            "key": "s4e136",
+            "title": "Titanic 3"
+        },
+        "startMinute": 52,
+        "list": "In the Manner of the Word",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "sleepily",
+            "irritatedly (❌)",
+            "exasperatedly (❌)",
+            "annoyed (❌)",
+            "hyperbolic (❌)",
+            "grumpily (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e138",
+            "title": "Boats Come Into Your Life"
+        },
+        "startMinute": 54,
+        "list": "Jitterbug",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "masonry",
+            "strawberry",
+            "air supply",
+            "mccartney (❌)",
+            "broadway show",
+            "medicine",
+            "area",
+            "aspirine",
+            "carpet spray",
+            "astronaut",
+            "morocco",
+            "baseball bat",
+            "baseball team",
+            "juliet",
+            "turnaround",
+            "romeo",
+            "banana split (❌)",
+            "run tell dad",
+            "i'll fist you both/office depot (❌)",
+            "disinfect",
+            "dirty rag",
+            "lightning bug",
+            "lightning crash",
+            "powder the man (❌)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e139",
+            "title": "Good Couch, Bad Couch"
+        },
+        "startMinute": 47,
+        "list": "Celebrity Hunt",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "antonio banderas",
+            "susan sarandon",
+            "natalie portman",
+            "natalie earthman (❌)",
+            "natalie imbruglia",
+            "angelina jolie",
+            "ed norton",
+            "nick nolte",
+            "edward scissorhands (❌)",
+            "elen degeneres",
+            "smith, will (❌)",
+            "hugh grant",
+            "tim burton",
+            "natalie portman",
+            "nicolas cage",
+            "edward albee",
+            "alan alda (❌)",
+            "eric stoltz",
+            "zoolander (❌)",
+            "zendaya",
+            "alice walker",
+            "rebecca romijn",
+            "nate berkus",
+            "sean connery",
+            "yoland hadid",
+            "dina lohan",
+            "nathan fielder",
+            "richard wright",
+            "tito jackson",
+            "nia long",
+            "gregory peck",
+            "jeffrey wright",
+            "tia carrere",
+            "eric person (❌)",
+            "eric stonestreet",
+            "trisha yearwood",
+            "donald duck (❌)",
+            "donald trump",
+            "penelope cruz",
+            "zendaya",
+            "alice cooper",
+            "randy newman",
+            "nathan (❌)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e140",
+            "title": "Honey Bee Same as Bumble Me?"
+        },
+        "startMinute": 40,
+        "list": "Actor's Nightmare",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "angels in america —>",
+            "you see what i mean, martin - he's special, right?",
+            "we've seen that kind of thing before, haven't we (these men and their wives)?",
+            "now?",
+            "now?",
+            "and fedex said they tried to deliver a monkey to you but you weren't home?",
+            "why, martin?",
+            "what do you see [the law] as?",
+            "who is it?",
+            "i'm what, martin, i'm sort of filthy little troll?",
+            "can we just go to dinner?",
+            "what are you fucking talking about?",
+            "would you excuse us, martin?",
+            "was this your husband?",
+            "are you trying to embarrass me in front of my friend?",
+            "what the fuck do you think this is - sunday school?",
+            "if joe thought it was sunday school, why would you curse in front of him?",
+            "and you think you're what?",
+            "above that?",
+            "what is this - sphincter says 'what'?",
+            "how hard could it be?",
+            "american buffalo —>",
+            "what are you doing here, bob?",
+            "what?",
+            "the diamonds?",
+            "were you at the riv?",
+            "is fletch over there?",
+            "why were you at the riv without my permission?",
+            "teach was there?",
+            "what the fuck does that mean?",
+            "and you just hang on to the back of the mullet?",
+            "what date is it?",
+            "come on, bobby, what's important in a coin?",
+            "what do you want for the coin?",
+            "should i distract him?",
+            "am i a sucker?",
+            "what are we talking about here?",
+            "the silver is maybe 3x face, you want fifteen cents for it?",
+            "ok, what do you want for it?",
+            "where did you learn magic?",
+            "what, are we talking 'the bible'?",
+            "what do you need?",
+            "what do you need, bob?",
+            "take us to jail, ok, horace?",
+            "what was your name again - 'rivington'?",
+            "teach, and me, and fletcher - what time is it?",
+            "what fucking time is it?",
+            "do you know what time it is?",
+            "your watch broke?",
+            "when did your watch break?",
+            "so you had it for 364 days and it just broke?",
+            "are you high right now?",
+            "you're horny and angry?",
+            "are you talking to teach on the phone right now?",
+            "horace, do you sleep in this room?",
+            "who - teach?",
+            "like the empire?",
+            "jerry graff - is he the guy, he's, like, really short?",
+            "so you never took anything (not even one free hot dog)?",
+            "you want me to fight him?",
+            "don't i have a say in whether or not he fights me?",
+            "you want me to fight the ledes?",
+            "no i'm doing it?",
+            "you want us to kidnap them?",
+            "it seems like you're going to the movies and we're supposed to kidnap mitch & murray and then you need an alibi?",
+            "we're gonna rob the backstage 'funny girl' revival of all their props?"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e141",
+            "title": "Topher McGrace"
+        },
+        "startMinute": 47,
+        "list": "Play It Again",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "serendipity —>",
+            "he wrote his name on $5 bills and just left them lying around the house",
+            "instead of revisiting these characters — taking years to catch them at various points in their life — it's one 24-hour movie",
+            "and it's 24 hours after their wedding",
+            "not a lot happens during the day",
+            "and they're sleeping for eight hours of [the day]",
+            "it's uncanny that the filmmakers seemed to know when you, the audience member, would be dropping off to sleep because loud noises start blaring",
+            "these characters can't hear this",
+            "this is the first film that truly answers the question: is there a happily ever after?",
+            "this film takes care of that in a really interesting way",
+            "it's all new actors playing the roles - they look nothing like the original cast",
+            "there's a difference in ages of about 40 years",
+            "they're all birds",
+            "the actors playing the parents were also playing the children",
+            "and [they] spank themselves",
+            "i liked how it was called 'serentwopity' but i feel like it could have been 'serentoucanpity'",
+            "also 'saringastoucanpithy'",
+            "i thought a good title would be 'serengetitipity' if it had been all lions instead of birds",
+            "one scene, in the middle, the actors' understudies played the parts",
+            "i thought it should be called 'serengetitipitytinitus'",
+            "the execution in the scene in the middle - the execution scene",
+            "it was gross and he didn't really die",
+            "they gave him his last meal and he wanted ice cream and i thought \"ok, am i gonna watch him eat a gallon of ice cream? really? he's a bird?\"",
+            "so when they behead him in the guiotinne, then the ice cream spills out the neck?",
+            "and then another bird starts eating it?",
+            "it was also store-brand ice cream, which i thought was a real slap in the face",
+            "it was kroger",
+            "why didn't they turn the cameras on?",
+            "it was all supposed to be audio",
+            "cuz you could hear them go, 'should we turns these on?'",
+            "what was the point of the polaroids, then?",
+            "they didn't edit that out",
+            "they desecribed the ice cream pouring out of his neck, and that point - some of it was too a little too descriptive",
+            "it was the director's voice at the very beginning saying \"this is what happens in the movie - you'll have to take my word for it\"",
+            "and he talks for, like, three of the 24 hours - describes all of the 24 hours and then we just sit there in silence and black",
+            "5 stars",
+            "27 fork-spoons (not sporks) with a side of potatoes",
+            "B like billy bathgate"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e142",
+            "title": "Balling My Eyes Out"
+        },
+        "startMinute": 42,
+        "list": "Skip 5 Seconds",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "koalas in the city centre —>",
+            "i didn't like when you just talked about having chlamydia because it made sure that nobody wanted to have sex with you",
+            "i cannot believe you just called me that",
+            "anyway, i thought it was really strange you just kissed me right then (you have chlamydia - i don't want it)",
+            "long story short: i feel like it's very clear that we don't want koalas in the city centre - they're causing much havoc and they're completely unruly and they should be in conservatories",
+            "plastic bags on the surface of the ocean —>",
+            "it's keeping down the population of these apex predators",
+            "the lincoln assassination is a direct result of these creatures",
+            "and that's what i mean, because when you see that go down you understand the point"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e143",
+            "title": "I Want Cold Cuts!"
+        },
+        "startMinute": 43,
+        "list": "Name That ABC",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": []
     }
 ]
-
-
