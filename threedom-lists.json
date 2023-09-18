@@ -7345,6 +7345,145 @@
         "list": "Name That ABC",
         "nb": [],
         "listClass": "threeture",
+        "listItems": [
+            "(pft) ABC",
+            "poker face (❌)",
+            "(scott) poker face (✅)",
+            "rio (❌)",
+            "(scott) piano man (✅)",
+            "(pft) poison arrow (✅)",
+            "(pft) she drives me crazy (✅)",
+            "(scott) desperado (✅)",
+            "born in east l.a. (❌)",
+            "(pft) i love rocky road (✅)",
+            "(scott) like a surgeon (❌)",
+            "holla back girl (❌)",
+            "my neck my back (lick it) (❌)",
+            "(scott) with a little help from my friends (✅)",
+            "(ll) star spangled banner (✅)",
+            "(ll) ghostbusters (✅)",
+            "(pft) the alphabet (✅)",
+            "(scott) jingle bells (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e144",
+            "title": "Matrix is My Doo-Dah Bones"
+        },
+        "startMinute": 40,
+        "list": "listener questions",
+        "nb": [],
+        "listClass": "inline",
+        "listItems": [
+            "if you could have one skill injected in your head (like in the matrix) what would it be?",
+            "let's say that after you die you get to live out one day with any person from any time that you'd like (being john malkovich rules apply) and if pick someone that speaks another language you automatically know and understand that language and then after this day is done you get eternal nothingness - who do you pick and when do you pick?"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e144",
+            "title": "Matrix is My Doo-Dah Bones"
+        },
+        "startMinute": 54,
+        "list": "Count Your Words",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "hello, my good friends - it's so hot",
+            "i can't believe how hot it is - i'm dying",
+            "yeah, for sure",
+            "are you wearing a sweater, paul f.?",
+            "i'll answer for him: he is wearing a sweater",
+            "yes i am",
+            "take it off, then, because it's hot",
+            "it's hot, sure, but he can wear whatever...chooses",
+            "'whatever chooses' - that doesn't make sense, either",
+            "let him speak - he hasn't had a chance, yet",
+            "he just spoke - are you not listening?",
+            "i am listening, look - i have something i wanna—",
+            "hey, shut up",
+            "say, the way the world is working is bad",
+            "things are bad in the world, yes",
+            "they sure are",
+            "i want to make a change, i want peace",
+            "okay, kill yourself then, it'll take care",
+            "hey, that's rude",
+            "no, he's right - i'll do that, i think that's —",
+            "what i was talking about - oh no!",
+            "oh no, lauren!",
+            "goodbye, sweet princess, it's been so nice",
+            "one last thing i want to say is: never continue threedom without me, it won't be same",
+            "we promise to only do episodes with two—",
+            "well i don't",
+            "she's dead, scott",
+            "so we should still do the show",
+            "yes, of course",
+            "ok, bye - i'm going to bed now",
+            "bye bye, you",
+            "eternal bed - i'm joing lauren as well",
+            "no, you too?",
+            "me too - goodbye forever (goodbye, goodbye, goodbye)",
+            "hashtag me too?",
+            "#metoo - goodbye, goodbye, goodbye, goodbye",
+            "wow, just me"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e145",
+            "title": "Lauren's Topics Presents: Scott's Topics"
+        },
+        "startMinute": 63,
+        "list": "Noah's Ark: Mythical Creature Edition",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "flupe: a manatee with an extra-long penis and five legs and a narwhalian horn",
+            "gypsum: an eel/centaur combo"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e146",
+            "title": "I Hope Everyone's A Mummy"
+        },
+        "startMinute": 54,
+        "list": "Hey Fred Schneider",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "putting some ketchup on my hotting dog",
+            "going to the dentist for my free cleaning",
+            "i'm going to open up my own chase bank",
+            "walking down the street like a chicken with a head",
+            "trying to learn the rules of baseball so i can play",
+            "test-driving cars with no roofs",
+            "going off to finland - the land of the finns",
+            "pouring ketchup on my dear wife",
+            "countin' the feathers in my new pillow",
+            "going to the beach and looking at a crab",
+            "buying twitter for $44M",
+            "paying my fee to be verified",
+            "storming the capitol with some good friends",
+            "catching a leprachaun and squeezing the life out of him",
+            "catching a goose and squeezing the life out of him",
+            "catching a bigfoot and becoming friends",
+            "shaving off my hair and realizing i'm the bigfoot",
+            "adjusting my pants til they fit real tight",
+            "sending a valentine to dracula",
+            "ending this song right now"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e147",
+            "title": "Is the Nibbler Here?"
+        },
+        "startMinute": 50,
+        "list": "Word Alley Oop!",
+        "nb": [],
+        "listClass": "threeture",
         "listItems": []
     }
 ]
