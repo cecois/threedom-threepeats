@@ -2,12 +2,12 @@
     {
         "episode": {
             "key": "s1e1",
-            "title": "This Was a Mistake"
+            "title": "This Was A Mistake"
         },
         "startMinute": 49,
         "list": "Ha Ha Ha - I Gotta Go",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "i thought you were saying 'i always follow the map'",
             "i have to go over...",
@@ -18,7 +18,7 @@
     {
         "episode": {
             "key": "s1e1",
-            "title": "This Was a Mistake"
+            "title": "This Was A Mistake"
         },
         "startMinute": 49,
         "list": "Discarded Podcast Titles",
@@ -83,7 +83,7 @@
         "startMinute": 54,
         "list": "Duck, Mary, Kiss",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Donald",
             "Simmons",
@@ -138,7 +138,7 @@
         "startMinute": 36,
         "list": "Switch It and Pitch It",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Family Matters —> Friend Anti-matters",
             "Ranjo",
@@ -159,7 +159,7 @@
         "startMinute": 43,
         "list": "Vaguely-Described Movies",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "A Christmas Story —>",
             "winter's cold",
@@ -205,7 +205,7 @@
         "startMinute": 41,
         "list": "Hypertheticals",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "You are offered a brain pill...",
             "Think of someone who is your friend...",
@@ -215,12 +215,12 @@
     {
         "episode": {
             "key": "s1e7",
-            "title": "Stop Making it Plural"
+            "title": "Stop Making It Plural"
         },
         "startMinute": 39,
         "list": "Celebrity Hunt",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Dolores O'Riordan",
             "Ricky Martin",
@@ -285,7 +285,7 @@
         "startMinute": 51,
         "list": "Press Conference",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "I wanted to know...is it true you have...",
             "Are you a puppet?",
@@ -319,7 +319,7 @@
         "startMinute": 44,
         "list": "Christmas Find Out Who Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "never had a white christmas",
             "celebrated their birthday in another country",
@@ -341,7 +341,7 @@
         "startMinute": 43,
         "list": "32 Toothless Vegetables",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "tomato",
             "avocado",
@@ -367,7 +367,7 @@
         "startMinute": 52,
         "list": "How Do You Doo?",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Hey Jude",
             "Star Spangled Banner",
@@ -394,7 +394,7 @@
         "startMinute": 48,
         "list": "React and Act",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "discovering a viper under your bed",
             "seeing your favorite celebrity on the street",
@@ -409,7 +409,7 @@
         "startMinute": 50,
         "list": "Ha Ha Ha - I Gotta Go",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "do you know you're here?",
             "go on",
@@ -433,7 +433,7 @@
         "startMinute": 56,
         "list": "The Commercial Jingles Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "gimme a break - kitkat",
             "keys on van nuys",
@@ -458,12 +458,12 @@
     {
         "episode": {
             "key": "s1e14",
-            "title": "This From Bat Boy"
+            "title": "This From Bat Boy?"
         },
         "startMinute": 49,
         "list": "The Minister's Cat",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "antsy",
             "antagonistic",
@@ -505,7 +505,7 @@
         "startMinute": 52,
         "list": "The Laughing Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "ha",
             "ha - i'm so sorry (❌)",
@@ -550,10 +550,10 @@
         "startMinute": 41,
         "list": "Switch It and Pitch It",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Quantum Leap —> Short Stand",
-            "Buck Rogers in the 25th Century —> Penny Hammerstein on the Fiftieth Anniversay"
+            "Buck Rogers in the 25th Century —> Penny Hammerstein on the Fiftieth Anniversary"
         ]
     },
     {
@@ -564,7 +564,7 @@
         "startMinute": 47,
         "list": "Carnelli",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "slaughterhouse five",
             "five easy pieces",
@@ -612,7 +612,7 @@
         "startMinute": 45,
         "list": "21 Questions",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "living thing",
             "mineral",
@@ -707,12 +707,12 @@
     {
         "episode": {
             "key": "s1e18",
-            "title": "What are You, a 3 Amigo!"
+            "title": "What are You, a 3 Amigo?!"
         },
         "startMinute": 48,
         "list": "Switch It and Pitch It",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Top Gun —> Bottom Sword",
             "is this a gay film?",
@@ -736,12 +736,12 @@
     {
         "episode": {
             "key": "s1e19",
-            "title": "My Secret Visitors..."
+            "title": "My Secret Visitors…"
         },
         "startMinute": 37,
         "list": "Hey Fred Schneider",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "frying an egg with a beggie weh",
             "trying to get my seat bumped up to first class",
@@ -768,12 +768,12 @@
     {
         "episode": {
             "key": "s1e19",
-            "title": "My Secret Visitors..."
+            "title": "My Secret Visitors…"
         },
         "startMinute": 37,
         "list": "High Low There",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "so what are your plans for your birthday?",
             "well i was going to go out to a restaurant with friends",
@@ -820,7 +820,7 @@
         "startMinute": 44,
         "list": "We 2 Not U",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "have you ever had a cat?",
             "have you had a dog?",
@@ -882,7 +882,7 @@
         "startMinute": 44,
         "list": "What Am I Thinking?",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "blue,pen,drugs",
             "heroin,walter white,drugs",
@@ -936,7 +936,7 @@
         "startMinute": 32,
         "list": "The Genie Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "that i would get to go on a vacation for my entire life —> lauren's in a coma",
             "world peace —> the world is in pieces",
@@ -952,7 +952,7 @@
         "startMinute": 40,
         "list": "Intriguing Uplifting Tales of The Devilish Sunshine Lovers",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Thereby it shouldn't have sung so evilly. Once upon a time there occurred happy things. Not sad things. Until a lover died. Because she asphyxiated a grape ape. Joyously, she intensified her ardor until she gasped, dying - wishing, hoping, praying that he couldn't not return but he didn't. Thereby, however, hangs necks. Delicious, delicious turkey necks. Gobble the gobble. And when you have to smile a smile do you not smile the smile you want? No. You don't ever smile the smile you want. You have to murder teeth. Or else you won't get dental insurance. The only way you can try to get dental insurance is to marry a doctor. Are you a doctor? Because I want to marry you. Please marry me if you are a doctor. And scene. But, moreoever, when a little guy chances his luck then he has to take his chances. Little girls never make good pets. You have to put them in a box. Trapped under the staircase like that mommy-loving guy who we know and love from the Harry and hirsuite Potter. Who made a fortune making movies about pots. Hey, I wonder if you ever were to reply to my emails because I missed a few when I ate a poison gum. And I shouldn't have eaten that gum because it tasted like poison. Oh well. That's showbiz! Hey, come into my window. I want to show you how to make an orange soda in a bathtub. Concluding the story, I wish I could murder you again. You are dead. The end?"
         ]
@@ -965,7 +965,7 @@
         "startMinute": 49,
         "list": "What Am I Thinking?",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "please,knee",
             "brace,blow",
@@ -1016,7 +1016,7 @@
         "startMinute": 51,
         "list": "Memory Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "natalie portman",
             "carey grant",
@@ -1025,14 +1025,14 @@
             "melissa rivers",
             "peter o'toole",
             "laurence fishburne",
-            "john wilkes boothe",
+            "john wilkes booth",
             "gabrielle union",
             "jerry springer",
             "oprah winfrey",
             "alexander hamilton",
             "napolean bonaparte",
             "harriet tubman",
-            "john wilkes boothe",
+            "john wilkes booth",
             "martin luther king jr.",
             "john f. kennedy (jr)",
             "lyndon baines johnson"
@@ -1046,7 +1046,7 @@
         "startMinute": 42,
         "list": "One Word Impressions",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "porn",
             "porn",
@@ -1103,7 +1103,7 @@
         "startMinute": 37,
         "list": "Pitch a Sit Song",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "smells like teen spirit —>",
             "his name is 'smells'?",
@@ -1158,7 +1158,7 @@
         "startMinute": 42,
         "list": "Monologue Thief",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "I was born on the fourth of July but it wasn't even in America, so nobody knew to celebrate it in just the right way. With fireworks - bing, bang boom, everything going off around me. I couldn't even believe that was my mother's pussy pushing me straight out onto the loading dock.",
             "I'll never forget the first sight I saw - the Statue of Liberty. She leaned down to me and said 'happy birthday - i got you something.' It wasn't what I expected. It was a beautiful jigsaw puzzle (over ten pieces)",
@@ -1189,7 +1189,7 @@
         "startMinute": 2,
         "list": "Ha Ha Ha - I Gotta Go",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "i wanted to go grab a drink, i hope that's ok",
             "ow, ow, ow - i got a cramp in my thigh, i gotta go to the bathroom",
@@ -1205,7 +1205,7 @@
         "startMinute": 8,
         "list": "Duck, Mary, Kiss",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": ["McDonnell"]
     },
     {
@@ -1216,7 +1216,7 @@
         "startMinute": 10,
         "list": "Switch It and Pitch It",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Head of the Class —> Bottom of the Phylum",
             "what, am i watching the big short?",
@@ -1253,7 +1253,7 @@
         "startMinute": 21,
         "list": "Vaguely-Described Movies",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Back to the Future —>",
             "early, early morning",
@@ -1300,7 +1300,7 @@
         "startMinute": 41,
         "list": "Celebrity Hunt",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "amanda seyfried",
             "david duchovny",
@@ -1325,7 +1325,7 @@
         "startMinute": 43,
         "list": "Press Conference",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "How do you feel about your new project?",
             "Are your hours much better now?",
@@ -1341,7 +1341,7 @@
         "startMinute": 44,
         "list": "Christmas Find Out Who Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "can burp the jingle bells",
             "has received socks for christmas",
@@ -1360,7 +1360,7 @@
         "startMinute": 50,
         "list": "32 Toothless Vegetables",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "strawberry",
             "celery",
@@ -1384,7 +1384,7 @@
         "startMinute": 52,
         "list": "How Do You Doo?",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "1999",
             "the christmas song",
@@ -1402,7 +1402,7 @@
         "startMinute": 55,
         "list": "Hot Spot",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "train —>",
             "drops of jupiter",
@@ -1424,7 +1424,7 @@
         "startMinute": 57,
         "list": "The Minister's Cat",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "albino",
             "beautiful",
@@ -1450,7 +1450,7 @@
         "startMinute": 58,
         "list": "The Laughing Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "ha",
             "ha ha",
@@ -1478,7 +1478,7 @@
         "startMinute": 60,
         "list": "Carnelli",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "a tale of two cities",
             "city of angels",
@@ -1499,7 +1499,7 @@
         "startMinute": 62,
         "list": "21 Questions",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "animal, vegetable, mineral?",
             "does it have fur?",
@@ -1533,7 +1533,7 @@
         "startMinute": 66,
         "list": "Hey Fred Schneider",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "going to the market to pick up supplies",
             "driving back home and saying 'hi' to my wife",
@@ -1562,7 +1562,7 @@
         "startMinute": 69,
         "list": "We 2 Not U",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "do you know how to drive stickshift?",
             "did you ever have a pet lizard or chameleon?",
@@ -1587,7 +1587,7 @@
         "startMinute": 71,
         "list": "Romance, Uplifting, Scary",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Sexily, it inspired deep fear in groins. From heaven underneath mommy's memorial sheets that came hard. Scarily, I came underground where, writhingly, it appeared inside the orifice internally. Then nothing came out. Oh fuck! Goodbye."
         ]
@@ -1600,7 +1600,7 @@
         "startMinute": 74,
         "list": "One Word Impressions",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": ["stella! (✅)", "crook (✅)", "here's (✅)"]
     },
     {
@@ -1611,7 +1611,7 @@
         "startMinute": 74,
         "list": "Pitch a Sit Song",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": ["and you've created a song for this?"]
     },
     {
@@ -1622,7 +1622,7 @@
         "startMinute": 75,
         "list": "Pitch a Sit Song",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "I remember it like it was yesterday. It was - it was yesterday, actually, now that I think about it. I look at my calendar and I see it was yesterday, the way it went down. Then I tear the page off it's a new day and I'm like 'that was two days ago now.' Flashback to: a million years ago. The dinosaurs roamed the earth. I was born out of a frog's ass. It was not pleasant and I didn't like it, but your mom is your mom - what are you gonna do? I still love her, I don't know what to say. All she says to me is 'ribbit, ribbit, ribbit.' But when I licked her top I got all high. I still remember seeing all the sights and sounds of highdom. The end."
         ]
@@ -1635,7 +1635,7 @@
         "startMinute": 75,
         "list": "What Am I Thinking?",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "tissues,nut,earlobes",
             "masturbate,q-tip,cumming",
@@ -1658,7 +1658,7 @@
         "startMinute": 47,
         "list": "No to No",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "are you a man?",
             "do you like your age?",
@@ -1714,7 +1714,7 @@
         "startMinute": 60,
         "list": "Remember What to Pack",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "Milwaukee —>",
             "suitcase",
@@ -1755,7 +1755,7 @@
         "startMinute": 48,
         "list": "How's Yours?",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "dvd player —>",
             "it opens and shuts",
@@ -1803,7 +1803,7 @@
         "startMinute": 40,
         "list": "21",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "1==poop",
             "5==cock a-doodle-doo",
@@ -1826,7 +1826,7 @@
         "startMinute": 48,
         "list": "Remember What to Pack",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "potato",
             "quilt",
@@ -1859,7 +1859,7 @@
         "startMinute": 41,
         "list": "The Movie Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "(the original) hairspray",
             "divine",
@@ -1900,7 +1900,7 @@
         "startMinute": 48,
         "list": "One Word Impressions",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "medicine",
             "medicine",
@@ -1983,7 +1983,7 @@
         "startMinute": 50,
         "list": "Carmela & Livia",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "i love your long pony tail",
             "i really wanted to say that i saw 'bojack horseman' the other day and you were so funny in it",
@@ -1999,7 +1999,7 @@
         "startMinute": 46,
         "list": "M*A*S*H",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "house: house",
             "spouse: cush jumbo",
@@ -2029,7 +2029,7 @@
         "startMinute": 49,
         "list": "The Initial Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "K.C. —>",
             "does this guy have some sort of a sunshine band?",
@@ -2098,7 +2098,7 @@
         "startMinute": 0,
         "list": "The Initial Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "...M.G. —>",
             "is this person dead?",
@@ -2116,7 +2116,7 @@
         "startMinute": 54,
         "list": "Fortunately/Unfortunately",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "F - pitch perfect was on tv",
             "U - it was at the very end and the credits started rolling",
@@ -2154,7 +2154,7 @@
         "startMinute": 50,
         "list": "The Genie Game",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "never in my life again...do i have to go, like who's-gonna-go-which-way with someone on the street or wait my turn at a stop sign —> you will never ever have to wonder who will go first on the street because you are confined to a wheelchair and everyone will get out of your way (❌)",
             "to go down the street and never have that thing where you're, like, oh-who's-going-this-way; and also when i'm in a car i don't wanna go who's-turn-is-it at the stop sign and have to go uh-uh-uh —> you'll never have to worry about that again because the other people will always just walk right into you; they won't give a shit; they're just gonna body-check you no matter how many times you try to deke and get out of the way they're just gonna plow right through like you're not even there; and same thing with the cars - you are gonna try to make a turn and they're just gonna go cut you right off every single time; but you'll never have to wonder about it again!",
@@ -2170,7 +2170,7 @@
         "startMinute": 51,
         "list": "Celebrity Hunt",
         "nb": [],
-        "listClass": "threeature",
+        "listClass": "threeture",
         "listItems": [
             "parker posey",
             "yasmine bleeth",
@@ -2812,7 +2812,7 @@
     {
         "episode": {
             "key": "s3e54",
-            "title": "Tickets to Christmas"
+            "title": "Tickets To Christmas"
         },
         "startMinute": 49,
         "list": "One, Three, Five",
@@ -4081,7 +4081,7 @@
     {
         "episode": {
             "key": "s3e73",
-            "title": "You're a Ghost, I'm a Ten"
+            "title": "You're A Ghost, I'm Ten"
         },
         "startMinute": 57,
         "list": "The Picnic Game",
@@ -4494,7 +4494,7 @@
     {
         "episode": {
             "key": "s5e182",
-            "title": "Hanging Like a Chad"
+            "title": "Hanging Like A Chad"
         },
         "startMinute": 36,
         "list": "Five Second Rule",
@@ -4561,7 +4561,7 @@
     {
         "episode": {
             "key": "s5e183",
-            "title": "Rashmi Amadeus"
+            "title": "Rashmi Amademus"
         },
         "startMinute": 40,
         "list": "Rated Scenes",
@@ -4620,7 +4620,7 @@
     {
         "episode": {
             "key": "s3e82",
-            "title": "Computer Says What"
+            "title": "Computer Says What?"
         },
         "startMinute": 60,
         "list": "Alphabet Skip",
@@ -5834,7 +5834,7 @@
     {
         "episode": {
             "key": "s4e108",
-            "title": "To and Fro"
+            "title": "To And Fro"
         },
         "startMinute": 51,
         "list": "Hot Bench",
@@ -6996,7 +6996,6 @@
         "listClass": "threeture",
         "listItems": [
             "True Blood —> False Saliva",
-            ,
             "dylan",
             "sprouse",
             "tomato",
@@ -7729,9 +7728,9 @@
         "nb": [],
         "listClass": "voicemail",
         "listItems": [
-            "worst date"
-            ,"endangered species"
-            ,"cuckoo clock ownershop"
+            "worst date",
+            "endangered species",
+            "cuckoo clock ownershop"
         ]
     },
     {
@@ -7744,60 +7743,60 @@
         "nb": [],
         "listClass": "threeture",
         "listItems": [
-        	"the first concert scott attended was for what band?"
-        	,"george michael (❌)"
-        	,"itzhak perlman (❌)"
-        	,"oingo boingo"
-        	,"scott has had is hair permed once in his life - why did he get that perm?"
-        	,"for a play (✅)"
-        	,"oklahoma! (✅)"
-        	,"scott and the writers on the cbb! television show were forbidden from writing any sketches that featured what animal?"
-        	,"cow (❌)"
-        	,"snake (✅)"
-        	,"scott once visited a store in santa monica called 'beads and things' - what were the things?"
-        	,"records (❌)"
-        	,"umbrellas (❌)"
-        	,"pool tables"
-        	,"the first time the croc fairy visited scott she left him a jibbitz that looked like what?"
-        	,"fries (❌)"
-        	,"baby yoda (✅)"
-,"the first concert lauren attended was for what band?"
-,"dave matthews (you were under the bridge when they poured that shit on you) (❌)"
-,"*nsync (❌)"
-,"dispatch"
-,"in 1997 lauren and her friends bought tickets to the mr. bean movie, 'bean' in order to sneak into what r-rated movie?"
-,"pulp fiction (❌)"
-,"legends of the fall (❌)"
-,"scream"
-,"while in college, lauren and her roommate were informed via a note on their door that they had won what prestigious dormatory award?"
-,"cleanest room (✅)"
-,"cleanest room (✅)"
-,"when lauren and her friend tried to go swimming in the shower what did they use to cover the drain?"
-,"duct tape (❌)"
-,"towels (❌)"
-,"phone book"
-,"what was the first movie lauren watched with her daughter?"
-,"encanto (✅)"
-,"moana (❌)"
-,"the first concert paul attended was for what band?"
-,"devo (❌)"
-,"jim croce (❌)"
-,"squeeze"
-,"paul's first serious girlfriend, laurie, worked in a toy shop with what punny name?"
-,"wind me up (❌)"
-,"toys not in the belfry (❌)"
-,"the last woundup"
-,"according to paul's 5th-grade music teacher, a song cannot be a rock 'n roll song unless it includes what instrument?"
-,"saxophone (✅)"
-,"drums (❌)"
-,"paul was the president of a 4-member club headquartered in his childhood basement - what was the name of the club?"
-,"kool kids klub (❌)"
-,"world's biggest dumbshits (❌)"
-,"shangri-la 2"
-,"when paul played 'jigger' in a production of carousel what offensive phrase did he use to insult the character of julie?"
-,"old whore (❌)"
-,"whore (❌)"
-,"wobbly-hipped slut"
+            "the first concert scott attended was for what band?",
+            "george michael (❌)",
+            "itzhak perlman (❌)",
+            "oingo boingo",
+            "scott has had is hair permed once in his life - why did he get that perm?",
+            "for a play (✅)",
+            "oklahoma! (✅)",
+            "scott and the writers on the cbb! television show were forbidden from writing any sketches that featured what animal?",
+            "cow (❌)",
+            "snake (✅)",
+            "scott once visited a store in santa monica called 'beads and things' - what were the things?",
+            "records (❌)",
+            "umbrellas (❌)",
+            "pool tables",
+            "the first time the croc fairy visited scott she left him a jibbitz that looked like what?",
+            "fries (❌)",
+            "baby yoda (✅)",
+            "the first concert lauren attended was for what band?",
+            "dave matthews (you were under the bridge when they poured that shit on you) (❌)",
+            "*nsync (❌)",
+            "dispatch",
+            "in 1997 lauren and her friends bought tickets to the mr. bean movie, 'bean' in order to sneak into what r-rated movie?",
+            "pulp fiction (❌)",
+            "legends of the fall (❌)",
+            "scream",
+            "while in college, lauren and her roommate were informed via a note on their door that they had won what prestigious dormatory award?",
+            "cleanest room (✅)",
+            "cleanest room (✅)",
+            "when lauren and her friend tried to go swimming in the shower what did they use to cover the drain?",
+            "duct tape (❌)",
+            "towels (❌)",
+            "phone book",
+            "what was the first movie lauren watched with her daughter?",
+            "encanto (✅)",
+            "moana (❌)",
+            "the first concert paul attended was for what band?",
+            "devo (❌)",
+            "jim croce (❌)",
+            "squeeze",
+            "paul's first serious girlfriend, laurie, worked in a toy shop with what punny name?",
+            "wind me up (❌)",
+            "toys not in the belfry (❌)",
+            "the last woundup",
+            "according to paul's 5th-grade music teacher, a song cannot be a rock 'n roll song unless it includes what instrument?",
+            "saxophone (✅)",
+            "drums (❌)",
+            "paul was the president of a 4-member club headquartered in his childhood basement - what was the name of the club?",
+            "kool kids klub (❌)",
+            "world's biggest dumbshits (❌)",
+            "shangri-la 2",
+            "when paul played 'jigger' in a production of carousel what offensive phrase did he use to insult the character of julie?",
+            "old whore (❌)",
+            "whore (❌)",
+            "wobbly-hipped slut"
         ]
     },
     {
@@ -7810,22 +7809,22 @@
         "nb": [],
         "listClass": "threeture",
         "listItems": [
-,"this is the filthy alcoholics meeting"
-,"a bath was given to me"
-,"what, do you have man-servants?"
-,"alright, everyone, we're going to have our seats now"
-,"i thought i was in charge"
-,"my name is...i'm not going to tell you"
-,"uh-oh, you're late"
-,"i'm sorry, a huge thundercloud erupted right above me"
-,"ok, so you're both bradley's parents, right?"
-,"of course we're bradley's parents"
-,"i'm bradley's mother"
-,"and i'm bradley's other mother"
-,"that's great - i love a lesbian couple"
-,"we're not a couple"
-,"oh, you broke up?"
-,"well i've never seen anyone walk in on a pogo stick"
+            "this is the filthy alcoholics meeting",
+            "a bath was given to me",
+            "what, do you have man-servants?",
+            "alright, everyone, we're going to have our seats now",
+            "i thought i was in charge",
+            "my name is...i'm not going to tell you",
+            "uh-oh, you're late",
+            "i'm sorry, a huge thundercloud erupted right above me",
+            "ok, so you're both bradley's parents, right?",
+            "of course we're bradley's parents",
+            "i'm bradley's mother",
+            "and i'm bradley's other mother",
+            "that's great - i love a lesbian couple",
+            "we're not a couple",
+            "oh, you broke up?",
+            "well i've never seen anyone walk in on a pogo stick"
         ]
     },
     {
@@ -7838,43 +7837,43 @@
         "nb": [],
         "listClass": "threeture",
         "listItems": [
-"i'm standing at the corner store \\ when i'm hungry i ask for \\ drinkin' water's what i do all day \\ that's— (❌)"
-,"my favorite thing to sing's a song \\ you may think i'm right - you know you are right \\ i— (❌)"
-,"last night i had the strangest dream \\ when i'm scared i want to cry \\ that's why i go to a therapist \\ did you ever read stephen king's 'it'?"
-,"i like to listen to, uh, music (❌)"
-,"my favorite clothing is my pants \\ when i have a picnic i see a penguin \\ did you ever have a stale sandwich? \\ i hate my mom, she's a stupid ho \\ seriously, my mom really sucks \\ i think i look good in a tuxedo"
-,"i want to go to the beach \\ should i have all of 'em - ok \\ i like a quarter, i like a dime \\ when i'm running late i take my myst"
-,"i am looking at the sun \\ aw, fuck— (❌)"
-,"you know i love my sweet little doggie"
-,"the weather outside is kind of misty"
-,"i went to a concert show"
-,"when my friend asked me i said, 'okay'"
-,"i like to look at a picture frame"
-,"my lion here is very fierce"
-,"seriously, take a look at my lion"
-,"if you can't see it then you're not even making an effort"
-,"what do i do when i don't know what?"
-,"i think i'll go poop out of my penis"
-,"i got a phone call on my phone"
-,"please go away and leave me be"
-,"seriously, please don't call the cops"
-,"i'll see you at 'top of the charts'"
-,"i am leaning in my chair"
-,"i took off my hat and i didn't find my ears"
-,"some people say that the sun is hot"
-,"and i am lying, no i'm — yes i am"
-,"what am i gonna have for dinner: pizza (❌)"
-,"she winked and then was gone"
-,"i hope you like my little ditty"
-,"i went to the zoo and saw a horse"
-,"when my friend asked me how it was i said 'it was fine'"
-,"sittin' inside a cardboard box"
-,"i like that little red-tailed otter"
-,"when i asked if i should i said \"i ought'r\""
-,"my favorite show is 'welcome back to that old teacher'"
-,"if you go outside you'll see the sky"
-,"don't ask me when you say if you should do— (❌)"
-]
+            "i'm standing at the corner store \\ when i'm hungry i ask for \\ drinkin' water's what i do all day \\ that's— (❌)",
+            "my favorite thing to sing's a song \\ you may think i'm right - you know you are right \\ i— (❌)",
+            "last night i had the strangest dream \\ when i'm scared i want to cry \\ that's why i go to a therapist \\ did you ever read stephen king's 'it'?",
+            "i like to listen to, uh, music (❌)",
+            "my favorite clothing is my pants \\ when i have a picnic i see a penguin \\ did you ever have a stale sandwich? \\ i hate my mom, she's a stupid ho \\ seriously, my mom really sucks \\ i think i look good in a tuxedo",
+            "i want to go to the beach \\ should i have all of 'em - ok \\ i like a quarter, i like a dime \\ when i'm running late i take my myst",
+            "i am looking at the sun \\ aw, fuck— (❌)",
+            "you know i love my sweet little doggie",
+            "the weather outside is kind of misty",
+            "i went to a concert show",
+            "when my friend asked me i said, 'okay'",
+            "i like to look at a picture frame",
+            "my lion here is very fierce",
+            "seriously, take a look at my lion",
+            "if you can't see it then you're not even making an effort",
+            "what do i do when i don't know what?",
+            "i think i'll go poop out of my penis",
+            "i got a phone call on my phone",
+            "please go away and leave me be",
+            "seriously, please don't call the cops",
+            "i'll see you at 'top of the charts'",
+            "i am leaning in my chair",
+            "i took off my hat and i didn't find my ears",
+            "some people say that the sun is hot",
+            "and i am lying, no i'm — yes i am",
+            "what am i gonna have for dinner: pizza (❌)",
+            "she winked and then was gone",
+            "i hope you like my little ditty",
+            "i went to the zoo and saw a horse",
+            "when my friend asked me how it was i said 'it was fine'",
+            "sittin' inside a cardboard box",
+            "i like that little red-tailed otter",
+            "when i asked if i should i said \"i ought'r\"",
+            "my favorite show is 'welcome back to that old teacher'",
+            "if you go outside you'll see the sky",
+            "don't ask me when you say if you should do— (❌)"
+        ]
     },
     {
         "episode": {
@@ -7886,9 +7885,1166 @@
         "nb": [],
         "listClass": "voicemail",
         "listItems": [
-        	"anxiety or panic attack on stage"
-        	,"accompanied gift certificate gift"
-        	,"former promise to tell jury duty stories"
+            "anxiety or panic attack on stage",
+            "accompanied gift certificate gift",
+            "former promise to tell jury duty stories"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e160",
+            "title": "Do You Hear Doodie or Poodie?"
+        },
+        "startMinute": 42,
+        "list": "Hitting the Post",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "coming up on the 11th hour and it is still pretty smoggy out there, so make sure you don't breathe in anywhere you go. if you're in your car you should be fine, but keep the windows rolled up all the way.",
+            "it is officially autumn - the leaves are falling, they're going all underneath your feet, going crunch-crunch-crunch. but you know what that means - daylight savings",
+            "just want to make sure everyone out there knows to wear rubber shoes in case you're around any kind of electrical charge this afternoon. because you all know you can get electrocuted if you accidentally—",
+            "sad news today, as the president is still alive. i don't know what's going on - he's in his 8th term and that's supposed to be illegal, but—",
+            "we've got the contest winners all lined up around the block, waiting to see who wins the final contest. they are competing in a hot dog eating competition starting at 12 o'clock. we will be live-streaming that on our youtube channel and i hope you tune in. but right now i've got a #1 song for you. this is called \"brother don't let me down\" by The Pee-pees",
+            "alright, everyone, we're taking callers right now. caller number 143 gets to call three more times and if you are the 8th caller, every time you call back you win another phone call from me but this time i'll be calling you and this time you're the receiver. and we als wanted to say that we have a free concert out there in central park today - you have to find it, there's a treasure map, uh, underneath every trash can in central park to find the stage. and if you find that stage then you know who's going to be playing - that's right, it's all your favorite marvel characters (they've started a band!). that's right, the submariner from black panther. unfortunately black panther is no longer with us but angela bassett - she'll be singing lead vocals",
+            "well that snow is still comin' down so here is a list of school closures: catholic school - closed; public school - closed; private school - open; secret school - closed; goth school - open; arctic school - open (u gotta go to school)",
+            "in other news johnson & johnson is recalling every single product on the shelves and if you've got one of em on your body right now it's toxic to ya. i hope you can go take a shower wherever you are and if you can't take a shower in filtered water, then god bless ya, honey. cuz it's over. i love you all - thank you so much for listening (by the way this is my last day)",
+            "piggy-backing on what lauren said it is her last day - we're going to miss her. but unfortunately she is moving to anchorage, alaska because she—"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e160",
+            "title": "Do You Hear Doodie or Poodie?"
+        },
+        "startMinute": 47,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": ["last time you danced all night"]
+    },
+    {
+        "episode": {
+            "key": "s5e161",
+            "title": "Lord Help Me Bullsjit Bugs Bummy"
+        },
+        "startMinute": 46,
+        "list": "Threevia",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "what two sports did scott's parents make him participate in against his will when he was a child?",
+            "baseball (✅)",
+            "dance (❌)",
+            "baseball (✅)",
+            "soccer (❌)",
+            "christian gymnastics",
+            "scott's roommate — the 'i have parties' guy — had a friend with an unusual nickname. what was that nickname?",
+            "fridge (❌)",
+            "patchouli (❌)",
+            "bagel",
+            "what musician did scott risk getting fired to see at disneyland when he worked there?",
+            "bill joel (❌)",
+            "u2 (❌)",
+            "david bowie (❌)",
+            "roy orbison",
+            "one of scott's former bosses was seen drunk, crying, whilst wearing an all-yellow outfit - what hilarious question did his coworker ask after witnessing this?",
+            "why is that banana crying? (❌)",
+            "who bruised the banana? (✅)",
+            "as a teenager, scott called into a radio show as popeye to tell jokes - what was the name of the show? (bonus: who was the host?)",
+            "friday funnies with finlay farrington (❌)",
+            "morning zoo with buzzie (❌)",
+            "the boogie line with bruce vidal",
+            "in what country did lauren have the first cherry she ever ate?",
+            "italy (✅)",
+            "greece (❌)",
+            "in lauren's first-ever appearance on the comedy bang! bang! podcast, who was the special guest?",
+            "marc maron (❌)",
+            "adam brody (✅)",
+            "what did the evanston police officer give lauren after crossing paths with her the third time?",
+            "phone number (❌)",
+            "trading card (✅)",
+            "what delicious treat did lauren bring into the studio for scott's birthday?",
+            "whipped cream and chocolate chips (✅)",
+            "whipped cream and chocolate chips (✅)",
+            "what movie did lauren go see when she slipped on the restroom floor and suffered a concussion (bonus: with whom did she go see the movie)?",
+            "goonies w/ josh brolin (❌)",
+            "house 2: the second story w/ adam brody (❌)",
+            "ladybugs",
+            "according to paul, what alternative name should he have based on how he looks?",
+            "the most handsome and gorgeous gentleman who ever lived? (❌)",
+            "roger (❌)",
+            "dennis j. peacock",
+            "paul erroneously referred to the movie 'last vegas' by another title - what was that title?",
+            "vegas baby (❌)",
+            "goodbye, vegas (❌)",
+            "old vegas",
+            "paul's mom had a receptionist job at his uncle's business - what was that business?",
+            "butt plus (❌)",
+            "piano tuning (✅)",
+            "what book did paul read that helped him quit smoking for good?",
+            "hey, dennis j. peacock - stop smoking! (❌)",
+            "how to quit smoking in fifteen minutes (❌)",
+            "the easy way to stop smoking by alan carr",
+            "paul comes from a family of six children - where is paul in the birth order (bonus: how many cousins did he have living next door)?",
+            "six (❌)",
+            "fifth (✅)",
+            "five (❌)",
+            "four (❌)",
+            "seven"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e162",
+            "title": "There's The Ding"
+        },
+        "startMinute": 46,
+        "list": "Word Alley Oop!",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "effervescence (❌)",
+            "carbonated (✅)",
+            "harbinger (✅)",
+            "envious",
+            "i'm going through a nasty divorce (❌)",
+            "penis breath",
+            "slow down",
+            "them's the breaks",
+            "mononucleosis (❌)",
+            "abacadabra (❌)",
+            "expeditiously",
+            "overcompensating"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e163",
+            "title": "You'd Be Like A Rugrats"
+        },
+        "startMinute": 46,
+        "list": "Off Script",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "napoleon bracy jr.",
+            "smarties tablet candy",
+            "boston mollasses flood",
+            "chandler c. cohagen",
+            "william w. hay",
+            "ettie stewart steele"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e164",
+            "title": "The Extended She-Verse"
+        },
+        "startMinute": 41,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemails",
+        "listItems": ["books that changed your lives", "job-quitting stories"]
+    },
+    {
+        "episode": {
+            "key": "s5e164",
+            "title": "The Extended She-Verse"
+        },
+        "startMinute": 50,
+        "list": "This Happened to Me",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "the godfather",
+            "working at a restaurant - a manager came in wearing all yellow and she had been crying",
+            "new year's eve video game score turnover",
+            "beauty and the beast",
+            "grease",
+            "halloweeen",
+            "stand by me",
+            "beavis and butt-head",
+            "it (miniseries)",
+            "jurassic park            "
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e165",
+            "title": "New Gnome Dropped Who Dis"
+        },
+        "startMinute": 59,
+        "list": "Unprepared Pastor",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "this person is now in heaven with jesus christ",
+            "it was a complicated person who maybe did not do the right thing all the time",
+            "and now they are at peace, at least",
+            "it's michael jackson (❌)",
+            "this man was someone who everyone was familiar with",
+            "famous the world over",
+            "beloved by all",
+            "beloved by some and despised by others",
+            "their art changed the world",
+            "their art",
+            "their interviewing",
+            "their acting",
+            "their - as a politician",
+            "jesus christ",
+            "this person ran for office",
+            "not somebody who we ever met because they were not real",
+            "but a beloved character of fiction from the books and, later, movies",
+            "who we know, for a fact, defintely is dead because they died in the thing",
+            "we have a great affection for this person",
+            "an indelible character that appeared in more than one book",
+            "maybe five books",
+            "maybe eleven books",
+            "maybe seven books",
+            "maybe ten books",
+            "and four movies",
+            "six movies",
+            "five movies",
+            "we know that he was in space",
+            "we know that he was a super hero",
+            "we know that he was a cartoon character",
+            "we know, when we think of this man (and if the spirit moves you, please do not be ashamed to speak out) - we know that this man died young",
+            "...ish",
+            "he was a complicated character",
+            "he was maybe not nice at first but then became nice",
+            "he lived in england a long the time of jesus",
+            "he lived in america",
+            "his story of redemption is one that we spread out over several movies",
+            "we've talked about him just this day",
+            "he's not paige davis",
+            "all of the other people may have left our minds",
+            "his name, of course, is (and we decided it) - his name is jason bourne",
+            "chokin on a peanut",
+            "shot in the fuxkin' face",
+            "peacefully in his bed surround by granchildren",
+            "poison",
+            "fell down some stairs",
+            "a sword",
+            "covid-19",
+            "diptheria",
+            "an amazing, real person who has passed and we miss her greatly",
+            "we miss him greatly",
+            "and he was so old",
+            "and he was very talented in his craft",
+            "he was an actor",
+            "he was a musician",
+            "he was a painter",
+            "he was a carpenter",
+            "he was a politician",
+            "he was a teacher",
+            "he was a astronaut",
+            "he was a rapper",
+            "he was a famous-for-being-famous kind of person",
+            "he was a chef",
+            "he was a food creator",
+            "and we loved that",
+            "we loved to consume what he created",
+            "we consumed his meats, his cheeses, his breads",
+            "george foreman (❌)",
+            "he made meats exclusively",
+            "his name was slim jim (❌)",
+            "his name is emeril (❌)",
+            "he had a tv show",
+            "he made hamburgers",
+            "he made chicken",
+            "perdue",
+            "he was a chicken salesman and a chicken chef",
+            "he had a tv show",
+            "kentucky fried chicken man, colonol sanders",
+            "covid-19",
+            "heart attack",
+            "lukemia",
+            "car accident",
+            "in a boat",
+            "on a train",
+            "on a plane",
+            "falling on a knife",
+            "he deep-fried himself",
+            "he seppuku'd himself",
+            "he fell on a knife and a fork and cut himself up and served himself with a nice barbecue sauce",
+            "he fell; into a room full of swords"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e166",
+            "title": "Howl-at-the-Moonlet"
+        },
+        "startMinute": 38,
+        "list": "Kind of Like Name That Tune But Only With 2 Lyrics and No Betting",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "eleanor rigby",
+            "god bless the usa",
+            "hey jude",
+            "last nite",
+            "star-spangled banner",
+            "twinkle twinkle little star",
+            "pure imagination",
+            "mr. jones",
+            "w.a.p."
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e167",
+            "title": "1 Room 100 Toilets"
+        },
+        "startMinute": 43,
+        "list": "I've Got Some Bad Tunes",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "a bird is loose in the kitchen —> start me up",
+            "the mumps —> she drives me crazy",
+            "broken elbow —> yesterday"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e168",
+            "title": "Legally Blob"
+        },
+        "startMinute": 46,
+        "list": "The Titular Game",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "three men and a little lady",
+            "my girl 2",
+            "raiders of the lost arc",
+            "whatever happend to baby jane?",
+            "nomadland",
+            "boogie nights"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e169",
+            "title": "Moontears"
+        },
+        "startMinute": 46,
+        "list": "Mirror Mirror",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "be i a man or a woman?",
+            "be i alive or be i dead?",
+            "when did i die?",
+            "did i get married?",
+            "who am i married to?",
+            "who did i used to be married to?",
+            "if i ask the other mirror...",
+            "am i holding a phone?",
+            "who am i married to right now?",
+            "what did i have for breakfast?",
+            "what did the celebrity have for breakfast?",
+            "do i have any children?",
+            "am i a person?",
+            "am i young or old?",
+            "what's your favorite movie of mine?",
+            "what's your least favorite movie of mine?",
+            "am i a movie star?",
+            "am i jerry seinfeld? (✅)",
+            "am i a movie star?",
+            "am i a woman or a man?",
+            "am i considered a comedic or a dramatic actor?",
+            "am i alive or dead?",
+            "when did i pass?",
+            "what's my biggest film?",
+            "am i laura dern? (❌)",
+            "am i married?",
+            "is my dad bruce dern?",
+            "have i done sequels to movies that i've done?",
+            "am i a man?",
+            "what's my role that people most know me for?",
+            "do i have children?",
+            "do kids today know who i am?",
+            "how old am i?",
+            "am i funny?",
+            "am i involved in political stuff?",
+            "do i play a political role (like a character that's in politics)?",
+            "who the fuck is bruce?",
+            "what's the last name of my character, bruce?",
+            "bruce paper? (❌)",
+            "what's heraldry - the newspaper?",
+            "what's heraldry?",
+            "what's the definition of heraldry?",
+            "bruce flag? (❌)",
+            "who am i?",
+            "has paul f. tompkins of scott aukerman ever met me?",
+            "why are you such a fucking asshole?",
+            "mark ruffalo",
+            "am i a man?",
+            "am i a movie star?",
+            "am i married to a famous person?",
+            "am i in marvel movies?",
+            "am i married to ben affleck?",
+            "am i known for rom-coms?",
+            "am i known for action films?",
+            "am i a dramatic actress?",
+            "have i been nominated for an oscar?",
+            "am i over 50?",
+            "am i over 70?",
+            "were my movies most popular in the 90s?",
+            "were my movies most popular in the 21st century?",
+            "have i been nominated for an oscar more than once?",
+            "am i a dramatic actor?",
+            "is the genre that i'm known for with my movies - is it animation?",
+            "what is the genre that i'm known for?",
+            "were my parents famous?",
+            "did i just win an oscar this year?",
+            "am i jamie lee curtis (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e170",
+            "title": "I'm Like the Sopranos"
+        },
+        "startMinute": 42,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": [
+            "dating red flags",
+            "sliding doors moment",
+            "comedian you want to hear on a podcast",
+            "something you believed as a child but learned the hard way",
+            "swap hairstyles"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e171",
+            "title": "Honey, I Shrunk ME?!"
+        },
+        "startMinute": 43,
+        "list": "ThreeH1 Storytellers",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "i wanna dance with somebody (✅)",
+            "jeremy (✅)",
+            "cat stevens? (❌)",
+            "paul mccartney? (❌)",
+            "the bangles and/or simon & garfunkel? (❌)",
+            "cyndi lauper (❌)",
+            "the kinks? (❌)",
+            "bob dylan (❌)",
+            "billy joel (❌)",
+            "old man (❌)",
+            "ooh la la (❌)",
+            "time in a bottle (❌)",
+            "cats in the cradle (❌)",
+            "satisfaction rolling stones (❌)",
+            "i love it icona pop (❌)",
+            "how soon is now?",
+            "clocks (❌)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e172",
+            "title": "Puddle of Coke"
+        },
+        "startMinute": 51,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": ["are you dog or cat?"]
+    },
+    {
+        "episode": {
+            "key": "s5e173",
+            "title": "Wrong Said Frong"
+        },
+        "startMinute": 42,
+        "list": "Under the Umbrella",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "cookie",
+            "guitar",
+            "dune buggy",
+            "shoes",
+            "one stick",
+            "two sticks",
+            "pack of cigarettes",
+            "president of the united states",
+            "watch",
+            "clock",
+            "table",
+            "pinky",
+            "strawberry",
+            "this sweater my grandma knit me",
+            "(the sweat on your grandma nittme)",
+            "makeup",
+            "monster",
+            "yeti",
+            "dog",
+            "eybeballs",
+            "vampire bat",
+            "pumpkin",
+            "pidgeon",
+            "butterfly",
+            "angel",
+            "wings (✅)",
+            ",cylon warrior",
+            ",robot (❌)",
+            ",pinocchio",
+            ",chatgpt",
+            ",haley joel osment in a specific movie",
+            ",the terminator",
+            ",pixar lamp",
+            ",betty boop",
+            ",woody (from toy story)",
+            ",johnny 5 (from short circuit)",
+            ",wall-e",
+            ",lightning mcqueen",
+            ",herbie the love bug",
+            ",anthropomorphized (❌)",
+            ",my hair",
+            ",coaster",
+            ",microphone",
+            ",things that are black (❌)",
+            ",things that are electronic (❌)",
+            ",things that have wires (❌) ",
+            ",9v battery",
+            ",things that work (❌)",
+            ",this video game",
+            ",tv",
+            ",electronics (❌)",
+            ",hair dryer",
+            ",thing that have plugs (❌)",
+            ",stove",
+            ",appliances (❌)",
+            "things you can turn on and off",
+            "chip",
+            "chocolate chip",
+            "sandwich",
+            "car",
+            "shirt",
+            "bra",
+            "puppy (goldendoodle)",
+            "dalmatian",
+            "things that are dead",
+            "backpack",
+            "glasses (neither eye nor drinking)",
+            "elephant",
+            "lighthouse",
+            "cardinal",
+            "american pie dvd",
+            "apple",
+            "car",
+            "headphones",
+            "ross perot",
+            "bracelet made of beads",
+            "diamond bracelent",
+            "bracelet made of jewels",
+            "kabbalah bracelet",
+            "the wind",
+            "politician",
+            "star",
+            "planet",
+            "light",
+            "lamp",
+            "things that can be turned on or off (❌)",
+            "the sun",
+            "pen holder",
+            "some paper that would be on the desk",
+            "box of permanent markers",
+            "computer",
+            "things on a desk (❌)",
+            "phone",
+            "trash can",
+            "coasters",
+            "things you can see from where you're sitting (❌)",
+            "teeth",
+            "any of the muppets",
+            "this dry-erase board",
+            "plank of wood",
+            "things a lawyer would have (❌)",
+            "things jesus wept over (❌)",
+            "things jesus would like if he were alive (❌)",
+            "things made of wood"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e175",
+            "title": "3-Chuckies"
+        },
+        "startMinute": 41,
+        "list": "Jitterbug",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "voting blocks",
+            "microphone",
+            "parking lot",
+            "mr. mic",
+            "mr. bean",
+            "bean salad",
+            "italy",
+            "pizza pie",
+            "pizza box",
+            "pepper jack",
+            "cheese monster",
+            "sesame street",
+            "oscar the grouch",
+            "grover the clown (❌)",
+            "bubble ice",
+            "boba fett (❌)",
+            "dirty flag",
+            "hearing shoe",
+            "thinning man",
+            "brain cloth",
+            "baby rock",
+            "cool'em (❌)",
+            "fatty belt",
+            "bootsucker",
+            "tasty toes",
+            "little book (❌)",
+            "ring of ice",
+            "sweater bug",
+            "alcandy",
+            "butternut (❌)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e176",
+            "title": "That's Just The Way It Works"
+        },
+        "startMinute": 36,
+        "list": "Under the Umbrella",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "potato salad",
+            "teddy bear",
+            "large bowling ball",
+            "globe",
+            "20lb weight",
+            "50lb weight",
+            "75lb weight",
+            "300lb weight",
+            "8000lb weight",
+            "metal doughnut",
+            "cement hoola hoop",
+            "hairbrush the size of this room",
+            "facemask",
+            "big black shoe",
+            "huge black shoe",
+            "oversized yoga mat",
+            "lacrosse stick",
+            "big basketball",
+            "basketball hoop",
+            "catcher's mitt",
+            "golf club",
+            "sporting equipment (✅)",
+            "lemonade",
+            "collection of vinyl records",
+            "little wintery boots",
+            "thick wooly scarf",
+            "dollhouse",
+            "dog",
+            "mink coat",
+            "coat with a fur lining",
+            "furry things (✅)",
+            "dress",
+            "calculus textbook",
+            "set of keys",
+            "fancy picnic basket",
+            "picnic blanket",
+            "wicker chair",
+            "bench to sit on",
+            "tree",
+            "half-court basketball court",
+            "patio umbrella (not the canvas part)",
+            "guitar",
+            "slide",
+            "dutch clogs",
+            "bed that's made of wood",
+            "bumblebee that's made of wood",
+            "wooden spoon",
+            "trojan horse",
+            "wooden ornament",
+            "peice of paper that used to be wood",
+            "door",
+            "stupid things (❌)",
+            "things that are made of wood (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e177",
+            "title": "And You CAN Do It"
+        },
+        "startMinute": 45,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": [
+            "regional unclaimed freight jingle",
+            "do you guys camp - what's the roughest roughing-it you've done?",
+            "if you could rename each other"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e178",
+            "title": "Adunchables"
+        },
+        "startMinute": 42,
+        "list": "Spam Emails",
+        "nb": [],
+        "listClass": "spams",
+        "listItems": [
+            "from:stephanie - are you 100% gayy?",
+            "from:trash blue pills - half teaspoon triggers erection muscle gets you hard",
+            "from:lily shane - my ass is your next focus",
+            "from:unk - let me see that eggplant between your legs",
+            "from:unk - this secret sauce is making things pop like bubble wrap"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e178",
+            "title": "Adunchables"
+        },
+        "startMinute": 50,
+        "list": "Press Conference",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "is this going to affect his educational shows at all?",
+            "do you think this is going to destroy his credibility?",
+            "bill nye said 'the world is flat you idiots'? (❌)",
+            "bill nye said \"the world is as flat as joan rivers' tits\"? (❌)",
+            "bill nye said \"the world is as flat as your wife's tits\"? (❌)",
+            "bill nye said \"the world is flatter than your mom's chest\"? (✅)",
+            "what did the people she works with think about this?",
+            "an academy award-winner doesn't want to be associated with this kind of thing",
+            "she, herself, has not won an acadamy award - it wouldn't make any sense",
+            "she is on a show with these different women with these different thoughts",
+            "but to consume something like that...",
+            "i imagine that one of her co-hosts is going to have a problem with her eating that",
+            "it's not a thing that we tend to eat",
+            "did she spear it herself?",
+            "was it something a fisherman caught?",
+            "she's very opinionated and they're all very opinionated in different directions",
+            "one of em, her political leanings might lean toward where she doesn't care, but...",
+            "and every morning they get on tv and they speak about things",
+            "if joy behar... (❌)",
+            "if barbara walters... (✅)",
+            "she didn't say something, she...",
+            "the thing she ate was a former star of a tv show itself",
+            "the show that has the name that is the start of describing someone giving someone the middle finger",
+            "if barbara walters eats a dolphin... (✅)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e179",
+            "title": "Scales.Oops"
+        },
+        "startMinute": 44,
+        "list": "Matt Aproducer Updates",
+        "nb": [],
+        "listClass": "inline",
+        "listItems": ["paige davis call", "that's just the way it works bop"]
+    },
+    {
+        "episode": {
+            "key": "s5e180",
+            "title": "That's The Power of DJs"
+        },
+        "startMinute": 30,
+        "list": "One Thing About Submarines",
+        "nb": [],
+        "listClass": "inline",
+        "listItems": [
+            "they bolt from the outside",
+            "they're shaped like horseshoes",
+            "they fucking stink"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e180",
+            "title": "That's The Power of DJs"
+        },
+        "startMinute": 37,
+        "list": "No More Jockeys",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "kanye west —> rappers",
+            "albert einstein —> scientists",
+            "meryl streep —> actresses",
+            "annie leibovitz —> photographers",
+            "peter o'toole —> actors",
+            "john f. kennedy —> presidents",
+            "john wilkes booth —> people who have assassinated presidents",
+            "albert fish —> cannibals",
+            "maya angelou —> writers",
+            "joan jett —> rock stars",
+            "babar —> elephants",
+            "marge simpson —> cartoon characters",
+            "ducky —> dinosaurs",
+            "barney rubble (❌)",
+            "tesla (❌)",
+            "cara delevingne —> models",
+            "barney fife —> policemen",
+            "mickey mouse —> cartoons",
+            "anne hathaway —> actresses",
+            "johnny bench —> baseball players",
+            "harry calas —> baseball announcers",
+            "dennis rodman —> basketball players",
+            "mr. bean —> funny people",
+            "kim jong un —> dictators",
+            "donald trump —> nobody who was in home alone 2",
+            "joe pesci (❌)",
+            "mario andretti —> race car drivers",
+            "david byrne —> singers",
+            "neil armstrong —> space travelers",
+            "neil lane —> ring salesmen",
+            "pete barbutti —> piano players",
+            "sally jessy raphael —> talk show hosts",
+            "michelle obama —> first ladies",
+            "meghan markle —> former royalty",
+            "johnny appleseed —> gardeners",
+            "babadook —> fictional scaries",
+            "walter cronkite —> news people",
+            "walter e. smithe —> furniture sellers",
+            "shinzo abe —> prime ministers",
+            "prince william —> current royalty",
+            "captain kangaroo —> captains",
+            "mister rogers —> pbs show characters",
+            "julia child (❌)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e185",
+            "title": "Trippin Dots"
+        },
+        "startMinute": 48,
+        "list": "Mad Libs",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "verb: shake",
+            "number: 2005",
+            "adjective: briny",
+            "adjective: burpy",
+            "noun: caboose",
+            "adjective: slothlike",
+            "plural noun: kazoos",
+            "place: narnia",
+            "adjective: bloody",
+            "plural noun: barnacles",
+            "person in the room: scott",
+            "animal, plural: bats",
+            "verb ending in ing: fucking",
+            "type of food, plural: mashed potatoes",
+            "noun: mashed potato",
+            "adjective: crumbly",
+            "noun: crumb",
+            "verb: dream",
+            "noun: berry",
+            "happening, by paul f tompkins —> run, don't shake, to join 2005 of your closest friends at the greatest briny outdoor musical experience of our burpy generation. this once in a caboose event is guaranteed to provide a slothlike weekend filled with music, peace, love and kazoos in the picturesque setting of narnia. bands such as the bloody barnacles, scott and the bats, the fucking mashed potatoes and many more will be rocking the mashed potato all night long. this crumbly happening will take place rain or crumb so dream accordingly it's sure to be a legendary berry.",
+            "adjective: ratty",
+            "adjective: bratty",
+            "person in room: paul",
+            "plural noun: tridents",
+            "adjective: catty",
+            "adverb: sweatily",
+            "adjective: batty",
+            "plural noun: waves",
+            "noun: leaflet",
+            "plural noun: cardboards",
+            "type of liquid: gasoline",
+            "noun: electric vehicle",
+            "adjective: corpulent",
+            "adverb: wonderfully",
+            "plural noun: knobs",
+            "plural noun: burglar alarms",
+            "plural noun: 45 rpm records",
+            "noun: refrigerator",
+            "person in room: lauren",
+            "adjective: fetching",
+            "world peace & other promises, by scott aukerman (copyright 2009 by penguin random house, llc) —> our school is voting for this year's ratty president - let's listen in as the bratty candidate, paul, makes his final campaign speech. \"my fellow tridents, i know the catty changes you want and sweatily deserve. if elected i promise to put an end to batty homework and pop waves; i will expand the lunch menu to include leaflet burgers and cheese-stuffed cardboards; i will fill every drinking fountain with chocolate gasoline; i will see to it that the only acceptable exercise in gym class is dodge-electric-vehicle; finally, for every corpulent student in detention, i wonderfully swear to make video knobs, comic burglar alarms, and wide-screen 45 rpm records available in the detention refrigerator. so remember a vote for lauren today is a vote for a fetching school tomorrow.\"",
+            "adjective: sexy",
+            "adjective: horny",
+            "adjective: loose",
+            "plural noun: butts",
+            "plural noun: titties",
+            "adjective: breasticles (❌)",
+            "adjective: smooth",
+            "verb ending in ing: pogo sticking",
+            "noun: butthole",
+            "article of clothing, plural: boxer briefs",
+            "noun: tit",
+            "plural noun: dicks",
+            "type of liquid: piss",
+            "verb ending in ing: sucking",
+            "adjective: tasty",
+            "noun: marital bed",
+            "happy campers —> when life gets too sexy there's no better antidote than to forget the horny grind and go camping with some loose friends. with the moon and butts twinkling overhead and the sound of titties chirping in the woods, sitting around the campfire and singing a smooth chorus or two of \"she'll be coming 'round the breasticles\" or \"i've been pogo sticking on the railroad\" is a great way to restore peace to your inner butthole. or if you choose you can scare the boxer briefs off of everyone with tit stories. you can also just sit quietly, toasting dicks and sipping mugs of steaming piss before snuggling into your sucking bag. yes, there's nothing better than the tasty outdoors to guarantee a good night's marital bed."
+        ]
+    },
+    {
+        "episode": {
+            "key": "s4e137",
+            "title": "et tu (E.T. 2)"
+        },
+        "startMinute": 53,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": [
+            "most embarrassing thing witnessed or done while walking on the sidewalk"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s1e5",
+            "title": "Pop Eyedol"
+        },
+        "startMinute": 39,
+        "list": "Actor's Nightmare",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "biloxi blues —>",
+            "ok, well are you gonna come outside? because everyone's waiting for you.",
+            "you keep saying you're not guilty but — you know what? — everyone out there thinks you are, ok?",
+            "just because i didn't go to college doesn't mean you can pull this shit on me, okay?",
+            "angels in america (perestroika) —>",
+            "how do you know he's a mormon?",
+            "yes, how is he a mormon?!",
+            "the caretaker —>",
+            "a family of indians live there? i expected one or two but a whole family - that's incredible",
+            "you don't see much of them?",
+            "do you want us to take you to the store?",
+            "why don't you let marge and i take you to the store?",
+            "could we pay for someone to come over here and tidy up once in a while?",
+            "you'll let me do it?"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e184",
+            "title": "That Implies Toys"
+        },
+        "startMinute": 43,
+        "list": "Voicemails",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": [
+            "last time you were so hungry you had to eat something like a monster",
+            "what sports enjoyed or best at",
+            "would you rather claim one hag or have 8 hags claim you?"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e186",
+            "title": "Bad Checks No Wait Wait Bad Checks"
+        },
+        "startMinute": 41,
+        "list": "Go-to Candy Bars as a Child",
+        "nb": [],
+        "listClass": "inline",
+        "listItems": [
+            "three musketeers",
+            "m&ms",
+            "snickers",
+            "twix",
+            "peanut butter twix",
+            "take 5",
+            "reese's peanut butter cups"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e186",
+            "title": "Bad Checks No Wait Wait Bad Checks"
+        },
+        "startMinute": 43,
+        "list": "I've Got Some Bad Tunes",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "your uncle was run over by a roller coaster : the wheels on the bus —>",
+            "i have news for you i'm gonna share \\ i'm gonna share \\ i'm gonna share \\ i have some news for you i'm gonna share \\ i'll tell you now \\ your uncle was riding on a roller coaster \\ he went down and, uh (❌) \\ he jumped out to try to stop it with his arm \\ cuz he wanted to be like superman \\ and the roller coaster ran over him \\ it broke clavicle in three spots \\ in three spots \\ it broke is clavicle in three spots \\ and the rest of his body ",
+            "house fire destroys baseball card collection: time after time —>",
+            "last night you were cooking \\ and one of you left the oven on \\ then it caught fire and it burned your house to the ground \\ but that's not the bad news - there's more to come \\ your baseball cards are gone \\ that's right - your house burned right down to the studs \\ your baseball cards are gone",
+            "a child steals your job : let's go crazy —>",
+            "dear employees \\ i have gathered you here today to tell you about this thing called your job \\ and how it's not gonna be what you thought it was gonna be \\ because your job is different now \\ because in this company you're on your own (meaning you're fired) \\ cuz you know that child (the one that came in here the other day with the job application) \\ well, he got your job \\ and so in this life \\ you don't work here anymore"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e187",
+            "title": "Third Time Shame on the Charm"
+        },
+        "startMinute": 42,
+        "list": "Threevia",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "paul's mother was the reception for her brother's business - what music-related service did the business provide?",
+            "piano tuning (✅)",
+            "piano tuning (✅)",
+            "paul taught us all that the glad plug-in jinge, 'plug it in, plug it in,' was actually based on a real song called 'rub it in,' by billy (crash) craddock - craddock recorded a followup to 'rub it in' called what?",
+            "pull it out (❌)",
+            "eat it out (❌)",
+            "you rubbed it in all wrong",
+            "paul once told a lie about his father doing an impression of a famous actor (and being dead) in order to get a special inscription in the actor's book at a book signing - name that actor",
+            "adam west (❌)",
+            "peter o'toole (✅)",
+            "paul once told a story about watching a double feature with his friend; scott argued that watching one and a half unrelated movies on dvd in your home does not qualify as a double feature - either way, can you name the two movies paul and his friend watched (you get one point for each correct answer)?",
+            "hard days night & help (❌)",
+            "gremlins & jaws (❌)",
+            "coyote ugly & battlefield earth",
+            "i once said that i didn't think my name suited me and that it should, instead, be what (please give the first name, the middle initial, and the last name)?",
+            "dennis r. plumb (❌)",
+            "thomas j. peacock (❌)",
+            "dennis j. peacock",
+            "when i was a teenager i had three run-ins with the same police officer; on our third encounter, what keepsake did the officer give me?",
+            "trading card (✅)",
+            "who do i think is the hottest simpsons character?",
+            "otto (❌)",
+            "otto (❌)",
+            "bart",
+            "for my 7th birthday threw me a party with what unusual and boring theme?",
+            "tax filing (❌)",
+            "dirt (❌)",
+            "manners",
+            "i once surprised my grandma on her birthday with a box of chocolate-covered strawberries, which she did not appreciate because they were too big and there were six of them: according to the story, there are two gifts that my grandma always love receiving: name them",
+            "money & teeth (❌)",
+            "flowers & candy (❌)",
+            "$100 or Walgreens gift card",
+            "i was once offered opium by a guy with what clothing-related nickname?",
+            "jorts (❌)",
+            "pockets (✅)",
+            "scott once made out with a woman at a holloween party and got makeup from his costume all over her face - what or whom was scott dressed as?",
+            "pennywise (❌)",
+            "the joker (❌)",
+            "ace frehley",
+            "in high school, scott pretended to be interested in joining the army in order to get what from an army recruiter?",
+            "a sticker (❌)",
+            "a gift card (❌)",
+            "8 free lunches",
+            "when he was a kid, scott had to get stitches in his face after attempting what dangerous stunt?",
+            "riding a bike with his eyes close (✅) while wearing sunglasses (✅)",
+            "scott once boasted that his address was so secret almost nobody knew it: name the two very cool, not at all evil organizations that did know it",
+            "FBI & Catholic Church (❌)",
+            "the bank & Scientology (✅)",
+            "Scientology & the Republican Party",
+            "scott's former roommate (who was roommates with the i-have-parties guy) had what food-related nickname",
+            "Bagel (✅)",
+            "Pizza (❌)"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e188",
+            "title": "There's Nothing But Death For You Here"
+        },
+        "startMinute": 40,
+        "list": "Voicemail",
+        "nb": [],
+        "listClass": "voicemail",
+        "listItems": [
+            "what is the most dangerous thing you've ever done or been a part of?",
+            "what do you do to spark creativity?",
+            "totally meaningless accomplishment that felt astounding"
+        ]
+    },
+    {
+        "episode": {
+            "key": "s5e189",
+            "title": "You May Be An Redneck"
+        },
+        "startMinute": 55,
+        "list": "Celebrity Hunt",
+        "nb": [],
+        "listClass": "threeture",
+        "listItems": [
+            "anne hathaway",
+            "yanni",
+            "idele dazeem (idina menzel)",
+            "lorenzo lamas",
+            "sylvester stallone",
+            "eric (fuckin') stoltz",
+            "zane, billy",
+            "yeardley smith (❌)",
+            "yasmine bleeth",
+            "harry anderson",
+            "natalie wood",
+            "doritos (❌)",
+            "danny doritos (❌)",
+            "samantha morton",
+            "niall horan",
+            "nevaeh",
+            "herman's hermits",
+            "shannon beador",
+            "richard roundtree",
+            "elijah wood",
+            "don rickles",
+            "susasn sarandon",
+            "nolan, christopher",
+            "robin williams",
+            "stephanie powers",
+            "soupy sanders (❌)",
+            "evan dando",
+            "orlando bloom",
+            "madison cawthorn",
+            "nevaeh (❌)",
+            "nermal (❌)",
+            "lauren holly",
+            "yves saint laurent",
+            "tiramisu (❌)",
+            "danny devito",
+            "oliver hudson",
+            "neil degrasse tyson",
+            "nick nolte",
+            "evan rachel wood",
+            "diane von furstenberg",
+            "gregory hines",
+            "stan lee",
+            "edgar wright",
+            "tina turner",
+            "robin wright-penn",
+            "natalie imbruglia",
+            "anthony anderson",
+            "nick lachey",
+            "yvonne orji",
+            "iggy azalea",
+            "anna paquin",
+            "neil armstrong",
+            "greg berlanti",
+            "isla fisher",
+            "rita rudner",
+            "robert redford",
+            "diane keaton",
+            "nia long",
+            "gina gershon",
+            "nia vardalos",
+            "sam shepard",
+            "dame judy dench",
+            "helen hunt (✅)"
         ]
     }
 ]

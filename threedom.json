@@ -449,6 +449,18 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s5e189",
+					"title": "You May Be An Redneck"
+				},
+				"startMinute": 24,
+				"class": "invertedPremise",
+				"nb": [
+					"pft's friend, buddy fitzpatrick, once said 'ladies and gentlemen - freddy krueger'"
+				],
+				"tags": ["freddy krueger"]
+			},
+			{
+				"episode": {
 					"key": "s4e139",
 					"title": "Good Couch, Bad Couch"
 				},
@@ -460,7 +472,10 @@
 				"tags": ["dave coulier", "alanis morissette"]
 			},
 			{
-				"episode": { "key": "s4e137", "title": "et tu (E.T. 2)" },
+				"episode": {
+					"key": "s4e137",
+					"title": "et tu (E.T. 2)"
+				},
 				"startMinute": 55,
 				"class": "invertedPremise",
 				"nb": ["sam neil gets stuck inside pft's tower video"],
@@ -479,7 +494,10 @@
 				"tags": ["bryce dallas howard", "stage crying"]
 			},
 			{
-				"episode": { "key": "s3e72", "title": "Squish Factor" },
+				"episode": {
+					"key": "s3e72",
+					"title": "Squish Factor"
+				},
 				"startMinute": 43,
 				"class": "invertedPremise",
 				"nb": [
@@ -488,7 +506,10 @@
 				"tags": ["tenacious d and the pick of destiny (film)"]
 			},
 			{
-				"episode": { "key": "s5e183", "title": "Rashmi Amadeus" },
+				"episode": {
+					"key": "s5e183",
+					"title": "Rashmi Amadeus"
+				},
 				"startMinute": 11,
 				"class": "invertedPremise",
 				"nb": [
@@ -550,9 +571,6 @@
 				},
 				"startMinute": 1,
 				"class": "invertedPremise",
-				"tags": [
-					"they claim they talked about it already; hadn't; but did again later; rarity"
-				],
 				"tags": ["restaurant roundup", "cafe cordiale"]
 			},
 			{
@@ -2166,6 +2184,15 @@
 				"startMinute": 25,
 				"class": "inaugural",
 				"tags": ["bugs"]
+			},
+			{
+				"episode": {
+					"key": "s5e188",
+					"title": "There's Nothing But Death For You Here"
+				},
+				"startMinute": 43,
+				"class": "pimpedRetelling",
+				"tags": ["bugs"]
 			}
 		]
 	},
@@ -2177,13 +2204,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e65", "title": "Moneybucks" },
+				"episode": {
+					"key": "s3e65",
+					"title": "Moneybucks"
+				},
 				"startMinute": 45,
 				"class": "retelling",
 				"tags": ["piano"]
 			},
 			{
-				"episode": { "key": "s2e46", "title": "The Pretzel Gang" },
+				"episode": {
+					"key": "s2e46",
+					"title": "The Pretzel Gang"
+				},
 				"startMinute": 40,
 				"class": "inaugural",
 				"tags": ["tap dancing"]
@@ -3173,6 +3206,15 @@
 				"startMinute": 9,
 				"class": "retelling",
 				"tags": ["ikea", "injuries"]
+			},
+			{
+				"episode": {
+					"key": "s5e188",
+					"title": "There's Nothing But Death For You Here"
+				},
+				"startMinute": 41,
+				"class": "pimpedRetelling",
+				"tags": ["ikea", "injuries"]
 			}
 		]
 	},
@@ -3592,7 +3634,10 @@
 				"tags": ["baseball"]
 			},
 			{
-				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"episode": {
+					"key": "s5e184",
+					"title": "That Implies Toys"
+				},
 				"startMinute": 54,
 				"class": "acknowledgedRetelling",
 				"tags": ["baseball"]
@@ -5336,7 +5381,10 @@
 				"tags": ["las vegas", "penn & teller"]
 			},
 			{
-				"episode": { "key": "s5e181", "title": "I See Both" },
+				"episode": {
+					"key": "s5e181",
+					"title": "I See Both"
+				},
 				"startMinute": 29,
 				"class": "pimpedRetelling",
 				"tags": ["las vegas", "penn & teller"]
@@ -8767,7 +8815,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s1e15", "title": "Church Cool Man" },
+				"episode": {
+					"key": "s1e15",
+					"title": "Church Cool Man"
+				},
 				"startMinute": 1,
 				"class": "inaugural",
 				"tags": [
@@ -8996,7 +9047,10 @@
 				"tags": ["sandwiches"]
 			},
 			{
-				"episode": { "key": "s1e16", "title": "Baby, Fat Guy, Dog" },
+				"episode": {
+					"key": "s1e16",
+					"title": "Baby, Fat Guy, Dog"
+				},
 				"startMinute": 26,
 				"class": "inaugural",
 				"tags": ["carrots", "sandwiches"]
@@ -10189,7 +10243,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s4e105", "title": "Crumbelievable" },
+				"episode": {
+					"key": "s4e105",
+					"title": "Crumbelievable"
+				},
 				"startMinute": 44,
 				"class": "inaugural",
 				"tags": ["childrens clubs"]
@@ -10213,7 +10270,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e80", "title": "Ryan O'Needle" },
+				"episode": {
+					"key": "s3e80",
+					"title": "Ryan O'Needle"
+				},
 				"startMinute": 70,
 				"class": "inaugural",
 				"tags": [
@@ -10249,7 +10309,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"episode": {
+					"key": "s3e87",
+					"title": "Julie Bowfinger"
+				},
 				"startMinute": 61,
 				"class": "inaugural",
 				"tags": ["gavin newsom", "politicians"]
@@ -10300,13 +10363,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s5e175", "title": "3-Chuckies" },
+				"episode": {
+					"key": "s5e175",
+					"title": "3-Chuckies"
+				},
 				"startMinute": 41,
 				"class": "inaugural",
 				"tags": ["mr. bean"]
 			},
 			{
-				"episode": { "key": "s5e181", "title": "I See Both" },
+				"episode": {
+					"key": "s5e181",
+					"title": "I See Both"
+				},
 				"startMinute": 27,
 				"class": "acknowledgedRetelling",
 				"tags": ["mr. bean"]
@@ -10321,7 +10390,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e60", "title": "Sologamy" },
+				"episode": {
+					"key": "s3e60",
+					"title": "Sologamy"
+				},
 				"startMinute": 17,
 				"class": "inaugural",
 				"tags": [
@@ -10332,7 +10404,10 @@
 				]
 			},
 			{
-				"episode": { "key": "s5e181", "title": "I See Both" },
+				"episode": {
+					"key": "s5e181",
+					"title": "I See Both"
+				},
 				"startMinute": 38,
 				"class": "acknowledgedRetelling",
 				"tags": [
@@ -10352,13 +10427,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s1e07", "title": "Stop Making It Plural" },
+				"episode": {
+					"key": "s1e07",
+					"title": "Stop Making It Plural"
+				},
 				"startMinute": 25,
 				"class": "inaugural",
 				"tags": ["Nick Wiger", "pedophelia"]
 			},
 			{
-				"episode": { "key": "s5e182", "title": "Hanging Like a Chad" },
+				"episode": {
+					"key": "s5e182",
+					"title": "Hanging Like a Chad"
+				},
 				"startMinute": 9,
 				"class": "retelling",
 				"tags": ["pedophelia"]
@@ -10382,7 +10463,10 @@
 				"tags": ["harris wittels"]
 			},
 			{
-				"episode": { "key": "s5e182", "title": "Hanging Like a Chad" },
+				"episode": {
+					"key": "s5e182",
+					"title": "Hanging Like a Chad"
+				},
 				"startMinute": 15,
 				"class": "retelling",
 				"tags": []
@@ -10397,7 +10481,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s5e178", "title": "Adunchables" },
+				"episode": {
+					"key": "s5e178",
+					"title": "Adunchables"
+				},
 				"startMinute": 36,
 				"class": "inaugural",
 				"tags": [
@@ -10407,7 +10494,10 @@
 				]
 			},
 			{
-				"episode": { "key": "s5e182", "title": "Hanging Like a Chad" },
+				"episode": {
+					"key": "s5e182",
+					"title": "Hanging Like a Chad"
+				},
 				"startMinute": 49,
 				"class": "retelling",
 				"tags": [
@@ -10435,7 +10525,10 @@
 				"tags": ["darth vader", "medical conditions"]
 			},
 			{
-				"episode": { "key": "s5e183", "title": "Rashmi Amadeus" },
+				"episode": {
+					"key": "s5e183",
+					"title": "Rashmi Amadeus"
+				},
 				"startMinute": 2,
 				"class": "retelling",
 				"tags": ["darth vader", "medical conditions"]
@@ -10459,13 +10552,19 @@
 				"tags": ["proctology", "anuses"]
 			},
 			{
-				"episode": { "key": "s5e183", "title": "Rashmi Amadeus" },
+				"episode": {
+					"key": "s5e183",
+					"title": "Rashmi Amadeus"
+				},
 				"startMinute": 3,
 				"class": "retelling",
 				"tags": ["proctology", "anuses"]
 			},
 			{
-				"episode": { "key": "s2e42", "title": "Look at My Snaps Go" },
+				"episode": {
+					"key": "s2e42",
+					"title": "Look at My Snaps Go"
+				},
 				"startMinute": 46,
 				"class": "retelling",
 				"tags": ["proctology", "anuses"]
@@ -10480,13 +10579,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e87", "title": "Julie Bowfinger" },
+				"episode": {
+					"key": "s3e87",
+					"title": "Julie Bowfinger"
+				},
 				"startMinute": 44,
 				"class": "inaugural",
 				"tags": ["movie theatres", "scams"]
 			},
 			{
-				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"episode": {
+					"key": "s5e184",
+					"title": "That Implies Toys"
+				},
 				"startMinute": 12,
 				"class": "retelling",
 				"tags": ["movie theatres", "scams"]
@@ -10501,7 +10606,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e72", "title": "Squish Factor" },
+				"episode": {
+					"key": "s3e72",
+					"title": "Squish Factor"
+				},
 				"startMinute": 40,
 				"class": "inaugural",
 				"tags": [
@@ -10511,7 +10619,10 @@
 				]
 			},
 			{
-				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"episode": {
+					"key": "s5e184",
+					"title": "That Implies Toys"
+				},
 				"startMinute": 12,
 				"class": "retelling",
 				"tags": [
@@ -10559,7 +10670,10 @@
 				]
 			},
 			{
-				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"episode": {
+					"key": "s5e184",
+					"title": "That Implies Toys"
+				},
 				"startMinute": 12,
 				"class": "retelling",
 				"tags": [
@@ -10589,7 +10703,10 @@
 				"tags": ["hipsters", "typewriters"]
 			},
 			{
-				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"episode": {
+					"key": "s5e184",
+					"title": "That Implies Toys"
+				},
 				"startMinute": 18,
 				"class": "acknowledgedRetelling",
 				"tags": ["hipsters", "typewriters"]
@@ -10604,13 +10721,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e55", "title": "She Just Want Beets" },
+				"episode": {
+					"key": "s3e55",
+					"title": "She Just Want Beets"
+				},
 				"startMinute": 35,
 				"class": "inaugural",
 				"tags": ["siblings", "snoring"]
 			},
 			{
-				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"episode": {
+					"key": "s5e184",
+					"title": "That Implies Toys"
+				},
 				"startMinute": 33,
 				"class": "retelling",
 				"tags": ["siblings", "snoring"]
@@ -10625,16 +10748,333 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s1e11", "title": "Google It, Chef" },
+				"episode": {
+					"key": "s1e11",
+					"title": "Google It, Chef"
+				},
 				"startMinute": 14,
 				"class": "inaugural",
 				"tags": ["snoring"]
 			},
 			{
-				"episode": { "key": "s5e184", "title": "That Implies Toys" },
+				"episode": {
+					"key": "s5e184",
+					"title": "That Implies Toys"
+				},
 				"startMinute": 34,
 				"class": "retelling",
 				"tags": ["siblings", "snoring"]
+			}
+		]
+	},
+	{
+		"key": "the-original-car-karaoke",
+		"isMeta": false,
+		"title": "The Original Car Karaoke",
+		"elucidation": "pft met john ross bowie on a ford focus commercial that featured puppets and even the puppets won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e56",
+					"title": "Round Is Part Of Science"
+				},
+				"startMinute": 58,
+				"class": null,
+				"tags": ["ford", "commercials"]
+			},
+			{
+				"episode": {
+					"key": "s5e165",
+					"title": "New Gnome Dropped Who Dis"
+				},
+				"startMinute": 56,
+				"class": null,
+				"tags": ["ford", "commercials"]
+			}
+		]
+	},
+	{
+		"key": "he-thought-he-was-in-the-leftovers",
+		"isMeta": false,
+		"title": "He Thought He Was in The Leftovers",
+		"elucidation": "scott napped in a hotel room, woke to find a stranger's pants, and now won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s4e143",
+					"title": "I Want Cold Cuts!"
+				},
+				"startMinute": 34,
+				"class": null,
+				"tags": ["hotels", "sweatpants"]
+			},
+			{
+				"episode": {
+					"key": "s5e173",
+					"title": "Under the Umbrella"
+				},
+				"startMinute": 35,
+				"class": null,
+				"tags": ["hotels", "sweatpants"]
+			}
+		]
+	},
+	{
+		"key": "everyone-gets-a-bite",
+		"isMeta": false,
+		"title": "Everyone Gets a Bite",
+		"elucidation": "ll found a decent tapas place and she will neither shut the fuk up about it nor disclose its location",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e184",
+					"title": "That Implies Toys"
+				},
+				"startMinute": 49,
+				"class": "inaugural",
+				"tags": ["tapas", "restaurants"]
+			},
+			{
+				"episode": {
+					"key": "s5e185",
+					"title": "Trippin Dots"
+				},
+				"startMinute": 33,
+				"class": "retelling",
+				"tags": ["tapas", "restaurants"]
+			}
+		]
+	},
+	{
+		"key": "penis-get-hard-at-thirteen",
+		"isMeta": false,
+		"title": "Penis Get Hard at Thirteen",
+		"elucidation": "the cast won't shut the fuk up about their first slow dancing experiences",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e57",
+					"title": "Ice Cream Please"
+				},
+				"startMinute": 24,
+				"class": "inaugural",
+				"tags": [
+					"slow dancing",
+					"time after time (song)",
+					"cyndi lauper"
+				]
+			},
+			{
+				"episode": {
+					"key": "s5e186",
+					"title": "Bad Checks No Wait Wait Bad Checks"
+				},
+				"startMinute": 51,
+				"class": "retelling",
+				"tags": [
+					"slow dancing",
+					"time after time (song)",
+					"cyndi lauper"
+				]
+			}
+		]
+	},
+	{
+		"key": "is-it-possible-i-have-a-kid-out-there",
+		"isMeta": false,
+		"title": "Is it Possible I Have a Kid Out There?",
+		"elucidation": "scott wonders sometimes if he fathered children unbeknownst to him and for some reason won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s4e105", "title": "Crumbelievable" },
+				"startMinute": 28,
+				"class": "retelling",
+				"tags": []
+			},
+			{
+				"episode": { "key": "s2e29", "title": "Me So Phony" },
+				"startMinute": 26,
+				"class": "retelling",
+				"tags": []
+			}
+		]
+	},
+	{
+		"key": "someone-s-at-the-door-and-he-s-got-our-dog",
+		"isMeta": false,
+		"title": "Someone's at the Door and He's Got Our Dog",
+		"elucidation": "scott returned an escaped dog to the same house twice and he won't shut the fuk up about it at least twice himself",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e187",
+					"title": "Third Time Shame on the Charm"
+				},
+				"startMinute": 7,
+				"class": null,
+				"tags": ["escaped pets"]
+			},
+			{
+				"episode": { "key": "s4e105", "title": "Crumbelievable" },
+				"startMinute": 26,
+				"class": null,
+				"tags": ["escaped pets"]
+			}
+		]
+	},
+	{
+		"key": "trots-out-grabs-the-dog",
+		"isMeta": false,
+		"title": "Trots Out, Grabs the Dog",
+		"elucidation": "scott rescued some asshole's dog and while the asshole prolly doesn't remember, even, scott won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e95", "title": "Toothpaste Conundrum" },
+				"startMinute": 40,
+				"class": null,
+				"tags": ["escaped pets"]
+			},
+			{
+				"episode": {
+					"key": "s5e187",
+					"title": "Third Time Shame on the Charm"
+				},
+				"startMinute": 7,
+				"class": null,
+				"tags": ["escaped pets"]
+			}
+		]
+	},
+	{
+		"key": "it-s-time-to-invite-every-single-person-you-know-to-a-restaurant",
+		"isMeta": false,
+		"title": "It's Time to Invite Every Single Person You Know to a Restaurant",
+		"elucidation": "the cast won't shut the fuk up about that trend in young people to invite all their friends to a restaurent for their birthday",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e41",
+					"title": "Cozy Done Right"
+				},
+				"startMinute": 22,
+				"class": "inaugural",
+				"tags": ["birthdays"],
+				"nb": ["birthday dinners being a thing when you're young"]
+			},
+			{
+				"episode": {
+					"key": "s5e187",
+					"title": "Third Time Shame on the Charm"
+				},
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["birthdays"],
+				"nb": ["birthday dinners being a thing when you're young"]
+			}
+		]
+	},
+	{
+		"key": "open-at-7a-m-is-that-a-joke",
+		"isMeta": false,
+		"title": "Open at 7a.m. - Is That a Joke?",
+		"elucidation": "pft celebrated his birthday at l.a.'s the drawing room once and still won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e68", "title": "The Normal Kingdom" },
+				"startMinute": 38,
+				"class": "inaugural",
+				"tags": ["drawing room (los angeles bar)", "birthdays"]
+			},
+			{
+				"episode": {
+					"key": "s5e187",
+					"title": "Third Time Shame on the Charm"
+				},
+				"startMinute": 35,
+				"class": "retelling",
+				"tags": ["drawing room (los angeles bar)", "birthdays"]
+			}
+		]
+	},
+	{
+		"key": "he-could-sail-the-seven-seas",
+		"isMeta": false,
+		"title": "He Could Sail the Seven Seas",
+		"elucidation": "scott's childhood church featured a man w/ an anchor tattoo and neither the congregation nor he can shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e85", "title": "Mrs. Pachinko" },
+				"startMinute": 6,
+				"class": "inaugural",
+				"tags": ["tattoos"]
+			},
+			{
+				"episode": {
+					"key": "s5e188",
+					"title": "There's Nothing But Death For You Here"
+				},
+				"startMinute": 6,
+				"class": "retelling",
+				"tags": ["tattoos"]
+			}
+		]
+	},
+
+	{
+		"key": "how-d-you-get-the-bike-out",
+		"isMeta": false,
+		"title": "How'd You Get the Bike Out?",
+		"elucidation": "scott and tall john rode bikes into brian posehn's pool and scott, at least, won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e98", "title": "Tendrils Are Hair" },
+				"startMinute": 36,
+				"class": null,
+				"tags": ["stunts", "bicycles", "brian posehn"]
+			},
+			{
+				"episode": {
+					"key": "s5e188",
+					"title": "There's Nothing But Death For You Here"
+				},
+				"startMinute": 36,
+				"class": null,
+				"tags": ["stunts", "bicycles", "brian posehn"]
+			}
+		]
+	},
+	{
+		"key": "so-they-re-all-just-dead",
+		"isMeta": false,
+		"title": "So They're All Just Dead?",
+		"elucidation": "some stranger pulled a prank on his mother years ago and now nobody at threedom hq will shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e189",
+					"title": "You May Be An Redneck"
+				},
+				"startMinute": 47,
+				"class": null,
+				"tags": ["pranks", "toy story (film franchise)"]
+			},
+			{
+				"episode": { "key": "s2e37", "title": "The Threedom Boys" },
+				"startMinute": 62,
+				"class": null,
+				"tags": ["pranks", "toy story (film franchise)"]
 			}
 		]
 	}

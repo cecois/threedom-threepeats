@@ -303,7 +303,8 @@
 		"possibles": [
 			"16 - goodbye, 6'2",
 			"34 - world's biggest slider/smallest hamburger",
-			"41 - lauren's sweater flub in the lunch line"
+			"41 - lauren's sweater flub in the lunch line",
+			"29 - mike castle rescues a dog outside of jessica chaffin's house"
 		]
 	},
 	{
@@ -397,8 +398,7 @@
 	{
 		"episode": { "key": "s3e95", "title": "Toothpaste Conundrum" },
 		"possibles": [
-			"10 - scott's dog georgia gets loose during a party and he (scott) ammasses 10000 steps",
-			"38 - missing dog and they call the owner who shows up on his phone"
+			"10 - scott's dog georgia gets loose during a party and he (scott) ammasses 10000 steps"
 		]
 	},
 	{
@@ -602,12 +602,6 @@
 		]
 	},
 	{
-		"episode": { "key": "s2e29", "title": "Me So Phony" },
-		"possibles": [
-			"28 - scott wonders if he may have fathered a child kid at some point"
-		]
-	},
-	{
 		"episode": { "key": "s1e24", "title": "Look, I am Your Father" },
 		"possibles": [
 			"11 - ages and reporting them publicly (spanking reference)",
@@ -718,5 +712,12 @@
 	{
 		"episode": { "key": "s5e182", "title": "Hanging Like a Chad" },
 		"possibles": ["46 - the cast are big fans of the aura frame"]
+	},
+	{
+		"episode": {
+			"key": "s5e187",
+			"title": "Third Time Shame on the Charm"
+		},
+		"possibles": ["16 - ll & mike castle spot a crazy-looking dog"]
 	}
 ]
