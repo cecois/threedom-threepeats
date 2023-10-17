@@ -10807,16 +10807,16 @@
 					"title": "I Want Cold Cuts!"
 				},
 				"startMinute": 34,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["hotels", "sweatpants"]
 			},
 			{
 				"episode": {
 					"key": "s5e173",
-					"title": "Under the Umbrella"
+					"title": "Wrong Said Frong"
 				},
 				"startMinute": 35,
-				"class": null,
+				"class": "retelling",
 				"tags": ["hotels", "sweatpants"]
 			}
 		]
@@ -10917,13 +10917,13 @@
 					"title": "Third Time Shame on the Charm"
 				},
 				"startMinute": 7,
-				"class": null,
+				"class": "retelling",
 				"tags": ["escaped pets"]
 			},
 			{
 				"episode": { "key": "s4e105", "title": "Crumbelievable" },
 				"startMinute": 26,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["escaped pets"]
 			}
 		]
@@ -10938,7 +10938,7 @@
 			{
 				"episode": { "key": "s3e95", "title": "Toothpaste Conundrum" },
 				"startMinute": 40,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["escaped pets"]
 			},
 			{
@@ -10947,7 +10947,7 @@
 					"title": "Third Time Shame on the Charm"
 				},
 				"startMinute": 7,
-				"class": null,
+				"class": "retelling",
 				"tags": ["escaped pets"]
 			}
 		]
@@ -11040,7 +11040,7 @@
 			{
 				"episode": { "key": "s3e98", "title": "Tendrils Are Hair" },
 				"startMinute": 36,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["stunts", "bicycles", "brian posehn"]
 			},
 			{
@@ -11049,7 +11049,7 @@
 					"title": "There's Nothing But Death For You Here"
 				},
 				"startMinute": 36,
-				"class": null,
+				"class": "retelling",
 				"tags": ["stunts", "bicycles", "brian posehn"]
 			}
 		]
@@ -11067,13 +11067,13 @@
 					"title": "You May Be An Redneck"
 				},
 				"startMinute": 47,
-				"class": null,
+				"class": "retelling",
 				"tags": ["pranks", "toy story (film franchise)"]
 			},
 			{
 				"episode": { "key": "s2e37", "title": "The Threedom Boys" },
 				"startMinute": 62,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["pranks", "toy story (film franchise)"]
 			}
 		]
