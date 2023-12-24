@@ -383,7 +383,7 @@
 		"key": "j-accuse",
 		"isMeta": true,
 		"title": "J'Accuse",
-		"elucidation": "occasionally, a cast member will be accused of having told a story on this show that they haven't",
+		"elucidation": "occasionally a cast member will be accused of not having shut the fuk up about something but they actually did",
 		"nb": [],
 		"tellings": [
 			{
@@ -413,7 +413,7 @@
 		]
 	},
 	{
-		"key": "",
+		"key": "and-she-had-a-flat-face-forever",
 		"isMeta": false,
 		"title": "And She Had a Flat Face Forever?",
 		"elucidation": "ll won't won't shut the fuk up about a former gym teacher who smashed her face in a cab bulkhead",
@@ -435,7 +435,7 @@
 					"title": "This Episode Is Not Titled Dilly Dilly"
 				},
 				"startMinute": 34,
-				"class": null,
+				"class": "inaugural",
 				"tags": []
 			}
 		]
@@ -2137,7 +2137,7 @@
 		"title": "Did You Have Posters on Your Walls?",
 		"key": "did-you-have-posters-on-your-walls",
 		"isMeta": false,
-		"elucidation": "the cast recount their bedroom decor as youths",
+		"elucidation": "the cast won't shut the fuk up about their bedroom decor as youths",
 		"nb": [],
 		"tellings": [
 			{
@@ -2161,46 +2161,10 @@
 		]
 	},
 	{
-		"title": "There Was a Big Bug in Your House",
-		"key": "there-was-a-big-bug-in-your-house",
-		"isMeta": false,
-		"elucidation": "ll had a bug in her house once",
-		"nb": [],
-		"tellings": [
-			{
-				"episode": {
-					"key": "s4e139",
-					"title": "Good Couch, Bad Couch"
-				},
-				"startMinute": 37,
-				"class": "retelling",
-				"tags": ["bugs"]
-			},
-			{
-				"episode": {
-					"key": "s3e87",
-					"title": "Julie Bowfinger"
-				},
-				"startMinute": 25,
-				"class": "inaugural",
-				"tags": ["bugs"]
-			},
-			{
-				"episode": {
-					"key": "s5e188",
-					"title": "There's Nothing But Death For You Here"
-				},
-				"startMinute": 43,
-				"class": "pimpedRetelling",
-				"tags": ["bugs"]
-			}
-		]
-	},
-	{
 		"title": "Instant Skill",
 		"key": "instant-skill",
 		"isMeta": false,
-		"elucidation": "the cast debate what skills they wish they had but do not",
+		"elucidation": "the cast refuse to shut the fuk up about the skills they wish they had",
 		"nb": [],
 		"tellings": [
 			{
@@ -2236,7 +2200,7 @@
 		"title": "Cover Band Parties",
 		"key": "cover-band-parties",
 		"isMeta": false,
-		"elucidation": "scott recounts the halo of parties around cafe cordiale",
+		"elucidation": "scott certainly cannot shut the fuk up about the cafe cordiale party scene",
 		"nb": [],
 		"tellings": [
 			{
@@ -2269,7 +2233,7 @@
 		"key": "stripper-on-kelsey-grammer-p-resents-the-sketch-show-set",
 		"isMeta": false,
 		"title": "Stripper on 'Kelsey Grammer P/Resents The Sketch Show' Set",
-		"elucidation": "pft recounts a bts strip show at kelsey grammer show from the 90s",
+		"elucidation": "pft endured a bts strip show at kelsey grammer resents the sketch show and can't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -2296,7 +2260,7 @@
 		"key": "big-2",
 		"isMeta": false,
 		"title": "'Big 2'",
-		"elucidation": "the cast writes the big sequel movie",
+		"elucidation": "the cast can't shut the fuk up about their big 2 spec",
 		"nb": [],
 		"tellings": [
 			{
@@ -2341,7 +2305,7 @@
 		"title": "Precious: Based on the Novel 'Push' by Sapphire",
 		"key": "precious-based-on-the-novel-push-by-sapphire",
 		"isMeta": false,
-		"elucidation": "ll recalls seeing precious with her sister-in-law",
+		"elucidation": "ll can't shut the fuk up about an awkward screening of precious with her sister-in-law",
 		"nb": [],
 		"tellings": [
 			{
@@ -2368,7 +2332,7 @@
 		"title": "They'd Come for You",
 		"key": "they-d-come-for-you",
 		"isMeta": false,
-		"elucidation": "scott wonders aloud if he could have a baby out there he didn't know about",
+		"elucidation": "scott won't shut the fuk up about all the babies out there he didn't know about",
 		"nb": [],
 		"tellings": [
 			{
@@ -2395,7 +2359,7 @@
 		"key": "scott-s-brother-runs-over-his-foot",
 		"isMeta": false,
 		"title": "Scott's Brother Runs Over His Foot",
-		"elucidation": "scott recounts how his brother once ran over scott's foot with a car",
+		"elucidation": "scott won't shut the fuk up about how his brother once ran over his (scott's) foot with a car",
 		"nb": [],
 		"tellings": [
 			{
@@ -2422,7 +2386,7 @@
 		"key": "scott-saw-some-bugs-and-lizards",
 		"isMeta": false,
 		"title": "Scott Saw Some Bugs and Lizards",
-		"elucidation": "scott recounts his experiences with bugs and lizards in costa rica",
+		"elucidation": "scott can't seem to shut the fuk up about bugs and lizards in costa rica",
 		"nb": [],
 		"tellings": [
 			{
@@ -2494,7 +2458,7 @@
 		"key": "handfuls-of-rats-by-the-tail",
 		"isMeta": false,
 		"title": "Handfuls of Rats by the Tail",
-		"elucidation": "ll recounts that time an exterminator presented mike a bouquet of rats",
+		"elucidation": "ll won't shut the fuk up about that time an exterminator presented mike a bouquet of rats",
 		"nb": [],
 		"tellings": [
 			{
@@ -2521,7 +2485,7 @@
 		"key": "your-dad-turns-into-the-bug",
 		"isMeta": false,
 		"title": "Your Dad Turns Into the Bug",
-		"elucidation": "ll recounts that time her dad buried the lede about a big bug in her house",
+		"elucidation": "ll still won't shut the fuk up about that big bug in her house",
 		"nb": [],
 		"tellings": [
 			{
@@ -2541,6 +2505,15 @@
 				"startMinute": 26,
 				"class": "inaugural",
 				"tags": ["bugs"]
+			},
+			{
+				"episode": {
+					"key": "s5e188",
+					"title": "There's Nothing But Death For You Here"
+				},
+				"startMinute": 43,
+				"class": "pimpedRetelling",
+				"tags": ["bugs"]
 			}
 		]
 	},
@@ -2548,7 +2521,7 @@
 		"key": "paul-janie-rent-a-boat",
 		"isMeta": false,
 		"title": "Paul & Janie Rent a Boat",
-		"elucidation": "pft talks about renting a boat in south carolina",
+		"elucidation": "pft won't shut the fuk up about renting a boat in south carolina",
 		"nb": [],
 		"tellings": [
 			{
@@ -2584,7 +2557,7 @@
 		"key": "it-s-threedom-legend",
 		"isMeta": false,
 		"title": "It's Threedom Legend",
-		"elucidation": "pft on some aspect of his trip to redondo beach in 1984",
+		"elucidation": "pft hit up redondo beach in 1984 and still can't shut the fuk up about the trip",
 		"nb": [],
 		"tellings": [
 			{
@@ -2623,7 +2596,7 @@
 		"key": "scott-s-brother-s-bong",
 		"isMeta": false,
 		"title": "Scott's Brother's Bong",
-		"elucidation": "scott narcs his brother",
+		"elucidation": "scott still can't shut the fuk up about his brother's hidden bongs",
 		"nb": [],
 		"tellings": [
 			{
@@ -2650,7 +2623,7 @@
 		"key": "george-wendt-gets-free-beer",
 		"isMeta": false,
 		"title": "George Wendt Gets Free Beer",
-		"elucidation": "scott (typically) marvels at how george wendt still gets beers slid to him in bars",
+		"elucidation": "scott (typically) won't shut the fuk up about how george wendt still gets beers slid to him in bars",
 		"nb": [],
 		"tellings": [
 			{
@@ -2776,7 +2749,7 @@
 		"key": "you-prolly-should-shit",
 		"isMeta": false,
 		"title": "You Prolly Should Shit",
-		"elucidation": "ll cites ryan stanger's gross thing",
+		"elucidation": "ll rightfully won't shut the fuk up about ryan stanger's fruit incident",
 		"nb": [],
 		"tellings": [
 			{
@@ -2803,7 +2776,7 @@
 		"key": "how-s-robert-doing",
 		"isMeta": false,
 		"title": "How's Robert Doing?",
-		"elucidation": "scott and pft used to share a dentist upon bob odenkirk's recommendation",
+		"elucidation": "scott and pft won't shut the fuk up about the dentist they shared with bob odenkirk",
 		"nb": [],
 		"tellings": [
 			{
@@ -2830,7 +2803,7 @@
 		"key": "the-mommies",
 		"isMeta": false,
 		"title": "The Mommies",
-		"elucidation": "someone leads the rest of the cast through what the mommies were",
+		"elucidation": "nobody can yet shut the fuk up about the mommies",
 		"nb": [],
 		"tellings": [
 			{
@@ -2857,7 +2830,7 @@
 		"key": "aw-my-bad-back",
 		"isMeta": false,
 		"title": "Aw My Bad Back",
-		"elucidation": "the cast reminisce about the bags and lockers of their school days",
+		"elucidation": "the cast cannot shut the fuk up about the bags and lockers of their school days",
 		"nb": [],
 		"tellings": [
 			{
@@ -2884,7 +2857,7 @@
 		"key": "i-jump-straight-into-pants-that-are-held-up-by-a-contraption-that-i-made",
 		"isMeta": false,
 		"title": "I Jump Straight Into Pants that are Held Up by a Contraption that I Made",
-		"elucidation": "the cast discuss the different ways they put on pants",
+		"elucidation": "the cast won't shut the fuk up about putting on pants",
 		"nb": [],
 		"tellings": [
 			{
@@ -3006,7 +2979,7 @@
 		"key": "you-wore-sharkies",
 		"isMeta": false,
 		"title": "You Wore Sharkies",
-		"elucidation": "scott's humiliating buster brown shoes",
+		"elucidation": "prolly nobody will ever shut the fuk up about scott's humiliating buster brown shoes",
 		"nb": [],
 		"tellings": [
 			{
@@ -3033,7 +3006,7 @@
 		"key": "the-brady-bunch-house",
 		"isMeta": false,
 		"title": "The Brady Bunch House",
-		"elucidation": "the cast talk about the fate of the brady bunch house",
+		"elucidation": "the cast won't shut the fuk up about the fate of the brady bunch house",
 		"nb": [],
 		"tellings": [
 			{
@@ -3069,7 +3042,7 @@
 		"key": "my-bones-were-like-diamonds",
 		"isMeta": false,
 		"title": "My Bones Were Like Diamonds",
-		"elucidation": "young pft downs an entire bottle of flintstones vitamins",
+		"elucidation": "young pft downs an entire bottle of flintstones vitamins and older pft won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -3096,7 +3069,7 @@
 		"key": "high-school-reunions",
 		"isMeta": false,
 		"title": "High School Reunions",
-		"elucidation": "the cast tell the tales of their high school reunions",
+		"elucidation": "the cast cannot shut the fuk up about their high school reunions",
 		"nb": [],
 		"tellings": [
 			{
@@ -3132,7 +3105,7 @@
 		"key": "man-i-feel-like-a-grandma",
 		"isMeta": false,
 		"title": "Man! I Feel Like a Grandma!",
-		"elucidation": "pft on that shania twain track",
+		"elucidation": "pft can't shut the fuk up about that shania twain track",
 		"nb": [],
 		"tellings": [
 			{
@@ -3186,7 +3159,7 @@
 		"key": "uh-oh-i-cut-my-finger",
 		"isMeta": false,
 		"title": "Uh-oh I Cut My Finger",
-		"elucidation": "pft's ikea injury",
+		"elucidation": "pft won't shut the fuk up about his dreadful ikea injury",
 		"nb": [],
 		"tellings": [
 			{
@@ -3222,7 +3195,7 @@
 		"key": "i-did-not-inhale",
 		"isMeta": false,
 		"title": "I Did Not Inhale",
-		"elucidation": "the cast discuss their collective history with smoking cigarettes",
+		"elucidation": "the cast won't shut the fuk up about smoking cigarettes",
 		"nb": ["distinct from pft's tale about alan carr et al"],
 		"tellings": [
 			{
@@ -3258,7 +3231,7 @@
 		"key": "samantha-parkington-from-1904",
 		"isMeta": false,
 		"title": "Samantha Parkington from 1904",
-		"elucidation": "ll's american girl doll story",
+		"elucidation": "ll can't shut the fuk up about her american girl doll",
 		"nb": [],
 		"tellings": [
 			{
@@ -3294,7 +3267,7 @@
 		"key": "worst-fear-bathroom",
 		"isMeta": false,
 		"title": "Worst Fear Bathroom",
-		"elucidation": "the cast laments the earwolf facilities",
+		"elucidation": "the cast can't shut the fuk up about the state of the earwolf facilities",
 		"nb": [],
 		"tellings": [
 			{
@@ -3321,7 +3294,7 @@
 		"key": "you-ve-all-spun-the-wheel",
 		"isMeta": false,
 		"title": "You've All Spun the Wheel",
-		"elucidation": "the cast take stock of who has spun the price is right wheel",
+		"elucidation": "the cast cannot shut the fuk up about spinning the price is right wheel",
 		"nb": [],
 		"tellings": [
 			{
@@ -3348,7 +3321,7 @@
 		"key": "are-you-paul-f-tompkins",
 		"isMeta": false,
 		"title": "Are You Paul F. Tompkins?",
-		"elucidation": "pft yells at a fan",
+		"elucidation": "pft won't shut the fuk up about that time he yelled at a fan",
 		"nb": [],
 		"tellings": [
 			{
@@ -3375,7 +3348,7 @@
 		"key": "it-s-in-my-twitter-bio",
 		"isMeta": false,
 		"title": "It's In My Twitter Bio",
-		"elucidation": "ll dissociates during an ad read",
+		"elucidation": "ll won't shut the fuk up about that time she dissociated during an ad read",
 		"nb": [],
 		"tellings": [
 			{
@@ -3402,7 +3375,7 @@
 		"key": "there-s-stuff-inside",
 		"isMeta": false,
 		"title": "There's Stuff Inside",
-		"elucidation": "ll details her history with matcha",
+		"elucidation": "ll won't shut the fuk up about matcha and her history therewith",
 		"nb": [],
 		"tellings": [
 			{
@@ -3429,7 +3402,7 @@
 		"key": "gotta-be-the-best-pizza-imaginable",
 		"isMeta": false,
 		"title": "Gotta Be the Best Pizza Imaginable",
-		"elucidation": "ll's relationship w/ pizza machines",
+		"elucidation": "ll won't shut the fuk up about pizza machines",
 		"nb": [],
 		"tellings": [
 			{
@@ -3456,7 +3429,7 @@
 		"key": "i-don-t-have-any-guesses-just-tell-me",
 		"isMeta": false,
 		"title": "I Don't Have Any Guesses - Just Tell Me",
-		"elucidation": "scott does some abbott and costello shit",
+		"elucidation": "scott won't shut the fuk up with that guess who joke",
 		"nb": [],
 		"tellings": [
 			{
@@ -3516,7 +3489,7 @@
 		"key": "it-was-a-collection-of-lists",
 		"isMeta": false,
 		"title": "It Was a Collection of Lists",
-		"elucidation": "pft and the book of lists",
+		"elucidation": "pft won't shut the fuk so much about the book of lists that he bought copies for everyone",
 		"nb": [],
 		"tellings": [
 			{
@@ -3543,7 +3516,7 @@
 		"key": "was-he-a-stilf",
 		"isMeta": false,
 		"title": "Was He a STILF?",
-		"elucidation": "ll's funny 7th grade science teacher",
+		"elucidation": "ll still won't shut the fuk up about her funny 7th grade stilf",
 		"nb": [],
 		"tellings": [
 			{
@@ -3570,7 +3543,7 @@
 		"key": "meleva-it-s-jo-anne",
 		"isMeta": false,
 		"title": "Meleva, It's Jo Anne",
-		"elucidation": "scott misses the era of entertainment when an unusual voice got you through",
+		"elucidation": "scott won't shut the fuk up bout that era of showbiz when an unusual voice got you through",
 		"nb": [],
 		"tellings": [
 			{
@@ -3612,7 +3585,7 @@
 		"key": "any-new-lawn-mowers-in",
 		"isMeta": false,
 		"title": "Any New Lawn Mowers In?",
-		"elucidation": "scott's legendary turn as an l.a. dodgers bat boy",
+		"elucidation": "scott had a one-game, legendary, run as a dodgers bat boy and nobody can shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -3648,7 +3621,7 @@
 		"key": "thirty-minutes-on-the-lake-sixty-minutes-on-the-river",
 		"isMeta": false,
 		"title": "Thirty Minutes on The Lake; Sixty Minutes on the River",
-		"elucidation": "ll's chicago pier gig",
+		"elucidation": "ll still won't shut the fuk up about her chicago navy pier gig",
 		"nb": [],
 		"tellings": [
 			{
@@ -3711,7 +3684,7 @@
 		"key": "they-rode-a-dolphin",
 		"isMeta": false,
 		"title": "They Rode a Dolphin",
-		"elucidation": "the cast share stories about cruises and whalewatching and seasickness",
+		"elucidation": "the cast can't shut the fuk up about cruises and whalewatching and seasickness",
 		"nb": [],
 		"tellings": [
 			{
@@ -3801,7 +3774,7 @@
 		"key": "spikes-with-other-coyotes-heads-on-them",
 		"isMeta": false,
 		"title": "Spikes with Other Coyotes' Heads on Them",
-		"elucidation": "kulap chases coyotes",
+		"elucidation": "kulap chases coyotes but it's scott who can't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -3936,7 +3909,7 @@
 		"key": "the-egg-that-never-cracks",
 		"isMeta": false,
 		"title": "The Egg that Never Cracks",
-		"elucidation": "ll's evanston 4th of july story",
+		"elucidation": "ll can't shut the fuk up about her history with the evanston 4th of july",
 		"nb": [],
 		"tellings": [
 			{
@@ -3963,7 +3936,7 @@
 		"key": "i-think-there-s-some-sort-of-weird-right-wing-cabal",
 		"isMeta": false,
 		"title": "I Think There's Some Sort of Weird, Right-Wing Cabal",
-		"elucidation": "scott's take on the hollywood christmas parade",
+		"elucidation": "scott won't shut the fuk up about the hollywood christmas parade",
 		"nb": [],
 		"tellings": [
 			{
@@ -3990,7 +3963,7 @@
 		"key": "guys-what-if-we-get-part-time-jobs",
 		"isMeta": false,
 		"title": "Guys, What if We Get Part-Time Jobs?",
-		"elucidation": "the consider getting part-time jobs and won't shut the fuk up about it",
+		"elucidation": "the cast won't shut the fuk up about getting part-time jobs",
 		"nb": [],
 		"tellings": [
 			{
@@ -4026,7 +3999,7 @@
 		"key": "abogado",
 		"isMeta": false,
 		"title": "Abogado",
-		"elucidation": "pft knows a strange dog",
+		"elucidation": "pft won't shut the fuk up about this strange dog he knows",
 		"nb": [],
 		"tellings": [
 			{
@@ -4053,7 +4026,7 @@
 		"key": "it-s-just-a-dog",
 		"isMeta": false,
 		"title": "It's Just a Dog",
-		"elucidation": "pft knew a scary dog",
+		"elucidation": "pft won't shut the fuk up about this scary dog he used to see",
 		"nb": [
 			"big scary dog in a garage in his philly neighborhood - rob's hill or hippie's hill"
 		],
@@ -4082,7 +4055,7 @@
 		"key": "i-could-draw-him-right-now",
 		"isMeta": false,
 		"title": "I Could Draw Him Right Now",
-		"elucidation": "scott's original character, irving",
+		"elucidation": "scott won't shut the fuk up about his original character, irving",
 		"nb": [],
 		"tellings": [
 			{
@@ -4109,7 +4082,7 @@
 		"key": "this-fucking-looks-like-zorro",
 		"isMeta": false,
 		"title": "This Fucking Looks like Zorro",
-		"elucidation": "the cast discuss their history with drawing",
+		"elucidation": "the cast won't shut the fuk up about drawing",
 		"nb": ["scott's irving character is its own tell"],
 		"tellings": [
 			{
@@ -4136,7 +4109,7 @@
 		"key": "i-hate-to-bring-it-back-to-currency",
 		"isMeta": false,
 		"title": "I Hate to Bring it Back to Currency",
-		"elucidation": "the cast discuss strange currencies (two dollar bills, primarily)",
+		"elucidation": "the cast won't shut the fuk up about strange currencies (two dollar bills, primarily)",
 		"nb": [],
 		"tellings": [
 			{
@@ -4163,7 +4136,7 @@
 		"key": "oh-this-is-sinful",
 		"isMeta": false,
 		"title": "Oh, This is Sinful",
-		"elucidation": "the cast discuss especially sinful desserts",
+		"elucidation": "the cast won't shut the fuk up about especially sinful desserts",
 		"nb": [],
 		"tellings": [
 			{
@@ -4226,7 +4199,7 @@
 		"key": "he-died-of-blood",
 		"isMeta": false,
 		"title": "He Died of Blood",
-		"elucidation": "pft & andy daly both had trouble with clocks & watches",
+		"elucidation": "pft & andy daly both had trouble with clocks & watches and at least one of them refuses to shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -9278,7 +9251,7 @@
 		"key": "i-don-t-want-a-spanking",
 		"isMeta": true,
 		"title": "I Don't Want a Spanking",
-		"elucidation": "extremely rarely the cast will acknowledge they've already addressed a topic and in fact move on",
+		"elucidation": "extremely rarely the cast will acknowledge they've already not shut the fuk up about something and in fact move on",
 		"nb": [],
 		"tellings": [
 			{
@@ -10423,7 +10396,7 @@
 		"key": "i-still-want-to-date-her",
 		"isMeta": false,
 		"title": "I Still Want to Date Her",
-		"elucidation": "the cast can't believe (that grown men used to not stfu about) dating underaged girls",
+		"elucidation": "the cast can't believe that grown men used to not shut the fuk about dating underaged girls",
 		"nb": [],
 		"tellings": [
 			{
@@ -10780,7 +10753,7 @@
 					"title": "Round Is Part Of Science"
 				},
 				"startMinute": 58,
-				"class": null,
+				"class": "inaugural",
 				"tags": ["ford", "commercials"]
 			},
 			{
@@ -10789,7 +10762,7 @@
 					"title": "New Gnome Dropped Who Dis"
 				},
 				"startMinute": 56,
-				"class": null,
+				"class": "retelling",
 				"tags": ["ford", "commercials"]
 			}
 		]
