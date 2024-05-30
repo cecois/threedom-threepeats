@@ -1,5 +1,566 @@
 [
 	{
+		"key": "it-s-made-of-glass-so-we-should-call-it-something-different",
+		"isMeta": false,
+		"title": "It's Made of Glass so we Should Call it Something Different",
+		"elucidation": "the cast can't shut the fuk up about self-referential (tautological?) objects such as glass and sand",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e38",
+					"title": "Kiss My Grits!"
+				},
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": []
+			},
+			{
+				"episode": {
+					"key": "s6e202",
+					"title": "The Zoo STINKS!"
+				},
+				"startMinute": 38,
+				"class": "acknowledgedRetelling",
+				"tags": []
+			}
+		]
+	},
+	{
+		"key": "get-raggedy",
+		"isMeta": false,
+		"title": "Get Raggedy",
+		"elucidation": "scott and pft can't shut the fuk up about a low-res image projected once at the hollywood bowl",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s4e135",
+					"title": "The Threedom Framily Plan"
+				},
+				"startMinute": 29,
+				"class": "inaugural",
+				"tags": ["steve martin", "martin short"]
+			},
+			{
+				"episode": {
+					"key": "s6e202",
+					"title": "The Zoo STINKS!"
+				},
+				"startMinute": 33,
+				"class": "acknowledgedRetelling",
+				"tags": ["steve martin", "martin short"]
+			}
+		]
+	},
+	{
+		"key": "we-re-still-doing-middle-ages-shit",
+		"isMeta": false,
+		"title": "We're Still Doing Middle Ages Shit",
+		"elucidation": "the cast agrees w/ pft that most conflicts should be video games and none of em can shut the fuk up about that",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e173",
+					"title": "Wrong Said Frong"
+				},
+				"startMinute": 15,
+				"class": "inaugural",
+				"tags": ["war", "video games", "labor strikes"]
+			},
+			{
+				"episode": {
+					"key": "s6e201",
+					"title": "You Carled Me Out"
+				},
+				"startMinute": 35,
+				"class": "retelling",
+				"tags": ["war", "video games", "labor strikes"]
+			}
+		]
+	},
+	{
+		"key": "trim-the-barbs-dude",
+		"isMeta": false,
+		"title": "Trim the Barbs, Dude",
+		"elucidation": "the cast — mostly ll — won't shut the fuk up about barbed penises",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e156",
+					"title": "No More Witches No More Goblins"
+				},
+				"startMinute": 7,
+				"class": "inaugural",
+				"tags": ["penises", "wild animals"]
+			},
+			{
+				"episode": {
+					"key": "s6e201",
+					"title": "You Carled Me Out"
+				},
+				"startMinute": 14,
+				"class": "acknowledgedRetelling",
+				"tags": ["penises", "wild animals"]
+			}
+		]
+	},
+	{
+		"key": "i-lick-a-big-lollipop",
+		"isMeta": false,
+		"title": "I Lick a Big Lollipop",
+		"elucidation": "the cast seem to forget that they cannot shut the fuk up about those nights when kids get to run the bases at MLB parks",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s4e116",
+					"title": "Mr. Golly’s Whiz Bang"
+				},
+				"startMinute": 39,
+				"class": "inaugural",
+				"tags": ["dodger stadium"]
+			},
+			{
+				"episode": {
+					"key": "s5e145",
+					"title": "Lauren's Topics Presents: Scott's Topics"
+				},
+				"startMinute": 54,
+				"class": "acknowledgedRetelling",
+				"tags": ["dodger stadium"]
+			}
+		]
+	},
+	{
+		"key": "i-ve-been-to-oakland",
+		"isMeta": false,
+		"title": "I've Been to Oakland",
+		"elucidation": "scott is so adamant the crew are asked to sing at a baseball game that he won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s6e201",
+					"title": "You Carled Me Out"
+				},
+				"startMinute": 14,
+				"class": "acknowledgedRetelling",
+				"tags": ["the star-spangled banner (song)"]
+			},
+			{
+				"episode": {
+					"key": "s1e14",
+					"title": "This From Bat Boy?"
+				},
+				"startMinute": 16,
+				"class": "inaugural",
+				"tags": ["the star-spangled banner (song)"]
+			},
+			{
+				"episode": {
+					"key": "s1e22",
+					"title": "Forget it Jake, it’s Chinatown"
+				},
+				"startMinute": 17,
+				"class": "retelling",
+				"tags": ["the star-spangled banner (song)"]
+			}
+		]
+	},
+	{
+		"key": "you-gained-a-pound-while-you-were-here",
+		"isMeta": false,
+		"title": "You Gained a Pound While You Were Here",
+		"elucidation": "scott frequented california's big yellow house and got weighed, won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e167",
+					"title": "1 Room 100 Toilets"
+				},
+				"startMinute": 40,
+				"class": "inaugural",
+				"tags": ["restaurants"]
+			},
+			{
+				"episode": {
+					"key": "s6e200",
+					"title": "Captain Thesaurus"
+				},
+				"startMinute": 14,
+				"class": "retelling",
+				"tags": ["restaurants"]
+			}
+		]
+	},
+	{
+		"key": "we-had-to-make-like-pancakes-and-shit",
+		"isMeta": false,
+		"title": "We Had to Make, Like, Pancakes and shit",
+		"elucidation": "the cast -- ll esp -- lament their home ec education and won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e95",
+					"title": "Toothpaste Conundrum"
+				},
+				"startMinute": 17,
+				"class": "inaugural",
+				"tags": ["home economics class", "pancakes"]
+			},
+			{
+				"episode": {
+					"key": "s6e200",
+					"title": "Captain Thesaurus"
+				},
+				"startMinute": 14,
+				"class": "retelling",
+				"tags": ["home economics class", "pancakes"]
+			}
+		]
+	},
+	{
+		"key": "because-i-was-raised-with-no-skills",
+		"isMeta": false,
+		"title": "Because I was Raised with No Skills",
+		"elucidation": "pft, lacking skills, suffered a lien as a young person and as an older person won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e49",
+					"title": "Buffalo Bill Cosby"
+				},
+				"startMinute": 24,
+				"class": "inaugural",
+				"tags": ["personal finance"]
+			},
+			{
+				"episode": {
+					"key": "s6e200",
+					"title": "Captain Thesaurus"
+				},
+				"startMinute": 14,
+				"class": "retelling",
+				"tags": ["personal finance"]
+			}
+		]
+	},
+	{
+		"key": "this-story-is-unseemly",
+		"isMeta": false,
+		"title": "This Story is Unseemly",
+		"elucidation": "scott dated a mormon girl, was confused about it, and won't shut the fuk up either",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e69",
+					"title": "Works At TBS"
+				},
+				"startMinute": 60,
+				"class": "inaugural",
+				"tags": ["mormons"]
+			},
+			{
+				"episode": {
+					"key": "s6e200",
+					"title": "Captain Thesaurus"
+				},
+				"startMinute": 9,
+				"class": "retelling",
+				"tags": ["mormons"]
+			}
+		]
+	},
+	{
+		"key": "gabbity-boop",
+		"isMeta": false,
+		"title": "Gabbity Boop",
+		"elucidation": "scott & pft saw an entertainer's sizzle reel back in the day and still won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e98",
+					"title": "Tendrils Are Hair"
+				},
+				"startMinute": 13,
+				"class": "inaugural",
+				"tags": ["louis armstrong", "scat singing"]
+			},
+			{
+				"episode": {
+					"key": "s6e199",
+					"title": "I'll Pick Up a Buffalo Nickel"
+				},
+				"startMinute": 52,
+				"class": "retelling",
+				"tags": ["louis armstrong", "scat singing"]
+			}
+		]
+	},
+	{
+		"key": "not-an-easy-flight-to-do-several-times",
+		"isMeta": false,
+		"title": "Not an Easy Flight to do Several Times",
+		"elucidation": "ll slept on a plane to australia once and has decided to not shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e50",
+					"title": "Nude vs. Naked"
+				},
+				"startMinute": 37,
+				"class": "inaugural",
+				"tags": ["australia", "air travel"]
+			},
+			{
+				"episode": {
+					"key": "s6e199",
+					"title": "I'll Pick Up a Buffalo Nickel"
+				},
+				"startMinute": 36,
+				"class": "retelling",
+				"tags": ["australia", "air travel"]
+			}
+		]
+	},
+	{
+		"key": "did-he-have-a-nice-fall",
+		"isMeta": false,
+		"title": "Did He Have a Nice Fall?",
+		"elucidation": "ll's family would travel when she wz young, didn't get her own room, and won't shut the fuk up that",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e18",
+					"title": "What are You, a 3 Amigo?!"
+				},
+				"startMinute": 42,
+				"class": "inaugural",
+				"tags": ["family vacations"]
+			},
+			{
+				"episode": {
+					"key": "s6e199",
+					"title": "I'll Pick Up a Buffalo Nickel"
+				},
+				"startMinute": 34,
+				"class": "retelling",
+				"tags": ["family vacations"]
+			}
+		]
+	},
+	{
+		"key": "do-they-retain-the-same-color-scheme",
+		"isMeta": false,
+		"title": "Do They Retain The Same Color Scheme?",
+		"elucidation": "scott won't shut the fuk up about the time he stayed in a hojo in 1982",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e167",
+					"title": "1 Room 100 Toilets"
+				},
+				"startMinute": 28,
+				"class": "acknowledgedRetelling",
+				"nb": [],
+				"tags": ["Howard Johnson's (hotel chain)"]
+			},
+			{
+				"episode": {
+					"key": "s6e199",
+					"title": "I'll Pick Up a Buffalo Nickel"
+				},
+				"startMinute": 2,
+				"class": "inaugural",
+				"tags": ["Howard Johnson's (hotel chain)"]
+			}
+		]
+	},
+	{
+		"key": "he-caused-it-it-was-so-bad",
+		"isMeta": false,
+		"title": "He Caused it, it was so Bad",
+		"elucidation": "the cast cannot shut the fuk up about mr holland's opus (but maybe specifically ll's misunderstanding of the deafness)",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e64",
+					"title": "Circles On A Stick"
+				},
+				"startMinute": 46,
+				"class": "inaugural",
+				"tags": [
+					"mr. holland's opus (film)",
+					"deafness",
+					"richard dreyfuss"
+				]
+			},
+			{
+				"episode": {
+					"key": "s6e199",
+					"title": "I'll Pick Up a Buffalo Nickel"
+				},
+				"startMinute": 2,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"mr. holland's opus (film)",
+					"deafness",
+					"richard dreyfuss"
+				]
+			}
+		]
+	},
+	{
+		"key": "i-got-yelled-at-by-the-ride-operator",
+		"isMeta": false,
+		"title": "I Got Yelled at by the Ride Operator",
+		"elucidation": "pft tried to do some phone stuff on an amusement park ride and wz scolded",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e41",
+					"title": "Cozy Done Right"
+				},
+				"startMinute": 69,
+				"class": "inaugural",
+				"tags": ["amusement park rides"]
+			},
+			{
+				"episode": {
+					"key": "s6e198",
+					"title": "Ghosts Say Happy Birthday to Him"
+				},
+				"startMinute": 50,
+				"class": "retelling",
+				"nb": [],
+				"tags": ["amusement park rides"]
+			}
+		]
+	},
+	{
+		"key": "you-guys-look-like-the-number-ten",
+		"isMeta": false,
+		"title": "You Guys Look Like the Number Ten",
+		"elucidation": "gene siskel & roger ebert used to quarrel",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e56",
+					"title": "Round Is Part Of Science"
+				},
+				"startMinute": 20,
+				"class": "inaugural",
+				"tags": ["at the movies (tv)", "gene siskel", "roger ebert"]
+			},
+			{
+				"episode": {
+					"key": "s6e198",
+					"title": "Ghosts Say Happy Birthday to Him"
+				},
+				"startMinute": 44,
+				"class": "questionedRetelling",
+				"nb": [],
+				"tags": ["at the movies (tv)", "gene siskel", "roger ebert"]
+			}
+		]
+	},
+	{
+		"key": "sur-van-der-pump",
+		"isMeta": false,
+		"title": "SUR \\ Van \\ Der \\ Pump",
+		"elucidation": "kulap took her relatives on a tour of vanderpump rules hotspots but it's scott who won't shut the fuk up about it",
+		"nb": ["scott was in charge of kai"],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e42",
+					"title": "Look at My Snaps Go"
+				},
+				"startMinute": 53,
+				"class": "inaugural",
+				"tags": ["vanderpump rules (tv)"]
+			},
+			{
+				"episode": {
+					"key": "s6e194",
+					"title": "I Apologize if I've Told You This"
+				},
+				"startMinute": 31,
+				"class": "retelling",
+				"nb": [],
+				"tags": ["vanderpump rules (tv)"]
+			}
+		]
+	},
+	{
+		"key": "they-call-me-that-because-i-don-t-have-any",
+		"isMeta": false,
+		"title": "They Call Me That Because I Don't Have Any",
+		"elucidation": "ll passed on opium from a bloke named pockets once and won't shut the fuk up about that",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e10",
+					"title": "32 Toothless Vegetables"
+				},
+				"startMinute": 6,
+				"class": "inaugural",
+				"tags": ["pockets", "opium"]
+			},
+			{
+				"episode": {
+					"key": "s6e197",
+					"title": "Gobble Gobble! You're a Turkey!"
+				},
+				"startMinute": 37,
+				"class": "retelling",
+				"tags": ["pockets", "opium"]
+			}
+		]
+	},
+	{
+		"key": "i-had-to-sing-song",
+		"isMeta": false,
+		"title": "I Had to Sing Song",
+		"elucidation": "ll won't shut the fuk up about never being cast in plays and musicals",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e27",
+					"title": "Missappearing"
+				},
+				"startMinute": 9,
+				"class": "inaugural",
+				"tags": ["high school plays", "high school musicals"]
+			},
+			{
+				"episode": {
+					"key": "s6e190",
+					"title": "He's Cucking Your Dad"
+				},
+				"startMinute": 1,
+				"class": "acknowledgedRetelling",
+				"tags": ["high school plays", "high school musicals"]
+			}
+		]
+	},
+	{
 		"key": "smelling-salts",
 		"isMeta": false,
 		"title": "Smelling Salts",
@@ -32,6 +593,33 @@
 				"startMinute": 39,
 				"class": "retelling",
 				"tags": []
+			}
+		]
+	},
+	{
+		"key": "on-a-southwest-plane",
+		"isMeta": false,
+		"title": "On a Southwest plane?!",
+		"elucidation": "ll sat next to armie hammer on a flight one time and cannot seem to shut the fuk up about it",
+		"nb": ["southwest flight"],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e6",
+					"title": "This Episode Is Not Titled Dilly Dilly"
+				},
+				"startMinute": 40,
+				"class": "inaugural",
+				"tags": ["The Lone Ranger (film)", "Armie Hammer"]
+			},
+			{
+				"episode": {
+					"key": "s6e196",
+					"title": "You ARE the Pilsbury Doughboy, Goodbye!"
+				},
+				"startMinute": 57,
+				"class": "retelling",
+				"tags": ["The Lone Ranger (film)", "Armie Hammer"]
 			}
 		]
 	},
@@ -383,7 +971,7 @@
 		"key": "j-accuse",
 		"isMeta": true,
 		"title": "J'Accuse",
-		"elucidation": "occasionally a cast member will be accused of not having shut the fuk up about something but they actually did",
+		"elucidation": "occasionally, a cast member will be accused of not having shut the fuk up about something but they actually did",
 		"nb": [],
 		"tellings": [
 			{
@@ -447,6 +1035,87 @@
 		"elucidation": "often during the run of threedom, the cast will worry they've yet to shut the fuk up about something but they actually haven't talked about it at all",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s6e201",
+					"title": "You Carled Me Out"
+				},
+				"nb": [
+					"ll got box seats to a dodgers game - this might be the same time holly ate a dodger dog"
+				],
+				"startMinute": 18,
+				"class": "invertedPremise",
+				"tags": ["los angeles dodgers"]
+			},
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM6",
+					"title": "Threemium #6"
+				},
+				"startMinute": 6,
+				"class": "invertedPremise",
+				"nb": [
+					"pft has gripes with and questions about the mcflurry straw/spoon design - i think he has mentioned this but i couldn't find it"
+				],
+				"tags": ["the mcflurry"]
+			},
+			{
+				"episode": {
+					"key": "s6e200",
+					"title": "Captain Thesaurus"
+				},
+				"startMinute": 37,
+				"class": "invertedPremise",
+				"nb": ["mrs doubtfire is based on a novel"],
+				"tags": ["mrs. doubtfire (film)"]
+			},
+			{
+				"episode": {
+					"key": "s6e198",
+					"title": "Ghosts Say Happy Birthday to Him"
+				},
+				"startMinute": 43,
+				"class": "invertedPremise",
+				"nb": [
+					"gene siskel had issues with a lord of the flies film adaptation"
+				],
+				"tags": [
+					"lord of the flies (novel)",
+					"lord of the flies (film)"
+				]
+			},
+			{
+				"episode": {
+					"key": "s6e194",
+					"title": "I Apologize if I've Told You This"
+				},
+				"startMinute": 15,
+				"class": "invertedPremise",
+				"nb": ["ll read a chapter book about how to swim"],
+				"tags": ["swimming lessons"]
+			},
+			{
+				"episode": {
+					"key": "s6e194",
+					"title": "I Apologize if I've Told You This"
+				},
+				"startMinute": 17,
+				"class": "invertedPremise",
+				"nb": [
+					"aukerman ran away from swimming lessons to hide in a graveyard"
+				],
+				"tags": ["swimming lessons"]
+			},
+			{
+				"episode": {
+					"key": "s6e194",
+					"title": "I Apologize if I've Told You This"
+				},
+				"startMinute": 14,
+				"class": "invertedPremise",
+				"nb": ["ll jumped off the diving board"],
+				"tags": ["swimming lessons"]
+			},
 			{
 				"episode": {
 					"key": "s5e189",
@@ -1571,6 +2240,73 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s6e200",
+					"title": "Captain Thesaurus"
+				},
+				"startMinute": 3,
+				"nb": "i put together a montage",
+				"class": "premise",
+				"tags": []
+			},
+			{
+				"episode": {
+					"key": "s6e199",
+					"title": "I'll Pick Up a Buffalo Nickel"
+				},
+				"startMinute": 49,
+				"class": "premise",
+				"tags": ["ASMR"]
+			},
+			{
+				"episode": {
+					"key": "s6e198",
+					"title": "Ghosts Say Happy Birthday to Him"
+				},
+				"startMinute": 4,
+				"class": "premise",
+				"tags": ["hoda kotbe"]
+			},
+			{
+				"episode": {
+					"key": "s6e191",
+					"title": "John Squibb"
+				},
+				"startMinute": 48,
+				"class": "premise",
+				"tags": ["memory wipes"]
+			},
+			{
+				"episode": {
+					"key": "s6e190",
+					"title": "He's Cucking Your Dad"
+				},
+				"startMinute": 5,
+				"class": "premise",
+				"tags": ["in-jokes"]
+			},
+			{
+				"episode": {
+					"key": "s6e190",
+					"title": "He's Cucking Your Dad"
+				},
+				"startMinute": 1,
+				"class": "premise",
+				"tags": ["high school plays", "high school musicals"]
+			},
+			{
+				"episode": {
+					"key": "s6announcement",
+					"title": "Season 6 Coming Soon!"
+				},
+				"startMinute": 2,
+				"class": "premise",
+				"nb": [
+					"i feel like we talk about it more than was, but not as much as not was"
+				],
+				"tags": []
+			},
+			{
+				"episode": {
 					"key": "s5e178",
 					"title": "Adunchables"
 				},
@@ -2080,6 +2816,35 @@
 		]
 	},
 	{
+		"title": "Why Didn't We Bury People Standing",
+		"key": "why-didn-t-we-bury-people-standing",
+		"isMeta": false,
+		"elucidation": "ll drove past graveyards on the bqe once and now she won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e1",
+					"title": "This Was a Mistake"
+				},
+				"startMinute": 36,
+				"class": "inaugural",
+				"nb": ["nyc graveyards"],
+				"tags": ["death", "burial", "cremation", "graveyards"]
+			},
+			{
+				"episode": {
+					"key": "s6e194",
+					"title": "I Apologize if I've Told You This"
+				},
+				"startMinute": 18,
+				"class": "retelling",
+				"nb": ["nyc graveyards"],
+				"tags": ["death", "burial", "cremation", "graveyards"]
+			}
+		]
+	},
+	{
 		"title": "Why is it Always the Good Ones!?",
 		"key": "why-is-it-always-the-good-ones",
 		"isMeta": false,
@@ -2130,6 +2895,34 @@
 				"startMinute": 19,
 				"class": "retelling",
 				"tags": ["beanie babies", "diana, princess of wales"]
+			}
+		]
+	},
+	{
+		"title": "Balloon Instead of Umbrella",
+		"key": "balloon-instead-of-umbrella",
+		"isMeta": false,
+		"elucidation": "ll, for one year of her life, substituted the word 'balloon' for the word 'umbrella' and then she wouldn't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s6e194",
+					"title": "I Apologize if I've Told You This"
+				},
+				"startMinute": 20,
+				"class": "retelling",
+				"nb": [],
+				"tags": ["neurological anomalies"]
+			},
+			{
+				"episode": {
+					"key": "s2e27",
+					"title": "Missappearing"
+				},
+				"startMinute": 41,
+				"class": "inaugural",
+				"tags": ["neurological anomalies"]
 			}
 		]
 	},
@@ -2664,6 +3457,15 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s6e191",
+					"title": "John Squibb"
+				},
+				"startMinute": 14,
+				"class": "retelling",
+				"tags": ["college"]
+			},
+			{
+				"episode": {
 					"key": "s3e54",
 					"title": "Tickets to Christmas"
 				},
@@ -2966,6 +3768,20 @@
 				},
 				"startMinute": 24,
 				"class": "inaugural",
+				"tags": [
+					"stage kissing",
+					"acting",
+					"sexual abuse",
+					"south pacific (musical)"
+				]
+			},
+			{
+				"episode": {
+					"key": "s6e190",
+					"title": "He's Cucking Your Dad"
+				},
+				"startMinute": 2,
+				"class": "pimpedRetelling",
 				"tags": [
 					"stage kissing",
 					"acting",
@@ -3704,6 +4520,15 @@
 				"startMinute": 32,
 				"class": "inaugural",
 				"tags": ["maritime", "whales", "seasickness"]
+			},
+			{
+				"episode": {
+					"key": "s6e190",
+					"title": "He's Cucking Your Dad"
+				},
+				"startMinute": 28,
+				"class": "retelling",
+				"tags": ["amusement park rides", "seasickness"]
 			}
 		]
 	},
@@ -4327,7 +5152,7 @@
 				},
 				"startMinute": 12,
 				"class": "inaugural",
-				"tags": ["candy", "hershey factory"]
+				"tags": ["candy", "Hershey’s Chocolate Tour"]
 			},
 			{
 				"episode": {
@@ -4336,7 +5161,16 @@
 				},
 				"startMinute": 34,
 				"class": "retelling",
-				"tags": ["candy", "hershey factory"]
+				"tags": ["candy", "Hershey’s Chocolate Tour"]
+			},
+			{
+				"episode": {
+					"key": "s6e199",
+					"title": "I'll Pick Up a Buffalo Nickel"
+				},
+				"startMinute": 30,
+				"class": "questionedRetelling",
+				"tags": ["Hershey’s Chocolate Tour", "candy"]
 			}
 		]
 	},
@@ -4961,7 +5795,7 @@
 		"key": "she-was-just-a-trash-dog",
 		"isMeta": false,
 		"title": "She was Just a Trash Dog",
-		"elucidation": "scott got a dog (molly) from mexico and now he won't shut the fuk up about it",
+		"elucidation": "scott got a dog (molly) from mexico and now he won't shut the fuk up about that dog",
 		"nb": [],
 		"tellings": [
 			{
@@ -5202,12 +6036,22 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s6e194",
+					"title": "I Apologize if I've Told You This"
+				},
+				"startMinute": 9,
+				"class": "acknowledgedRetelling",
+				"nb": ["dissecting pigs"],
+				"tags": ["science projects"]
+			},
+			{
+				"episode": {
 					"key": "s5e157",
 					"title": "Only Yuck Yucks and Only Yum Yums"
 				},
 				"startMinute": 16,
 				"class": "retelling",
-				"tags": ["dissection", "science"]
+				"tags": ["dissection", "science projects"]
 			},
 			{
 				"episode": {
@@ -5216,7 +6060,7 @@
 				},
 				"startMinute": 50,
 				"class": "inaugural",
-				"tags": ["dissection", "science"]
+				"tags": ["dissection", "science projects"]
 			},
 			{
 				"episode": {
@@ -5225,7 +6069,7 @@
 				},
 				"startMinute": 20,
 				"class": "retelling",
-				"tags": ["dissection", "science"]
+				"tags": ["dissection", "science projects"]
 			},
 			{
 				"episode": {
@@ -5234,7 +6078,7 @@
 				},
 				"startMinute": 8,
 				"class": "retelling",
-				"tags": ["dissection", "science"]
+				"tags": ["dissection", "science projects"]
 			}
 		]
 	},
@@ -5407,7 +6251,7 @@
 		"key": "it-s-so-fucking-weird-you-need-to-go-get-help",
 		"isMeta": false,
 		"title": "It's So Fucking Weird - You Need to Go Get Help",
-		"elucidation": "scott has recurring dreams about a few strange houses and now he won't shut the fuk up about it",
+		"elucidation": "scott has recurring dreams about a few strange houses and he won't shut the fuk up about any of em",
 		"nb": [],
 		"tellings": [
 			{
@@ -5758,6 +6602,15 @@
 		"elucidation": "pft got arrested on the subway when he was 19 and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s6e202",
+					"title": "The Zoo STINKS!"
+				},
+				"startMinute": 35,
+				"class": "pimpedRetelling",
+				"tags": []
+			},
 			{
 				"episode": {
 					"key": "s1e8",
@@ -6405,12 +7258,48 @@
 		]
 	},
 	{
+		"key": "he-ll-like-this-cuz-he-s-so-funny",
+		"isMeta": false,
+		"title": "He'll Like this Cuz He's So Funny",
+		"elucidation": "ll loaned a teacher her copy of SeinLanguage, never saw it again, won't shut the fuk up about that",
+		"nb": ["ll loaned a teacher her copy of seinlanguage"],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e27",
+					"title": "Missappearing"
+				},
+				"startMinute": 36,
+				"class": "inaugural",
+				"tags": ["jerry seinfeld", "loaning", "teachers"]
+			},
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM4",
+					"title": "Threemium #4"
+				},
+				"startMinute": 8,
+				"class": "acknowledgedRetelling",
+				"tags": ["jerry seinfeld", "loaning", "teachers"]
+			}
+		]
+	},
+	{
 		"key": "i-don-t-wanna-hear-about-how-you-want-to-go-to-the-zoo-in-little-taps",
 		"isMeta": false,
 		"title": "I Don't Wanna Hear About How You Want to Go to the Zoo in Little Taps",
 		"elucidation": "pft designed a hammer-tap code language with his cousin and he still won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM4",
+					"title": "Threemium #4"
+				},
+				"startMinute": 5,
+				"class": "pimpedRetelling",
+				"tags": ["cousins", "morse code"]
+			},
 			{
 				"episode": {
 					"key": "s3e73",
@@ -6871,7 +7760,7 @@
 		"key": "and-yet-we-had-pulled-off-a-good-wedding",
 		"isMeta": false,
 		"title": "And Yet We had Pulled Off a Good Wedding",
-		"elucidation": "scott didn't want kool & the gang to be played but it was and now he won't shut the fuk up about it",
+		"elucidation": "scott didn't want kool & the gang to be played at his wedding but they were and now he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -6884,7 +7773,8 @@
 				"tags": [
 					"kool & the gang (musical combination)",
 					"weddings",
-					"disc jockeys"
+					"disc jockeys",
+					"DJ Z-Trip"
 				]
 			},
 			{
@@ -6897,7 +7787,8 @@
 				"tags": [
 					"kool & the gang (musical combination)",
 					"disc jockeys",
-					"weddings"
+					"weddings",
+					"DJ Z-Trip"
 				]
 			},
 			{
@@ -6910,7 +7801,8 @@
 				"tags": [
 					"kool & the gang (musical combination)",
 					"disc jockeys",
-					"weddings"
+					"weddings",
+					"DJ Z-Trip"
 				]
 			}
 		]
@@ -7033,10 +7925,37 @@
 		]
 	},
 	{
+		"key": "why-am-i-saving-it",
+		"isMeta": false,
+		"title": "Why Am I Saving It?",
+		"elucidation": "ll found her old college papers and has wondered aloud — at least twice so far — why she saved them",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e184",
+					"title": "That Implies Toys"
+				},
+				"startMinute": 14,
+				"class": "inaugural",
+				"tags": ["college", "keepsakes"]
+			},
+			{
+				"episode": {
+					"key": "s6e191",
+					"title": "John Squibb"
+				},
+				"startMinute": 18,
+				"class": "acknowledgedRetelling",
+				"tags": ["college", "keepsakes"]
+			}
+		]
+	},
+	{
 		"key": "dude-they-show-porn-there",
 		"isMeta": false,
 		"title": "Dude They Show Porn There",
-		"elucidation": "scott took a class on big dicks in college and he still won't shut the fuk up about it",
+		"elucidation": "scott took a class on big dicks in college and of course he won't shut the fuk up about that",
 		"nb": [],
 		"tellings": [
 			{
@@ -7151,6 +8070,60 @@
 				"startMinute": 49,
 				"class": "retelling",
 				"tags": ["messaging services"]
+			}
+		]
+	},
+	{
+		"key": "it-used-to-be-the-streaks",
+		"isMeta": false,
+		"title": "It Used to Be the Streaks",
+		"elucidation": "scott lost electricity and therefore his peloton streak and simply will not shut the fuk up about it all",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s4e114",
+					"title": "Ms. Small"
+				},
+				"startMinute": 9,
+				"class": "inaugural",
+				"tags": ["peloton"]
+			},
+			{
+				"episode": {
+					"key": "s6e197",
+					"title": "Gobble Gobble! You're a Turkey!"
+				},
+				"startMinute": 32,
+				"class": "acknowledgedRetelling",
+				"tags": ["peloton"]
+			}
+		]
+	},
+	{
+		"key": "i-ve-smoked-pot",
+		"isMeta": false,
+		"title": "I've Smoked Pot",
+		"elucidation": "ll (routinely?) watches — and then won't shut the fuk up about — that seventh heaven episode w/ the dramatic reveal",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e27",
+					"title": "Missappearing"
+				},
+				"startMinute": 36,
+				"class": "inaugural",
+				"tags": ["marijuana"]
+			},
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM4",
+					"title": "Threemium #4"
+				},
+				"startMinute": 8,
+				"class": "acknowledgedRetelling",
+				"tags": ["marijuana"]
 			}
 		]
 	},
@@ -10044,7 +11017,7 @@
 					"title": "Puddle of Coke"
 				},
 				"startMinute": 5,
-				"class": "acknowledgeRetelling",
+				"class": "acknowledgedRetelling",
 				"tags": ["glaucoma"]
 			}
 		]
@@ -10505,6 +11478,15 @@
 				"startMinute": 2,
 				"class": "retelling",
 				"tags": ["darth vader", "medical conditions"]
+			},
+			{
+				"episode": {
+					"key": "s6e190",
+					"title": "He's Cucking Your Dad"
+				},
+				"startMinute": 3,
+				"class": "retelling",
+				"tags": ["medical conditions"]
 			}
 		]
 	},
@@ -10864,13 +11846,19 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s4e105", "title": "Crumbelievable" },
+				"episode": {
+					"key": "s4e105",
+					"title": "Crumbelievable"
+				},
 				"startMinute": 28,
 				"class": "retelling",
 				"tags": []
 			},
 			{
-				"episode": { "key": "s2e29", "title": "Me So Phony" },
+				"episode": {
+					"key": "s2e29",
+					"title": "Me So Phony"
+				},
 				"startMinute": 26,
 				"class": "retelling",
 				"tags": []
@@ -10881,9 +11869,29 @@
 		"key": "someone-s-at-the-door-and-he-s-got-our-dog",
 		"isMeta": false,
 		"title": "Someone's at the Door and He's Got Our Dog",
-		"elucidation": "scott returned an escaped dog to the same house twice and he won't shut the fuk up about it at least twice himself",
-		"nb": [],
+		"elucidation": "scott returned an escaped dog to the same house twice and he won't shut the fuk up about it at least thrice himself",
+		"nb": [
+			"note squibb episode - first scott selfdeclines but then does an acknowledgedRetelling"
+		],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s6e191",
+					"title": "John Squibb"
+				},
+				"startMinute": 26,
+				"class": "acknowledgedRetelling",
+				"tags": ["escaped pets"]
+			},
+			{
+				"episode": {
+					"key": "s6e191",
+					"title": "John Squibb"
+				},
+				"startMinute": 26,
+				"class": "selfDecline",
+				"tags": ["escaped pets"]
+			},
 			{
 				"episode": {
 					"key": "s5e187",
@@ -10894,7 +11902,10 @@
 				"tags": ["escaped pets"]
 			},
 			{
-				"episode": { "key": "s4e105", "title": "Crumbelievable" },
+				"episode": {
+					"key": "s4e105",
+					"title": "Crumbelievable"
+				},
 				"startMinute": 26,
 				"class": "inaugural",
 				"tags": ["escaped pets"]
@@ -10909,7 +11920,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e95", "title": "Toothpaste Conundrum" },
+				"episode": {
+					"key": "s3e95",
+					"title": "Toothpaste Conundrum"
+				},
 				"startMinute": 40,
 				"class": "inaugural",
 				"tags": ["escaped pets"]
@@ -10962,7 +11976,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e68", "title": "The Normal Kingdom" },
+				"episode": {
+					"key": "s3e68",
+					"title": "The Normal Kingdom"
+				},
 				"startMinute": 38,
 				"class": "inaugural",
 				"tags": ["drawing room (los angeles bar)", "birthdays"]
@@ -10986,7 +12003,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e85", "title": "Mrs. Pachinko" },
+				"episode": {
+					"key": "s3e85",
+					"title": "Mrs. Pachinko"
+				},
 				"startMinute": 6,
 				"class": "inaugural",
 				"tags": ["tattoos"]
@@ -11002,7 +12022,6 @@
 			}
 		]
 	},
-
 	{
 		"key": "how-d-you-get-the-bike-out",
 		"isMeta": false,
@@ -11011,7 +12030,10 @@
 		"nb": [],
 		"tellings": [
 			{
-				"episode": { "key": "s3e98", "title": "Tendrils Are Hair" },
+				"episode": {
+					"key": "s3e98",
+					"title": "Tendrils Are Hair"
+				},
 				"startMinute": 36,
 				"class": "inaugural",
 				"tags": ["stunts", "bicycles", "brian posehn"]
@@ -11044,10 +12066,123 @@
 				"tags": ["pranks", "toy story (film franchise)"]
 			},
 			{
-				"episode": { "key": "s2e37", "title": "The Threedom Boys" },
+				"episode": {
+					"key": "s2e37",
+					"title": "The Threedom Boys"
+				},
 				"startMinute": 62,
 				"class": "inaugural",
 				"tags": ["pranks", "toy story (film franchise)"]
+			}
+		]
+	},
+	{
+		"key": "speaking-of-painting-houses",
+		"isMeta": false,
+		"title": "Speaking of Painting Houses",
+		"elucidation": "scott can't seem to shut the fuk up about rosie o'donnell's stint in bdsm",
+		"nb": ["paint my house"],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e13",
+					"title": "Brocus before Hocus"
+				},
+				"startMinute": 31,
+				"class": "inaugural",
+				"tags": ["rosie o'donnell", "exit to eden (film)"]
+			},
+			{
+				"episode": {
+					"key": "s6e192",
+					"title": "Boom Boom Acka Lacka Boom Boom"
+				},
+				"startMinute": 44,
+				"class": "retelling",
+				"tags": ["rosie o'donnell", "exit to eden (film)"]
+			}
+		]
+	},
+	{
+		"key": "marie-callender-s-dumpster-pies",
+		"isMeta": false,
+		"title": "Marie Callender's Dumpster Pies",
+		"elucidation": "marie callender's used to allow dumpster pies to be taken home for free and scott still won't shut the fuk up about it",
+		"nb": [
+			"other places — saphora, bakers square — have stricter policies"
+		],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e71",
+					"title": "Belly Washer"
+				},
+				"startMinute": 20,
+				"class": "inaugural",
+				"tags": ["restaurant roundup"]
+			},
+			{
+				"episode": {
+					"key": "s6e193",
+					"title": "jonkupublicroomba!"
+				},
+				"startMinute": 28,
+				"class": "retelling",
+				"tags": ["restaurant roundup"]
+			}
+		]
+	},
+	{
+		"key": "i-could-have-married-him",
+		"isMeta": false,
+		"title": "I Could Have Married Him",
+		"elucidation": "ll won't shut the fuk up about how she could have married john mayer (at least) after all",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e79",
+					"title": "Emojourney"
+				},
+				"startMinute": 33,
+				"class": "inaugural",
+				"tags": ["john mayer"]
+			},
+			{
+				"episode": {
+					"key": "s6e193",
+					"title": "jonkupublicroomba!"
+				},
+				"startMinute": 41,
+				"class": "retelling",
+				"tags": ["john mayer"]
+			}
+		]
+	},
+	{
+		"key": "mom-you-gotta-call-in",
+		"isMeta": false,
+		"title": "Mom, You Gotta Call In",
+		"elucidation": "scott faked laryngitis but then betrayed himself during the pbs pledge drive",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s3e87",
+					"title": "Julie Bowfinger"
+				},
+				"startMinute": 33,
+				"class": "inaugural",
+				"tags": ["pbs", "playing hooky", "laryngitis"]
+			},
+			{
+				"episode": {
+					"key": "s6e195",
+					"title": "His Name Rocky Run Run"
+				},
+				"startMinute": 11,
+				"class": "acknowledgedRetelling",
+				"tags": ["pbs", "playing hooky", "laryngitis"]
 			}
 		]
 	}
