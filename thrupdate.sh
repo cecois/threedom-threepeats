@@ -10,8 +10,8 @@ EPISODE=$1;
 
 
 MP3S () {
-echo "clearing out $RAWAUDIO"
-rm -rf $RAWAUDIO/*
+#echo "clearing out $RAWAUDIO"
+#rm -rf $RAWAUDIO/*
 npx github:hagent/export-macos-podcasts -p threedom -o $RAWAUDIO --datesubfolder false --nospaces
 }
 
@@ -55,7 +55,7 @@ TEST (){
     done
 }
 
-MP3S
+#MP3S
 WAVS
 VOSK
 # TEST

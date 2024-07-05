@@ -1,6 +1,13 @@
 [
 	{
 		"episode": {
+			"key": "s6eTHREEMIUM9",
+			"title": "Threemium #9"
+		},
+		"possibles": ["14 - paul's old cheese danish habit"]
+	},
+	{
+		"episode": {
 			"key": "s5e180",
 			"title": "That's The Power of DJs"
 		},
@@ -67,7 +74,6 @@
 	{
 		"episode": { "key": "s4e109", "title": "Vampire Of Jokes" },
 		"possibles": [
-			"11 - scott's mr show breakfast of doughnuts and creamer and coffee",
 			"15 - scott does baby got back at a karaoke party",
 			"26 - last meals"
 		]
@@ -719,5 +725,14 @@
 			"title": "Third Time Shame on the Charm"
 		},
 		"possibles": ["16 - ll & mike castle spot a crazy-looking dog"]
+	},
+	{
+		"episode": {
+			"key": "s6204",
+			"title": "His Acting is Beautifully Portrayed"
+		},
+		"possibles": [
+			"6 - dudes who piss w/ the their pants down around their ankles"
+		]
 	}
 ]

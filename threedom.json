@@ -1,5 +1,311 @@
 [
 	{
+		"key": "philadelphia-get-to-know-us",
+		"isMeta": false,
+		"title": "Philadelphia: Get To Know Us",
+		"elucidation": "pft can't seem to shut the fuk up about philadelphia's tourism jingle from the 70s",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s2e48",
+					"title": "Nobody Puts Incel in the Friend Zone"
+				},
+				"startMinute": 49,
+				"class": "inaugural",
+				"tags": ["philadelphia"]
+			},
+			{
+				"episode": {
+					"key": "s6e208",
+					"title": "What That Mouth Did"
+				},
+				"startMinute": 21,
+				"class": "retelling",
+				"tags": ["philadelphia"]
+			}
+		]
+	},
+	{
+		"key": "beautiful-dusty-colors",
+		"isMeta": false,
+		"title": "Beautiful Dusty Colors",
+		"elucidation": "the cast won't shut the fuk up about their respective histories with flintstones vitamins",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s4e130",
+					"title": "The Flintstones Are Extinct"
+				},
+				"startMinute": 6,
+				"class": "retelling",
+				"tags": ["the flintstones (TV)"]
+			},
+			{
+				"episode": {
+					"key": "s6e207",
+					"title": "Are You Gagging on the Riz?"
+				},
+				"startMinute": 29,
+				"class": "retelling",
+				"tags": []
+			},
+			{
+				"episode": { "key": "s1e19", "title": "My Secret Visitors…" },
+				"startMinute": 18,
+				"class": "inaugural",
+				"tags": []
+			}
+		]
+	},
+	{
+		"key": "i-would-think-the-shit-and-piss-would-be-the-reason",
+		"isMeta": false,
+		"title": "I Would Think the Shit and Piss Would be the Reason",
+		"elucidation": "scott won't shut the fuk up about his old routine with coffee bean & tea leaf",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM9",
+					"title": "Threemium #9"
+				},
+				"startMinute": 10,
+				"class": "retelling",
+				"tags": ["coffee", "pets"]
+			},
+			{
+				"episode": {
+					"key": "s5e151",
+					"title": "Kind of a Mess Down There"
+				},
+				"startMinute": 32,
+				"class": "inaugural",
+				"tags": ["coffee", "pets"]
+			}
+		]
+	},
+	{
+		"key": "and-i-wondered-why-i-gained-weight",
+		"isMeta": false,
+		"title": "And I Wondered Why I Gained Weight",
+		"elucidation": "scott won't shut the fuk up about his creamed-coffed-and-box-of-doughnuts habit made him gain weight back in the 90s",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s4e109",
+					"title": "Vampire Of Jokes"
+				},
+				"startMinute": 11,
+				"class": "inaugural",
+				"tags": []
+			},
+			{
+				"episode": {
+					"key": "s4e121",
+					"title": "What Movie is Good Morning, Vietnam Set In?"
+				},
+				"startMinute": 14,
+				"class": "retelling",
+				"tags": ["coffee", "doughnuts", "mr. show (TV)"]
+			},
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM9",
+					"title": "Threemium #9"
+				},
+				"startMinute": 9,
+				"class": "retelling",
+				"tags": ["coffee", "doughnuts", "mr. show (TV)"]
+			}
+		]
+	},
+	{
+		"key": "i-ve-had-one-sip",
+		"isMeta": false,
+		"title": "I've Had One Sip",
+		"elucidation": "ll won't shut the fuk up about her abstinence from coffee",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s5e164",
+					"title": "The Extended She-Verse"
+				},
+				"startMinute": 18,
+				"class": "retelling",
+				"tags": ["coffee"]
+			},
+			{
+				"episode": { "key": "s2e41", "title": "Cozy Done Right" },
+				"startMinute": 25,
+				"class": "inaugural",
+				"tags": ["coffee"]
+			},
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM9",
+					"title": "Threemium #9"
+				},
+				"startMinute": 4,
+				"class": "pimpedRetelling",
+				"tags": ["coffee"]
+			}
+		]
+	},
+	{
+		"key": "you-know-how-to-reach-for-the-stars",
+		"isMeta": false,
+		"title": "You Know How to Reach for the Stars",
+		"elucidation": "pft won't shut the fuk up about his history with various mail carriers",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s1e12", "title": "I Wanna Be Phoneboof" },
+				"startMinute": 4,
+				"class": "inaugural",
+				"tags": ["USPS", "Kim Davis"]
+			},
+			{
+				"episode": {
+					"key": "s6e205",
+					"title": "He's Not a Legal Creep!"
+				},
+				"startMinute": 15,
+				"class": "retelling",
+				"tags": ["USPS", "The Weeknd"]
+			}
+		]
+	},
+	{
+		"key": "not-to-be-that-fucking-dork-on-the-bachelor",
+		"isMeta": false,
+		"title": "Not to Be that Fucking Dork on 'The Bachelor'",
+		"elucidation": "the cast won't shut the fuk up about the time a bachelor contestant referenced a song they know",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s3e99", "title": "Secret Santa Pizza" },
+				"startMinute": 59,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"Older (song)",
+					"They Might Be Giants (musical combination)",
+					"The Bachelor (TV)"
+				]
+			},
+			{
+				"episode": {
+					"key": "s6e205",
+					"title": "He's Not a Legal Creep!"
+				},
+				"startMinute": 9,
+				"class": "acknowledgedRetelling",
+				"tags": [
+					"Older (song)",
+					"They Might Be Giants (musical combination)",
+					"The Bachelor (TV)"
+				]
+			},
+			{
+				"episode": {
+					"key": "s1e06",
+					"title": "This Episode Is Not Titled Dilly Dilly"
+				},
+				"startMinute": 20,
+				"class": "inaugural",
+				"tags": [
+					"Older (song)",
+					"They Might Be Giants (musical combination)",
+					"The Bachelor (TV)"
+				]
+			}
+		]
+	},
+	{
+		"key": "why-did-you-say-temple-university",
+		"isMeta": false,
+		"title": "Why Did You Say Temple University?",
+		"elucidation": "scott got an offer from temple back in the day and won't shut the fuk up about it years later",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s1e18",
+					"title": "What are You, a 3 Amigo?!"
+				},
+				"startMinute": 18,
+				"class": "inaugural",
+				"tags": ["graduate school"]
+			},
+			{
+				"episode": {
+					"key": "s6e203",
+					"title": "Recorded in a Wastepaper Basket"
+				},
+				"startMinute": 26,
+				"class": "retelling",
+				"tags": ["graduate school"]
+			}
+		]
+	},
+	{
+		"key": "fuck-free-college-we-should-do-this-first",
+		"isMeta": false,
+		"title": "Fuck Free College - We Should do This First",
+		"elucidation": "scott's advocacy for individualized bathrooms and showers has him not shutting the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s6e204",
+					"title": "His Acting is Beautifully Portrayed"
+				},
+				"startMinute": 6,
+				"class": "retelling",
+				"tags": ["school showers", "bathrooms"]
+			},
+			{
+				"episode": { "key": "s2e50", "title": "Nude vs. Naked" },
+				"startMinute": 35,
+				"class": "inaugural",
+				"tags": ["bathrooms", "school showers"]
+			}
+		]
+	},
+	{
+		"key": "what-d-you-eat-liar",
+		"isMeta": false,
+		"title": "What'd You Eat, Liar?",
+		"elucidation": "scott went on one date with kulap and can't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": { "key": "s4e104", "title": "Boop" },
+				"startMinute": 33,
+				"class": "inaugural",
+				"tags": ["first dates"]
+			},
+			{
+				"episode": { "key": "s5e171", "title": "Honey, I Shrunk ME?!" },
+				"startMinute": 19,
+				"class": "retelling",
+				"tags": ["first dates"]
+			},
+			{
+				"episode": {
+					"key": "s6e203",
+					"title": "Recorded in a Wastepaper Basket"
+				},
+				"startMinute": 17,
+				"class": "retelling",
+				"tags": ["first dates", "hulk hogan's pastamaniacs"]
+			}
+		]
+	},
+	{
 		"key": "it-s-made-of-glass-so-we-should-call-it-something-different",
 		"isMeta": false,
 		"title": "It's Made of Glass so we Should Call it Something Different",
@@ -627,9 +933,39 @@
 		"key": "kissmakeup",
 		"isMeta": false,
 		"title": "KISS Makeup",
-		"elucidation": "scott dressed as ace frehley for halloween, ll as a dead prom queen and now neither of them will shut the fuk up about it",
+		"elucidation": "scott dressed as ace frehley [paul stanley in subsequent tellings] for halloween, ll as a dead prom queen and now neither of them will shut the fuk up about it",
 		"nb": ["https://en.wikipedia.org/wiki/Ace_Frehley"],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM8",
+					"title": "Threemium #8"
+				},
+				"startMinute": 7,
+				"nb": "blind man on roller skates",
+				"class": "pimpedRetelling",
+				"tags": ["halloween"]
+			},
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM8",
+					"title": "Threemium #8"
+				},
+				"startMinute": 5,
+				"class": "pimpedRetelling",
+				"nb": "dead prom queen",
+				"tags": ["halloween"]
+			},
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM8",
+					"title": "Threemium #8"
+				},
+				"startMinute": 6,
+				"class": "pimpedRetelling",
+				"nb": "paul stanley",
+				"tags": ["halloween", "paul stanley"]
+			},
 			{
 				"episode": {
 					"key": "s1e6",
@@ -1035,6 +1371,15 @@
 		"elucidation": "often during the run of threedom, the cast will worry they've yet to shut the fuk up about something but they actually haven't talked about it at all",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s6eTHREEMIUM9",
+					"title": "Threemium #9"
+				},
+				"startMinute": 4,
+				"class": "pimpedRetelling",
+				"tags": ["coffee"]
+			},
 			{
 				"episode": {
 					"key": "s6e201",
@@ -2238,6 +2583,16 @@
 		"elucidation": "early in the run of threedom, the cast noticed that they often repeat stories and now they won't shut the fuk up about that, too",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s6e208",
+					"title": "What That Mouth Did"
+				},
+				"startMinute": 60,
+				"nb": "you gotta hear those old eps",
+				"class": "premise",
+				"tags": []
+			},
 			{
 				"episode": {
 					"key": "s6e200",
@@ -3743,6 +4098,15 @@
 		"elucidation": "pft won't shut the fuk up about his all his creepy teachers",
 		"nb": [],
 		"tellings": [
+			{
+				"episode": {
+					"key": "s6e204",
+					"title": "His Acting is Beautifully Portrayed"
+				},
+				"startMinute": 11,
+				"class": "acknowledgedRetelling",
+				"tags": ["teachers", "sexual abuse"]
+			},
 			{
 				"episode": {
 					"key": "s1e6",
@@ -5403,7 +5767,7 @@
 		"key": "wait-let-s-dim-the-lights",
 		"isMeta": false,
 		"title": "Wait Let's Dim the Lights",
-		"elucidation": "scott hit the open car door of a british lady and is so angry he won't shut the fuk up about it",
+		"elucidation": "scott hit the open car door of a british lady and is still so angry he won't shut the fuk up about it",
 		"nb": [],
 		"tellings": [
 			{
@@ -8858,6 +9222,15 @@
 			},
 			{
 				"episode": {
+					"key": "s6eTHREEMIUM8",
+					"title": "Threemium #8"
+				},
+				"startMinute": 4,
+				"class": "pimpedRetelling",
+				"tags": ["halloween costumes"]
+			},
+			{
+				"episode": {
 					"key": "s3e56",
 					"title": "Round Is Part Of Science"
 				},
@@ -9097,6 +9470,22 @@
 		"tellings": [
 			{
 				"episode": {
+					"key": "s6e206",
+					"title": "I've Done Cameos, Can You Milk ME?"
+				},
+				"startMinute": 52,
+				"class": "retelling",
+				"tags": [
+					"olive garden",
+					"memorabilia",
+					"restaurant roundup",
+					"kevin and bean (radio)",
+					"kurt cobain",
+					"kroq (radio)"
+				]
+			},
+			{
+				"episode": {
 					"key": "s3e71",
 					"title": "Belly Washer"
 				},
@@ -9123,6 +9512,33 @@
 					"kurt cobain",
 					"kroq (radio)"
 				]
+			}
+		]
+	},
+	{
+		"key": "and-isn-t-that-convenient",
+		"isMeta": false,
+		"title": "And isn't that Convenient",
+		"elucidation": "pft skipped philly the same day kurt cobain was found dead and one of them won't shut the fuk up about it",
+		"nb": [],
+		"tellings": [
+			{
+				"episode": {
+					"key": "s6e206",
+					"title": "I've Done Cameos, Can You Milk ME?"
+				},
+				"startMinute": 54,
+				"class": "retelling",
+				"tags": ["kurt cobain"]
+			},
+			{
+				"episode": {
+					"key": "s2e47",
+					"title": "Baby Lock Them Doors"
+				},
+				"startMinute": 36,
+				"class": "inaugural",
+				"tags": ["kurt cobain"]
 			}
 		]
 	},
@@ -11204,6 +11620,15 @@
 				},
 				"startMinute": 51,
 				"class": "retelling",
+				"tags": ["childrens clubs"]
+			},
+			{
+				"episode": {
+					"key": "s6e204",
+					"title": "His Acting is Beautifully Portrayed"
+				},
+				"startMinute": 0,
+				"class": "acknowledgedRetelling",
 				"tags": ["childrens clubs"]
 			}
 		]

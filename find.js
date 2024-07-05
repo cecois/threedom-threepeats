@@ -151,10 +151,13 @@ const _I = async () => {
 
 			let matchPresent = `
 🟢
-🟢 ${match.meta.match} ⬅️⬅️ ${match.meta.nexts.join(" ")}
 🟢
+🟢 ${match.meta.match} ⬅️⬅️ ${match.meta.nexts.join(" ")}
 		${match.meta.episode.episode.url}#t=${match.meta.time.split(",")[0]}
 		${episodePresentation}
+
+
+🛑
 
 `;
 			console.log(matchPresent.trim());
