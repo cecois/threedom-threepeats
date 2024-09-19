@@ -2,11 +2,17 @@
     {
         "episode":
         {
+            "key": "s6e216",
+            "title": "Corporate Lady How to Talk"
+        },
+        "possibles": ["9 - corporate lady video w/ all the voices"]
+    },
+    {
+        "episode":
+        {
             "key": "s6e215",
             "title": "My Way (I Did It)"
         },
-        "startMinute": 35,
-        "class": "retelling",
         "possibles": ["martin short probably got paid at vancouver comedy festival but scott didn't"]
     },
     {
@@ -859,7 +865,7 @@
             "key": "s5e187",
             "title": "Third Time Shame on the Charm"
         },
-        "possibles": ["16 - ll & mike castle spot a crazy-looking dog"]
+        "possibles": ["16 - ll & mike castle spot a crazy-looking and ugly dog"]
     },
     {
         "episode":

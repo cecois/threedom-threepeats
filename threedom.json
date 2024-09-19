@@ -1,5 +1,63 @@
 [
     {
+        "key": "if-i-could-get-a-pink-car-i-d-get-a-pink-car",
+        "isMeta": false,
+        "title": "If I Could Get a Pink Car I'd Get a Pink Car",
+        "elucidation": "ll won't shut the fuk up about how much better japan is than everywhere else",
+        "nb": [],
+        "tellings": [
+            {
+                "episode":
+                {
+                    "key": "s6e217",
+                    "title": "Star Wars Spa-Jedi"
+                },
+                "startMinute": 31,
+                "class": "retelling",
+                "tags": ["car models"]
+            },
+            {
+                "episode":
+                {
+                    "key": "s1e06",
+                    "title": "This Episode Is Not Titled Dilly Dilly"
+                },
+                "startMinute": 22,
+                "class": "inaugural",
+                "tags": ["car models"]
+            }
+        ]
+    },
+    {
+        "key": "the-listener-can-keep-that-as-our-gift",
+        "isMeta": false,
+        "title": "The Listener Can Keep that as Our Gift",
+        "elucidation": "pft won't shut the fuk up about those old, blue mail-order commercial cards",
+        "nb": [],
+        "tellings": [
+            {
+                "episode":
+                {
+                    "key": "s6e216",
+                    "title": "Corporate Lady How to Talk"
+                },
+                "startMinute": 0,
+                "class": "retelling",
+                "tags": ["television commercials"]
+            },
+            {
+                "episode":
+                {
+                    "key": "s1e08",
+                    "title": "Out With It!"
+                },
+                "startMinute": 17,
+                "class": "inaugural",
+                "tags": ["television commercials"]
+            }
+        ]
+    },
+    {
         "key": "we-ran-out-of-divorce-lawyer-stories",
         "isMeta": false,
         "title": "We Ran Out of Divorce Lawyer Stories",
