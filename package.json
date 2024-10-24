@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "colorette": "^2.0.19",
+    "exiftool-vendored": "^28.2.1",
     "fuse.js": "^6.6.2",
     "minimist": "^1.2.7",
     "slugify": "^1.6.5"

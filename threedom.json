@@ -1,5 +1,274 @@
 [
     {
+        "key": "it-s-actually-criminal",
+        "title": "It's Actually Criminal",
+        "isMeta": false,
+        "elucidation": "the threedom boys can't shut the fuk up about software licensing",
+        "nb":
+        [],
+        "tellings":
+        [
+            {
+                "episode":
+                {
+                    "key": "s5e184",
+                    "title": "That Implies Toys"
+                },
+                "startMinute": 19,
+                "class": "inaugural",
+                "tags":
+                [
+                    "microsoft word (software)",
+                    "final draft (software)",
+                    "pages (software)"
+                ]
+            },
+            {
+                "episode":
+                {
+                    "key": "s6e198",
+                    "title": "Ghosts Say Happy Birthday to Him"
+                },
+                "startMinute": 31,
+                "class": "retelling",
+                "nb":
+                [],
+                "tags":
+                [
+                    "microsoft word (software)",
+                    "final draft (software)",
+                    "pages (software)"
+                ]
+            }
+        ]
+    },
+    {
+        "key": "i-m-too-old",
+        "title": "I'm Too Old?",
+        "isMeta": false,
+        "elucidation": "scott aged out of the real world demo and still won't shut the fuk up about that",
+        "nb":
+        [],
+        "tellings":
+        [
+            {
+                "episode":
+                {
+                    "key": "s6e221",
+                    "title": "Do Da Doobie Bwuddas"
+                },
+                "startMinute": 32,
+                "class": "retelling",
+                "tags":
+                [
+                    "The Real World (TV)",
+                    "aging"
+                ]
+            },
+            {
+                "episode":
+                {
+                    "key": "s1e06",
+                    "title": "This Episode Is Not Titled Dilly Dilly"
+                },
+                "startMinute": 18,
+                "class": "inaugural",
+                "tags":
+                [
+                    "The Real World (TV)",
+                    "aging"
+                ]
+            }
+        ]
+    },
+    {
+        "key": "go-to-hell",
+        "title": "Go to Hell",
+        "isMeta": false,
+        "elucidation": "ll won't shut the fuk up about a crazy neighbor",
+        "nb":
+        [],
+        "tellings":
+        [
+            {
+                "episode":
+                {
+                    "key": "s6e221",
+                    "title": "Do Da Doobie Bwuddas"
+                },
+                "startMinute": 14,
+                "class": "retelling",
+                "tags":
+                [
+                    "christmas cards"
+                ]
+            },
+            {
+                "episode":
+                {
+                    "key": "s3e91",
+                    "title": "Random Ways And Means"
+                },
+                "startMinute": 9,
+                "class": "inaugural",
+                "tags":
+                [
+                    "christmas cards"
+                ]
+            }
+        ]
+    },
+    {
+        "key": "instead-of-withdrawal-get-cash",
+        "title": "Instead of Withdrawal; Get Cash",
+        "isMeta": false,
+        "elucidation": "the cast won't shut the fuk up about how dumb signage and other public messaging has gotten",
+        "nb":
+        [],
+        "tellings":
+        [
+            {
+                "episode":
+                {
+                    "key": "s6e221",
+                    "title": "Do Da Doobie Bwuddas"
+                },
+                "startMinute": 8,
+                "class": "retelling",
+                "tags":
+                [
+                    "ATMs"
+                ]
+            },
+            {
+                "episode":
+                {
+                    "key": "s1e03",
+                    "title": "Jack Bauer He 24 Big Hit"
+                },
+                "startMinute": 5,
+                "class": "inaugural",
+                "tags":
+                [
+                    "ATMs"
+                ]
+            }
+        ]
+    },
+    {
+        "key": "it-s-time-for-scott-s-lily-pad",
+        "title": "It's Time for Scott's Lily Pad",
+        "isMeta": false,
+        "elucidation": "scott won't shut the fuk up about a frog he saw once",
+        "nb":
+        [],
+        "tellings":
+        [
+            {
+                "episode":
+                {
+                    "key": "s6e221",
+                    "title": "Do Da Doobie Bwuddas"
+                },
+                "startMinute": 1,
+                "class": "retelling",
+                "tags":
+                [
+                    "frogs"
+                ]
+            },
+            {
+                "episode":
+                {
+                    "key": "s3e94",
+                    "title": "Hey Man"
+                },
+                "startMinute": 52,
+                "class": "inaugural",
+                "tags":
+                [
+                    "frogs"
+                ]
+            }
+        ]
+    },
+    {
+        "key": "i-was-attacked-by-them-of-course",
+        "title": "I Was Attacked by Them, Of Course",
+        "isMeta": false,
+        "elucidation": "scott won't shut the fuk up about some frogs he saw when he was a child",
+        "nb":
+        [],
+        "tellings":
+        [
+            {
+                "episode":
+                {
+                    "key": "s3e94",
+                    "title": "Hey Man"
+                },
+                "startMinute": 45,
+                "class": "inaugural",
+                "tags":
+                [
+                    "frogs"
+                ]
+            },
+            {
+                "episode":
+                {
+                    "key": "s6e221",
+                    "title": "Do Da Doobie Bwuddas"
+                },
+                "startMinute": 1,
+                "class": "acknowledgedRetelling",
+                "tags":
+                [
+                    "frogs"
+                ]
+            }
+        ]
+    },
+    {
+        "key": "vip-meet-and-greet-at-the-circus",
+        "isMeta": false,
+        "title": "VIP Meet-and-Greet at the Circus?",
+        "elucidation": "ll won't shut the fuk up about that time she rode an elephant",
+        "nb":
+        [],
+        "tellings":
+        [
+            {
+                "episode":
+                {
+                    "key": "s1e09",
+                    "title": "Christmas Find Out Who Game"
+                },
+                "startMinute": 48,
+                "class": "inaugural",
+                "tags":
+                [
+                    "elephants",
+                    "circuses"
+                ]
+            },
+            {
+                "episode":
+                {
+                    "key": "s6e220",
+                    "title": "Cringe n' Cheugy"
+                },
+                "startMinute": 41,
+                "class": "retelling",
+                "tags":
+                [
+                    "elephants",
+                    "circuses"
+                ]
+            }
+        ]
+    },
+    {
         "key": "if-i-could-get-a-pink-car-i-d-get-a-pink-car",
         "isMeta": false,
         "title": "If I Could Get a Pink Car I'd Get a Pink Car",
@@ -265,14 +534,27 @@
         ]
     },
     {
-        "key": "she-just-is-and-old-maid",
+        "key": "she-just-is-an-old-maid",
         "isMeta": false,
-        "title": "She Just *Is* and Old Maid",
+        "title": "She Just *is* an Old Maid",
         "elucidation": "scott can never shut the fuk up with his misremembering of It's a Wonderful Life",
         "nb":
         [],
         "tellings":
         [
+            {
+                "episode":
+                {
+                    "key": "s6e221",
+                    "title": "Do Da Doobie Bwuddas"
+                },
+                "startMinute": 33,
+                "class": "retelling",
+                "tags":
+                [
+                    "it's a wonderful life (film)"
+                ]
+            },
             {
                 "episode":
                 {
@@ -2465,6 +2747,20 @@
             {
                 "episode":
                 {
+                    "key": "s6e223",
+                    "title": "Skibidi Toilet, Of Course"
+                },
+                "startMinute": 4,
+                "class": "invertedPremise",
+                "nb": "having to say the word 'sex' while having sex",
+                "tags":
+                [
+                    "sex"
+                ]
+            },
+            {
+                "episode":
+                {
                     "key": "s6eTHREEMIUM15",
                     "title": "Threemium #15"
                 },
@@ -2474,9 +2770,12 @@
                 "tags":
                 [
                     "american pie (song)",
-                    "don mclean","weddings","in-laws"
+                    "don mclean",
+                    "weddings",
+                    "in-laws"
                 ]
-            },{
+            },
+            {
                 "episode":
                 {
                     "key": "s6eTHREEMIUM13",
@@ -11448,7 +11747,8 @@
                 [
                     "presidential physical fitness test"
                 ]
-            },{
+            },
+            {
                 "episode":
                 {
                     "key": "s1e2",
@@ -12293,7 +12593,8 @@
                     "disc jockeys",
                     "DJ Z-Trip"
                 ]
-            },{
+            },
+            {
                 "episode":
                 {
                     "key": "s5e165",
