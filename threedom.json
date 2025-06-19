@@ -1,5 +1,62 @@
 [
     {
+        "key": "can-you-get-it-to-say-sex-stuff",
+        "title": "Can You Get it to Say Sex Stuff?",
+        "isMeta": false,
+        "elucidation": "ll can't shut the fuk up about her time with smarterchild",
+        "nb":
+        [],
+        "tellings":
+        [
+            {
+                "episode":
+                {
+                    "key": "s4e134",
+                    "title": "Simp Lee Marvelous"
+                },
+                "startMinute": 53,
+                "class": "inaugural",
+                "tags":
+                [
+                    "smarterchild",
+                    "artificial intelligence"
+                ]
+            },
+            {
+                "episode":
+                {
+                    "key": "s6e257",
+                    "title": "Who Let the Dogs Out? Us! Us! Us! Us!"
+                },
+                "startMinute": 41,
+                "class": "inaugural",
+                "tags":
+                [
+                    "smarterchild",
+                    "artificial intelligence"
+                ]
+            },
+            {
+                "episode":
+                {
+                    "key": "s5e165",
+                    "title": "New Gnome Dropped Who Dis"
+                },
+                "startMinute": 31,
+                "class": "questionedRetelling",
+                "nb":
+                [
+                    "ll used to hit up smarterchild"
+                ],
+                "tags":
+                [
+                    "smarterchild",
+                    "artificial intelligence"
+                ]
+            }
+        ]
+    },
+    {
         "key": "it-s-actually-criminal",
         "title": "It's Actually Criminal",
         "isMeta": false,
@@ -3176,24 +3233,6 @@
                 [
                     "pregnancies",
                     "weddings"
-                ]
-            },
-            {
-                "episode":
-                {
-                    "key": "s5e165",
-                    "title": "New Gnome Dropped Who Dis"
-                },
-                "startMinute": 31,
-                "class": "invertedPremise",
-                "nb":
-                [
-                    "ll used to hit up smarterchild"
-                ],
-                "tags":
-                [
-                    "smarterchild",
-                    "artificial intelligence"
                 ]
             },
             {

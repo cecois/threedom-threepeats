@@ -8,7 +8,7 @@ const COLORETTE = require("colorette"),
 	dirs = {
 		transcripts: "./transcripts/",
 	},
-	authorityRSS =
+	// authorityRSS = 'http://localhost:8000/threedomrss.xml'
 		"http://cbbworld.memberfulcontent.com/rss/10688?auth=Mkxahs2wDAseAm7HkYpggDiU",
 	authorityLOC = require("./threedom-episode-authority.json");
 
