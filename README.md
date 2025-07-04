@@ -1,2 +1,2 @@
 # threedom-threepeats
-repeat story tracker for Threedom
+Threedom (podcast) fansite - repeat story tracker and visualizer
