@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "dependencies": {
+    "colorette": "^2.0.19",
+    "exiftool-vendored": "^28.2.1",
+    "fuse.js": "^6.6.2",
+    "minimist": "^1.2.7",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "axios": "^1.10.0",
+    "corpus_tools": "^1.0.0",
+    "elasticsearch": "^16.7.3",
+    "fastest-levenshtein": "^1.0.16",
+    "fs-ndjson": "^1.1.0",
+    "luxon": "^3.6.1",
+    "rss-parser": "^3.13.0",
+    "underscore": "^1.13.6"
+  }
+}
