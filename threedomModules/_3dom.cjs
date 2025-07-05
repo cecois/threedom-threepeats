@@ -1,13 +1,12 @@
-const TELLS = require("../threedom.json"),AXIOS=require('axios'),
+const TELLS = require("../threedom.json"),
+	AXIOS = require("axios"),
 	authorityRSS =
 		"http://cbbworld.memberfulcontent.com/rss/10688?auth=Mkxahs2wDAseAm7HkYpggDiU",
 	authorityLOC = require("../reference/threedom-episode-authority.json"),
 	Parser = require("rss-parser"),
 	parser = new Parser({
 		headers: { Accept: "application/rss+xml, text/xml; q=0.1" },
-	})
-	;
-
+	});
 module.exports = {
 	/*
                         dP oo   dP
@@ -81,55 +80,51 @@ _/ ____\__| ____    __| _/
                \/      \/
 */
 
-	find: async (Q) => {
+	find: async (Q, T) => {
 		/*
 QuEriEs trAnScRipts FOr LiterAL ${q} vaLUe
 */
 
 		const FS = require("fs"),
 			Fuse = require("fuse.js"),
-			{ distance, closest } = require("fastest-levenshtein"),
-			dirs = {
-				transcripts: "./transcripts/",
-			}
-			
-			axio3=await AXIOS.get(authorityRSS,{proxy:false});
-			console.log("axio3", axio3);
-			threedomFeed = await parser.parseURL(authorityRSS) // pull the official meta
-			console.log("threedomFeed", threedomFeed);
-			;
-			process.exit();
+			{ distance, closest } = require("fastest-levenshtein");
 
-		const getepisodeMeta = async (transcriptFilename) => {
+		// axio3=await AXIOS.get(authorityRSS,{proxy:false});
+		threedomFeed = await parser.parseURL(authorityRSS); // pull the official meta
+
+		const getepisodeMeta = (transcriptFilename) => {
 			const regExTranscript1 = new RegExp(".srt", "i"),
 				regExTranscript2 = new RegExp("_", "g"),
 				regExTranscript3 = new RegExp("\\t", "g"),
 				regExTranscript4 = new RegExp("\\n", "g");
 
-			let transcriptFileNameClean = transcriptFilename
+			const transcriptFileNameClean = transcriptFilename
 				.replace(regExTranscript1, "")
 				.replace(regExTranscript2, " ");
 
 			// let allTitles = __.pluck(threedomFeed.items, "title");
-			let allTitles = threedomFeed.items.map((f) => "title");
-			console.log("allTitles", allTitles);
-			let authorityMatch = closest(transcriptFileNameClean, allTitles);
+			const allTitles = threedomFeed.items.map((f) => f.title);
+			const authorityMatch = closest(transcriptFileNameClean, allTitles);
 			// let aeo = __.findWhere(threedomFeed.items, { title: authorityMatch });
-			let aeo = threedomFeed.items.find((f) => f.title == authorityMatch);
+			const aeo = threedomFeed.items.find(
+				(f) => f.title == authorityMatch,
+			);
 
-			let authoritySupplement = closest(
+			const authoritySupplement = closest(
 				transcriptFileNameClean,
 				// __.pluck(authorityLOC, "itTitle")
-				authorityLOC.map((l) => "itTitle"),
+				authorityLOC.map((l) => l.itTitle),
 			);
 			// let aes = __.findWhere(authorityLOC, { itTitle: authoritySupplement });
-			let aes = authorityLOC((f) => f.itTitle == authoritySupplement);
+			const aes = authorityLOC.find(
+				(a) => a.itTitle == authoritySupplement,
+			);
 
-			let handle = aeo.itunes.season
+			const handle = aeo.itunes.season
 				? `s${aeo.itunes.season}e${aeo.itunes.episode}`
 				: `s${parseInt(aes.itSeason)}e${aes.itEpisode}`;
 
-			let authorityEpisode = aeo
+			const authorityEpisode = aeo
 				? {
 						title: aeo.title
 							.replace(regExTranscript3, "")
@@ -145,16 +140,16 @@ QuEriEs trAnScRipts FOr LiterAL ${q} vaLUe
 			};
 		}; //getepisodeMeta
 
-		const transcriptFiles = FS.readdirSync(dirs.transcripts),
+		const transcriptFiles = FS.readdirSync("./transcripts").slice(310, 320),
 			regEx = new RegExp(Q, "i");
+
 		let transcriptMatches = [];
 
 		// now we go find matches of Q in the transcripts
-		// __.each(transcriptFiles, (tf) => {
+		// __.each(transcriptFiles, (tf) => a{
 		transcriptFiles.forEach((tf) => {
-			console.log("tf", tf);
 			const transcriptLines = FS.readFileSync(
-				`${dirs.transcripts}${tf}`,
+				`./transcripts/${tf}`,
 				"utf8",
 			)
 				.toString() //out to string
@@ -163,23 +158,23 @@ QuEriEs trAnScRipts FOr LiterAL ${q} vaLUe
 			fuse = new Fuse(transcriptLines, {
 				includeScore: true,
 				includeMatches: false,
-				shouldSort: true,
-				threshold: 0.3,
+				shouldSort: false,
+				threshold: T ? T : 0.2,
 			});
 
-			let matches = fuse.search(Q); //find Q
-			let matchMap = matches.map((m) => {
+			const matches = fuse.search(Q); //find Q
+			const matchMap = matches.map((m) => {
 				m.meta = {
 					time: transcriptLines[m.refIndex - 1],
 					transcript: tf,
 					episode: getepisodeMeta(tf),
+					prevs: [
+						transcriptLines[m.refIndex - 4],
+						transcriptLines[m.refIndex - 8],
+						transcriptLines[m.refIndex - 12],
+						transcriptLines[m.refIndex - 16],
+					],
 					match: transcriptLines[m.refIndex].toUpperCase(),
-					// prevs: [
-					// 	`4.${transcriptLines[m.refIndex - 4]}`,
-					// 	`8.${transcriptLines[m.refIndex - 8]}`,
-					// 	`12.${transcriptLines[m.refIndex - 12]}`,
-					// 	`16.${transcriptLines[m.refIndex - 16]}`,
-					// ],
 					nexts: [
 						transcriptLines[m.refIndex + 4],
 						transcriptLines[m.refIndex + 8],
@@ -195,22 +190,38 @@ QuEriEs trAnScRipts FOr LiterAL ${q} vaLUe
 					: transcriptMatches;
 		}); //__.eachtranscript
 
-		/*
-   ****         ****         ****         ****         ****         ****         ****         ****         ****         ****         ****         ****
-  /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
-		///**/       ///**/       ///**/       ///**/       ///**/       ///**/       ///**/       ///**/       ///**/       ///**/       ///**/       ///**/
-		/**          /**          /**          /**          /**          /**          /**          /**          /**          /**          /**          /**
-  /**          /**          /**          /**          /**          /**          /**          /**          /**          /**          /**          /**
-  /**          /**          /**          /**          /**          /**          /**          /**          /**          /**          /**          /**
-  //           //           //           //           //           //           //           //           //           //           //           //*/
+		// transcriptMatches.forEach((match) => {
+		const transcriptPresentations=transcriptMatches.map((match) => {
+			const st = new Date(
+				`January 22, 1969 ${match.meta.time.split(",")[0]}`,
+			);
+			const startMinute = st.getHours() * 60 + st.getMinutes();
 
-		let f = {
-			in: Q,
-			module: "find",
-			killed: false,
-			payload: transcriptMatches,
-		}; //init f obj
+			const episodePresentation = `${match.meta.episode.episode.title} (${startMinute}+)`;//`{"episode":{"key":"${match.meta.episode.episode.handle}","title":"${match.meta.episode.episode.title}"},"startMinute":${startMinute},"class":null,"tags":[]}`;
 
-		return f;
-	},
+			const matchPresent = `
+${match.meta.prevs.join(" ")} <—======= ${match.meta.match} =======—> ${match.meta.nexts.join(" ")}
+`.replace(new RegExp("\\n", "g"),'');
+
+return {
+	// st:st,
+	// startMinute:startMinute,
+	episodePresentation:episodePresentation,f:'+++++',matchPresent:matchPresent,p:'-----',uri:`${match.meta.episode.episode.url}#t=${match.meta.time.split(",")[0]}`
+};
+			// console.log(matchPresent.trim());
+		});
+
+		// let f = {
+		// 			in: Q,
+		// 			module: "find",
+		// 			killed: false,
+		// 			payload: transcriptMatches,
+		// 		}; //init f obj
+
+		// console.log("f", f);
+		// return new Promise(function(resolve, reject) {resolve(f)}); //promise
+		// console.info(JSON.stringify(f));
+		console.info(JSON.stringify(transcriptPresentations));
+		process.exit();
+	}, //find
 }; //exports

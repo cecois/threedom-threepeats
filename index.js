@@ -19,20 +19,27 @@ const LUXON = DateTime, //alias DateTime
 import E from "./threedomModules/_end.cjs";
 
 //CmON This is SupPoseD TO be a dUMb, EASy ThiNg
-Object.keys(ARG).length > 2 && _CLAXON.error("1 thing at a time, plz");
-Object.keys(ARG).length > 2 && E.end(exec);
+// Object.keys(ARG).length > 2 && _CLAXON.error("1 thing at a time, plz");
+// Object.keys(ARG).length > 2 && E.end(exec);
 
 import _3DOM from "./threedomModules/_3dom.cjs"; //EveRyThinG ELse, basicAlly
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 const _I = async () => {
-	let r = null;
-	r = ARG.a || ARG.audit ? _3DOM.audit() : r;
-	r = ARG.q ? _3DOM.find(ARG.q) : r;
-	r = ARG.query ? _3DOM.find(ARG.query) : r;
+	// let r = null;
+	// r = ARG.a || ARG.audit ? _3DOM.audit() : r;
+	// r = ARG.q ? _3DOM.find(ARG.q) : r;
+	// r = ARG.query ? await _3DOM.find(ARG.query) : r;
 
-	console.info(JSON.stringify(r));
-	!r.killed && exec("open raycast://confetti", (resp) => resp);
+const q=ARG.query?ARG.query:ARG.q;
+const t=ARG.treshold?ARG.treshold:ARG.t;
+	q && _3DOM.find(q,t);
+
+	// (!ARG.q && !ARG.query) && console.info(JSON.stringify(r));
+	// (ARG.q || ARG.query) && console.info(JSON.stringify(r));
+	// console.info(JSON.stringify(r));
+	// !r.killed && exec("open raycast://confetti", (resp) => resp);
+	// exec("open raycast://confetti", (resp) => resp);
 }; //_i
 _I();

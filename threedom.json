@@ -18,7 +18,8 @@
                 "class": "retelling",
                 "tags":
                 [
-                    "anesthesia","george clooney"
+                    "anesthesia",
+                    "george clooney"
                 ]
             },
             {
@@ -31,7 +32,8 @@
                 "class": "inaugural",
                 "tags":
                 [
-                    "anesthesia","george clooney"
+                    "anesthesia",
+                    "george clooney"
                 ]
             }
         ]
@@ -114,7 +116,7 @@
         "key": "i-don-t-go-to-trucks-honey",
         "title": "I Don't Go to Trucks, Honey",
         "isMeta": false,
-        "elucidation": "scott won't shut the fuck up about package tracking",
+        "elucidation": "scott won't shut the fuk up about package tracking",
         "nb":
         [],
         "tellings":
@@ -129,7 +131,8 @@
                 "class": "acknowledgedRetelling",
                 "tags":
                 [
-                    "amazon (company)","butt plugs"
+                    "amazon (company)",
+                    "butt plugs"
                 ]
             },
             {
@@ -142,7 +145,8 @@
                 "class": "inaugural",
                 "tags":
                 [
-                    "amazon (company)","butt plugs"
+                    "amazon (company)",
+                    "butt plugs"
                 ]
             }
         ]
@@ -2960,7 +2964,8 @@
                 "nb": "pft's chicken-and-rice burrito order",
                 "tags":
                 [
-                    "burritos","store regulars"
+                    "burritos",
+                    "store regulars"
                 ]
             },
             {
@@ -18140,6 +18145,20 @@
         [],
         "tellings":
         [
+            {
+                "episode":
+                {
+                    "key": "s6e259",
+                    "title": "T-1000 Run So Fast"
+                },
+                "startMinute": 12,
+                "class": "retelling",
+                "tags":
+                [
+                    "proctology",
+                    "anuses"
+                ]
+            },
             {
                 "episode":
                 {
