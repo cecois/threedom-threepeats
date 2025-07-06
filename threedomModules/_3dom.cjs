@@ -8,6 +8,163 @@ const TELLS = require("../threedom.json"),
 		headers: { Accept: "application/rss+xml, text/xml; q=0.1" },
 	});
 module.exports = {
+
+/*
+ _________  __________ ____      ____       __________
+/__     __\/   /_____//   /_____/   /_____ /_________/
+`%%|___|%%'\___\%%%%%'\___\_____\___\_____\`%%%%%%%%%/
+    `B'     `BBBBBBBB' `BBBBBBBB'`BBBBBBBB'`BBBBBBBB'
+    */
+
+	tells: async () => {
+		const ELASTIC = require("elasticsearch"),
+    __ = require("underscore"),
+    FSND = require("fs-ndjson"),
+    client = new ELASTIC.Client({
+        host: "milleria.org:9200",
+        requestTimeout: Infinity,
+    });
+
+    // const tellings = require(`threedom.json`).map((te) => {
+    const tellings = TELLS.map(te => {
+        te.tellingsLength = te.tellings.length;
+        return te;
+    });
+
+    // clear current index
+    let del = await client.deleteByQuery({
+        index: "threepeats",
+        q: "*:*",
+    });
+
+    // mAP ThE sEt tO fNDjsoN
+    // let mapd = __.map(tellings, (u) => {
+    const mapd = tellings.map(u => {
+        const no = [
+            {
+                index: {},
+            },
+            u,
+        ];
+        return no;
+    }); //map
+
+    let prefixes = [];
+
+    for (var i = mapd.length - 1; i >= 0; i--) {
+        prefixes.push({
+            index: {},
+        });
+    }
+
+    // ziP The PReFIX inDEX iNtO ThE MApD
+    const mapz = __.zip(
+        __.map(prefixes, (p) => {
+            return p[0];
+        }),
+        mapd
+    );
+
+    let esResponse = await client.bulk(
+        {
+            index: "threepeats",
+            type: "_doc",
+            body: __.compact(__.flatten(mapz)),
+        },
+        {
+            ignore: [404],
+            maxRetries: 3,
+        }
+    ); //client.bulk
+
+console.info({
+	took:esResponse.took
+	,errors:esResponse.errors
+	,msg:`${esResponse.items.length} indexed`
+});
+
+	},//tells
+	
+
+/*
+ _       _____  ______  _______  ______
+| |       | |  / |        | |   / |
+| |   _   | |  '------.   | |   '------.
+|_|__|_| _|_|_  ____|_/   |_|    ____|_/
+*/
+
+	lists: async () => {
+		const ELASTIC = require("elasticsearch"),
+    __ = require("underscore"),
+    FSND = require("fs-ndjson"),
+    client = new ELASTIC.Client({
+        host: "milleria.org:9200",
+        requestTimeout: Infinity,
+    })
+    LISTITEMS=require("../threedom-lists.json");
+    ;
+
+    // const tellings = require(`threedom.json`).map((te) => {
+    const listItems = LISTITEMS.map(te => {
+        te.listItemsLength = te.listItems.length;
+        return te;
+    });
+
+    // clear current index
+    let del = await client.deleteByQuery({
+        index: "threepeats-lists",
+        q: "*:*",
+    });
+
+    // mAP ThE sEt tO fNDjsoN
+    const mapd = listItems.map(u => {
+        const no = [
+            {
+                index: {},
+            },
+            u,
+        ];
+        return no;
+    }); //map
+
+    let prefixes = [];
+
+    for (var i = mapd.length - 1; i >= 0; i--) {
+        prefixes.push({
+            index: {},
+        });
+    }
+
+    // ziP The PReFIX inDEX iNtO ThE MApD
+    const mapz = __.zip(
+        __.map(prefixes, (p) => {
+            return p[0];
+        }),
+        mapd
+    );
+
+    
+    let esResponse = await client.bulk(
+        {
+            index: "threepeats-lists",
+            type: "_doc",
+            body: __.compact(__.flatten(mapz)),
+        },
+        {
+            ignore: [404],
+            maxRetries: 3,
+        }
+    ); //client.bulk
+
+console.info({
+	took:esResponse.took
+	,errors:esResponse.errors
+	,msg:`${esResponse.items.length} indexed`
+});
+
+	},//lists
+
+
 	/*
                         dP oo   dP
                         88      88
@@ -102,20 +259,16 @@ QuEriEs trAnScRipts FOr LiterAL ${q} vaLUe
 				.replace(regExTranscript1, "")
 				.replace(regExTranscript2, " ");
 
-			// let allTitles = __.pluck(threedomFeed.items, "title");
 			const allTitles = threedomFeed.items.map((f) => f.title);
 			const authorityMatch = closest(transcriptFileNameClean, allTitles);
-			// let aeo = __.findWhere(threedomFeed.items, { title: authorityMatch });
 			const aeo = threedomFeed.items.find(
 				(f) => f.title == authorityMatch,
 			);
 
 			const authoritySupplement = closest(
 				transcriptFileNameClean,
-				// __.pluck(authorityLOC, "itTitle")
 				authorityLOC.map((l) => l.itTitle),
 			);
-			// let aes = __.findWhere(authorityLOC, { itTitle: authoritySupplement });
 			const aes = authorityLOC.find(
 				(a) => a.itTitle == authoritySupplement,
 			);
@@ -140,13 +293,13 @@ QuEriEs trAnScRipts FOr LiterAL ${q} vaLUe
 			};
 		}; //getepisodeMeta
 
-		const transcriptFiles = FS.readdirSync("./transcripts").slice(310, 320),
+		const transcriptFiles = FS.readdirSync("./transcripts"),
+			//.slice(310, 320)
 			regEx = new RegExp(Q, "i");
 
 		let transcriptMatches = [];
 
 		// now we go find matches of Q in the transcripts
-		// __.each(transcriptFiles, (tf) => a{
 		transcriptFiles.forEach((tf) => {
 			const transcriptLines = FS.readFileSync(
 				`./transcripts/${tf}`,
@@ -190,37 +343,27 @@ QuEriEs trAnScRipts FOr LiterAL ${q} vaLUe
 					: transcriptMatches;
 		}); //__.eachtranscript
 
-		// transcriptMatches.forEach((match) => {
-		const transcriptPresentations=transcriptMatches.map((match) => {
+		const transcriptPresentations = transcriptMatches.map((match) => {
 			const st = new Date(
 				`January 22, 1969 ${match.meta.time.split(",")[0]}`,
 			);
 			const startMinute = st.getHours() * 60 + st.getMinutes();
 
-			const episodePresentation = `${match.meta.episode.episode.title} (${startMinute}+)`;//`{"episode":{"key":"${match.meta.episode.episode.handle}","title":"${match.meta.episode.episode.title}"},"startMinute":${startMinute},"class":null,"tags":[]}`;
+			const episodePresentation = `${match.meta.episode.episode.title} (${startMinute}+)`;
 
 			const matchPresent = `
 ${match.meta.prevs.join(" ")} <—======= ${match.meta.match} =======—> ${match.meta.nexts.join(" ")}
-`.replace(new RegExp("\\n", "g"),'');
+`.replace(new RegExp("\\n", "g"), "");
 
-return {
-	// st:st,
-	// startMinute:startMinute,
-	episodePresentation:episodePresentation,f:'+++++',matchPresent:matchPresent,p:'-----',uri:`${match.meta.episode.episode.url}#t=${match.meta.time.split(",")[0]}`
-};
-			// console.log(matchPresent.trim());
+			return {
+				episodePresentation: episodePresentation,
+				f: "+++++",
+				matchPresent: matchPresent,
+				p: "-----",
+				uri: `${match.meta.episode.episode.url}#t=${match.meta.time.split(",")[0]}`,
+			};
 		});
 
-		// let f = {
-		// 			in: Q,
-		// 			module: "find",
-		// 			killed: false,
-		// 			payload: transcriptMatches,
-		// 		}; //init f obj
-
-		// console.log("f", f);
-		// return new Promise(function(resolve, reject) {resolve(f)}); //promise
-		// console.info(JSON.stringify(f));
 		console.info(JSON.stringify(transcriptPresentations));
 		process.exit();
 	}, //find

@@ -1,8 +1,3 @@
-// AuDit dEfinITIvES
-// FInD in TranSCRIPt
-// SEnd TElls
-// sEnD LiSTS
-
 import MINIMIST from "minimist"; //flaGS
 const ARG = MINIMIST(process.argv.slice(2)); //FlaGS
 
@@ -32,9 +27,13 @@ const _I = async () => {
 	// r = ARG.q ? _3DOM.find(ARG.q) : r;
 	// r = ARG.query ? await _3DOM.find(ARG.query) : r;
 
-const q=ARG.query?ARG.query:ARG.q;
-const t=ARG.treshold?ARG.treshold:ARG.t;
-	q && _3DOM.find(q,t);
+const _q=ARG.query?ARG.query:ARG.q;
+const _t=ARG.treshold?ARG.treshold:ARG.t;
+const _e=ARG.elastic?ARG.elastic:ARG.e;
+const _l=ARG.lists?ARG.lists:ARG.l;
+	_q && _3DOM.find(_q,_t);
+	_e && _3DOM.tells();
+	_l && _3DOM.lists();
 
 	// (!ARG.q && !ARG.query) && console.info(JSON.stringify(r));
 	// (ARG.q || ARG.query) && console.info(JSON.stringify(r));
